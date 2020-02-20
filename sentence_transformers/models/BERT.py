@@ -1,5 +1,5 @@
 from torch import nn
-from transformers import BertModel, BertTokenizer
+from transformers import BertModel, BertTokenizer, BertJapaneseTokenizer
 import json
 from typing import List
 import os
@@ -22,7 +22,7 @@ class BERT(nn.Module):
         self.max_seq_length = max_seq_length
 
         self.bert = BertModel.from_pretrained(model_name_or_path)
-        self.tokenizer = BertTokenizer.from_pretrained(model_name_or_path, do_lower_case=do_lower_case)
+        self.tokenizer = BertJapaneseTokenizer.from_pretrained(model_name_or_path, do_lower_case=do_lower_case)
         self.cls_token_id = self.tokenizer.convert_tokens_to_ids([self.tokenizer.cls_token])[0]
         self.sep_token_id = self.tokenizer.convert_tokens_to_ids([self.tokenizer.sep_token])[0]
 
