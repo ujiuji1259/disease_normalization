@@ -43,13 +43,14 @@ target = np.array(model.encode(test_x))
 with open('normal_vec.pkl', 'rb') as f:
     normal_list = pickle.load(f)
 
-word, sim = most_similar_words(target, normal_list)
+word, sim = most_similar_words(target, normal_list, metric='euclid')
 normal_set = np.array(normal_set)
 
 res = ["出現形\t正解\t予測"]
 for origin, normal, test in zip(test_x, normal_set[word], test_normal):
     res.append("\t".join([origin, test, normal]))
-with open('result.txt', 'w') as f:
+
+with open('result/cosine_result.txt', 'w') as f:
     f.write('\n'.join(res))
 
 
