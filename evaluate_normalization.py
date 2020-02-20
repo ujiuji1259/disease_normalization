@@ -42,9 +42,9 @@ target = np.array(model.encode(test_x))
 word, sim = most_similar_words(target, normal_list)
 normal_set = np.array(normal_set)
 
-res = []
-for normal, test in zip(normal_set[word], test_normal):
-    res.append("\t".join([normal, test]))
+res = ["出現形\t正解\t予測"]
+for origin, normal, test in zip(test_x, normal_set[word], test_normal):
+    res.append("\t".join([origin, test, normal]))
 with open('result.txt', 'w') as f:
     f.write('\n'.join(res))
 
