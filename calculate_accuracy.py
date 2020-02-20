@@ -1,4 +1,4 @@
-with open('result/result.txt', 'r') as f:
+with open('result/euclid_result.txt', 'r') as f:
     lines = [line for line in f.read().split('\n') if line != '']
 
 pos = 0
@@ -15,7 +15,7 @@ for line in lines:
         negative_example.append(line)
 
 print(pos/(pos+neg))
-with open('result/true_example.txt', 'w') as f:
+with open('result/euclid_true_example.txt', 'w') as f:
     f.write('\n'.join(positive_example))
-with open('result/false_example.txt', 'w') as f:
+with open('result/euclid_false_example.txt', 'w') as f:
     f.write('\n'.join(negative_example))
