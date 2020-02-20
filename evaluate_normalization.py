@@ -37,11 +37,11 @@ output_path = "output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-
 model = SentenceTransformer(output_path)
 normal_set = list(load_normal_disease_set())
 test_x, test_normal = load_test_data('datasets/test.txt')
-#normal_list = np.array(model.encode(normal_set))
+normal_list = np.array(model.encode(normal_set))
 target = np.array(model.encode(test_x))
 
-with open('normal_vec.pkl', 'rb') as f:
-    normal_list = pickle.load(f)
+#with open('normal_vec.pkl', 'rb') as f:
+#    normal_list = pickle.load(f)
 
 word, sim = most_similar_words(target, normal_list, metric='cosine')
 normal_set = np.array(normal_set)
