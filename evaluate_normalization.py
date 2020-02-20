@@ -43,7 +43,7 @@ target = np.array(model.encode(test_x))
 with open('normal_vec.pkl', 'rb') as f:
     normal_list = pickle.load(f)
 
-word, sim = most_similar_words(target, normal_list, metric='euclid')
+word, sim = most_similar_words(target, normal_list, metric='cosine')
 normal_set = np.array(normal_set)
 
 res = ["出現形\t正解\t予測"]
