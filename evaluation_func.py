@@ -31,7 +31,7 @@ def most_similar_words(targets, normal_list, metric='euclid', k=1):
         targets /= norm_target
         normal_list /= norm_normal_list
         sim = normal_list @ targets.T
-        idx = np.argmax(sim, axis=0)
+        idx = np.argsort(sim, axis=0).reshape(-1)[::-1][:k]
         return idx, sim[idx, :]
     elif metric == 'euclid':
         idx = 1000
