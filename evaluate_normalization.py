@@ -34,26 +34,67 @@ output_path = "output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-
 #
 ##############################################################################
 
-#model = SentenceTransformer(output_path)
-normal_set = list(load_normal_disease_set())
-test_x, test_normal = load_test_data('datasets/test.txt')
-#normal_list = np.array(model.encode(normal_set))
-#target = np.array(model.encode(test_x))
+def evaluate_BERT():
+    normal_set = list(load_normal_disease_set())
+    test_x, test_normal = load_test_data('datasets/test.txt')
+    word_embedding_model = models.BERT('bert-base-japanese-char')
+
+    # Apply mean pooling to get one fixed sized sentence vector
+    pooling_model = models.Pooling(word_embedding_model.get_word_embedding_dimension(),
+                                   pooling_mode_mean_tokens=True,
+                                   pooling_mode_cls_token=False,
+                                   pooling_mode_max_tokens=False)
+
+    model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
+
+    normal_list = np.array(model.encode(normal_set))
+    target = np.array(model.encode(test_x))
+
+    word, sim = most_similar_words(target, normal_list, metric='cosine')
+    normal_set = np.array(normal_set)
+
+    res = ["出現形\t正解\t予測"]
+    for origin, normal, test in zip(test_x, normal_set[word], test_normal):
+        res.append("\t".join([origin, test, normal]))
+
+    with open('result/BERT_result.txt', 'w') as f:
+        f.write('\n'.join(res))
+
+def evaluate_SBERT():
+    normal_set = list(load_normal_disease_set())
+    test_x, test_normal = load_test_data('datasets/test.txt')
+    model = SentenceTransformer(output_path)
+    normal_list = np.array(model.encode(normal_set))
+    target = np.array(model.encode(test_x))
+
+    word, sim = most_similar_words(target, normal_list, metric='cosine')
+    normal_set = np.array(normal_set)
+
+    res = ["出現形\t正解\t予測"]
+    for origin, normal, test in zip(test_x, normal_set[word], test_normal):
+        res.append("\t".join([origin, test, normal]))
+
+    with open('result/SBERT_result.txt', 'w') as f:
+        f.write('\n'.join(res))
+
+def evaluate_edit_distance():
+    normal_set = list(load_normal_disease_set())
+    test_x, test_normal = load_test_data('datasets/test.txt')
+    word = most_similar_words_edit_distance(test_x, normal_set)
+
+    res = ["出現形\t正解\t予測"]
+    for origin, normal, test in zip(test_x, word, test_normal):
+        res.append("\t".join([origin, test, normal]))
+
+    with open('result/edit_distance_result.txt', 'w') as f:
+        f.write('\n'.join(res))
+
+evaluate_BERT()
 
 #with open('normal_vocab.pkl', 'wb') as f:
 #    pickle.dump({'vocab':normal_set, 'vec':normal_list}, f)
 
-#word, sim = most_similar_words(target, normal_list, metric='euclid')
-#normal_set = np.array(normal_set)
 
-word = most_similar_words_edit_distance(test_x, normal_set)
 
-res = ["出現形\t正解\t予測"]
-#for origin, normal, test in zip(test_x, normal_set[word], test_normal):
-for origin, normal, test in zip(test_x, word, test_normal):
-    res.append("\t".join([origin, test, normal]))
-
-with open('result/edit_distance_result.txt', 'w') as f:
-    f.write('\n'.join(res))
 
 
