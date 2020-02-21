@@ -1,4 +1,5 @@
 import numpy as np
+import Levenshtein
 from tqdm import tqdm
 
 def load_normal_disease_set():
@@ -8,14 +9,29 @@ def load_normal_disease_set():
     normal = set(lines)
     return normal
 
-def most_similar_words(targets, normal_list, metric='euclid'):
+def most_similar_words_edit_distance(targets, normal_list, k=1):
+    res = []
+    for t in tqdm(targets):
+        sim = []
+        for token in normal_list:
+            dist = Levenshtein.distance(t, token)
+            dist = 1 - 2 * dist / (len(t) + len(token))
+            sim.append(dist)
+
+        sim = np.array(sim)
+        rank = np.argsort(sim)[::-1][0]
+        res.append(normal_list[rank])
+    return res  
+
+
+def most_similar_words(targets, normal_list, metric='euclid', k=1):
     if metric == 'cosine':
         norm_target = np.linalg.norm(targets, ord=2, axis=1)[:, np.newaxis]
         norm_normal_list = np.linalg.norm(normal_list, ord=2, axis=1)[:, np.newaxis]
         targets /= norm_target
         normal_list /= norm_normal_list
         sim = normal_list @ targets.T
-        idx = np.argmax(sim, axis=0)
+        idx = np.argsort(sim, axis=0).reshape(-1)[::-1][:k]
         return idx, sim[idx, :]
     elif metric == 'euclid':
         idx = 1000

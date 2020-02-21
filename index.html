@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% block script %}{% endblock %}
+
+{% block body %}
+<html>
+    <head>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    </head>
+
+    <body>
+        <form method="POST">
+            <textarea class="form-control" id="exampleFormControlTextarea1" rows="1" name="text"></textarea>
+            <div class="radio">
+                <label><input type="radio" name="type" value="edit">編集距離</label>
+            </div>
+            <div class="radio">
+                <label><input type="radio" name="type" value="bert">BERT</label>
+            </div>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="button1">検索</button>
+        </form>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">標準病名</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for l in normal %}
+                    <tr>
+                        <th scope="col">{{l}}</th>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </body>
+</html>
+{% endblock %}
