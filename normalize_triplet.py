@@ -17,6 +17,9 @@ from datetime import datetime
 import csv
 import logging
 
+import os
+os.environ['CUDA_DEVICE_ORDER'] = "PCI_BUS_ID"
+os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
 
 logging.basicConfig(format='%(asctime)s - %(message)s',
@@ -29,7 +32,7 @@ logging.basicConfig(format='%(asctime)s - %(message)s',
 ### Create a torch.DataLoader that passes training batch instances to our model
 train_batch_size = 16
 triplet_reader = TripletReader('datasets', s1_col_idx=0, s2_col_idx=1, s3_col_idx=2, delimiter='\t', quoting=csv.QUOTE_NONE, has_header=False)
-output_path = "output/bert-base-wikipedia-sections-mean-tokens-"+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+output_path = "output/bert-base-alphabet-augment-mean-tokens-"+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 num_epochs = 1
 
 
@@ -47,7 +50,7 @@ model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
 
 
 logging.info("Read Triplet train dataset")
-train_data = SentencesDataset(examples=triplet_reader.get_examples('train.txt'), model=model)
+train_data = SentencesDataset(examples=triplet_reader.get_examples('train_augmented.txt'), model=model)
 train_dataloader = DataLoader(train_data, shuffle=True, batch_size=train_batch_size)
 train_loss = losses.TripletLoss(model=model)
 

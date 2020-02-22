@@ -26,7 +26,8 @@ logging.basicConfig(format='%(asctime)s - %(message)s',
                     level=logging.INFO,
                     handlers=[LoggingHandler()])
 
-output_path = "output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44"
+#output_path = "output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44"
+output_path = "output/bert-base-alphabet-augment-mean-tokens-2020-02-22_13-23-58"
 
 ##############################################################################
 #
@@ -74,7 +75,7 @@ def evaluate_SBERT():
     for origin, normal, test in zip(test_x, normal_set[word], test_normal):
         res.append("\t".join([origin, test, normal]))
 
-    with open('result/SBERT_result.txt', 'w') as f:
+    with open('result/SBERT_aug_alphabet_result.txt', 'w') as f:
         f.write('\n'.join(res))
 
 def evaluate_edit_distance():
@@ -89,7 +90,7 @@ def evaluate_edit_distance():
     with open('result/edit_distance_result.txt', 'w') as f:
         f.write('\n'.join(res))
 
-evaluate_BERT()
+evaluate_SBERT()
 
 #with open('normal_vocab.pkl', 'wb') as f:
 #    pickle.dump({'vocab':normal_set, 'vec':normal_list}, f)

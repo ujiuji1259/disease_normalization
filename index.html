@@ -11,31 +11,37 @@
 
     <body>
         <form method="POST">
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="1" name="text"></textarea>
-            <div class="radio">
-                <label><input type="radio" name="type" value="edit">編集距離</label>
+            <div class="input-group col-6 mt-5">
+                <input type="text" class="form-control" name="text" placeholder="標準病名検索">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="button1">検索</button>
             </div>
-            <div class="radio">
+            <div class="form-group mt-1 ml-3">
+                <label><input type="radio" name="type" value="edit">編集距離</label>
                 <label><input type="radio" name="type" value="bert">BERT</label>
             </div>
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit" id="button1">検索</button>
         </form>
 
-        <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <th scope="col">標準病名</th>
-                </tr>
-            </thead>
+        <div class="row">
+            <div class="col-6">
+                <table class="table table-bordered ml-3">
+                    <thead>
+                        <tr>
+                            <th width="10%">類似度</td>
+                            <th width="90%">標準病名</td>
+                        </tr>
+                    </thead>
 
-            <tbody>
-                {% for l in normal %}
-                    <tr>
-                        <th scope="col">{{l}}</th>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+                    <tbody>
+                        {% for l,s in normal %}
+                            <tr>
+                                <td>{{s}}</td>
+                                <td>{{l}}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </body>
 </html>
 {% endblock %}

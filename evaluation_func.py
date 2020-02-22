@@ -32,7 +32,7 @@ def most_similar_words(targets, normal_list, metric='euclid', k=1):
         normal_list /= norm_normal_list
         sim = normal_list @ targets.T
         idx = np.argsort(sim, axis=0).reshape(-1)[::-1][:k]
-        return idx, sim[idx, :]
+        return idx, sim[idx, :].reshape(-1)
     elif metric == 'euclid':
         idx = 1000
         dist = normal_list[:idx] - targets[:, np.newaxis]
@@ -42,7 +42,7 @@ def most_similar_words(targets, normal_list, metric='euclid', k=1):
             sim = np.hstack([sim, np.linalg.norm(dist, ord=2, axis=2)])
 
         idx = np.argmin(sim, axis=1)
-        return idx, sim[:, idx]
+        return idx, sim[:, idx].reshape(-1)
 
 
 

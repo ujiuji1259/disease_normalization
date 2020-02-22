@@ -18,13 +18,13 @@ def topk_word_edit_distance(target, words):
     sim = np.array(sim)
     words = np.array(words)
     topk = np.argsort(sim)[::-1]
-    return words[topk[:10]]
+    return words[topk[:10]], sim[topk[:10]]
 
 def topk_word_bert(target, words, vecs):
     target = model.encode([target])[0][np.newaxis, :]
     word, sim = most_similar_words(target, vecs, metric='cosine', k=10)
     words = np.array(words)
-    return words[word]
+    return words[word], sim
 
 @app.route('/', methods=['GET', 'POST'])
 def IR():
@@ -32,13 +32,14 @@ def IR():
         target = request.form["text"]
         target = target.strip()
         if request.form.get("type") == "edit":
-            l = topk_word_edit_distance(target, normal_vocab)
+            l,s = topk_word_edit_distance(target, normal_vocab)
         else:
-            l = topk_word_bert(target, normal_vocab, normal_vecs)
+            l,s = topk_word_bert(target, normal_vocab, normal_vecs)
     else:
         l = [] 
+        s = []
 
-    return render_template('index.html', normal=l)
+    return render_template('index.html', normal=zip(l, np.round(s, decimals=3)))
 
 if __name__ == "__main__":
     with open('/home/ujiie/disease_normalization/normal_vocab.pkl', 'rb') as f:
