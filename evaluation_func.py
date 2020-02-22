@@ -24,15 +24,18 @@ def most_similar_words_edit_distance(targets, normal_list, k=1):
     return res  
 
 
-def most_similar_words(targets, normal_list, metric='euclid', k=1):
+def most_similar_words(targets, normal_list, metric='euclid', k=None):
     if metric == 'cosine':
         norm_target = np.linalg.norm(targets, ord=2, axis=1)[:, np.newaxis]
         norm_normal_list = np.linalg.norm(normal_list, ord=2, axis=1)[:, np.newaxis]
         targets /= norm_target
         normal_list /= norm_normal_list
         sim = normal_list @ targets.T
-        idx = np.argsort(sim, axis=0).reshape(-1)[::-1][:k]
-        return idx, sim[idx, :].reshape(-1)
+        idx = np.argsort(sim, axis=0).reshape(-1)[::-1]
+        if k is None:
+            return idx
+        else:
+            return idx[:k], sim[idx, :].reshape(-1)[:k]
     elif metric == 'euclid':
         idx = 1000
         dist = normal_list[:idx] - targets[:, np.newaxis]

@@ -51,7 +51,7 @@ def evaluate_BERT():
     normal_list = np.array(model.encode(normal_set))
     target = np.array(model.encode(test_x))
 
-    word, sim = most_similar_words(target, normal_list, metric='cosine')
+    word = most_similar_words(target, normal_list, metric='cosine')
     normal_set = np.array(normal_set)
 
     res = ["出現形\t正解\t予測"]
@@ -68,9 +68,11 @@ def evaluate_SBERT():
     normal_list = np.array(model.encode(normal_set))
     target = np.array(model.encode(test_x))
 
-    word, sim = most_similar_words(target, normal_list, metric='cosine')
+    word = most_similar_words(target, normal_list, metric='cosine')
     normal_set = np.array(normal_set)
 
+    print(normal_set[:10])
+    print(word)
     res = ["出現形\t正解\t予測"]
     for origin, normal, test in zip(test_x, normal_set[word], test_normal):
         res.append("\t".join([origin, test, normal]))
