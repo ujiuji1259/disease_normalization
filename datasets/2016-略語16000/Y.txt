@@ -1,0 +1,31 @@
+Ｙ
+y　longitudinal axis　縦軸
+Y　yttrium　イットリウム
+YAC　yeast artificial chromosome　酵母人工染色体
+YADH　yeast alcohol dehydrogenase　酵母アルコール脱水素酵素
+YAG　yttrium aluminium garnet (laser)　ヤグ（レーザー）。プラズマを発生させて組織を破壊するレーザーで，眼外から後嚢，虹彩，硝子体，網膜内境界膜などを切開するのに用いる。
+YAG-OPO　yttrium aluminium garnet-optical parametric oscillated (laser)　YAG-OPOレーザー
+YAM　young adult mean　若年成人平均値
+YC　Y-chromosome　Y染色体。性染色体の一つ。性染色体にはX染色体とY染色体がある。女性は性染色体が相同でX染色体とX染色体を有し，男性は性染色体が非相同でX染色体とY染色体を有する。
+YE　yellow enzyme　黄色酵素
+YEG　yeast extract glucose　酵母抽出ブドウ糖
+YEH2　yellow enzyme reduced form　還元型黄色酵素
+YEPD　yeast extract-peptone dextrose　酵母抽出ペプトン・デキストロース
+YF　yellow fever　黄熱。黄熱ウイルスによる感染症
+YFV　yellow fever virus　黄熱ウイルス
+Y-G　Yatabe-Guilford personality inventory　矢田部ギルフォード性格検査
+YGテスト☆　Yatabe-Guilford test　矢田部ギルフォード検査(質問紙法性格検査)
+YLO　yeast like organism　酵母様微生物（真菌）
+YMB　yeast malt broth　酵母麦芽ブイヨン
+YMRS　Young mania rating scale　ヤング躁病評価尺度
+YMTV　Yaba monkey tumor virus　ヤバサル腫瘍ウイルス
+YNS　yellow-nail syndrome　黄色爪症候群
+YOB　year of birth　出生年
+YOD　year of death　死亡年
+Y-O，Y/O　years old　〜歳
+YP　yield pressure　産出圧
+YPLL　years of potential life lost　損失生存可能年数。生存目標年齢を定め，その年齢まで達しないで死亡した場合，目標年齢と死亡時年齢の差の年数を計算する方法
+yr.，yrs　year, years　年，年齢
+YS　yellow spot of retina　網膜黄点
+Yt　yttrium（＝Y）　イットリウム
+YY syndrome（＝XYY syndrome）　YY男性（超雄）。性染色体構成がXYYの男性

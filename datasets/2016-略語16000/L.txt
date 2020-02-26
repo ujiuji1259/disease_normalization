@@ -1,0 +1,629 @@
+Ｌ
+L　laryngitis　喉頭炎
+l　lateral　外側の，側方の
+L　lateral nucleus　外側核
+l　latitude　範囲，横幅
+L　lecithin　レシチン
+L　left　左の
+L　length　長さ
+L　lepra　ハンセン病
+L　leucine　ロイシン
+L　leucocyte　白血球。血液中の細胞の一種で，顆粒球，リンパ球，単球の３種類に大別され，顆粒球はさらに好中球，好酸球，好塩基球に分けられる。末梢血の白血球の過半数は好中球が占め，1/3はリンパ球である。好中球と単球は，その食菌性と運動性によって微生物の侵入に対して強力な防御作用を発揮する。抗酸球と好塩基球はアレルギーに関与し，リンパ球は免疫抗体の産生に重要な役割を果たしている。
+L　liter　リットル(10cm3)
+L　liver　肝臓。腹腔の右上部，横隔膜に接して存在する人体中最大の腺（分泌機能を営む細胞集団）。消化を助ける胆汁の生産，吸収した栄養分の同化・解毒・貯蔵など，生命維持に不可欠な多種多様な機能を含む。
+l　longitudinal　縦軸の
+L　lues　梅毒。梅毒トレポネーマによる特殊性炎症で，肉芽腫形成を特徴とする全身性疾患。子宮内で母子感染したものを先天梅毒，性交によって感染するものを後天梅毒という。進行状態によって第１期から第４期まで分かれており，第４期には神経が冒される。治療は抗生物質で行う。
+L　lumbar　腰椎の，腰髄の
+L　lumbus　腰椎。L4，L5などのように示す。脊柱を構成する椎骨の一種。５個存在する。一般の椎骨と同様に，椎体，椎弓，棘突起，上下関節突起，椎孔などがある。頸椎や胸椎と比べて椎体と棘突起は幅広くなると同時にほぼ水平に突出しているので，この間より腰椎穿刺が可能となる。
+L　lumen　管腔
+L　lymphocyte（＝Ly）　リンパ球。白血球の一種で，白血球の30〜40％を占める。免疫機能をもち，その免疫学的性質からTリンパ球，Bリンパ球に分けられ，さらに細分類される。
+L&A　light and accommodation　対光調節。瞳光の反射
+L→R　left→right　左から右へ（X線撮影の方向）
+L-5-HTP　L-5-hydroxytryptophan　L-5-ヒドロキシトリプトファン
+LA　lactic acid acidosis　乳酸アシドーシス
+LA　Langerhans islands　ランゲルハンス島
+LA　latex agglutination　ラテックス凝集法。抗体を付けたラテックス粒子（ゴムの樹脂）が，検体の標的となる抗原と抗原抗体反応が起こると凝集する性質を利用した検査。凝集の程度を吸光度で測定し，抗原濃度を判定する。リウマチ因子測定，CRP測定などで用いられる。
+LA　left angle　左角
+LA　left atrium　左心房。対語：RA(right atrium)，右心房。左心房は，左後上部に位置を占める心臓の内腔の一つ。両側方から肺静脈が左右通常２本ずつ注いでいる。肺から送られてきた新鮮な酸素を十分含んだ血液を取り入れる場所である。前下方には左房室口があって左心室に連絡していて，ここには左房室弁（僧帽弁または二尖弁）がある。右前側方には心房中隔があり，右心房と隣接している。左心房内の血液は動脈血であり，心室の拡張により僧帽弁が開き左心室に血液が流れ込む。
+LA　left auricle　左心耳，左耳介
+LA　linolenic acid　リノレン酸。不飽和脂肪酸
+LA　Little area　リトル野
+LA　lupus anticoagulant　ループスアンチコアグラント，ループス抗凝固因子
+L/A　lysine/arginine ratio　リジン／アルギニン比。アミノ酸の構成比
+LA-Ⅲ　diazepam　ジアゼパム(セルシン，ホリゾン，ソナコン)。精神神経用剤(ベンゾジアゼピン系抗不安剤)
+LAA　left-acromion-anterior　左肩峰前位（胎向）\u000021e8LAP
+LAAM　levo-alpha acetyl methadol　レボアルファアセチルメタドール（合成鎮痛剤）
+LAAO　l-amino-acid oxidase　アミノ酸オキシダーゼ。好気性脱水素酵素
+lab　lab ferment　凝乳酵素
+Lab　laboratory　検査室，研究所，実験室
+LABA　long-acting inhaled β2-agonist　長時間作用性吸入β2刺激薬
+LABC　lymphadenosis benigna cutis　皮膚(性)良性リンパ球腫
+LABD　linear IgA bullous dermatosis　線状IgA水疱性皮膚症
+LAC　La Crosse virus　ラクロスウイルス
+lac　laceration　裂傷
+lac　left atrial contraction　左心房収縮
+LAC　lupus anticoagulant　ループスアンチコアグラント
+Lac-B　Lactobacillus bifidus［ラ］　ビフィズ菌
+LACI　lipoprotein associated coagulation inhibitor　リポ蛋白結合凝固阻害物質
+Lactos　lactose　ラクトース，乳糖
+LAD　lactate dehydrogenase　乳酸脱水素酵素
+LAD　left anterior descending (coronary artery)　左前下行枝(冠状動脈)
+LAD　left atrial diameter　左房径
+LAD　left axis deviation　左軸偏位。心電図において，心筋が収縮して発生する電流の方向である電気軸が正常範囲より左側に向かっていること
+LAD　leukocyte adhesion deficiency　白血球接着異常症，白血球粘着不全症
+LAD　linear IgA bullous dermatosis　線状IgA水疱症
+LADG　laparoscopy-assisted distal gastrectomy　腹腔鏡補助下幽門側胃切除術
+LAE　left atrial electrogram　左房電位図
+LAF　leukocyte activating factor　白血球活性化因子
+LAF　lymphocyte activating factor　リンパ球活性化因子
+LAFB　left anterior fascicular block　左脚前枝ブロック
+LAFR　laminar air flow room　無菌室
+LAG　lymphangiogram　リンパ管造影像
+LAH　left atrial hypertrophy　左房拡大
+LAH，LAHB　left anterior hemiblock　左脚前枝ヘミブロック
+LAHS　lymphoma associated hemophagocytic syndrome　悪性リンパ腫に伴う反応性組織球症
+LAI　leukocyte adherence inhibition (test)　白血球粘着阻止（試験）
+LAIF　leukocyte adherence inhibition factor　白血球粘着阻止因子
+LAIR　latex agglutination inhibition reaction　ラテックス凝集阻止反応
+LAK　lectin activated killer cell　レクチン活性化キラー細胞
+LAK　lymphokine activated killer cell　リンホカイン活性化キラー細胞
+LAL　limulus amebocyte lysate　リムルス・アメーバ様細胞溶解質
+LAM　lactation amenorrhoea method　授乳期無月経法
+LAM　lipoarabinomannan　リポアラビノマンナン
+LAM　lymphangioleiomyomatosis　リンパ脈管筋腫症
+LAM-1　leukocyte adhesion molecule-1　白血球接着分子-1
+LAMP　limbic system membrane-associated protein　辺縁組織膜関連蛋白
+LAMP　loop-mediated isothermal amplification　LAMP法（遺伝子増幅法）
+LAN　local area network　同一の建物や敷地内で使用される通信ネットワークの総称
+LAO　left anterior oblique (position)　第Ⅱ斜位，左前斜位
+lap　laparotomy　開腹術
+LAP　left atrial pressure　左房圧
+LAP　left-acromion-posterior　左肩峰後（胎向）\u000021e8LAA
+LAP☆　leucine aminopeptidase　ラープ。血清ロイシンアミノペプチダーゼ活性値測定
+LAP　leucine aminopeptidase　ロイシンアミノペプチダーゼ
+LAP　leucocyte alkaline phosphatase　白血球アルカリホスファターゼ
+LAP-C　laparoscopic cholecystectomy　腹腔鏡下胆嚢摘出術
+LAPC　lenampicillin hydrochloride　塩酸レナンピシリン（抗菌薬）
+LAPW　left atrial posterior wall　左房後壁
+LAR　late asthmatic response　遅発型喘息反応
+lar　left arm reclining　左側臥位
+LAR　left atrial rhythm　左房調律
+LAR　low anterior resection　低位前方切除術
+LA rhythm　left atrial rhythm　左房調律
+LAS　local adaptation syndorme　局所適応症候群
+LAS　lymphadenopathy syndrome　リンパ節疾患症候群
+LASEK　laser-assisted subepithelial keratectomy　角膜屈折手術の術式の一つ
+LASER　light amplification by stimulated emission of radiation　レーザー光線
+LASIK　laser in situ keratomileusis　レーシック手術，レーザー角膜切削形成術
+L-ASP　L-asparaginase　L−アスパラギナーゼ（抗悪性腫瘍薬）
+LASS　labile aggregation-stimulating substance　不安定凝固刺激物質
+lat　lateral　側方の
+LAT　latex agglutination test　ラテックス凝集試験(反応)
+LAT　left anterior triangle　左前三角
+LAT　low antigenic tumor　低抗原腫瘍
+lat.d.　lateri dolenti［ラ］　疼痛時に（処）
+Latero　laterotorisio cruris［ラ］　下腿外方捻転
+LATS　long acting thyroid stimulator　ラッツ。持続性甲状腺刺激物質。バセドウ病患者の血中に証明される。
+LAUP　laser assisted uvulopatoplasty　レーザーによる口蓋垂軟口蓋形成術
+LAV　left atrial volume　左房容積
+LAV　lymphadenopahty-associated virus　リンパ節炎ウイルス
+LAVC　left atrial volume change　左房容積変化
+LAVH　laparoscopy-assisted vaginal hysterectomy　腹腔鏡併用腟式子宮摘出術
+LB　lateral band　側索
+LB　low back　背下部
+LB　lung biopsy　肺生検
+LB　lupus band　ループスバンド
+LBA　left-brow-anterior　左額前位（胎児の体位）\u000021e8LBP，LBT
+LBA　liquid-phase binding assay　LBA法（免疫測定法）
+lBB　left bundle branch　左脚
+LBBB　left bundle branch block　左脚ブロック，心電図用語。\u000021e8RBBB
+LBCD　left border of cardiac dullness　心濁音界の左限界
+LBF　Lactobacillus bulgaricus factor　ブルガリア乳酸菌因子
+LBL　lymphoblastic lymphoma　リンパ芽球性リンパ腫
+LBM　lean body mass　除脂肪体重，除脂肪組織，非脂肪組織
+LBM　lumbrical muscle　虫様筋（指の）
+LBNP　lower body negative pressure　下半身陰圧
+LBP　left-brow-posterior　左額後位（胎児の体位）\u000021e8LBA，LBT
+LBP　low back pain　腰痛(症)。ヘルニアのような神経学的変化がなく，エックス線像では異常のない腰痛のこと。筋肉や筋膜の障害，姿勢不良による疲労性のもの，椎関節の障害で生じた痛みに関連するものなどがある。殿部痛があることもあるが，下肢の痛みや坐骨神経痛，下肢の麻痺などの症状はない。治療法には，温熱療法，腰痛体操，筋弛緩剤などがある。
+LBP　low blood pressure　低血圧
+LBPP　lower body positive pressure　下半身陽圧負荷
+LBT　left-brow-transverse　左額横位（胎児の体位）\u000021e8LBA，LBP
+LBT　lupus band test　ループスバンド試験
+LBW　low birth weight　低出生体重
+LBWD　low birth weight dwarfism　低体重出生矮小症。シルバー症候群
+LBWI　low birth weight infant　低出生体重児
+LC　Laennec\u000002bcs cirrhosis　ラエネック肝硬変
+LC　Langerhans cell　ランゲルハンス細胞
+LC　laparoscopic cholecystectomy　腹腔鏡下胆嚢摘出術
+LC　least concentration　最低濃度
+LC　leukemia cell　白血病細胞
+LC　light chain　軽鎖
+LC　light coagulation　光凝固
+LC　light cone　光錐
+LC　liquid chromatography　液体クロマトグラフィー
+LC　lithocholic acid　リトコール酸。胆汁酸の一種
+LC　liver cirrhosis　肝硬変(症)。肝臓の小葉構造が壊れ，間質の繊維の増加と実質の縮小がみられ，再生結節が形成された状態をいう。慢性肝疾患の終末像である。原因は，ウイルス肝炎・アルコール肝炎・中毒性肝炎から進展したもの，胆汁うっ帯，心臓性などがある。症状は肝腫，脾腫，肝機能障害による低アルブミン血症，出血傾向，貧血，黄疸，肝性脳症，肝血流障害による門脈圧亢進症とこれによる食道静脈瘤，腹水などが主なもの。
+LC　longus capitus［ラ］　頭長筋
+LC　low calorie　低カロリー
+LC　low carbohydrate diet　低糖質食
+LC　lues congenita［ラ］　先天性梅毒
+LC　luminary brightness increment campimetry　明度識別中心視野測定
+LC　lung cancer　肺癌。気管，気管支，肺から発生する癌の総称。発生部位と癌細胞の性質の違いによって分類される。咳，血痰，胸痛，呼吸困難などの症状が表れるが，症状が出るのはある程度進行して，比較的太い血管が侵されてからである。予後は悪い。手術以外の根治療法はなく，多くの場合，放射線療法，化学療法，レーザー療法を併用する。
+LCA　left colic artery　左結腸動脈
+LCA　left common carotid artery　左総頸動脈
+LCA　left coronary artery　左冠動脈
+LCA　lentil lectin　レンチルレクチン
+LCA　leukocyte common antigen　白血球共通抗原
+LCA　lithocholic acid　リトコール酸
+LCA　liver cell adenoma　肝細胞腺腫
+LCa　lung cancer　肺癌
+L-CAT，LCA(T)　lecithin cholesterol fatty acyltransferase　レシチンコレステロールアシルトランスフェラーゼ(脂肪酸転移酵素)
+LCBF　local cerebral blood flow　局所脳血流
+LCC　liver cell carcinoma　肝細胞癌
+LCC　luxatio coxae congentia［ラ］　先天性股関節脱臼
+LCCA　late cortical cerebellar atrophy　晩発性小脳皮質萎縮症
+LCCD　late cortical cerebellar degeneration　晩発性皮質性小脳変性症
+LCD　light chain disease　L鎖病
+LCD　liver cell dysplasia　肝細胞形成異常
+LCD　low-calorie diet　低カロリー療法，低エネルギー食
+LCDD　light chain deposition disease　軽鎖沈着症
+L cell　Langerhans cell　ランゲルハンス細胞
+L-CFU　leukemic colony-forming units　白血病コロニー形成単位
+LCG　Langerhans cell granule　ランゲルハンス細胞顆粒
+LCGU　local cerebral glucose utilization　脳局所ブドウ糖消費
+LCH　Langerhans cell histiocytosis　ランゲルハンス細胞組織球症
+L-chain　light chain　L鎖
+LCIS　lobular carcinoma in situ　非浸潤性小葉癌
+LCL　large cell lymphoma　大細胞型リンパ腫
+LCL　lateral collateral ligament　外側側副靱帯
+LCL body　Levinthal-Cole-Lille body　基本小体。クラミジアの感染性粒子
+LCLC　large cell lung carcinoma　肺大細胞癌
+LCM　left costal margin　左肋骨縁
+LCM　lincomycin hydrochloride　塩酸リンコマイシン(リンコシン\u000000ae），リンコマイシン系抗生物質
+LCM　lymphocytic choriomeningitis　リンパ球性脈絡髄膜炎
+LC-MS　liquid-chromatography mass-spectrometry　液体クロマトグラフィー質量分析法
+LCMV　lymphocytic choriomeningitis virus　リンパ球性脈絡髄膜炎ウイルス
+LCR　late cutaneous reaction　遅発皮膚反応
+LCR　ligase chain reaction　リガーゼ連鎖反応，LCR法
+LCS　laparoscopic coagulating shear　超音波凝固切開装置
+LCS　liquor cerebrospialis［ラ］　脳脊髄液
+LCT　lymphocyte cytotoxicity test　リンパ球細胞傷害試験
+LCT　lymphocyte toxin　リンパ球毒素
+LC therapy　ligation and cryotherapy　結紮凍結療法
+LCX　left circumflex (coronary) artery　（冠状動脈の）左回旋枝
+LD　lactate dehydrogenase　乳酸脱水素酵素\u000021e8LDH
+LD　laterodorsal thalamic nucleus　視床背外側核
+LD　learning disabilities　学習障害。全般的な知的発達に遅れはないが，聞く，話す，読む，書く，計算する，推論するなどの特定の能力の習得と使用に著しい困難を示す様々な障害。
+LD　lethal dose　致死量
+LD　leucocyte dialysate　白血球透析物
+LD　levodopa　レボドパ
+LD　limited disease　限局型疾患，限局病変
+LD　longitudinal diameter of heart　心臓縦径
+LD　Luftdusche［独］　耳管通気
+LD　lymphocyte defined antigen　リンパ球識別抗原
+LD　lymphocyte depletion　リンパ球減少型
+LD50　mean lethal dose 50％　50％致死量，半数致死量。毒性の指標
+LD 50/30　lethal dose 50%/30 days　照射30日後の50%致死線量
+LDA　left anterior descending coronary artery　左冠状動脈前下行枝
+LDA　left-dorso-anterior　左背前位（胎児の体位）\u000021e8LDP
+LDA　low density area　低吸収域，低濃度域。CT検査用語
+LDA　lymphocyte dependent antibody　リンパ球依存抗体
+LD body　Leishman-Donovan body　リーシュマン-ドノバン小体
+LDCC　lectin dependent cytotoxicity　レクチン依存性細胞傷害
+LDCF　lymphocyte derived chemotactic factor　リンパ球由来白血球遊走因子
+LDH　lactate dehydrogenase　乳酸脱水素酵素。ブドウ糖の代謝に関わり，すべての組織に存在する。臓器の疾患や細胞組織の障害があると血液中の数値が上がる。基準値より高い場合，肝炎，肝臓癌，肝硬変，急性心筋梗塞，心不全，筋肉ジストロフィー症などの疑いがある。なお，高い数値が出た場合，その病変部位を推測するためLDHアイソザイム検査を行う。
+LDH☆　lactic acid dehydrogenase　LDH検査。乳酸脱水素酵素測定
+LDH　lumbar disc herniation　腰椎椎間板ヘルニア
+LDHアイソ☆　Lactic acid dehydrogenase isozyme　LDHアイソザイム，乳酸脱水素酵素アイソザイム
+LDI　low density lipoprotein distribution index　低比重リポ蛋白分布指数
+LDL　low density lipoprotein　低比重リポ蛋白，低比重(密度)リポ蛋白
+LDL-C　low-density lipoprotein cholesterol　低比重(密度)リポ蛋白コレステロール
+L-DLE　localized disseminated lupus erythematosus　限局性播種性エリテマトーデス
+LDMC　latissimus dorsi myocutaneous flap　広背筋皮弁
+LDMS　laser desorption mass spectrometry　レーザー脱離質量分析法
+L-dopa　levodopa　レボドパ（パーキンソン病治療薬）
+LDP　left-dorso-posterior　左背後位（胎児の体位）\u000021e8LDA
+LDR　labor，deliver，recovery　LDR室。出産の一連の流れ〔陣痛（Labor）〜分娩（Deliver）〜回復（Recovery）〕を同じ部屋の同じベッドで行う方法。
+LDR　low dose rate　低線量率
+LDV　laser doppler velocimetry　レーザードプラ流速計
+LE　lactulose enema　ラクツロース浣腸
+LE　left eye　左眼
+LE　leukoegressin　好中球遊走因子
+LE　lower extremity（＝l/ext）　下肢
+LE　lupus erythematosus　紅斑性狼瘡(エリテマト-デス)
+LE　lysosomal enzymes　ライソゾーム酵素
+LEB　Lebombo virus　レボンボウイルス
+LE-cell　lupus erythematosus-cell　LE細胞
+LED　lupus erythematosus disseminatus［ラ］　播種性エリテマトーデス
+LEI　laparoscopic ethanol injection　腹腔鏡下エタノール注入療法
+LEIS　laser-enhanced ionization spectroscopy　レーザー誘起イオン化分光法
+LEIS　low energy ion scattering　低エネルギーイオン散乱分光法
+LEMS　Lambert-Eaton myasthenic syndrome　ランバート・イートン（筋無力症）症候群
+LEOPARD syndrome　lentigines, electrocardiographic abnormalities, ocular hypertelorism, pulmonary stenosis, abnormalities of genitalia, retardation of growth, deafness syndrome　黒子症，心電図異常，眼間隔開離，肺動脈狭窄，性器異常，成長遅滞，聾唖症候群。レオパルド症候群
+LEPD　low energy positron diffraction　低速陽電子線回析
+Lept　Leptospira　レプトスピラ。スピロヘータの一種
+LES　late evening snack　就寝前エネルギー投与
+LES　lower esophageal sphincter　下部食道括約筋
+LES　systemic lupus erythematosus　全身性紅斑性エリテマトーデス，全身性エリテマトーデス，全身性紅斑性狼瘡，播種性エリテマトーデス\u000021e8LED
+LESP　lower esophageal sphincter pressure　下部食道括約筋圧
+LET　linear energy transfer　線エネルギー付与
+LETS protein　large external transformation sensitive protein　ラージエキスターナルトランスフォーメーションセンシティブプロテイン
+Leu　leucine　ロイシン。必須アミノ酸
+Leu-enk　leucine enkephalin　ロイシンエンケファリン
+LEテスト　LEテスト・キットによる紅斑病迅速スライドテスト
+LE現象検査　LE cell phenomenon　エリテマトーデス（LE：lupus erythematosus）現象を利用した検査。全身性エリテマトーデス（SLE）では，崩壊した細胞から放出された核がLE因子と反応して膨化し，膨化した核を好中球などが貪食する（その好中球をLE細胞という）。また，膨化した核のまわりを好中球が放射状に囲み，ロゼット（菊花状の形態）を形成することがある。このLE細胞とロゼットの出現をLE現象と呼ぶ。なお，LE因子は抗核抗体（真核細胞の核内にある自己抗体群の総称）の一つ。LE細胞はSLEで高率に陽性となるため，スクリーニング検査に広く用いられる。
+LF　lactoferrin　ラクトフェリン
+LF　laryngofiberscope　喉頭ファイバースコープ
+LF　Lassa fever　ラッサ熱。ウイルス性出血熱の一種
+LF　left frontal　左前頭部
+LF　low frequency　低周波
+LFA　left-fronto-anterior　左前頭前位（胎児の体位）\u000021e8LFP，LFT
+LFA　lymphocyte function-associated antigen　リンパ球機能関連抗原
+LFD　large for date infant　不当重量児。妊娠期間に比べて大き過ぎる新生児
+LFD　least fatal dose　最小致死量(毒物の)
+LFD　low fat diet　低脂肪食
+LFD　low-fiber diet　低残渣食
+LFLX　lomefloxacin hydrochloride　塩酸ロメフロキサシン（抗菌薬）
+LFP　left-fronto-posterior　左前頭後位（胎児の体位）\u000021e8LFA，LFT
+LFT　latex fixation test　ラテックス凝集(結合)反応検査，ラテックス吸着試験
+LFT　left-fronto-transverse　左前頭横位（胎児の体位）\u000021e8LFA，LFP
+LFT　liver function tests　肝機能検査。複雑な肝臓の機能を測定するため各種組み合わせて行う血液・尿検査。疾病の診断，経過，治療効果，予後の判定に用いる。①胆汁色素代謝検査（血清ビリルビンなど），②色素排出機能検査（BSP，ICGなど），③血清酵素検査（GOT，GPT，アルカリホスファターゼ，γ-GTP，LAPなど），④蛋白代謝の検査（総蛋白，蛋白分画，血清膠質反応，HB抗原，α-フェト蛋白など），⑤糖代謝（血糖など）の検査，⑥脂質代謝（血清コレステロール，リポ蛋白分画など）の検査，⑦ウイルス関連検査──などがある。
+LFT　low frequency transduction　低\u0000fa6a度導入型
+LG　limb-girdle type muscular dystrophy　肢帯型筋ジストロフィー
+LGA　large for gestational age baby　妊娠期間に比べて大き過ぎる胎児
+LGA　left gastric artery　左胃動脈
+LGB　lateral geniculate body　外側膝状体
+LGEA　left gastroepiploic artery　左胃大網動脈
+LGI　lower gastrointestinal　下部消化管の
+LGL　large granular lymphocyte　大型顆粒リンパ球
+LGL　Lown-Ganong-Levine syndrome　LGL症候群
+LGMD　limb-girdle muscular dystrophy　肢帯型筋ジストロフィー。大半が常染色体劣性遺伝。上下肢の近位筋の障害などが起こる。
+LGN　lateral geniculate nucleus　外側膝状体核
+LGN　lupus glomerulonephritis　ループス糸球体腎炎
+LGS　Langer-Giedion syndrome　ランガー-ギーディオン症候群
+LGS　Lennox-Gastaut syndrome　レノックス・ガストー症候群
+LGT　ligament（＝lig）　靱帯
+LGV　left gastric vein　左胃静脈
+LGV　lymphogranuloma venereum　クラミジア性リンパ肉芽腫，性病性リンパ肉芽腫
+LH　lues hereditaria［ラ］　遺伝性梅毒
+LH　luteinizing hormone　黄体化(黄体形成)ホルモン。下垂体前葉から分泌される２つの性腺刺激ホルモン（ゴナドトロピン）のうちの一つ。もう一つは，卵胞刺激ホルモン（FSH）。女性ではFSHとともに卵胞を発育し，排卵と黄体形成を促進する。男性では精巣のライディッヒ細胞に作用し，テストステロン（男性ホルモン）の分泌を促進する。排卵の前に黄体形成ホルモン濃度が急激に増加する（LHサージ）ことを利用して，排卵時期の予測に用いる（尿中LH検査）。また，LHやFSHの血清濃度の測定で異常値を示す場合，視床下部や下垂体の疾患，あるいは精巣疾患が疑われる。
+LH　luteotrophic hormone　黄体刺激ホルモン
+LHA　lateral hypothalamic area　側視床下部領域
+LHA　left hepatitic artery　左肝動脈
+LHCDD　light and heavy chain deposition disease　軽鎖重鎖沈着症
+LHD　luetic heart disease　梅毒性心疾患
+LHF　left-sided heart failure　左心不全
+LH/hCG-R　luteinizing hormone/human chorionic gonadotropin receptor　黄体形成ホルモン・ヒト絨毛性ゴナドトロピン受容体
+LH-RF　luteinizing hormone releasing factor　黄体形成ホルモン放出因子
+LH-RH　gonadorelin acetate　酢酸ゴナドレリン（女性ホルモン・男性ホルモン剤以外のホルモン剤）
+LH-RH　luteinizing hormone-releasing hormone　黄体形成ホルモン放出ホルモン
+LHS　left heart strain　左心負荷
+Li　lithium　リチウム，アルカリ金属元素
+LI　louping ill virus　ルーピングイルウイルス
+LI　lymphocytic index　リンパ球指数
+LIA　laser immunoassay　レーザー免疫測定法
+LICC　lectin-induced cell-mediated cytotoxicity　レクチン誘導細胞介在細胞傷害
+LICM　left intercostal margin　左肋間縁
+lidoc　lidocaine　リドカイン（キシロカイン\u000000ae）。局所麻酔薬
+LIF　left iliac fossa　左腸骨窩
+LIF　leukemia inhibitory factor　白血病抑制因子
+LIF　leukocyte interferon　白血球由来のインターフェロン。α型インターフェロン
+LIF　leukocyte migration inhibitory factor（＝LMIF）　白血球遊走阻止因子
+LIF　leukocytosis inducing factor　白血球増多因子
+lig　ligament，ligamentum［ラ］　靱帯
+lig　ligation　結紮
+LIH　left inguinal hernia　左鼠径ヘルニア
+linac　linear accelerator　線形加速器
+LIO　left inferior oblique　左下斜位
+LIP　lipovnik virus　リポフニックウイルス
+LIP　lymphocytic(lymphoid) interstitial pneumonia　リンパ球性間質性肺炎
+LIPUS　low intensity pulsed ultrasound　低出力超音波パルス治療
+Liq　liquor cerebrospinalis　リコール(脳脊髄液)
+liq.　liquor，liquid　液体
+LIT　leukocyte migration inhibition test　白血球遊走阻止検査
+LITA　left internal thoracic artery　左内胸動脈
+liv　liver（＝L）　肝臓。腹腔の右上部，横隔膜に接して存在する人体中最大の腺（分泌機能を営む細胞集団）。消化を助ける胆汁の生産，吸収した栄養分の同化・解毒・貯蔵など，生命維持に不可欠な多種多様な機能を含む。
+LIXI scope　low intensity X-ray imaging scope　低強度X線顕微鏡
+LJM　limited joint mobility　関節可動性制限
+LJP　localized juvenile periodontitis　限局型若年性歯周炎
+LK　locus Kieselbachii［ラ］　キーセルバッハ部位。鼻中隔の出血しやすい部位
+LKM　liver-kidney microsome　肝腎ミクロゾーム
+LKMAb　anti liver-kidney microsome antibody　抗肝腎ミクロゾーム抗体
+LKP　lamellar keratoplasty　表層角膜移植
+LL　large lymphocytes　大リンパ球
+LL　left lateral　左側方の
+LL　lower lid　下眼瞼
+Ll　lues latens［ラ］　潜伏梅毒
+LL　Luftleitung［独］　気導聴力検査(音叉によるもの)
+LL　lysolecithin　リゾレシチン
+L-Lactobacillus　乳酸杆菌
+LLB　long leg brace　長下肢装具
+LLB　lung liver border　肺肝境界
+LLBCD　left lower border of cardiac dullness　心濁音界左下界
+LLD　leg length discrepancy　脚長差
+LLD factor　lactobacillus lactis donor factor　乳汁中の乳酸杆菌ドナー因子。ビタミンB12
+LLE　left lower extremity　左下肢
+LLL　left lower lid　左下眼瞼
+LLL　left lower limb　左下肢
+LLL　left lower lobe　左下葉
+LLLE　lower lid left eye　左眼下眼瞼
+LLLL　left lower lung lobe　左下肺葉
+LLLSB　lower left limits of sternal border　胸骨下部左縁
+LLLT　low reactive level laser therapy　低反応レベルレーザー治療。レーザーの光作用を期待する，弱いレーザー光線を使う非侵襲的治療
+LLQ　left lower quadrant　左下腹部
+LLR　late local reaction　遷延性局所反応
+LLRA　low lateral right atrium　下側右心房
+LLSB　left limits of sternal border　胸骨下部左縁
+LLV　avian lymphoid leukosis virus　トリリンパ性白血病ウイルス
+L，L鎖　light chain　軽鎖
+LM　lateral meniscus　外側半月
+LM　Leukomycin\u000000ae　ロイコマイシン\u000000ae(kitasamycin，キタサマイシン)。マクロライド系抗生物質
+LM　light microscope　光学顕微鏡
+LM　lipid microspheres　脂肪微粒子
+LM　longitudinal muscle　縦走筋
+LMA　laryngeal mask airway　ラリンジアルマスク
+LMA　left-mento-anterior　左頤前位（胎児の体位）\u000021e8LMP，LMT
+LMA　liver membrane antibody　肝細胞膜抗体
+LMAF　leucocyte migration activating factor　白血球遊走促進因子
+LM-Ag　liver membrane antigen　肝細胞膜抗原
+LMBBS　Laurence-Moon-Bardet-Biedl syndrome　ローレンス-ムーン-バルデ-ビードル症候群
+LMC　laparoscopic microwave coagulation　腹腔鏡下マイクロ波凝固療法
+LMC　large motile cells　大運動細胞
+LMC，LMCA　left main coronary artery　主幹動脈(左冠状動脈の)
+LMC test　lymphocyte mediated cytotoxicity test　リンパ球依存性細胞毒性試験
+LMDF　lupus miliaris disseminatus faciei　顔面播種状粟粒性狼瘡
+LMF　leukocyte mitogenic factor　白血球有糸核分裂因子
+LMF　lipid mobilizing factor　脂質動員因子
+LM-hormone　lipid mobilizing hormone　脂質動員ホルモン
+LMIF　leukocyte migration inhibitory factor（＝LIF）　白血球遊走阻止因子
+LMIT，LMT　leukocyte migration inhibition test　白血球遊走阻止試験
+LMM　lentigo maligna melanoma　悪性黒子型黒色腫
+LMN　lower motor neuron　下位運動ニューロン
+LMNL　lower motor neuron lesion　下位運動ニューロン障害
+LMOX　latemoxef　ラタモキセフ
+LMP　EB virus latent membrane protein　EBウイルス潜伏感染膜蛋白質
+LMP　last menstrual period　最終月経期
+LMP　left-mento-posterior　左頤後位（胎児の体位）\u000021e8LMA，LMT
+LMP　lumbar puncture（＝LP）　腰椎穿刺
+LMR　linguomandibular reflex　舌下顎反射
+LMS　leiomyosarcoma　子宮平滑筋肉腫
+LMT　left main (coronary) trunk　左冠状動脈主幹部
+LMT　left-mento-transverse　左頤横位（胎児の体位）\u000021e8LMA，LMP
+LMT　leukocyte migration test　白血球遊走試験
+LMT(H)　luteomammotropic hormone　黄体乳腺刺激ホルモン
+LMV　lateral mesencephalic vein　側中脳静脈
+LMWD　low molecular weight dextran　低分子量デキストラン
+LMWH　low molecular weight heparin　低分子量ヘパリン
+LMW-K　low molecular weight kininogen　低分子キニノーゲン
+LMWP　low molecular weight protein　低分子量蛋白
+LN　lipoid nephrosis　リポイド・ネフローゼ
+LN　lupus nephritis　ループス腎炎
+LN　lymph node　リンパ節。リンパ系の所々にある球状または大豆状の細網組織からなるリンパ液の濾過装置。細菌に感染してリンパ管に炎症が起こると，リンパ節が腫れる。
+LNC　lymph node cell　リンパ節細胞
+LNG　liquefied natural gas　液化天然ガス
+LNMP　last normal menstrual period　最終正常月経期
+LNPF　lymph node permeability factor　リンパ節透過因子
+LNS　Lesch-Nyhan syndrome　レッシュ-ナイハン症候群
+LNYV　Lettuce necrotic yellow virus　レタスネクロティックイエローウイルス
+LO　left occipital　左後頭部
+LOA　left-occipito-anterior　左後頭前位（胎児の位置）\u000021e8LOP，LOT
+LOAEL　low-observed adversed effect level　最小毒性量。毒性試験の結果から求められた有害影響の発現する最も低い用量
+LOC　loss of consciousness　意識消失
+LOD　limit of detection　検出限界
+LOH　late-onset hypogonadism　加齢男性性腺機能低下
+LOH　local osteolytic hypercalcemia　局所性骨溶解性高カルシウム血症
+LOH　loss of heterozygosity　ヘテロ接合性欠損
+LOHF　late onset hepatic failure　遅発性肝不全
+L-OHP　oxaliplatin　オキサリプラチン（抗悪性腫瘍薬）
+LOM　limitation of movement　運動制限
+LOP　left oblique projection　第２斜位方向（X線撮影の方向）
+LOP　left-occipito-posterior　左後頭後位（胎児の位置）\u000021e8LOA，LOT
+lord　lordosis　脊柱前彎
+LORETA法　low resolution electromagnetic tomography　脳機能解析法の一つ
+LOS　low output syndrome　低心拍出量症候群
+LOT　left-occipito-transverse　左後頭横位（胎児の位置）\u000021e8LOA，LOP
+loto　tonsillotomy　扁桃切除術
+LOX　lipoxygenase　リポキシゲナーゼ（リポキシダーゼ）。酸化還元酵素
+LOX　liquid oxygen　液体酸素
+LP　late potential　心室遅延電位
+LP　late potentials　遅延電位
+LP　latent period　潜伏期
+LP　lateral posterior nucleus of thalamus　視床後外側核
+L-P　left parietal　左頭頂部
+LP　levomepromazine（＝LPZ）　レボメプロマジン
+LP　lichen planus　扁平苔癬
+LP，L.P.　light perception　光覚弁，明暗弁
+LP　lipoprotein　リポ蛋白質。コレステロール，トリグリセリド，リン脂質などの脂質成分とアポリポ蛋白とからなる複合体。主な役割は，小腸あるいは肝で合成された脂質を血中に運搬し，各組織に供給することで，組織はこれをエネルギー源の原料として用いる。
+LP　liver perfusate　肝灌流液
+LP　liver-pancreas　肝膵
+LP　low pressure　低圧
+LP　lumbar puncture　腰椎穿刺。髄液の排除，採取の方法としての手技。所定の消毒を行ったのち，左右の腸骨棘の上端を結ぶヤコビー線（両側腸骨稜の最上点を結ぶ線）を目標として，穿刺針を用いて行う。
+LP　lymphocyte predominance　リンパ球優性型
+Lp(a)　lipoprotein(a)　リポ蛋白質(a)
+LPA　left pulmonary artery　左肺動脈
+LPA　lysophosphatidic acid　リゾホスファチジン酸
+L-PAM　L-phenylalanine mustard　L-フェニルアラニンマスタード（抗悪性腫瘍薬）
+L-PAM　melphalan　メルファラン（抗悪性腫瘍薬）
+LPAT　latex particle agglutination test　ラテックス粒子凝集試験
+LPC　lysophosphatidylcholine　リゾホスファチジルコリン
+LPCA　leukocyte procoagulant activity　白血球凝血促進活性
+LPCA　long posterior ciliary artery　長後毛様体動脈
+LPD　lymphoproliferative disorder　リンパ球増殖疾患
+LPE　lysophosphatidyl ethanolamine　リゾホスファチジルエタノールアミン。コリンを生ずる物質
+LPF　leucopenia-factor　白血球減少症因子
+LPF　leukocytosis promoting factor　白血球増多因子
+LPF　low power field　弱拡大の一視野
+LPFB　left posterior fascicular block　左脚後枝ブロック
+LPG　liquefied petroleum gas　プロパンガス
+LPH　lipotropic hormone　リポトロピン。脂肪親和性ホルモン
+LPH　low perfusion hyperemia　低灌流充血
+LPH，LPHB　left posterior hemiblock　左脚後枝ブロック
+LPIA　latex photometric immunoassay　ラテックス光学免疫測定，ラテックス近赤外免疫比濁法
+LPL　lamina propria lymphocyte　粘膜固有層内リンパ球
+LPL　lipoprotein lipase　リポ蛋白リパーゼ
+LPLA　lipoprotein lipase activity　リポ蛋白リパーゼ活性
+LPLK　lichen planus-like keratosis　扁平苔癬様角化症
+LP，LPD　lipiodol　リピオドール（X線造影剤）
+LPM　lamina propria mucosae　粘膜固有層
+LPM　lateral pterygoid muscle　外側翼突筋。開口させる咀嚼筋の一つ
+LPMF　liquid protein modified fast　蛋白流動食
+LPN　licensed practical nurse　准看護師
+LPO　left posterior oblique　左後斜位（X線撮影の方向）
+LPO　perioxide lipid　過酸化脂質
+LPP　leak point pressure　漏出時圧
+LPP　liver phosphorylase phosphatase　肝ホスフォリラーゼ・ホスファターゼ
+LPR　lymphocyte proliferative response　リンパ球増殖反応
+LPRC　leukocyte-poor red cells　白血球除去赤血球
+LPS　lipopolysaccharide　リポ多糖体
+LPS　lung protective strategy　肺保護戦略
+L-P shunt　lumbo-peritoneal shunt　腰椎くも膜下腔-腹腔短絡術
+LPV　left portal vein　左門脈
+LPV　left pulmonary vein　左肺静脈
+LPV　lymphotropic papovavirus　リンホトロピックパポバウイルス
+LpX　lipoprotein X　リポ蛋白X
+LPZ　levomepromazine（＝LP）　レボメプロマジン（鎮静剤）
+LQ model　linear quadratic model　LQモデル，線形二次曲線モデル
+LQTS　long QT syndrome　QT延長症候群
+LR　lateral rectus muscle　外直筋，外側直筋
+LR　letzte Regel［独］　最終月経
+LR　light reflex　光反射
+LRD　low-residue diet　低残\_c07994食
+LRE　leukemic reticuloendotheliosis　白血病性細網内皮症，白血性細網症，毛状細胞白血病
+LREH　low renin essential hypertension　低レニン性本態性高血圧症
+LRF　liver residue factor　肝臓残留因子
+LRF　luteinizing hormone releasing factor（＝LHRF）　黄体形成ホルモン放出因子
+LRH　luteinizing hormone releasing hormone（＝LHRH）　黄体形成ホルモン放出ホルモン
+LRP　LDL receptor-related protein　LDL受容体関連蛋白
+LRS　lactated Ringer\u000002bcs solution　乳酸加リンゲル液
+LR system　lymphoreticular system　リンパ網内系
+LRTI　lower respiratory tract infection　下気道感染症
+LRYGB　laparoscopic Roux-en-Y gastric bypass　腹腔鏡下ルーワイ胃バイパス術
+LS　light sense　光覚
+L-S　lumbo-sacral　腰仙骨の
+LS　lymphosarcoma　リンパ肉腫
+LSA　left sacrum anterior　仙骨左前方
+LSA　left subclavicular artery　左鎖骨下動脈
+LSA　lichen sclerosus et atrophicus　硬化性萎縮性苔癬
+LSa　lymphosarcoma（＝LS）　リンパ肉腫
+LSB　left sternal border　胸骨左縁
+LSC　liquid-solid chromatography　液体-固体クロマトグラフィー
+LScA　left-scapulo-anterior（＝ScLA）　左肩甲骨部前位（胎向）
+LSCL　lymphosarcoma cell leukemia　リンパ肉腫細胞白血病
+LScP　left-scapulo-posterior（＝ScLP）　左肩甲骨部後位（胎向）
+LSCS　lumbar spinal canal stenosis　腰部脊柱管狭窄症
+LSD　low salt diet　低塩食
+LSD　lysergic acid diethylamide　リゼルグ酸ジエチルアミド
+LSF　long acting sulfonamide　持続性サルファ剤
+LSF　lymphocytosis stimulating factor　リンパ球刺激因子
+LSFA　life supporting first aid　一次救命処置
+LSH　lutein-stimulating hormone　黄体刺激ホルモン
+LSH　lymphocyte stimulating hormone　リンパ球刺激ホルモン
+LSI　large scale integrated circuit　大規模集積回路
+LSIS　lateral subcutaneous internal sphincterotomy　側方皮下内括約筋切開術
+LSKM　liver-spleen-kidneymegalia　肝-脾-腎巨大症
+LSM　late diastolic murmur　拡張終期雑音
+LSP　left-sacro-posterior　左仙骨部後位（胎向）
+LSP　liver-specific protein　肝臓特異蛋白質
+LSRA　low septal right atrium　下中隔右心房
+L/S ratio　lecithin/sphingomyelin ratio　レシチン・スフィンゴミエリン比
+LST　left-sacro-transverse　左仙骨部横位（胎向）
+LST　lymphocyte stimulation test　リンパ球刺激試験
+LSTL　laparoscopic tubal ligation　腹腔鏡下卵管結紮
+LSVC　left superior vena cava　左上大静脈
+LT　heat-labile enterotoxin　易熱性エンテロトキシン
+LT　lactic threshold　乳酸閾値
+L-T　left temporal　左側頭部
+LT　leukotriene　ロイコトリエン
+LT　lingal tonsil　舌扁桃
+LT　lues test　梅毒試験
+LT　lymphotoxin　リンホトキシン
+LT　lymphotoxin factor　細胞傷害因子
+LT3　liothyronine　リオチロニン(ナトリウム)，トリヨードサイロニン。甲状腺ホルモン
+LT3 (LTH)　luteotropic hormone　黄体刺激ホルモン，プロラクチン
+LT4　levothyroxine　レボチロキシン（合成甲状腺ホルモン薬）
+LTA　lipoteichoic acid　リポタイコ酸
+LTB　laryngo-tracheo-bronchitis　喉頭・気管・気管支炎。気道炎
+LTB4　leukotrien B4　ロイコトリエンB4
+LTC　lung-thorax compliance　肺胸郭コンプライアンス
+LTC-IC　long-term culture initiating cell　長期骨髄培養創始細胞
+LTEC　longterm electrocardiogram　24時間連続記録心電図
+LTF　lipotropic factor　脂肪親和性物質
+LTG　low tension glaucoma　低眼圧緑内障
+LTH　laparoscopic hysterectomy　腹腔鏡下子宮全摘除術
+LTH　luteotropic hormone　黄体刺激ホルモン
+LTHIF　luteotropic hormone inhibitory factor　黄体刺激ホルモン抑制因子
+L-threo-DOPS　droxidopa　ドロキシドパ（パーキンソン病治療薬）
+LTM　long-term memory　長期記憶
+LTNP　long-term non-progressor　長期間非進行者
+LTOT　long-term oxygen therapy　長期酸素療法
+LTP　long-term potentiation　長期増強
+LTP　luteotropin　黄体刺激ホルモン
+LTPP　lipothiamide-pyrophosphate　ピロリン酸塩リポチアミド
+LTR　long terminal repeat　末端反復配列
+LTS　lactose　乳糖
+LTS　long-term surviving　長期生存
+LTT　lactose tolerance test　乳糖負荷試験
+LTT　lymphocyte transformation test　リンパ球幼若化試験
+LTV　long term variability　胎児心拍数基線細変動
+LUAE　left upper abdominal exenteration　左上腹部内臓全摘出
+LUF　luteinized unruptured follicle　黄体化未破裂卵胞
+LUL　left upper lobectomy　左肺上葉切除
+lum　lumbago　腰痛。lumbar　腰部の，腰椎の
+lum　lumen　管腔
+LUQ　left upper quadrant　左上腹部
+LUS　laparoscopic ultrasonography　超音波腹腔鏡
+LUSB　left upper sternal border　左上胸骨縁
+LUTS　lower urinary tract symptom　下部尿路症状
+Lux　歯牙脱臼（歯)
+LV　lateral ventricle　側脳室
+LV　left ventricle　左心室。対語：RV(右心室)。左心室は，左後下部に位置を占める心臓の内腔の一つ。心臓は２房２室からなるが，冠状溝より下部を心室といい，心室中隔によって左右に分かれている。左心室の心室壁は右室のそれと比較して厚く外形も大きい。後上方は左房室口によって左心房と連絡し，右上方は大動脈に連なる大動脈口がある。左心室内の血液は動脈血であり，心室の収縮により大動脈から全身に血液を送る。
+LV　left visus　左眼視力
+LV　leucovorin　ロイコボリン。葉酸代謝拮抗剤（メトトレキサート）の毒性軽減に用いる。
+LV　levofolinate　レボホリナート（代謝拮抗薬）
+L vaccine　living vaccine　活性ワクチン
+LVAD　left ventricular assist device　補助心臓，左心補助循環装置
+LVAW　left ventricular anterior wall　左室前壁
+LVD　left ventricular dimension　左室径
+LVDD　left ventricular end-diastolic dimension　左室拡張末期径
+LVDM　lividomycin　リビドマイシン
+LVDs　left ventricular end-systolic dimension　左室収縮末期径
+LVEDD　left ventricular enddiastolic dimension　左室拡張終期径
+LVEDP　left ventricular enddiastolic pressure　左室拡張終期圧
+LVEDV　left ventricular enddiastolic volume　左室拡張終期容積
+LVEF　left ventricular ejection fraction　左室駆出率
+LVESD　left ventricular endsystolic dimension　左室収縮終期径
+LVESV　left ventricular endsystolic volume　左室収縮終期容積
+LVET　left ventricular ejection time　左室駆出時間
+LVF　left ventricular failure　左室不全
+LVFB　left ventricular fascicular block　左室束枝ブロック
+LVFP　left ventricular filling pressure　左室充満圧
+LVFX　levofloxacin　レボフロキシサン（抗菌薬）
+LVG　left ventriculography　左室造影
+LVH　left ventricular hypertrophy　左心室肥大，左室肥大
+LV mass　left ventricular mass　左室体積
+LVOT　left ventricular outflow tract　左室流出路
+LVOTD　left ventricular outflow tract dimension　左室流出路径
+LV out　left ventricular outflow tract　左室流出路
+LVP　large volume parenteral　大容量注射
+LVP　left ventricular pressure　左心室圧。対語：RVP(右心室圧)
+LVP　lysine-vasopressin　リジンバソプレシン
+LVPW　left ventricular posterior wall　左室後壁
+LVRS　lung volume reduction surgery　肺容量減少術
+LVS　left ventricular strain　左室緊張
+LVS　low voltage slow wave　低電圧徐波
+LVSPI　left ventricular stroke power index　左室拍出力指数
+LVSW　left ventricular stroke work　左室１回仕事量
+LVSWI　left ventricular stroke work index　左室駆出係数
+LVV　left ventricular volume　左室容積
+LVW　left ventricular work　左室仕事量
+LVWI　left ventricular work index　左室仕事量指数
+LWG　laparoscopic wedge-gastrectomy　腹腔鏡下胃全層楔状切除術
+LX　lipoxin　リポキシン。脂肪酸
+Lx　luxation　脱臼
+lx　number of survivors　生存数
+Ly　lymphocyte（＝L）　リンパ球，リンパ細胞，免疫細胞。白血球の一種で，白血球の30〜40％を占める。免疫機能をもち，その免疫学的性質からTリンパ球，Bリンパ球に分けられ，さらに細分類される。
+LYN　lymph node　リンパ節。リンパ系の所々にある球状または大豆状の細網組織からなるリンパ液の濾過装置。細菌に感染してリンパ管に炎症が起こると，リンパ節が腫れる。
+LyNef　lytic nephritic factor　溶解性腎炎因子
+LYS　lysine　リジン。必須アミノ酸
+lyz　lysozyme　リソチーム。細菌を溶解する酵素
+

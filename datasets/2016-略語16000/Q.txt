@@ -1,0 +1,56 @@
+Ｑ
+Q　quantity　量
+Q　quisque［ラ］　〜ごと
+Q　volume flow of blood/unit time　単位時間内血流量（心拍出量／分）
+QA　quality assurance　品質保証，精度保証
+QAC　quantitative antiglobulin consumption　抗グロブリン消費量
+QAC　quarternary ammonium compound　第四級アンモニウム化合物
+QALY　quality adjusted life year　QOL補正生存期間
+QAP　quality assurance program　品質保証プログラム
+QAS　quality adjusted survival time　QOL補正生存期間
+Qave　average flow rate　平均尿流量（率）
+qBH2　quinonoid dihydrobiopterin　キノノイドジヒドロビオプテリン
+QC　quality control　品質管理，精度管理
+QCA　quantitative coronary arteriography　定量的冠状動脈造影
+Q cell　quiescent cell　静止細胞
+QCT　quantitative computed tomography　定量的CT
+q. d.　quaque die［ラ］　毎日（処）
+QDR　quantitative digital radiography　二重エネルギーX線吸収測定法\u000021e8DEXA
+QDTA　quantitative differential thermal analysis　温度差解析
+q dx　quantitas duplex［ラ］　２倍量
+QF　quick freeze　急速冷凍
+QFB　Querfinger Breite［独］　横指幅
+Q fever　Queensland fever　Q熱。伝染性の発熱性疾患
+QFM　ultrasonic quantitative blood flow measurement system　超音波定量的血流量測定装置
+Q-fract　quick fraction　急速分画。膜電位
+QFT　QuantiFERON-TB　クオンティフェロン検査（結核感染診断）
+q. h.　quaque hora［ラ］　毎時間（処）
+QI　QI interval　QI時間（心電図）。Q波開始からI音節開始までの時間。高血圧，心筋梗塞，心房細動などで長くなる。
+q.i.d.　quater in die［ラ］，4 times a day　１日４回（処）
+q. m.　quaque mane［ラ］　毎朝
+Qmax　maximal flow rate　最大尿流量（率）
+q. n.　quaque nocte［ラ］　毎夜
+QNB　3-quinuclidinyl benzilate　3-キヌクリジニルベンジラート
+QNC　quinacrine　キナクリン（アテブリン）。抗マラリア剤
+QND　quinidine　キニジン（抗不整脈薬）
+QNS　quantitatively not sufficient　量的に不十分，量不足
+QOD　［ラ］　every other day　隔日
+QOL　quality of life　生命(生活)の質
+QOUH　quality of ulcer healing　潰瘍治療の質
+QR　quantum radiography　量子計数型X線撮影
+QRS　初期心室群(心電図用語)
+QRS　QRS interval　QRS複合(心電図のQRS幅)，QRS期間(時間)(心電図)
+QRZ　Quaddelresorptionszeit［独］　膨疹吸収時間
+QS　QS interval　QS幅（心電図）
+q.s.　quantum sufficit［ラ］　適量（処）
+Qs　shunt flow　シャント血流量
+QSAR　quantitative structure-activity relationship　定量的構造活性相関
+Qs/QT　right to left shunt ratio　肺シャント率
+QS/QT，Qs/Qt　right to left shunt　肺シャント率
+QT　QT interval，QT-Zeit［独］　QT時間。心電図のQ起始部からT波の終りまでの時間(心室収縮時間を示す)
+Qt　Quick's test　クイック試験
+QTC　corrected QT interval　補正QT時間
+Q-test　Queckenstedt test　クエッケンシュテット検査
+quad　quadriplegic　四肢麻痺の
+quadrip　quadriplegia　四肢麻痺
+QUS　quantitative ultrasound　定量的超音波法。超音波の物理的性質を利用して骨密度を定量しようとする測定法

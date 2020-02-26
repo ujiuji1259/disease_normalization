@@ -1,0 +1,96 @@
+Ｗ
+w　water　水
+w　week　週
+w　weight　重量，重さ
+W　white epithelium　白色上皮
+W　wolframium (Tungsten［独］)　タングステン
+w/o，W/O　water in oil (emulsion)　油中水型，油中水型乳剤
+w/v　weight in volume　容積対重量
+w/w　weight in weight　重量対重量
+W☆　white blood cell　白血球。血液中の細胞の一種で，顆粒球，リンパ球，単球の３種類に大別され，顆粒球はさらに好中球，好酸球，好塩基球に分けられる。末梢血の白血球の過半数は好中球が占め，1/3はリンパ球である。好中球と単球は，その食菌性と運動性によって微生物の侵入に対して強力な防御作用を発揮する。抗酸球と好塩基球はアレルギーに関与し，リンパ球は免疫抗体の産生に重要な役割を果たしている。
+WA　when awake　覚醒時
+WAB　Western Aphasia Battery　ウエスタン失語症検査
+WAD　whiplash-associated disorder　外傷性頸部症候群，鞭打ち関連障害
+WAIS☆　Wechsler Adult Intelligence Scale　ウェイス，ウェクスラー成人知能検査
+WAIS-R　Wechsler Adult Intelligence Scale-Revised　ウェクスラー成人知能検査・改訂版
+WAL　Wallal virus　ワラルウイルス
+WAR　Warrego virus　ワレゴウイルス
+WaR　Wassermann reaction　ワッセルマン反応，梅毒補体結合反応検査，梅毒血清反応
+WAR　water-air exposure ratio　水空中照射線量比
+Warf　warfarin　ワルファリン
+WAS　Wiskott-Aldrich syndrome　ウィスコット・オールドリッチ症候群
+WASP　Wiskott-Aldrich syndrome protein　ウィスコット-オールドリッチ症候群蛋白質
+WB　whole blood　全血
+WBC　white blood cell (count)　白血球，白血球数(血液１mm3中の)，白血球数計算
+WBCT　whole blood clotting time　全血凝固時間
+WBGT　wet-bulb-globe temperature　湿球黒球温度指標，熱中症予防の指標
+WBI　whole body irradiation　全身照射
+WBT　waking body temperature　覚醒時体温。一般的には基礎体温と同義で，朝起きてすぐに測った体温
+WBT☆　Wechsler Bellevue Test　ウェクスラー・ベルビュ試験
+WC　whole cell type　全菌体型
+WCCV　White clover cryptic virus　ホワイトクローバークリプティックウイルス
+WCD　Weber-Christian disease　ウェーバー-クリスチャン病
+WCT　whole body computed tomography　全身コンピュータ断層撮影
+WD syndrome　withdrawal syndrome　禁断症候群
+WD syndrome　withdrawal syndrome　離断症状
+Wd　ward　病棟
+WD　well differentiated　高分化の
+WD　wet dressing　湿布，罨法
+WD　Widal reaction　ヴィダール反応
+WDHA syndrome　watery diarrhea, hypokalemia and achlorhydria syndrome　WDHA症候群。水様性下痢・低カリウム血症・胃無酸症
+WDL　well-differentiated lymphocytic　分化リンパ球
+w-DLE　widespread discoid lupus erythematosus　広範囲円板状エリテマトーデス
+wds　wounds　創傷，外傷
+WECPNL　weighted equivalent continuous perceived noise level　加重等価平均知覚騒音レベル
+Wee FIM　functional independence measure for children　子どものための機能自立度評価法
+WEEV　western equine encephalitis virus　西部ウマ脳炎ウイルス
+Weil-Felix　Weil-Felix reaction　ワイルフェリックス反応，W-F反応
+WFS　Waterhouse-Friderichsen syndrome　ウォーターハウス・フリードリッヒ症候群。髄膜炎菌感染による急性副腎不全
+WFS　whistling face syndrome　口笛顔貌症候群
+WG　Wegener's granulomatosis　ウェゲナー肉芽腫症
+WGA　wheat germ agglutinin　小麦胚芽凝集素
+WH　wound hormone　創傷ホルモン
+WHA　Whataroa virus　ワタロアウイルス
+WHAMES　weight, height, appearance, mentality, emotion and sexual development　体重，身長，外貌，知性，性発育。発育障害のある内分泌疾患に対する検査のチェック項目
+WHD　Werdnig-Hoffmann disease　ウェルドニッヒ・ホフマン病。脊髄性筋萎縮症（SMA）の一型で，乳幼児期に発症。常染色体劣性遺伝疾患
+WHO　World Health Organization　世界保健機関。国際連合(UN)の一機関
+WHR　waist hip ratio　ウエストヒップ比率
+WHV　woodchuck hepatitis virus　ウッドチャック肝炎ウイルス
+WHVP　wedged hepatic vein pressure　閉塞肝静脈圧
+WI　watershed infarction　境界域梗塞
+Widal　Widal\u000002bcs reaction　ヴィダール反応
+WIS　wafer inspection system　（光学式）異物検査装置
+WISC☆　Wechsler Intelligence Scale for Child　児童用ウェクスラー知能検査
+WISC-R　Wechsler Intelligence Scale for Children-Revised　ウェクスラー児童用知能検査・改訂版
+WIT　warm ischemic time　温阻血時間
+WK disease　Wilson-Kimmelstiel disease　ウィルソン・キンメルスチール病。糖尿病性腎症
+WL test　waterload test　水負荷試験。下垂体後葉機能検査の一種
+WL　wave length　波長
+WLRT　well leg raising test　交叉下肢伸展挙上試験
+WM　Wad Medani virus　ワドメダニウイルス
+WMS　Wechsler Memory Scale　ウェクスラー記憶検査
+WMS-R　Wechsler Memory Scale-Revised　ウェクスラー記憶検査改訂版
+WN　well nourished　栄養状態良好の
+WN　white noise　白色雑音
+WNAP　whole nerve action potential　全神経活動電位
+WNL　within normal limits　正常範囲内，異常なし
+WNV　West Nile virus　西ナイルウイルス。西ナイル熱は，鳥や哺乳類から蚊を媒介にするウエストナイルウイルスによる感染症。アフリカの風土病だったが，アメリカで多くの感染者を出している。発症率は20％ほどで，頭痛や発熱といった典型的な症状とともに手足が麻痺し，やがて寝たきりや呼吸困難に陥り，わずかだがウエストナイル脳炎を起こして死亡することもある。
+WOC　wound ostomy continence　創傷・オストミー・失禁
+wP　whole cell vaccine　全細胞性百日咳ワクチン。全菌体型百日せきワクチン
+WPB　whirl pool bath　渦流浴。四肢の一部を温水の入った浴槽に入れ，治療が必要な部位に装置から噴出させた渦流を当てることで新陳代謝の促進，疼痛の緩和などを図る治療法
+WPPSI　Wechsler preschool and primary scale of intelligence　ウェクスラー小児知能テスト
+WPT　water provocative test　水負荷試験
+WPW　Wolff-Parkinson-White (syndrome)　WPW症候群，ウォルフ・パーキンソン・ホワイト症候群
+WR　Wassermann reaction　ワッセルマン反応，梅毒補体結合反応検査，梅毒血清反応
+WRC　washed red cell　洗浄赤血球
+W-response　whole response　全反応
+WS　Waardenburg syndrome　ワールデンブルグ症候群。先天性白皮症の一種。常染色体優性遺伝疾患
+WS　Wallenberg syndrome　ワレンベルグ症候群。後下小脳動脈症候群
+WS　water soluble　水溶性，可溶性
+WS　Wirbels\u000000e4ule［独］　脊柱。頸椎７個，胸椎12個，腰椎５個，それに仙骨，尾骨がついた合計26個の骨が，お互いの間に椎間板というクッションを置いて積み上げられた柱の総称。右側面から見るとS字状に彎曲している。これらを部位により，頸部彎曲，胸部彎曲，腰部彎曲，仙尾彎曲などという。椎骨の背側には脊髄を通す孔（椎孔）がある。この孔を取り巻いて椎弓があり，その背側に棘突起，左右に横突起，上下に関節突起が出ている。
+Wt　weight　体重
+WT　Wilms tumor　ウィルムス腫瘍，腎芽細胞腫，腎芽腫。腎に発生する腎芽細胞に由来する胎児性腫瘍。
+WT1mRNA　Wilms\u000002bc tumor gene 1 mRNA　ウィルムス腫瘍1遺伝子のmRNA
+WTPCF　whole Treponema pallidum component fixation (test)　全梅毒トレポネーマ補体結合(試験)
+WTV　Wound tumor virus　ウンドチュウモアウイルス
+WWS　Walker-Warburg syndrome　ウォーカー-ワールブルグ症候群

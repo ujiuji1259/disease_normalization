@@ -1,0 +1,469 @@
+Ｇ
+G　Gaffky scale　ガフキー号数。喀痰抹標本の結核菌数を示すもの
+G　gallop　ギャロップ，奔馬律
+G　gamma-globulin　ガンマグロブリン
+G　ganglion　結節腫，ガングリオン，神経節
+G　gas　気体
+G☆　gastric juice　胃液。食べた物を消化するために胃内に分泌される液体。胃底腺粘膜のある胃の壁細胞からは塩酸と内因子が，主細胞からはペプシノーゲンが分泌される。副細胞からは蛋白，ムコ多糖，糖蛋白を含む粘液が分泌され粘膜を保護し，胃壁が自己消化されるのを防いでいる。
+G　gauge　規格，基準，計器
+G　giga　ギガ（109）
+G☆　gingivitis　単純性歯肉炎（歯)
+G　globular　球状の
+G　globulin　グロブリン
+G　glomerulus　糸球体
+G☆　glucose　ブドウ糖注射液。例　20％G 20mL
+G　glutamate　グルタミン酸塩
+G　glyoxylic acid　グリオキサル酸
+G　Golgi apparatus　ゴルジ体
+G　gonadotropin　ゴナドトロピン，性腺刺激ホルモン
+G　gonococcus（＝GC）　淋菌，ナイセリアゴノロエエ
+G　good　良
+g　gram　グラム
+G　granule　顆粒
+G　granulocyte　顆粒細胞，顆粒球。顆粒球とは，白血球のうち原形質内に特殊な顆粒を有するもので，染色性により好中球，好酸球，好塩基球に分けられる。末梢白血球の過半数を占める好中球は，単球とともに生体の防衛に当たり，細菌異物などが侵入した際にこれを捕捉し，酵素作用により異物を溶解する。好酸球はアレルギーとアナフィラキシーに関与している。顆粒球の著明な減少は顆粒球減少症として重篤な感染を引き起こす。
+G　gravida［ラ］　経妊回数。graviditas　妊娠
+G　guanidine　グアニジン
+G　guanine　グアニン
+G　ventricular gradient　心室グラディエント。心筋の興奮の不均一性を示す
+G-14　gastrin-14　ガストリン14。ガストリンは胃粘膜に存在し，胃酸分泌を刺激する消化管ホルモンの一つ。食物が胃および十二指腸内に到達することで化学的刺激が起こり，幽門前庭部にあるG細胞からガストリンが血中に放出され，胃液の分泌を促進させる。ガストリンには胃粘膜成長促進作用もあり，食道と胃の移行部の筋に作用して収縮させ，内腔を閉ざす作用もある。
+G-17　gastrin-17　ガストリン17
+G1，G2　gap　細胞分裂のG期
+G1P　glucose-1-phosphate　ブドウ糖一リン酸
+G-34　gastrin-34　ガストリン34
+G3P　glucose-3-phosphate　ブドウ糖三リン酸
+G3P　glyceraldehyde 3 phosphate　グリセルアルデヒド三リン酸
+G3PD　glyceraldehyde-3-phosphate dehydrogenase　グリセルアルデヒド三リン酸脱水素酵素
+G6　hexachlorophene　ヘキサクロロフェン（皮膚消毒剤）
+G6P　glucose-6-phosphate　ブドウ糖-6-リン酸
+G-6-Pase　glucose-6-phosphatase　ブドウ糖-6-リン酸酵素テスト
+G-6-PDH　glucose-6-phosphate dehydrogenase　グルコース-6-リン酸脱水素酵素，ブドウ糖6-リン酸脱水素酵素
+GA☆　歯齦膿瘍（歯)
+Ga　gallium　ガリウム
+GA　gastric analysis　胃液検査。ガストリン，ヒスタミン，カッチ—カルク液などで分泌を刺激し，分画採取した胃液を用いた検査。早朝空腹時，胃ゾンデで採取する。
+GA　gauge (of needles)　針の標準規格
+GA　general anesthesia　全身麻酔。麻酔剤を中枢神経に働かせて麻酔状態を起こす方法。意識喪失，全身の知覚除去・筋肉弛緩を目的に行われる。全身麻酔は，吸入・静脈・筋注・直腸の４種に大別される。吸入麻酔は使用が可逆的で，意のままになるという点が大きな利点で，広く行われている。静脈麻酔は調節性は少ないが使いやすく，速やかに意識がなくなるので患者にとっては受け入れやすいという利点がある。筋注麻酔では，単独でも小手術が行えるためよく使用されているが，麻酔深度の調節性は他の方法に劣る。直腸内麻酔は，主として基礎麻酔に用いられる。
+GA　general appearance　全身症状
+GA　glutaraldehyde　グルタルアルデヒド
+GA，GALB　glycoalbumin　グリコアルブミン
+GA　glycyrrhetic acid　グリシレチン酸
+GA　granuloma annulare　環状肉芽腫
+GA1　asialo GM1　アシアロGM1
+GAA　guanidino acetate acid　グアニジノ酢酸
+GABA　γ-aminobutyric acid　ガンマアミノ酪酸
+GABOB　gamma-amino-beta-hydroxy-butyric acid　γ-アミノ-β-ヒドロキシ酪酸
+GAD　(general) acyl-coadehydrogenase　アシル基脱水素酵素
+GAD　generalized anxiety disorder　全般性不安障害
+GAD　glutamic acid decarboxylase　グルタミン酸デカルボキシラーゼ。グルタミン酸からGABAを合成する酵素
+GAF　Global Assessment of Functioning　機能の全体的評定
+GA-FeSV　Gardner-Arnstein feline sarcoma virus　ガードナー-アーンシュタインネコ肉腫ウイルス
+GAG　glycosaminoglycan　グリコサミノグリカン
+GAG　group specific antigen　群特異性抗原
+Gal　galactose　ガラクトース。乳製品や甜菜（テンサイ）などに天然に存在する甘味料の一つ。ヒトの体内でも合成され，糖蛋白質や糖脂質の糖鎖の一部を形成する。
+GAL　galactosidase　ガラクトシダーゼ
+Gal-Act　galactase activator　ガラクターゼ活性物質
+GalNAc　N-acetylgalactosamine　N-アセチルガラクトサミン
+GalT　galactosyltransferase　ガラクトース転移酵素
+GALT　gut-associated lymphoid tissue　腸管関連リンパ組織
+Gal TT　galactose tolerance test　ガラクトース負荷試験
+GAMIN　Guilford-Martin personality inventory for factors　ギルフォード・マーチン人格目録。Y-G性格検査の元となった臨床心理検査法の一つ
+gang　ganglion　結節腫，ガングリオン
+GANS　granulomatous angiitis of nervous system　神経系肉芽腫性血管炎
+GANU　1-(2-chloroethyl)-3-(β-D-gluco-pyranosyl)-1-nitrosourea　1-(2-クロロエチル)-3-(β-d-グルコピラノシル)-1-ニトロソウレア（抗悪性腫瘍薬）
+GAP　glutamine transpeptidase activating protein　グルタミントランスペプチダーゼ活性蛋白
+GAP　glyceraldehyde-3-phosphate　グリセルアルデヒド三リン酸
+GAPD　glyceraldehyde phosphate dehydrogenase　グリセルアルデヒドリン酸脱水素酵素
+GAPDH　glyceraldehyde-3-phosphate dehydrogenase　グリセルアルデヒド三リン酸脱水素酵素
+GAPS　phosphoribosyl glycineamide synthetase　ホスホリボシルグリシンアミド合成酵素
+GARG　gargling　含嗽
+GAS　general adaptation syndrome　汎適応症候群。ストレスの原因となる刺激に対する生体の全身適応反応
+GAS　generalized arteriosclerosis　全身動脈硬化症
+gast　gastric　胃の
+gast　gastrocnemius　腓腹筋
+gastro　gastrotomy　胃切開術
+GAT　galactosyl transferase associated with tumor　癌関連ガラクトース転移酵素
+GAT　γ-aminobutyric acid transporter　γ-アミノ酪酸輸送体
+Gaw　airway conductance　気道コンダクタンス
+GB　gallbladder　胆のう(嚢)。胆汁の濃縮と貯蔵を行う器官。頸部，体部，底部に分けられ，頸部は胆管と結合し胆嚢管となる。肝臓から送られた胆汁の水分や塩分を吸収し1/5から1/10に濃縮したあと，粘液を加えて食物摂取時に十二指腸に送り出す。
+GB　gallbladder examination　胆嚢造影検査
+Gb　specific gravity of blood　全血比重\u000021e8Gp
+GBA　guanidinobutyric acid　グアニジノ酪酸
+GBd☆　歯肉包帯（歯)
+GBF　gastric blood flow　胃血流量
+GBM　glomerular basement membrane　糸球体基底膜
+GBP　gabapentin　ガバペンチン（抗てんかん薬）
+GBP　glucocorticoid binding protein　蛋白結合糖質コルチコイド
+GBR　guided bone regeneration　骨組織誘導再生法（歯）
+GBS　gallbladder series　胆嚢系
+GBS　group B Streptococcus　B群連鎖球菌
+GBS　Guillain-Barr\u000000e9 syndrome　ギラン・バレー症候群
+GBSI　group B streptococcal infection　B群連鎖球菌感染症
+GBS scale　Gottfries-Brane-Steen scale　老年期認知症行動評価尺度
+GBV　GB virus　GBウイルス，G型肝炎ウイルス
+GC　galactocerebroside　ガラクトセレブロシド
+GC　gas chromatography　ガスクロマトグラフィー
+GC　gastric cancer　胃癌。胃に発生した癌腫。症状は初期にはほとんど無症状であり，進行するにつれて心窩部の鈍痛，不定の膨満感，胸焼け，悪心，食欲不振などが出現。さらに進行すると貧血，るいそう（皮下脂肪の著明な減少）をもたらす。下痢・下血・吐血があることもある。
+GC　glucocorticoid　糖質コルチコイド
+GC　glycocholic acid　グリココール酸。抱合胆汁酸の一種
+GC　Golgi complex　ゴルジ体，ゴルジ装置，ゴルジ複合体，内網装置
+GC　gonococcus　りん菌(淋菌)。ナイセリア属のグラム双球菌。湿った部位を好み，主として人体の粘膜で増殖する。尿道，口中，喉，肛門の中，結膜などで増殖するほか，女性の場合は生殖器官で増殖する。淋菌感染症は性的接触によって広がる。
+GC　gonococcus (agar medium)　GC(寒天培地)
+GC　guanidino compounds　グアニジノ化合物
+GCA　gastric cancer antigen　胃癌抗原
+GCA　giant cell arteritis　巨細胞動脈炎，側頭動脈炎，ホートン動脈炎。結節性動脈周囲炎の一種
+GCC　germinal center cell　胚中心細胞
+GCC　glassy cell carcinoma　子宮頸部すりガラス細胞癌
+GCDC　glycochenodeoxycholic acid　グリコケノデオキシコール酸
+G-cell　gastric cell　ガストリン分泌細胞。主に胃の幽門前庭部に存在し，ホルモンのガストリンを分泌する細胞。
+G cell　granulosa cell　顆粒細胞，顆粒膜細胞
+GCF　gingival crevicular fluid　歯肉溝滲出液
+GCFT　gonococcal complement fixation test　淋菌補体結合試験
+GCH Ⅰ　GTP cyclohydrolase Ⅰ　GTPシクロヒドロラーゼⅠ
+GCI　glial cytoplasmic inclusion　グリア細胞質封入体
+GCI　glucose comsumption index　グルコース消費指数
+GCIIS　glucose controlled insulin infusion system　グルコース・コントロール・インスリン注入システム
+GCMF　gas chromatography mass fragmentography　ガスクロマトグラフィー質量分離図
+GC-MS　gaschromatography massspectrometry　ガスクロマトグラフィー質量分析(法)
+GCP　good clinical practice　医薬品の臨床試験の実施に関する基準
+GCS　gianotti-Crosti syndrome　ジアノッティ-クロスティ症候群
+GCS　Glasgow Coma Scale　グラスゴー・コーマ・スケール
+GCS　glucocorticosteroid　副腎皮質ステロイド
+G-CSF　granulocyte colony-stimulating factor　顆粒球コロニー刺激因子
+GCSN　ganglionic cervical sympathetic nerve　頸部交感神経筋
+GCT　giant cell tumor　巨細胞腫
+GCT　granular cell tumor　顆粒細胞腫。良性の非上皮性腫瘍で，消化管などに稀に発生する
+GC type　guanine-cytosine type　グアニン・シトシン型
+GCV　ganciclovir　ガンシクロビル（抗ウイルス薬）
+GCW　glomerular capillary wall　糸球体毛細血管壁
+Gd　gadolinium　ガドリニウム
+GD　gastric devascularization　胃周囲の血行遮断
+GD　gastroduodenal　胃十二指腸の
+GD　good delivery　安産
+GDA　gastroduodenal artery　胃十二指腸動脈
+GDC　glycodeoxycholic acid　グリコデオキシコール酸
+GDC　Guglielmi Detachable Coil　脳動脈瘤コイル塞\_c07717術に用いるコイル
+GDGF　glioma-derived growth factor　神経膠腫由来成長因子
+GDH　glucose-dehydrogenase　ブドウ糖脱水素酵素
+GDH　glutamic acid dehydrogenase　グルタミン酸脱水素酵素
+GDH　glycerophosphate dehydrogenase　グリセロリン酸脱水素酵素
+GDH　growth and development hormone　成長ホルモン
+GDM　gestational diabetes mellitus　妊娠糖尿病
+GDNF　glial cell line-derived neurotrophic factor　グリア細胞由来神経栄養因子
+GDP　guanosine diphosphate　グアノシン二リン酸
+GDPM　guanosine diphosphate mannose　グアノシン二リン酸マンノース
+GDPs　glucose degradation products　グルコース分解産物
+GDR　granulocyte disappearance rate　顆粒球消失率
+GDS　geriatric depression scale　老人性うつ病尺度
+GDS　group D Streptococcus　D群連鎖球菌
+GDU　Gastroduodenum Ulcus［独］，gastro-duodenal ulcer　胃十二指腸潰瘍
+GE　gastroenterostomy　胃腸吻合術。胃切除術や胃・十二指腸バイパス形成術における再建法
+Ge　germanium　ゲルマニウム
+GE　gastroenteritis　胃腸炎
+GE　glycerin enema　グリセリン浣腸
+GEA　gastro-epiploic artery　胃大網動脈
+G Ect☆　歯齦切除術（歯)
+GEDTA　glycol ether diamine tetraacetic acid　グリコールエーテルジアミン四酢酸
+GEF　glycosylation enhancing factor　グリコレーション増強因子
+GEF　gonadotropin enhancing factor　ゴナドトロピン強化因子
+GE junction　gastroesophageal junction　胃食道接合部
+gel　gelatin　ゼラチン
+GEM　gemcitabine　ゲムシタビン（ジェムザール\u000000ae）。抗悪性腫瘍薬
+GEMM-CFU　granulocyte, erythroid, megakaryocyte and macrophage colony forming units　顆粒球，赤血球，巨核球，大食細胞コロニー形成単位
+GEMs　genetically engineered microorganisms　遺伝子組換え微生物
+gen　general　全身の，一般の
+genet　genetic　遺伝の
+GEP　gastro-entero-pancreatic endocrine system　胃-腸-膵内分泌系
+GER　gastric emptying rate　胃内容排出速度
+GER　gastroesophageal reflux　胃食道逆流
+GERD　gastroesophageal reflux disease　胃食道逆流症
+GERL　Golgi associated endoplasmic reticulum lysosome　ゴルジ関連内質性網状リソゾーム
+GES　glucose-electrolyte-solution　ブドウ糖電解質溶液
+GET　gastric emptying time　胃内容排出時間
+GEU　gestation extra uterine　子宮外妊娠
+G/Eレート　granuloid erythroid ratio　顆粒球系・赤芽球系比
+GF　gastrofiberscope　胃ファイバースコープ
+GF　globular-fibrous　球状・線維状の
+GF　glomerular filtration　糸球体濾過
+GF　griseofulvin　グリセオフルビン
+GFAP　glial fibrillary acidic protein　神経膠原線維性酸性蛋白質
+GFLX　gatifloxacin hydrate　ガチフロキサシン（抗菌薬）
+GFR　glomerular filtration rate　糸球体濾過値，腎クリアランステスト
+GFS　gastrofiberscope　胃ファイバースコープ
+GG　gamma-globulin　ガンマグロブリン
+GG　glycylglycine　グリシルグリシン
+GG　granuloma gangrenescens［ラ］　壊疽性肉芽腫
+GG diet　Giordano-Giovannetti diet　ジョルダーノ-ジョヴァネッティ食
+GGE　generalized glandular enlargement　全身性腺腫脹
+GGF　glial growth factor　グリア成長因子
+Ggl　ganglion　ガングリオン（嚢胞），結節腫
+GGO　ground-glass opacity　すりガラス状陰影
+GGS　乾燥スルホ化ヒト免疫グロブリン
+GGT，GGTP　gamma-glutamyl-transpeptidase（＝γ-GTP）　γ-グルタミルトランスペプチダーゼ
+GGTT　glucocorticoid glucose tolerance test　糖質コルチコイド併用糖負荷テスト
+GH　growth hormone（＝STH）　成長ホルモン(下垂体前葉の)。GH定量精密。脳の視床下部で作られ，骨を伸ばしたり筋肉をつくったり体内の様々な化学反応を促進し，体の成長を促す働きをするホルモン。成長期までに成長ホルモンが不足した場合，身長が低いなどの症状の成長ホルモン分泌不全性低身長を患うこともあり，若年期から生活習慣病になりやすいといわれる。
+G-HB　glycosylated hemoglobin　グリコシル化ヘモグロビン
+GHB，GHBA　γ-hydroxybutyric acid　ガンマヒドロキシ酪酸
+GHBP　growth hormone-binding protein　成長ホルモン結合蛋白質
+GHCD　gamma heavy chain disease　ガンマ重鎖病
+GH-IH　growth hormone inhibiting hormone　成長ホルモン分泌抑制ホルモン
+GHK equation　Goldman-Hodgkin-Katz equation　ゴールドマン-ホジキン-カッツの式
+GHND　growth hormone neurosecretory dysfunction　成長ホルモン神経分泌調節不全
+GH-NSD　human growth hormone neurosecretory dysfunction　成長ホルモン神経分泌異常症
+GHQ　general health questionnaire　一般健康質問紙。健康について尋ねるが，精神的な原因から生じる健康上の問題点を調べる。
+GHRF　growth hormone releasing factor　成長ホルモン放出因子
+GHRH　growth hormone regulatory hormone　成長ホルモン調節ホルモン
+GHRH　growth hormone-releasing hormone　成長ホルモン放出ホルモン
+GHRIF　growth hormone release inhibiting factor（＝GIF）　成長ホルモン放出抑制因子，ソマトスタチン
+GHRIH　growth hormone release inhibiting hormone　成長ホルモン放出抑制ホルモン
+GHRP　growth hormone-releasing peptide　成長ホルモン放出ペプチド
+GHS　growth hormone secretagogue　成長ホルモン分泌促進因子
+GHS-R　growth hormone secretagogue receptor　成長ホルモン分泌促進因子受容体
+GI　gastrointestinal　胃腸の，消化管の，胃腸管系
+GI　gill (hohlmass)　ジル。液体の体積単位
+Gi　gips　ギプス
+GI　glucagon insulin　グルカゴン・インスリン
+GI　glucagon immunoreactivity　グルカゴン免疫反応性
+GI　glycemic index　血糖上昇指数
+GI　glycogen index　グリコーゲン指数
+GIA　gastro-intestinal apparatus　胃腸装置
+GI bleeding　gastrointestinal bleeding　消化管出血
+GICA　gastrointestinal carcinoma antigen　消化器癌抗原
+GID　gender identity disorder　性同一性障害
+GIF　gastrointestinal fiberscope　消化管ファイバースコープ
+GIF　glycosylation inhibiting factor　グリコシレーション阻害因子
+GIF　glycyrrhizin iron colloid　グリチルリジン鉄コロイド
+GIF　growth hormone inhibiting factor　成長ホルモン分泌抑制因子
+GIFT　gamete intrafallopian fransfer　卵管内胚細胞移植，卵管内配偶子移植
+GIH　gastrointestinal hemorrhage　胃腸管出血，消化管出血
+GIh　growth hormone release inhibiting hormone　成長ホルモン放出抑制ホルモン
+GIH，GI hormone　gastrointestinal hormone　消化管ホルモン
+GII　gastrointestinal infection　消化管感染
+GIK　Glucose, Insulin, Kaliumchlorid［独］　グルコース・インスリン・塩化カリウム。ショック時の混合輸液
+GIL　graftinfiltratinglymphocytes　移植片浸潤性リンパ球
+GIP　gastric inhibitory peptide　胃抑制ペプチド
+GIP　gastric inhibitory polypeptide　胃抑制性ポリペプチド，胃酸分泌抑制ホルモン
+GIP　giant cell interstitial pneumonia　巨細胞性間質性肺炎
+GIP　glucose-dependent insulinotropic peptide　グルコース依存性インスリン分泌刺激ポリペプチド
+GIS　舌炎（歯)
+GIS　gastrointestinal system　胃腸系，消化管
+GIST　gastrointestinal stromal tumor　消化管間葉性腫瘍，消化管間質腫瘍，胃粘膜下腫瘍
+GIT　gastrointestinal tract　消化管。口から肛門までの全長約９mの中空の器官で，口腔，咽頭，食道，胃，小腸，大腸から構成される。消化管壁内には消化液などを分泌する腺組織がある。
+GIT　gastrointestinal tumor　消化器腫瘍
+GITN　glomerulo-tubulo-nephritis　糸球体細尿管腎炎
+GITT　glucose insulin tolerance test　ブドウ糖-インスリン負荷試験
+GJ　gastrojejunostomy　胃空腸吻合術。ビルロートⅡ法やブラウン吻合など
+GJP　generalized juvenile periodontitis　広汎型若年性歯周炎
+GK　galactokinase　ガラクトキナーゼ
+GK　glucokinase　ブドウ糖酵素
+GK　glycerol kinase　グリセロールキナーゼ
+GKS　gamma knife surgery　ガンマナイフ治療
+Gl　glaucoma（＝glc）　緑内障。あおそこひ。房水の流れが阻害されることで眼圧調整機能が侵され，眼圧が急激にあるいは徐々に上昇して眼内の循環，栄養状態が害され，視機能を障害するようになった状態のこと。原発緑内障と続発緑内障に大別される。原発緑内障は，隅角緑内障，閉塞隅角緑内障と先天性緑内障に分類される。
+GL　glucose　グルコース，ブドウ糖。天然に多量に存在する六炭糖。植物界ではセルロースや殿粉の構成成分として，動物界ではグリコーゲンの構成成分として存在する。血液中に血糖として存在し，生体内では解糖経路を経て分解される。このグルコースが高値を示す疾患として糖尿病などがある。
+GL　glucuronolactone　グルクロノラクトン
+GL　glycogen　グリコーゲン，糖質
+GL　glycyrrhizin　グリシリジン
+GLA　glucagon activity　グルカゴン活性
+Gla　glutamic acid（＝GLU）　グルタミン酸
+Gla，GLA　γ-carboxyglutamic acid　γ-カルボキシグルタミン酸
+GLC　gas liquid chromatography（＝GC）　気・液分配モードのガスクロマトグラフィー，気液(ガス液体)クロマトグラフィー
+glc　glaucoma（＝Gl）　緑内障
+Glc　glucose（＝GL，Glu）　ブドウ糖
+Glc　glycerol　グリセロール。glycerin　グリセリン
+GlcNAc　N-acetylglucosamine　N-アセチルグルコサミン
+GlcU　glucuronic acid　グルクロン酸
+GLDH　glutamate (glutamic）dehydrogenase　グルタミン酸脱水素酵素
+GL enzyme　glycosaminoglycanlyase　グリコサミノグリカン分解酵素。ヒアルロニダーゼ
+Gl，Glob　globulin　グロブリン。抗原と結合する抗体として働くタンパク質の総称。分子ごとに変異を作り出し，多様な抗原に結合することで，抗原結合領域と変異のない定常領域から形成される。構造の違いによってIgG，IgA，IgM，IgD，IgEの５種類のクラスに分類され，クラスごとに異なった特異機能をもっている。
+GLI　glucagon-like immunoreactive material　グルカゴン様免疫反応物質
+GLL　granular lymphocytic leukemia　顆粒リンパ球性白血病
+Gln　glutamine　グルタミン
+GLP　glucagon-like peptide　グルカゴン様ペプチド
+GLP　glycolipoprotein　糖リポ蛋白
+GLP　Good Laboratory Practices　優良試験所基準。医薬品の製造と品質管理に関する実践規範
+GLPD　granular lymphocyte-proliferative disorder　顆粒リンパ球増多症
+GLRA1　glycine receptor α1-subunit　グリシン受容体α1サブユニット
+Glu　glucose（＝GL，Glc）　ブドウ糖，グルコース
+GLU，Glu　glutamic acid　グルタミン酸，酸性アミノ酸
+GLUT　gluccose transporter　糖輸送担体，糖質転送蛋白，糖トランスポーター
+gly　glycerol　グリセロール（グリセリン）
+Gly　glycine　グリシン。化学構造の最も単純なアミノ酸
+gly　glycogen（＝GL）　グリコーゲン，糖質
+glyc　glycerin（＝Glc）　グリセリン（グリセロール）
+GLYT　glycine transporter　グリシントランスポーター
+Gm　allotype marker on human immunoglobulin G　ヒト免疫グロブリンGの異種型マーカー
+GM　gabexate mesilate　メシル酸ガベキサート
+GM　gastric motility　胃の運動性
+GM　Geiger-M\u000000fcller counter　ガイガー・ミュラー計数管。放射線を計測する代表的な計数管で，ガイガー・カウンターとも呼ばれる。
+GM　general medicine　一般医療
+GM　gentamicin sulfate　硫酸ゲンタマイシン(ゲンタシン)，アミノグリコシド系抗生物質
+GM　grand mal　大発作（てんかん）
+Gm　granulocyte mitosis　顆粒球染色体分裂像
+GM　immunoglobulin types　免疫グロブリン型
+GMA　glycol methacrylic acid　メタクリン酸グリコール
+GMB　gastric mucosal barrier　胃粘膜関門
+GM-CFC　granulocyte-macrophage colony forming cells　顆粒球マクロファージコロニー形成細胞
+GM-CFU　granulocyte-macrophage colony forming unit　顆粒球マクロファージコロニー形成単位
+GM-CSF　granulocyte macrophage colony stimulating factor　顆粒球マクロファージコロニー刺激因子
+GMF　glial maturation factor　グリア成熟因子
+GMFCS　gross motor function classification system　粗大運動能力分類システム
+GM-like SSc　generalized morphea-like systemic sclerosis　非定型的全身性強皮症
+GMP　glucose monophosphate　ブドウ糖一リン酸
+GMP　Good Manufacturing Practices　優良医薬品製造基準。医薬品の製造と品質管理に関する実践規範
+GMP　guanosine monophosphate　グアノシン一リン酸
+GMS　glycerine monostearate　モノステアリン酸グリセリン
+GN　glomerulonephritis　糸球体腎炎
+Gn　gonadotropin　ゴナドトロピン
+GN　guanethidine　グアネチジン
+GNB　Gram-negative bacilli　グラム陰性桿菌，単数はbacillus
+GNC　Gram-negative cocci　グラム陰性球菌，単数はcoccus
+G/N，G/N R　glucose nitrogen ratio　ブドウ糖窒素比
+GnRBI　gonadotropin receptor binding inhibitor　性腺刺激ホルモン受容体結合抑制因子
+GnRH　gonadotropin releasing hormone　性腺刺激ホルモン放出ホルモン
+GnRHa　gonadotropin releasing hormone analog　性腺刺激ホルモン放出ホルモンアナログ化合物
+GNT　giant negative T　巨大陰性T波
+Go　gonion　ゴニオン
+Go　gonorrhea　淋疾
+go　gore　流血，凝血
+GO(D)　glucose oxidase　グルコース酸化酵素
+GOE　gas-oxygen-ether anesthesia　笑気エーテル麻酔(混合吸入麻酔)
+GOF　gas-oxygen-fluothane anesthesia　笑気フローセン麻酔(混合吸入麻酔)
+GOI　gas-oxygen-isoflurane　笑気イソフルラン麻酔
+GOK　God only knows　診断不明
+GOLD　generalized obstructive lung disease　全般閉塞性肺疾患
+GOLD　Global Initiative for Chronic Obstructive Lung Disease　慢性閉塞性肺疾患の国際的ガイドライン
+gono　gonococcus　淋菌
+GOP　gas-oxygen-penthrane anesthesia　笑気ペントレン麻酔
+GOR　Gabriel-origo-dT-random hexanucleotid　ガブリエルオリゴ-dT-ランダムヘキサヌクレオチド。C型肝炎ウイルスマーカーの一つ
+GOS　galactose oxidase-Schiff (reaction)　ガラクトース・オキシダーゼ・シッフ反応
+GOS　gas-oxygen-sevoflurane　笑気セボフルラン麻酔
+GOS　Glasgow Outcome Scale　グラスゴー転帰尺度
+GOT☆　glutamic oxaloacetic transaminase　グルタミン酸オキサロ酢酸トランスアミナーゼ。最近はAST（アスパラギン酸アミノトランスフェラーゼ：aspartate aminotransferase）とも呼ばれる。グルタミン酸とオキサロ酢酸との間に作用する酵素である。GOTはヒト組織中には心筋に最も多く，次に肝臓に多く含まれている。
+GOTS　great occipito-trigemial syndrome　大後頭三叉神経症候群
+GOT・アイソ　glutamic oxaloacetic transaminase isozyme　グルタミン酸オキサロ酢酸トランスアミナーゼ・アイソザイム検査
+GP☆　歯肉整形術（歯)
+GP　general paresis　進行性麻痺
+GP　general practitioner　一般医，(内科)一般開業医
+GP　glomerular pressure　糸球体圧
+GP　glutathione peroxidase　グルタチオン過酸化酵素
+GP　glycoprotein　糖蛋白
+GP　Goldmann perimeter　ゴールドマン視野計
+GP　grasping power　握力
+GP　phosphoglycomutase　リン酸グリコムターゼ
+GP　specific gravity of plasma　血漿比重
+GPB　glossopharyngeal breathing　舌咽呼吸。肺活量を増やすため患者自身が行う代償的な呼吸方法。口に空気を貯めて舌と喉の力で肺に送り込む
+GPB　Gram-positive bacillus　グラム陽性杆菌
+GPB　Gram-positive bacteria　グラム陽性菌
+GPC　giant papillary conjunctivitis　巨大乳頭結膜炎
+GPC　Gram-positive coccus　グラム陽性球菌
+GPCR　G protein-coupled receptor　G蛋白質共役受容体
+GPDH　α-glycerophosphate dehydrogenase　αグリセロリン酸脱水素酵素
+GPF　glial promoting factor　グリア促進因子
+GPF　granulocytosis-promoting factor　顆粒球増多因子
+GPI　glucose phosphate isomerase　グルコースリン酸イソメラーゼ
+Gpm　phosphoglucomutase　リン酸グルコムターゼ
+GPO　glycerin 1-phosphate-oxydase　グリセリン-1-リン酸酸化酵素
+GPS　gray platelet syndrome　灰色血小板症候群
+GPSP　Good Post-marketing Study Practice　医薬品製造販売後調査・試験の実施基準
+GPT☆　glutamic pyruvic transaminase　グルタミン酸ピルビン酸転移酵素。最近はALT（アラニンアミノトランスフェラーゼ：alanine　amino‐transferase）とも呼ばれる。グルタミン酸とピルビン酸の間に作用する酵素である。GPTはヒト組織中には肝臓に最も多く含まれている。
+GpTh　group therapy（＝GT）　集団療法
+GPX　glutathione peroxidase　グルタチオンペルオキシダーゼ
+GR　glucocorticoid receptor　糖質コルチコイド受容体
+GR　glutathione reductase　グルタチオン還元酵素
+GR　glycyrrhizin　グリチルリチン
+GRA　glucocoticoid-remediable aldosteronism　糖質コルチコイド反応性アルドステロン症
+grad.　gradatim［ラ］　徐々に（処）
+GRD　β-glucuronidase　βグルクロニダーゼ
+GRE　glucocorticoid responsive element　グルココルチコイド感応部位
+GRE　gradient echo　勾配エコー
+GRF　gonadotropin releasing factor　性腺刺激ホルモン放出因子
+GRF　griseofulvin　グリセオフルビン（抗真菌薬）
+GRF　growth hormone releasing factor　成長ホルモン放出因子
+GRH　gonadotropin releasing hormone　性腺刺激ホルモン放出ホルモン
+GRH　growth hormone-releasing hormone　成長ホルモン放出ホルモン
+grn　granules　顆粒
+gRNA　guide RNA　ガイドRNA
+GRNX　garenoxacin　ガレノキサシン（キノロン系経口抗菌剤）
+GRP　gastrin-releasing polypeptide　ガストリン放出ポリペプチド
+GRP　glucose-regulated protein　グルコース調節蛋白質
+GRR　gross reproduction rate　総再生産率
+GRTH　generalized resistance to thyroid hormone　全身型甲状腺ホルモン不応症
+GS　gallstone　胆石症\u000021e8chole
+GS　Gaummenspalte［独］　口蓋裂
+GS　gestational sac　胎嚢
+GS　gestational stage　妊娠期
+GS　Gilbert\u000002bcs syndrome　ジルベール症候群
+GS　granulo cysteinsubstance　顆粒球様システイン物質
+GSA　general somatic afferent　一般体性求心性
+GSA　guanidino succinic acid　グアニジノコハク酸
+GSANF　granulocyte specific antinuclear factor　顆粒球特異抗核因子。抗核抗体
+GSC　gas solid chromatography　ガス固体クロマトグラフィー
+GSD　genetically significant dose　遺伝有意線量
+GSD　glycogen storage disease　グリコーゲン蓄積病
+GSE　general somatic efferent　一般体性遠心性
+GSH　glucocorticoid suppressible hyperaldosteronism　糖質コルチコイド抑制高アルドステロン症
+GSH　glutathione　グルタチオン
+GSH-P　glutathione peroxidase　グルタチオン過酸化酵素
+GSK-3　glycogen synthase kinase-3　蛋白質リン酸化酵素
+GSL　goniosynechialysis　隅角\_c07803着解離術
+GSR　galvanic skin reflex (response)　電気皮膚反射(反応)
+GSS　Gerstmann-Str\u000000e4ussler Scheinker syndrome　ゲルストマン・シュトロイスラー・シャインカー症候群
+GSSG　oxiglutatione　オキシグルタチオン（眼科用剤）
+GST　glutathione S-transferase　グルタチオンS-トランスフェラーゼ
+GST　gold sodium thiomalate　金チオリンゴ酸ナトリウム（抗リウマチ薬）
+GST-P　glutathione S-transferase placental form　グルタチオンS-トランスフェラーゼ胎盤型
+GSTπ　glutathione S-transferaseπ　グルタチオンS-トランスフェラーゼπ
+GSW　gunshot wound　銃創
+GT　galanthamin　ガランサミン（アルカロイド）。コリンエステラーゼ抑制剤
+GT　globe thermometer　黒球温度計，グローブ温度計
+GT　granulation time　顆粒形成時間
+GT　granulation tissue　肉芽組織
+GT　group therapy（＝GpTh）　集団療法
+GTB　glomerulotubular balance　糸球体尿細管バランス
+GTC，GTCS　generalized tonic-clonic seizure　全般性強直間代発作
+G-test　gonadotropin stimulating test　ゴナドトロピン刺激テスト
+GTF　gastrocamera with fiberscope　ファイバースコープ付き胃カメラ
+GTF　glucose tolerance factor　耐糖能因子。耐糖能を正常に維持する有効なクロム化合物
+GTG　gut-type glucagon　腸管型グルカゴン
+GTH　gestational transient hyperthyroidism　妊娠時一過性甲状腺機能亢進症
+GTH，GTP　gonadotropic hormone, gonadotropin　性腺刺激ホルモン
+GTN　gestational trophoblastic neoplasia　妊娠性絨毛性腫瘍
+GTN　glomerulo-tubulo-nephritis　糸球体細尿管腎炎
+GTN　glyceryl trinitrate　三硝酸グリセリン
+GTP　gonadotropin（＝G）　性腺刺激ホルモン
+GTP　guanosine triphosphate　グアノシン三リン酸
+GTR　granulocyte turnover rate　顆粒球交替率
+GTR　guided tissue regeneration　組織再生誘導法。歯周組織再生療法の一つ。骨が失われた部位に膜を張ることで歯周組織が回復するためのスペースを確保する方法
+GTS　Gilles de la Tourette syndrome　ジルデラ・ツレット症候群
+GTS　glucose transport system　ブドウ糖輸送系
+GTT　glucose tolerance test　ブドウ糖負荷試験(耐糖試験)
+gtt.　gutta, guttae［ラ］　滴数
+GTTS　guttas［ラ］　滴(複数)を（処)
+GTV　gross tumor volume　肉眼腫瘍体積
+GU　gastric ulcer　胃潰瘍。胃壁の粘膜下組織まで損傷した潰瘍。病因は胃液（胃酸，ペプシン）の過剰分泌，組織抵抗の減弱など。心窩部痛，空腹時痛がみられる。出血のある場合は低色素性貧血，潜血便がみられる。
+GU　gastroduodenal ulcer　胃十二指腸潰瘍
+GU　genito-urinary　生殖・泌尿器。生殖器は，生殖を司る臓器。生殖腺（性腺），輸出道，付属腺，交接器に分けられる。男性の生殖器は，精巣，精管，精嚢，前立腺，尿道球腺，陰茎，精巣を包む陰嚢から成る。女性の生殖器は，卵巣，卵管，子宮，膣，大前庭腺，外性器の外陰部から成り，しばしば哺育期の乳腺を加えることもある。
+GU　glycogenic unit　グリコーゲン合成単位
+GU　gonococcal urethritis　淋菌性尿道炎
+GU　guanase　グアナーゼ測定
+Gua　guanine　グアニン。プリン塩基の一つで，核酸の構成成分
+GUK　guanylate kinase　グアニル酸キナーゼ
+Guo　guanosine　グアノシン
+GUS　β-glucuronidase　βグルクロニダーゼ
+Guパスタ☆　クレオドンパスタ（歯)
+GV　germinal vesicle　卵核胞
+GV　guidance value　ガイダンス・バリュー
+GVA　general visceral afferent　一般内臓求心性
+GVE　general visceral efferent　一般内臓遠心性
+GVF　good visual fields　正常視野
+GVHD　graft versus host disease　輸血後移植片対宿主病。組織適合性のない二者間で輸血が行われた場合に，輸血血液に混入したリンパ球が受血者を非自己と判断して受血者体内で増殖し拒絶反応を示すことがあり，そのときに生じる病態。症状としては輸血後１〜２週間で発熱・紅斑，さらに肝障害，下痢，汎血球減少が進行し，これに伴い出血・感染症がみられ，発症すると死亡率は90％以上となる。
+GVHR　graft-versus-host reaction　移植片対宿主反応
+GVL　graft-versus-leukemia　移植片対白血病
+GVN　gentamicin, vancomycin, nystatin　ゲンタマイシン，バンコマイシン，ナイスタチン。抗生物質の組み合わせ
+GVP　good vigilance practice　医薬品製造販売後安全管理の基準
+GVT　graft-versus-tumor効果　抗腫瘍効果
+Gvty　gingivectomy　歯肉切除術
+GX　flagella　鞭毛。細菌
+GXT　graded exercise test　段階的運動テスト
+Gy　gray　グレイ。放射線の単位
+gyn　gynecological　婦人科の
+G-Zellen　Gastrinzellen［独］　ガストリン細胞
+G-イエキ☆　胃液検査

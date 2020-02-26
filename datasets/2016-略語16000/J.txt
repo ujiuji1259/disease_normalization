@@ -1,0 +1,62 @@
+Ｊ
+J　J blood factor　ジェー血液因子
+J　jejunum　空腸
+J　joint　関節
+J　Joule\u000002bcs equivalent　ジュール(エネルギー，仕事，熱量などの単位)，１J＝１kgm2/sec2＝107erg
+JALSG　Japan Adult Leukemia Study Group　日本成人白血病治療共同研究グループ
+JAN　Japanese Accepted Names for Pharmaceuticals　日本医薬品一般名称
+JART　Japanese Adult Reading Test　知的機能の簡易評価
+JAS　Japanese Agriculture & Forestry Standard　日本農林規格
+JAS　Japanese Antibiotic Standard　日本抗生物質医薬品基準
+JAS　Jenkins activity survey　ジェンキンス活性調査（測量）
+JATEC　Japan Advanced Trauma Evaluation and Care　日本外傷初期診療ガイドライン
+jaund　jaundice　黄疸
+JBE　Japanese B encephalitis　B型日本脳炎
+JCA　juvenile chronic arthritis　若年性慢性関節炎
+JCF　juvenile calcaneal fracture　若年性踵骨骨折
+J chain　joining chain　結合鎖，J鎖
+JCML　juvenile chronic myelocytic leukemia　若年性慢性骨髄性白血病
+JCP　juvenile chronic polyarthritis　若年性慢性多発性関節炎
+JCS　Japan Coma Scale　日本（式）昏睡尺度
+JCV　JC virus　JCウイルス
+JD　jejunal diverticulitis　空腸憩室炎
+JDDST-R　Revised Japanese Version of Denver Developmental Screening Test　改訂日本版デンバー式発達スクリーニング検査
+JD，JDM　juvenile diabetes (juvenile diabetes mellitus)　若年型糖尿病
+JE　Japanese encephalitis　日本脳炎。主に蚊（コガタアカイエカ）によって媒介された日本脳炎ウイルスによって発症するウイルス感染症。
+JEB　junctional epidermolysis bullosa　接合型表皮水疱症
+JEV　Japanese encephalitis virus　日本脳炎ウイルス
+JFS　jugular foramen syndrome　頸静脈孔症候群
+JGA　juxtaglomerular apparatus　傍糸球体装置
+JGC　juxtaglomerular cell　傍糸球体細胞
+JH　juvenile hormone　若年者ホルモン
+JIA　juvenile idiopathic arthritis　若年性特発性関節炎
+JIS　Japanese Industrial Standard　ジス，日本工業規格
+JJ　jaw jerk　顎反射
+JLA　jerk-locked averaging　筋放電トリガー加算平均法
+JLP　juvenile laryngeal papillomatosis　若年者喉頭乳頭腫症
+JM　josamycin　ジョサマイシン（抗菌薬）
+JMML　juvenile myelomonocytic leukemia　若年性骨髄単球性白血病
+JND　just noticeable difference　最小可知差異
+JNPAF　juvenile nasopharyngeal angiofibroma　若年性鼻咽頭血管線維腫
+jnt　joint　結合，関節
+JOD　juvenile-onset type diabetes　若年型糖尿病
+JP　juvenile parkinsonism　若年性パーキンソニズム
+JPB　junctional premature beat　房室接合部性期外収縮
+JPC　junctional premature contraction　房室接合部性期外収縮
+JPS　junctional premature systole　房室接合部性期外収縮
+JPTEC　Japan Prehospital Trauma Evaluation and Care　日本病院前外傷救護ガイドライン
+JRA　juvenile rheumatoid arthritis　若年性関節リウマチ
+JSS　Japan Stroke Scale　日本脳卒中学会・脳卒中重症度スケール（急性期）
+JSS-D　JSS-Depression Scale　日本脳卒中学会・脳卒中うつスケール
+JSS-DE　日本脳卒中学会・脳卒中感情障害（うつ・情動障害）スケール同時評価表
+JSS-E　JSS-Emotional Disturbance Scale　日本脳卒中学会・脳卒中情動障害スケール
+JSS-H　JSS-Higher Cortical Function　日本脳卒中学会・脳卒中高次脳機能スケール
+JSS-M　日本脳卒中学会・脳卒中運動機能障害重症度スケール
+JS unit　Junkman-Schoeller unit (of thyrotropin)　ユンクマン・シェーラー単位。抗甲状腺ホルモンの単位
+jt　joint　結合，関節。junction　結合
+JTP　jugular tympanic paraganglioma　頸静脈鼓室傍神経節腫
+juve　juvenile　若年性の
+juve para　juvenile paralysis　若年性進行麻痺
+JVD　jugular venous distension　頸静脈拡張
+JVP，Jug.　jugular venous pulse　頸静脈波
+JXG　juvenile xanthogranuloma　若年性黄色肉芽腫。生後1〜6カ月に顔面，四肢，体幹等に大小種々の小結節が多発する疾患だが，大半は良性で自然治癒。

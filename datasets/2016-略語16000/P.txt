@@ -1,0 +1,1629 @@
+Ｐ
+P　pack　包。例：３p\u000021e8３包
+P　Pandy reaction　パンディ反応。髄液のグロブリン反応の一つで，神経梅毒や炎症性髄膜炎，多発性根神経炎，脊髄腫瘍，くも膜下閉塞などで陽性となる。
+P　papilla（＝pap）　乳頭
+P　para　経産，出産歴(p・１：出産歴１回)
+P　parietal　頭頂部の
+P　Pasteurella　パスツレラ属。パスツレラ症の起因菌で，イヌ，ネコの口腔内に常在している。
+P　pemphigus［ラ］　天疱瘡
+P　percussion　打診
+p　perforation　穿孔
+p　performance　動作
+P　peritoneum　腹膜。腹腔・骨盤腔の内壁とその腔内にある器官の表面を覆っている膜のこと。内壁を覆っている膜を壁側腹膜といい，臓器の表面を覆っている膜を臓側腹膜という。壁側腹膜と臓側腹膜はつながっており，接続部分は器官に対する脈管・神経の通る間膜であり，この２つの腹膜で覆われている内側を腹膜腔という。
+P　phosphoric acid　リン酸
+P　phosphorus　血清リン(燐)定量
+P　pil, pilulae［ラ］　丸剤
+p　placebo　プラセボ，偽薬
+P　plasma　血漿，細胞質
+P　plasmid　プラスミド。細菌細胞内で宿主染色体とは独立して増殖するDNA。遺伝子工学では特定の遺伝子を組み込んで細菌細胞内で増殖させたりするためのベクター（運び屋）として利用される。
+P　plexus　叢，集網
+P　plica　ひだ，皺襞
+p　polymerase　ポリメラーゼ
+P　polyunsaturated fatty acid　多価不飽和脂肪酸
+P　poor　弱
+P　positive　陽性の，積極的な，正の
+P　poultice　罨法。身体の一部に温熱刺激あるいは寒冷刺激を与えて，病変の治癒の促進，疼痛の緩和，局所の安静などに効果を上げる方法。温罨法と冷罨法がある。
+P　presbyopia (Pb）　老眼
+P　proctos　肛門管
+P　progesterone　プロゲステロン，黄体ホルモン
+P　prolactin　プロラクチン
+P　promethazine hydrochloride［ラ］　塩酸プロメタジン
+P　properdin　プロペルジン
+p　protein　蛋白（質）
+P　Proteus　プロテウス属
+P　Pseudomonas　シュードモナス属
+P　pulse　脈拍
+P☆　puncture　穿刺，穿刺液。穿刺液検査とは，穿刺針を用いて脳脊髄腔，腹腔，胸腔，心膜腔，膀胱，関節腔等などに貯留する液を吸引して，炎症性の病気や悪性腫瘍を疑う病気の診断またはその補助のため，あるいは治療をしている病気の経過を知るために行う検査。
+P　pupil　瞳孔
+P　pyorrhoea alveolaris［ラ］　歯槽膿漏症
+32P　radioactive phosphorus 32　放射性リン(燐)
+P&S　paracentesis and suction　穿刺と吸引法(胸部外科)
+P-1-S　0.1%procaine hydrochloride in normal saline　0.1%塩酸プロカイン食塩液
+P2　pregnanediol　プレグナンジオール
+P3　pregnanetriol（＝Pt）　プレグナントリオール
+P-Ⅲ-P　procollagen Ⅲ peptide　プロコラーゲンⅢペプチド
+P-450　cytochrome P-450　脂溶性基質への酸素添加を行うモノオキシゲナーゼの一種
+P5N　pyrimidine (-5’-) nucleotidase　ピリミジンヌクレオチダーゼ
+PA　alveolar pressure　肺胞内圧
+PA　atrial pressure　心房圧
+PA　palmitic acid　パルミチン酸
+Pa　pancreas　膵臓
+PA　pancreatic amylase　膵アミラーゼ
+PA　paralysis agitans［ラ］　振戦麻痺
+PA　particle agglutination　粒子凝集反応，PA法
+PA　passive agglutination　受身凝集反応
+PA　pernicious anemia　悪性貧血
+PA　phenylalanine（＝Phe）　フェニルアラニン
+PA　phosphatidic acid　ホスファチジン酸
+PA　pipecolic acid　ピペコリン酸
+PA　piromidic acid　ピロミド酸（抗菌薬）
+PA　plasma adsorption　血漿吸着（療法）
+PA　plasminogen activator　プラスミノーゲンアクチベーター
+PA　posterior-anterior　後前方向
+PA　post-operative angina　術後性アンギナ。鼻腔内手術後の急性扁桃炎
+PA　prealbumin　プレアルブミン
+PA　primary aldosteronism　原発性アルドステロン症
+PA　procainamide　プロカインアミド
+PA　prostate antigen　前立腺抗原
+PA　psoriatic arthritis　乾癬性関節炎
+PA　psychoanalyst　精神分析医
+PA　psychogenic aspermia　精神的無精子症
+PA　pulmonary artery　肺動脈。肺循環系の一部を分担する動脈。右心房から起こり，左上方に向かい第４胸椎の高さで大動脈弓の凹部に達し右肺動脈と左肺動脈に分かれる。気管支とともに肺門から肺の中に入り，分岐を繰り返して毛細血管となり，肺胞の壁を灌流する。この動脈を通る血液は身体各部から集まった静脈血である。
+PA　pulmonary atresia　肺動脈閉鎖症
+PAA　phosphono acetic acid　リン酢酸
+PAA　plasma amino acid ratio　血漿アミノ酸比率
+PAA　polyacrylamide　ポリアクリルアミド
+PAA　polyacrylic acid　ポリアクリル酸
+PAB　para-aminobenzoic acid (＝PABA)　パラアミノ安息香酸
+PAB　premature atrial beat　心房性早期収縮
+PAB　pulmonary artery banding　肺動脈絞扼術。心疾患で肺血流が多く肺高血圧症を来している場合，肺高血圧回避のため肺への血流を制限する手術法。
+PABA　p-aminobenzoic acid　パラアミノ安息香酸
+PABP2　poly(A)-binding protein 2　ポリ(A)結合蛋白質２
+PAC　perennial allergic conjunctivitis　通年性アレルギー性結膜炎
+PAC　phenacetin，aspirin，caffeine　フェナセチン・アスピリン・カフェイン。感冒薬として使用
+PAC　pituitary-adrenal medullary　交感神経・副腎髄質系
+PAC　plasma aldosterone concentration　血漿アルドステロン濃度
+PAC　premature atrial contraction　心房性期外収縮
+PACAP　pituitary adenylate cyclase-activating polypeptide　下垂体アデニル酸シクラーゼ活性化ポリペプチド
+PACG　primary angle-closure glaucoma　原発閉塞隅角緑内障
+P. acnes　Propionibacterium acnes　アクネ菌
+PACO2　alveolar carbon dioxide tension　肺胞気炭酸ガス分圧
+PaCO2　arterial carbon dioxide pressure　動脈血炭酸ガス分圧
+PAcP　prostatic acid phosphatase　前立腺性酸性ホスファターゼ
+PACS　picture archiving and communication system　デジタル画像データ伝送システム
+PAD　percutaneous abscess drainage　経皮的膿瘍排膿
+PAD　peripheral arterial disease　末梢動脈疾患
+PAD　phenacetin, aspirin, desoxyephedrine　フェナセチン・アスピリン・デスオキシエフェドリン。感冒薬として使用
+PAD　primary afferent depolarization　一次求心線維脱分極
+PADP　pulmonary arterial diastolic pressure　肺動脈拡張期圧
+PAE　post antibiotic effect　抗生物質有効濃度後効果
+PAEDP　pulmonary artery end-diastolic pressure　肺動脈拡張終期圧
+P. aeruginosa　Pseudomonas aeruginosa　緑膿菌
+Paf　paroxysmal atrial fibrillation　発作性心房細動
+PAF　platelet activating factor　血小板活性化因子
+PAF　platelet agglutinating factor　血小板凝集因子
+PAF　progressive autonomic failure　進行性自律神経障害
+PAF　prostatic antibacterial factor　前立腺抗細菌性因子
+PAF　pulmonary arteriolovenous fistula　肺動静脈瘻
+PAF　pulmonary artery flow　肺動脈血流量
+PAF　pure autonomic failue　純粋自律神経機能不全
+PAG　pelvic angiography　骨盤内血管撮影
+PAG　pelvic arteriography　骨盤動脈撮影
+PAG　periaqueductal gray　中脳水道周囲灰白質
+PAG　periaqueductal gray matter　中脳中心灰白質
+PAG　post-auricular graft　耳介後部皮弁
+PAG　pulmonary angiography　肺血管造影。pulmonary arteriography　肺動脈造影
+PAGE　polyacrylamide gel electrophoresis　ポリアクリルアミドゲル電気泳動法
+PAH　p-aminohippurate sodium　パラアミノ馬尿酸ナトリウム
+PAH　partial artificial heart　部分人工心臓
+PAH　phenylalanine hydroxylase　フェニルアラニン水酸化酵素
+PAH　polycyclic aromatic hydrocarbon　多環芳香族炭化水素
+PAH　polynuclear aromatic hydrocarbon　多核芳香性水酸化炭素
+PAH　pregnancy associated hypertension　妊娠高血圧
+PAH　primary alveolar hypoventilation syndrome　原発性肺胞低換気症候群
+PAH　pulmonary arterial hypertension　肺動脈性肺高血圧症
+PAHA　para-aminohippuric acid　パラアミノ馬尿酸
+PAI　parathyroid activity index　上皮小体活動係数
+PAI　pathogenicity island　外来性遺伝子群
+PAI　plasminogen activator inhibitor　プラスミノーゲンアクチベーターインヒビター
+PAIC　tissue plasminogen activator-plasminogen avtivator inhibitor-1 complex　t-PA・PAI-１複合体
+PAIF　platelet-aggregation inhibition factor　血小板凝集阻止因子
+PAIgG　platelet associated IgG　血小板関連IgG
+PAK　pancreas after kidney transplantation　腎移植後の膵単独移植
+PAK　photoastigmatic keratectomy　レーザー乱視矯正角膜切除術
+PAL　posterior axillary line　後腋窩線
+PAL　pyothorax associated lymphoma　膿胸後リンパ腫
+palp　palpable　触知できる
+PALP　pyridoxal phosphate　リン酸ピリドキサール。ビタミンB6の一つ
+palpi　palpitation　心悸亢進，動悸，心臓急拍症。心拍数が速くなったときに，左前胸部に感じられる拍動を自覚する状態のこと。生理的には，激しい運動や精神の緊張などで起こる。病的には，各種の心疾患（心不全・発作性頻拍など）・肺疾患・発熱・貧血・甲状腺機能亢進症などにみられる。また，ある種の薬物によって起こることもある。
+PALS　pediatric advanced life support　小児二次救命処置法
+PALS　periarteriolar lymphoid sheath　小動脈周囲リンパ鞘
+Palv　pulmonary alveolar pressure　肺胞内圧
+PAM　2-pyridine-2-aldoxime methiodide　ピリジン-アルドキシム-メチオジド。有機リン化合物の解毒薬
+PAM　penicillin with aluminum monostearate in oil　ステアリン酸アルミニウムの油性結晶ペニシリン
+PAM　periodic acid methenamine silver（stain）　過ヨウ素酸メセナミン銀（染色）
+PAM　pralidoxime iodide　プラリドキシムヨウ化メチル（解毒薬）
+PAM　pulmonary alveolar macrophage　肺胞マクロファージ
+PAM　pyridoxamine　ピリドキサミン
+PAMBA　p-aminomethylbenzoic acid　パラアミノメチル安息香酸
+PAMIA　particle mediated immunoassay　粒度分布解析ラテックス免疫測定法
+PAMS　periodic acid-methenamine silver　ペリオジック酸-メテナミン銀
+PAN　periarteritis nodosa（＝PN）［ラ］　結節性動脈周囲炎
+PAN　periodic alternating nystagmus　周期交代性眼振
+PAN　polyacrylonitrile　ポリアクリロニトリル。人工透析膜の素材
+PAN　polyarteritis nodosa（＝PN）［ラ］　結節性多発性動脈炎
+PAN　puromycin aminonucleoside nephrosis　ピューロマイシン腎症。ピューロマイシン（抗生物質）によって発生した腎障害
+PANC　pancreas　膵臓。消化液である膵液と，血糖調節ホルモン（インスリン・グルカゴン）を分泌する臓器。膵液には，タンパク質，脂質，炭水化物を消化する酵素が含まれている。インスリンは，ブドウ糖が筋やそのほかの組織に取り込まれて消費されるのを促進し，血糖値を下げる。反対に，グルカゴンは肝臓のグリコゲンの分解を促進して血糖値を高める。
+P-ANCA　perinuclear ANCA　核周囲のANCA
+Panperi　panperitonitis　びまん性腹膜炎
+PANSS　positive and negative syndrome scale　陽性・陰性症状評価尺度
+PAO　peak acid output　最大刺激時酸分泌量
+PAO　polyamine oxidase　ポリアミン酸化酵素
+PAO　pustulotic arthro-osteitis　膿疱症性関節骨炎
+Pao2　partial pressure of O2 in arterial blood　動脈血酸素分圧
+PAOD　peripheral arterial occlusive disease　末梢動脈閉塞性疾患
+PAOD　peripheral arteriosclerotic occlusive disease　末梢動脈硬化性閉塞性疾患
+PAP　pancreatitis associated protein　膵炎関連蛋白
+PAP　Papanicolaou test　パパニコローテスト，腟脂膏顕微鏡検査
+pap　papillary adenocarcinoma　乳頭腺癌
+Pap　papilloma　乳頭腫
+PAP　para-aminopropiophenone　パラ・アミノプロピオフェノン。シアン化物中毒の解毒剤
+PAP　percutaneous antegrade pyelography　経皮的順行性腎盂造影。腹臥位にて腰背部より直接腎盂を穿刺し，造影剤を注入して腎盂・尿管を描出する方法
+PAP　peroxidase antiperoxidase　ペルオキシダーゼアンチペルオキシダーゼ
+PAP　positive airway pressure　気道陽圧
+PAP　pregnancy associated protein　妊娠関連蛋白
+PAP　primary atypical pneumonia　原発性異型肺炎，原発性非定型肺炎
+PAP　prostatic acid phosphatase　前立腺酸性ホスファターゼ
+PAP　pulmonary alveolar proteinosis　肺胞蛋白症
+PAP　pulmonary arterial pressure　肺動脈圧
+PAPM/BP　panipenem/betamipron　パニペネム・ベタミプロン（抗菌薬）
+Papova virus　papilloma，polyoma，simian vacuolating virus　パポーバ・ウイルス
+PAPP-A　pregnancy-associated plasma protein A　妊娠関連血漿蛋白A
+pap，papil　papilla（＝P）　乳頭
+PAPS　3'-phosphoadenosine 5'-phosphosulfate　3'-ホスホアデノシン-5'-ホスホ硫酸
+PAP smear　Papanicolaou smear　パパニコロー標本，パパニコロー染色
+PAPVD(R)　partial anomalous pulmonary venous drainage (return)　部分肺静脈還流異常
+PAR　postanesthetic recovery　麻酔後の回復
+PAR　protease-activated receptor　血小板の表面レセプター
+PAR　pulmonary arteriole resistance　肺小動脈抵抗
+Para　number of pregnancies，number of abortions or miscarriages，number of living children　妊娠回数，流産回数，出生児数
+Para　paraplegia　対麻痺（両下肢の麻痺）
+PARA　particle aiding replication of adenovirus　アデノウイルスの粒子助成模写
+PARA　primary acquired refractory anemia　原発性後天性不応性貧血
+Para　progressive paralysis　進行麻痺
+paracen　paracentesis　穿刺
+par aff　pars affecta［ラ］　患部へ（処）
+parasym div　parasympathetic division　副交感神経分割
+parent　parenteral　非経口的
+Parkin　Parkinsonism　パーキンソン症候群
+parot　parotid　耳下腺の
+parox　paroxysmal　発作性の
+PARP　population attributable risk percent　人口寄与危険度割合
+PARU　postanesthetic recovery unit　麻酔後回復ユニット
+PAS☆　sodium　p-aminosalicylate　注射用パラ-アミノサリチル酸ナトリウム（抗結核剤）
+PAS　calcium para-aminosalicylate　パラアミノサリチル酸カルシウム（抗菌薬）
+PAS　p-aminosalicylic acid　パラアミノサリチル酸
+PAS　pan allergenic state　汎アレルギー状態
+PAS　peripheral anterior synechia of the iris　周辺虹彩前\_c07803着
+PAS　photoacoustic spectroscopy　光音響分光法
+PAS　pituitary adrenal system　下垂体副腎皮質系
+PAS　postoperative analgesia service　術後疼痛除去
+PASA　para-aminosalicylic acid（＝PAS）　パラアミノサリチル酸（抗結核薬）
+PASA　primary acquired sideroblastic anemia　特発性後天性鉄芽球性貧血
+PAS-Ca　PAS calcium　パスカルシウム
+P\u000002bcase　alkaline phosphatase　アルカリホスファターゼ
+PASG　pneumatic antishock garment　ショックパンツ
+PAS染色　periodic acid Schiff's stain　パス染色(過ヨード酸フクシン染色)
+PAT　paroxysmal atrial tachycardia　発作性心房性\u0000fa6a拍
+PAT　platelet aggregation test　血小板凝集試験。血小板機能異常の診断，抗血小板薬の作用モニターを目的とした血小板血栓形成能力の測定。遠心分離で血小板濃度を高くした血漿を作成し，これに凝集惹起物質のADP，コラーゲン，エピネフリン，リストセチンを加え，継時的に血小板形成の様子を観察する。
+PAT　preadmission testing　入院前検査
+PAT　prism adaptation test　プリズム順応試験
+PAT　process analytical technology　医薬品工程管理技術
+PA test　particle agglutination test　粒子凝集法
+path　pathology　病理学
+PATH　pituitary adrenotrophic hormone　下垂体性副腎親和性ホルモン
+Path Dx　pathological diagnosis　病理診断
+pathogen　pathogenesis　病因
+PAV　prolonged atypical vertigo　遷延性非定型的めまい
+PAV　proportional assisted ventilation　比例補助換気
+PAVF　pulmonary arteriovenous fistula　肺動静脈瘻
+PA view　posterior-anterior view　後前像
+Paw，Paw　airway pressure　気道内圧
+PAWP　pulmonary artery wedge pressure（＝PWP）　肺動脈楔入圧。スワン・ガンツ・カテーテルのバルーンを膨らませて肺動脈の枝を閉塞した際の肺動脈圧
+PB，PB　barometric pressure　大気圧
+PB　palmaris brevis (muscle)　短掌筋
+PB　paratyphoid B　パラチフスB
+PB　peripheral blood　末梢血
+PB　phenobarbital　フェノバルビタール(フェノバール，リナーセン)。(バルビツール酸型)長時間型持続睡眠剤
+Pb　plumbum［ラ］，lead　鉛
+PB　premature beat　期外収縮\u000021e8PC
+Pb　presbyopia（＝P）［ラ］　老視，老眼
+PB　pressure breathing　加圧呼吸
+PB　protein binding　蛋白結合
+PBA　polyclonal B cell activation　多クローン性Bリンパ球活性
+PB antibody　Paul-Bunnell antibody　ポール・バンネル抗体
+PBB　polybrominated biphenyl　ポリ臭化ビフェニル
+PBC　peripheral blood cell　末梢血
+PBC　primary biliary cirrhosis　原発性胆汁(性)肝硬変
+PBF　percent body fat　体脂肪率
+PBF　periflux blood flow　皮膚毛細血管血流量
+PBF　pulmonary blood flow　肺血流量
+PBG　porphobilinogen　ポルフォビリノーゲン
+PBI　phenformin　フェンホルミン
+PBI　prognostic burn index　熱傷予後指数
+PBI☆　protein-bound iodine　血清蛋白沃素(ヨード)定量(蛋白結合ヨード)
+PB IgG　platelet binding IgG　血小板結合性IgG
+PBL　peripheral blood lymphocyte　末梢血リンパ球
+PBL　peripheral blood mononuclear leukocyte　末梢血単核白血球
+PBL　problem-based learning　問題志向型学習
+PB list　phonetically balanced word list　出現頻度語表
+PBM　polyclonal B-cell mitogen　多クローン性Bリンパ球マイトジェン
+PBMC　peripheral blood mononuclear cell　末梢血単核細胞
+PBN　α-phenyl-1-N-butylnitrone　α-フェニール-１-N-ブチルニトロン
+PBP　penicillin-binding protein　ペニシリン結合蛋白質
+PBP　progressive bulbar paralysis　進行性球麻痺
+PBP　pseudobulbar palsy　仮性球麻痺。上位運動ニューロンが障害され，球麻痺と類似した症状を呈する病態
+PBP2'　penicillin-binding protein 2'　黄色ブドウ球菌ペニシリン結合蛋白2'
+PBS　peripheral blood shadow　末\_c07705血液像検査
+PBS　phosphate-buffered saline　リン酸緩衝食塩液
+PBS　prune-belly syndrome　プルーンベリー症候群
+PBSC　peripheral blood stem cell　末\_c07705血幹細胞
+PBSCT　peripheral blood stem cell transplantation　末\_c07705血幹細胞移植
+PBT　Paul-Bunnell test　ポール・バンネル反応（異好抗体試験，異種親和性抗体試験）
+PBT　picture block test　絵画積木検査。幼児の知能検査
+PBU　α-phenylbutyl urea　αフェニールブチル尿素
+PBV　pulmonary blood volume　肺血液量
+PC　paper chromatography　ペーパークロマトグラフィー
+PC　paratyphoid C　パラチフスC
+PC　partition chromatography　分配クロマトグラフィー
+PC　passive concentration　受動的注意集中
+PC　penicillamin　ペニシラミン。関節リウマチに使用
+PC　penicillin　ペニシリン（抗生物質）
+PC　performance capacity　行動能力
+PC　pericarditis constrictiva　収縮性心膜炎
+PC　pharyngitis chronica［ラ］　慢性咽頭炎
+PC　phenol coefficient　石炭酸係数
+PC　pheochromocytoma　褐色細胞腫
+PC　phosphatidylcholine　ホスファチジルコリン
+PC　phosphocreatine　ホスホクレアチン，creatine phosphate　クレアチンリン酸。貯蔵型の高エネルギーリン酸結合
+PC　photocoagulation　光凝固
+pc　plasma cell　形質細胞
+PC　platelet concentrate　濃厚血小板
+PC　Pneumocystis carinii　ニューモシスチス・カリニ，カリニ肺胞嚢虫
+PC　pneumotaxic center　呼吸調節中枢
+PC　posterior chamber　後眼房
+pc　posterior communicating artery　後交連動脈
+PC　premature contraction　期外収縮。正常に期待されるときでないときに起こる心臓の収縮。心臓のどの部分からも期外収縮は起こりうるが，最も普通のものは心室性の期外収縮である。放置して差し支えない場合から，救急処置を要する場合まで様々である。
+PC　present complaint　現在の愁訴，主訴
+PC　primary care　プライマリケア
+PC　primed lymphocyte　初期リンパ球
+PC　producing cell　産生細胞
+PC　prohormone convertase　プロホルモン変換酵素
+PC　prostacycline　プロスタサイクリン(プロスタグランジンI2)
+PC　prostatic carcinoma　前立腺癌
+PC　protein C　プロテインC
+PC　pseudotumor cerebri［ラ］　偽性脳腫瘍
+PC　pulmonary capillary　肺毛細血管
+PC　pulmonary circulation　肺循環
+PC　pulmonary closure sound　肺動脈弁閉鎖音
+pc　pulsating current　拍動流
+PC　Purkinje cell　プルキンエ細胞
+PCA　parietal cell antibody　壁細胞抗体
+PCA　passive cutaneous anaphylaxis　受身皮膚アナフィラキシー
+PCA　patient-controlled analgesia　患者自己管理鎮痛法
+PCA　ponto-cerebellar atrophy　橋小脳・萎縮
+PCA　posterior cerebral artery　後大脳動脈
+PCA　posterior choanal atresia　後鼻孔閉鎖
+PCA　posterior communicating artery　後交通動脈
+PCA　primary cardiac arrest　初期心停止
+PCA　pyridonecarboxylic acid　ピリドンカルボン酸
+PCAA　pancreas cancer-associated antigen　膵癌関連抗原
+PCAG　primary closed angle glaucoma　原発性閉塞隅角緑内障
+PCB　polychlorinated biphenyl　ポリ塩化ビフェニル
+P-CBPC　carfecillin sodium, carbenicillin phenyl sodium　カルフェシリンナトリウム，カルベニシリンフェニルナトリウム
+PCC　phosphate carrier compound　リン酸輸送体化合物
+PCC　plasma cortisol consentration　血漿コルチゾル濃度
+PCC　postcricoid cancer　輪状軟骨後面癌
+PCC　premature chromosome condensation　分裂前（未成熟）染色体凝縮
+PCC　profound cystic colitis　深部嚢胞性大腸炎
+PCC　prothrombin complex concentrate　プロトロンビン複合体濃縮物
+PCCG　pneumocontrast cystography　気体膀胱二重造影法
+PCD　plasma cell dyscrasia　形質細胞異常症
+PCD　pneumatic compression device　空気圧式マッサージ器
+PCD　programmed cell death　プログラム細胞死，アポトーシス
+PCDF　polychlorinated dibenzofuran　ポリ塩化ジベンゾフラン
+PCE　paper chromato-electrophoresis　濾紙電気泳動法
+PCEEA　premiam curved end to end anastomosis　分解型弯曲消化管吻合器
+P cell　proliferating cell　増殖細胞
+PCF　pharyngoconjunctival fever　咽頭結膜熱
+PCF　prothrombin conversion factor　プロトロンビン転化因子
+PCG　paper chromatography（＝PC，PPC）　ペーパークロマトグラフィー
+PCG　penicillin G　ペニシリンG
+PCG　phonocardiogram　心音図。心音，心雑音を客観的に機械的振動として記録する心音図によって行う検査。聴診法の音響現象を機械的に記録し，収縮期と拡張期の心音を細かく分類し心疾患の診断の補助とする。心音の変化や心雑音は聴診によっても判定されるが，聴診では不可能な正確な時間推移を明らかにすることができる。心臓弁膜症，先天性心疾患などの各種心疾患の診断に有効とされる。
+PCG☆　phonocardiogram　心音図，phonocardiography　心音図検査
+PCG　plain craniography　単純頭蓋撮影
+PCG　pneumocystography　気体膀胱造影
+PC-G☆　potassium benzylpenicillin　ベンジルペニシリンカリウム(結晶ペニシリンGカリウム\u000000ae)。ペニシリン系抗生物質
+PCH　paroxysmal cold hemoglobinuria　発作性寒冷ヘモグロビン尿症
+PCH　primary chronic hepatitis　原発性慢性肝炎
+PChA　posterior choroidal artery　後脈絡膜動脈
+PCHD　polycystic hepatic disease　多発嚢胞性肝疾患
+PChE　pseudocholinesterase　偽コリンエステラーゼ
+PCI　percutaneous coronary intervention　経皮的冠動脈インターベンション
+PCI　peripheral circulatory impairment　末梢循環障害
+PCI　pneumatosis cystoides intestinalis［ラ］　腸管嚢胞様気腫（症）
+PCI　prophylactic cranial irradiation　予防的全脳照射
+PCI　protein C inhibitor　プロテインCインヒビター
+PCIA　particle counting immunoassay　微粒子計数免疫凝集測定法
+PC-IOL　posterior chamber intraocular lens　眼内後房レンズ
+PCKD　polycystic kidney disease　嚢胞腎
+PCL　plasma cell leukemia　形質細胞性白血病。多発性骨髄腫の亜型で，予後不良な疾患
+PCL　posterior cruciate ligament　後十字靱帯
+PCM　patient classification method　患者分類法
+PCM　phase change material　位相変化物質
+PCM　protein caloric malnutrition　蛋白質カロリー欠乏症候群，栄養失調症
+PCM　pulse-cord modulation　脈拍コード変調
+PCMB　p-chloromercuribenzoic acid　パラクロロ水銀安息香酸
+PCNA　proliferating cell nuclear antigen　増殖細胞核抗原，核内増殖抗原
+PCN，PCNL　percutaneous nephrolithotomy（nephrostolithotomy）　経皮的腎切石術
+PCO　carbon monoxide tension　一酸化炭素分圧
+PCO　posterior capsule opacification　後発白内障
+PCO　prostaglandin cycloxygenase　プロスタグランジン・シクロキシゲナーゼ
+PCO2　partial pressure of carbon dioxide, carbon dioxide vapor pressure　炭酸ガス分圧(二酸化炭素分圧)
+PCO(D)　polycystic ovary (disease)　多嚢胞性卵巣(症)
+P com　posterior communicating artery　後交通動脈
+PCOS　polycystic ovary syndrome　多嚢胞性卵巣症候群
+PCP　pentachlorophenol　ペンタクロロフェノール
+PCP　pneumo cystitis pneumonia　ニューモシスチス肺炎。Pneumocystitis carinii pneumonia　カリニ肺炎。免疫機能の低下などによって発症する肺炎で，白血病の化学療法中やエイズなどにおいて頻発する。
+PCP　progressive chronic polyarthritis　慢性進行性多発関節炎
+PCPA　p-chlorophenylalanine　p-クロロフェニルアラニン
+pc，p.c.　post cibum［ラ］　食後（処）
+PCPS　percutaneous cardiopulmonary support　経皮的心肺補助
+PCR　photoconvulsive response　光痙攣反応
+PCR　polymerase chain reaction　ポリメラーゼ連鎖反応。特定のDNA断片を人工的に増幅する方法
+PCR　protein catabolic rate　蛋白異化率
+PCS　patterns of care study　治療様式の比較研究
+PCs　penicillins　ペニシリン系抗菌薬
+PCS　photocalorimetric spectroscopy　光カロリメトリー分光法
+PCS　portacaval shunt　門脈下大静脈吻合術
+PCS　posterior coronary sinus　後冠状動脈洞
+PCS　proximal coronary sinus　近位冠状静脈洞
+PCT　peak concentration time　最高濃度時間
+PCT　pharmacologic convulsive therapy　薬物痙攣療法
+PCT　picture completion test　絵画完成テスト
+PCT　plasmacrit test　プラスマクリットテスト(梅毒)
+PCT　porphyria cutanea tarda　晩発性皮膚ポルフィリン症
+PCT　post coital test　性交後検査
+PCT　prism cover test　プリズム覆い試験
+PCT　prothrombin consumption test　プロトロンビン消費試験
+PCT　proximal convoluted tubule　近位曲尿細管
+PCU　palliative care unit　緩和ケアユニット
+P Cur☆　歯齦嚢\u00006414爬術(歯)
+PCV　packed cell volume　充填赤血球量，赤血球沈層容積。ヘマトクリット値ととほぼ同義
+PCV　phenoxymethyl penicillin V　フェノキシメチルペニシリン（抗生物質）
+PCV　post capillary venule　後毛細血管静脈
+PCV　precentral cerebellar vein　中央前小脳静脈
+PCV　pressure control ventilation　圧調節換気
+PCWP，PWP　pulmonary capillary wedge pressure　肺動脈楔入圧，肺毛細管楔入圧
+PCZ　procarbazine hydrochloride　塩酸プロカルバジン（抗悪性腫瘍薬）
+PCテスト，Pテスト　penicillin test　ペニシリンテスト，皮内反応検査
+PC複☆　potassium penicillin G complex　複合ベンジルペニシリンカリウム注射用(複合水性ペニシリン)。ペニシリン系抗生物質
+Pd　palladium　パラジウム
+PD　pancreas duct　膵管
+PD　pancreatico-duodenectomy　膵頭十二指腸切除術
+PD　panic disorder　パニック障害
+pd　papillary distance　乳頭径
+PD　Parkinson's disease　パーキンソン病。中脳黒質のメラニン細胞の変性・脱落を主病変とし，ドパミンが減少する脳神経系疾患。高齢者に多く，片側の手足の震えから始まり，病状が進むと両側が震えるようになる。震えは安静時に強くなり，動こうとすると止まる。また顔の筋肉がこわばると表情が乏しくなる。L—ドパ，抗コリン剤などの薬物療法が治療の中心となる。
+PD　partial denture　局部義歯(歯)
+P.D.　pathological diagnosis　病理学的診断。疾患の診断や原因を究明するため，臓器，組織，細胞などを対象に行う検査で，病理組織検査と細胞診検査に大別される。病理組織検査は，採取した組織の形態的変化を顕微鏡で観察し，病変の状態を診断するもので，癌の判定，疾患の有無，炎症の原因などを調べ，治療方針決定のための情報を提供する。細胞診検査は，採取した検体の細胞の形態的変化を観察し，細胞数や種類，前癌細胞・悪性細胞の有無，炎症の程度などを細胞学的に診断するもので，主に悪性病変のスクリーニングや術後経過観察などに用いられる。
+p. d.　per diem［ラ］　毎日（処）
+PD　percutaneous discectomy(diskectomy)　経皮的椎間板切除術
+PD　peritoneal dialysis　腹膜透析。腹膜灌流。患者の腹膜を透析膜として用いて，体内の有毒物質，過剰の電解質や水分などを除去する治療法。尿毒症や薬物中毒の際に行われる。通常，腹腔内に挿入した１本のカテーテルより透析液を注入し，30〜60分滞留させたあとに排出させるという操作を繰り返す。
+PD　pharmacodynamics　ファーマコダイナミクス，薬力学
+PD　posterior descending artery　後下行枝
+PD　potential difference　電位差
+Pd　pregnanediol　プレグナンジオール。ステロイドの一種
+PD　prism diopter　プリズムジオプトリー
+PD　progressive disease　悪化
+PD　progressive disease　増悪，進行
+PD　psychodrama　心理劇。心理的問題を演技することによって表現させる集団治療法
+PD　pulse delay　パルス遅延時間
+PD　pupil distance　瞳孔間距離
+Pd-103　palladium 103　パラジウム103
+PDA　patent ductus arteriosus［ラ］　動脈管開存症，ボタロー管開存症
+PDase　phosphodi-esterase（＝PDE）　ホスホジエステラーゼ
+PDB　preperitoneal distention balloon　腹膜外腔拡張バルーン
+PDC　parkinsonism-dementia complex　パーキンソン認知症複合
+PDC　paroxysmal dystonic choreoathetosis　発作性ジストニア型舞踏病アテトーゼ
+PDC　penta-decylcatechol　ペンタデシルカテコール
+PDC　probable date of confinement　分\_c07791予定日
+PDD　Parkinson\u000002bcs disease with dementia　認知症を伴うパーキンソン病
+PDD　percentage depth dose　深部線量百分率
+PDD　photodynamic diagnosis　光線力学的診断
+PDD　photoreceptor drop-down　光感受脱落
+PDE　paroxysmal dyspnea on exertion　運動時発作性呼吸困難
+PDE　phosphodiesterase（＝PDase）　ホスホジエステラーゼ，リン酸ジエステル加水分解酵素
+PDE　pulsed Doppler echocardiography　パルスドプラ心エコー法
+PD-ECGF　platelet-derived endothelial cell growth factor　血小板由来血管内皮細胞増殖因子
+Pdet　detrusor pressure　排尿筋圧
+PDGF　platelet-derived growth factor　血小板由来成長因子
+PDH　past dental history　歯科既往歴
+PDH　pyruvate dehydrogenase　ピルビン酸脱水素酵素
+PDHC　pyruvate dehydrogenase complex　ピルビン酸脱炭酸酵素複合体
+PDI　protein disulfide isomerase　プロテインジスルフィドイソメラーゼ
+Pdi　transdiaphragmatic pressure　経横隔膜圧
+PDL　poorly differentiated lymphocyte　未分化リンパ球
+PDL　prednisolone　プレドニゾロン
+PDPD　protein-deficient pancreatic diadetes　蛋白欠乏性膵性糖尿病
+PDPH　postdural puncture headache　硬膜穿刺後頭痛
+PDQ-39　Parkinson's disease questionnaire-39　パーキンソン病の臨床症状を評価する質問表
+PDR　plasma disappearance rate　血漿消失率
+PDR　pleiotropic drug resistance　多相遺伝性薬剤耐性
+PDR　post-drug repetition　投薬停止後再発
+PDR　proliferative diabetic retinopathy　増殖性糖尿病性網膜症
+PDS　paroxysmal depolarization shift　発作性脱分極性変位
+PDS　placental dysfunction syndrome　胎盤機能不全症候群
+PDS　Posttraumatic Stress Diagnostic Scale　PTSD（外傷後ストレス障害）診断法
+PDSS　panic disorder severity scale　パニック障害重症度評価尺度
+PDT　photodynamic therapy　光線力学療法。レーザー光を利用した早期肺癌に対する治療法。腫瘍細胞（組織）に光感受性物質を取り込ませ，レーザー光を照射すると光化学反応が起きて活性酸素が生じる。その活性酸素によって腫瘍細胞（組織）が傷害を受け，消滅する。疼痛が少なく，最近では非悪性疾患にも用いられてきている。
+PDV　Valsalva test　バルサルバ試験（耳管通気検査）
+PDX　pyridoxal phosphate（＝PALP）　リン酸ピリドキサール(ビタミンB6)
+PE　panlobular emphysema　汎小葉性肺気腫
+PE　paper electrophoresis　濾紙電気泳動法
+PE　pemphigus erythematosus［ラ］　紅斑性エリテマトーデス
+PE　pericardial effusion　心嚢貯留液
+PE　phosphatidylethanolamine　ホスファチジルエタノールアミン
+PE　physical examination　理学的検査，身体検査
+PE　plasma epinephrine　血漿エピネフリン
+PE　plasma exchange（＝PEX）　血漿交換。患者の血漿から抗原・抗体・免疫複合体などの高分子有害物質を分離除去し，新鮮凍結血漿やアルブミン液などの置換液を用いて血漿を補充する治療法。方法として遠心分離と膜分離に大別される。
+PE　pulmonary edema　肺水腫，肺浮腫。肺血管外に水分が異常に貯まった病態
+PE　pulmonary embolism　肺血栓塞\_c07717症
+PE　pulmonary emphysema　肺気腫，慢性肺気腫。肺胞壁の破裂により，呼吸細気管支より末梢の気腔が異常に拡張した病態
+PE　pyogenic exotoxin　発熱性外毒素
+PE　pyramidal eminence　錐体隆起
+PEA　phacoemulsification and aspiration　超音波水晶体乳化吸引術，超音波乳化吸引法
+PEA　phosphoethanolamine　ホスフォエタノールアミン
+PEA　pulseless electrical activity　電導収縮解離，無脈性電気活動，脈なし電気活動
+PEC　peritoneal exudate cell　腹腔滲出細胞
+pECCE　planned extracapsular cataract extraction　計画的水晶体嚢外摘出術
+PECO2　expired carbon oxide tension　呼気二酸化炭素分圧
+PEComa　perivascular epithelioid cell tumor　血管周囲類上皮細胞腫瘍
+ped　pedetentim［ラ］　徐々に（処）
+PED　pediatrics　小児科
+PEDF　pigment epithelium-derived factor　色素上皮由来因子
+PEDI　pediatric evaluation of disability inventory　障害をもつ子どもの能力低下評価法
+PEE　predicted energy expenditure　予測基礎代謝量
+PEEM　photoemission electron microscope　光電子顕微鏡
+PEEP　positive end-expiratory pressure (ventilation)　呼気終末陽圧(型)(換気)
+PEEPB　positive endexpiratory pressure breathing　呼気終末陽圧呼吸
+PEF　peak expiratory flow　最大呼気流量
+PEF　peritoneal exudate fluid　腹膜滲出液。腹膜の炎症や癌の腹膜転移などが原因で生じる。
+PEFR　peak expiratory flow rate　最大呼気速度
+PEG　percutaneous endoscopic gastrostomy　経皮内視鏡的胃瘻造設術
+PEG　pneumoencephalography　気脳撮影
+PEG　polyethylene glycol　ポリエチレングリコール。軟膏や坐薬などの基剤として使用
+PEG-CC　polyethyleneglycol complement consumption test　ポリエチレングリコール沈殿物補体消費試験
+PEI　phosphate excretion index　リン酸排泄係数。上皮小体の機能検査
+PEI　polyethylene-imine　ポリエチレンイミン
+PEI(T)　percutaneous ethanol injection (therapy)　経皮的エタノール注入療法，超音波ガイド下エタノール局注(療法)
+PEIT　percutaneous ethanol injection therapy　経皮的アルコール局所注入療法
+PE-K　phenethicillinum kalium　フェネチシリンカリウム（合成ペニシリン薬）
+PEL　primary effusion lymphoma　原発性体液性リンパ腫
+PEM　prescription event monitoring　処方イベントモニタリング
+PEM　protein-energy malnutrition　蛋白質・エネルギー栄養失調症
+PEMV　Pea enation mosaic virus　エンドウエネーションモザイクウイルス
+PENG　photoelectronystagmograph　光電眼振計
+peni　penicillin　ペニシリン
+PEO　progressive external ophthalmoplegia　進行性外眼筋麻痺
+PEP　paper electrophoresis　濾紙電気泳動法(血清蛋白分画測定)
+PEP　pepleomycin　ペプレオマイシン（抗腫瘍性抗生物質）
+PEP　peplomycin sulfate　硫酸ペプロマイシン（抗悪性腫瘍薬）
+pep　peptidase　ペプチダーゼ
+PEP　phosphoenol pyruvic acid　ホスホエノールピルビン酸
+PEP　pre-ejection period　前駆出時間(期)
+PEPC　phenethicillin potassium　フェネチシリンカリウム（抗菌薬）
+PEPC　phenoxyethylpenicillin　フェノキシエチルペニシリン
+PEPCK　phosphoenolpyruvate carboxykinase　ホスホエノールピルベートカルボキシキナーゼ
+PEPI　pre-ejection period index　駆出前期指数
+peps　pepsin　ペプシン。胃液中の蛋白分解酵素
+per☆　①齲\_c07709症第３度慢性化膿性歯根膜炎，②齲\_c07709症第３度急性単純性歯根膜炎，③齲\_c07709症第３度急性化膿性歯根膜炎
+PER　peak ejection rate　最大駆出速度
+PER　peak ejection rate　ピーク駆出率
+PER　Perinet virus　ペリネットウイルス
+PER　protein efficiency ratio　蛋白質利用効率
+perc　percussion　打診
+perf.　perforation　穿孔
+peri　pericardium　心膜。心臓を包む膜のこと。線維性心膜と漿液性心膜の２種類がある。漿液性心膜には心臓の表面を密着して覆う臓側板（心外膜）と，その続きが大血管の基部で折れ返って線維性心膜の裏打ちをする壁側板（心嚢）とがある。その間の心膜腔にわずかな心膜液が入っている。
+periap　periapical　歯根端周囲の
+perico☆　ペリコロ，智歯周囲炎（歯)
+periodont　periodontology　歯周学
+periton　peritonsillar abscess（＝PTA）　扁桃周囲膿瘍
+periton　peritonsillitis　扁桃周囲炎
+pert　pertussis　百日咳
+PES　preepiglottic space　喉頭蓋前間隙
+PESA　percutaneous epididymal sperm aspiration　経皮的精巣上体精子吸引法
+PESS　primary empty sella syndrome　一次的トルコ鞍空虚症候群
+PET　peritoneal equilibration test　腹膜平衡試験
+PET　positron emission tomography　ポジトロン(陽電子)放出断層撮影。体内に陽電子を放出する放射性核種で標識した薬剤を静脈から注入し，細胞の活動状態を画像化する診断技術。てんかん，虚血性心疾患，悪性腫瘍（脳腫瘍，頭頸部癌，肺癌，乳癌，食道癌，膵癌，転移性肝癌，大腸癌，子宮癌，卵巣癌，悪性リンパ腫，悪性黒色腫，原発不明癌に限る）などの診断に用いる。
+PET　pre-ejection time　前駆出期時間
+PE therapy　prolonged exposure therapy　PTSDに対する長時間曝露療法
+PETN　pentaerythrityl tetranitrate　テトラオクタン酸ペンタエリスリチル
+PEUA　pelvic examination under anesthesia　麻酔下骨盤検査
+PEV　peak expiratory velocity　最大呼気速度
+PEV　pulmonary extravascular fluid volume　肺血管外液量
+PEX　plasma exchange（＝PE）　血漿交換
+PF☆　(Rosenzweig) picture frustration study　絵画フラストレーションテスト，PFスタディ
+Pf　parafascicular nucleus of thalamus　（視床の）束傍核
+PF　peak flow　最大気流速
+PF　pemphigus foliaceus［ラ］　落葉状天疱瘡。小水疱と落屑を伴う紅斑を特徴とする落葉状天疱瘡。抗デスモグレイン抗体などが診断に用いられる。
+P/F　pentalogy of Fallot　ファロー五徴症。ファロー四徴症（①肺動脈狭窄，②心室中隔欠損，③大動脈騎乗または右方偏位，④右室肥大）に心房中隔欠損症を合併したもの
+PF　performance factor　行動因子
+PF　permeability factor　血管透過性因子
+PF　plain film　単純撮影
+PF　plasma filtration　血漿濾過
+Pf　Plasmodium falciparum［ラ］　熱帯熱マラリア原虫
+PF　posterior spinal fusion　脊椎後方固定術
+PF　prefollicular　濾胞前期（トラコーマの病期分類）
+PF　primary failure　一次的無効
+PF　protein fraction　蛋白分画
+PF　pseudofolliculus　偽濾胞
+PF　pulse frequency　脈頻度
+PF3　platelet factor 3　血小板第３因子
+PF4　platelet factor 4　血小板第４因子
+PFA　perifimbrial adhesion　卵管\_c07685周囲\_c07803着
+PFA　phosphogluconate dehydrogenase　ホスフォグルコネート脱水素酵素
+PFA　polyunsaturated fatty acid　多価不飽和脂肪酸
+PFA　principal factor analysis　主因子分析
+PFAA　free amino acid concentration in human plasma　血漿遊離アミノ酸濃度
+PFC　hemolytic plaque-forming cell　溶血斑形成細胞
+PFC　perfluorocarbon　パーフルオロカーボン
+PFC　perfluorochemicals　パーフルオロ化学物質
+PFC　persistent fetal circulation　胎児循環遺残
+PFC　plaque-forming cell　プラーク形成細胞
+P/F chart　pressure/flow chart　排尿時膀胱内圧/尿流量図
+PFCS　persistent fetal circulation syndrome　胎児循環遺残症候群
+PFD　pancreatic function diagnostant　膵機能診断テスト
+p. f. dig　pulvis foliae digitalis［ラ］　ジギタリス葉末（処）
+PFGE　pulse field gel electrophoresis　パルスフィールド電気泳動法
+PFI　physical fitness index　体力指数
+PFIC　progressive familial intrahepatic cholestasis　進行性家族性肝内胆汁うっ滞
+PF joint　patellofemoral joint　膝蓋大腿関節
+PFK　phosphofructokinase　ホスホフルクトキナーゼ
+PFL　profibrinolysin　プロフィブリノリジン
+PFM　peak flow meter　最大呼気流量計
+PFM　pulse frequency modulation　脈頻度変調
+PFN　plasma fibronectin　血漿フィブロネクチン
+PFO　patent foramen ovale　卵円孔開存
+PFR　peak filling rate　ピーク充満率
+PFR　peak flow rate　最大呼気速度
+P/F ratio　PaO2/FIO2　吸入気酸素濃度に対する動脈血中の酸素分圧の比
+PFS　primary fibromyalgia syndrome　原発性線維筋痛症候群
+PFS　progression free survival　無病生存率
+PFT　picture frustration test　絵画欲求不満テスト
+PFT　pulmonary function test　肺機能検査
+PFU　plaque-forming unit　プラーク形成単位
+PG　partgram　パルトグラム，分娩経過図
+PG　pepsinogen　ペプシノゲン
+PG　phosphatidylglycerol　ホスファチジルグリセロール
+pg　picogram　MCH（平均赤血球血色素量）の単位
+PG　pregnanediol glucuronide　プレグナンジオール・グルクロン酸化合物
+PG　prostaglandin　プロスタグランジン。組織・臓器性生理活性物質の一つ(五員環をもつ脂肪酸グループの総称)
+PG　Pulvis Gentianae［ラ］　ゲンチアナ末。健胃剤
+PG　pyoderma gangraenosum［ラ］　壊疽性膿皮症
+PG-Ⅰ　proteoglycan Ⅰ　プロテオグリカンⅠ
+PGA　polyglycolic acid　ポリグリコール酸
+PGA　pteroylglutamic acid　プテロイルグルタミン酸
+PGD　preimplantation genetic diagnosis　着床前遺伝子診断
+PGE　prostaglandin E (E1, E2)　プロスタグランジンE(E1，E2)
+PGE1　prostaglandin E1　プロスタグランジンE1。血管拡張剤，分娩促進剤として使用
+PGE2　prostaglandin E2　プロスタグランジンE2。血管拡張剤，分娩促進剤として使用
+PGF　prostaglandin F　プロスタグランジンF
+PGH　pituitary gonadotropic hormone　下垂体性腺刺激ホルモン
+PGH　pituitary growth homone　下垂体成長ホルモン
+PGI　pepsinogen I　ペプシノゲンI
+PGI　phosphoglucoisomerase　リン酸ブドウ糖異性化酵素
+PGI　prostaglandin I　プロスタグランジンI
+PGI2　prostaglandin I2　プロスタグランジンI2。血管拡張，血小板凝集抑制作用を有する。
+PGK　phosphoglycerate kinase　ホスホグリセリン酸キナーゼ
+PGL　persistent generalized lymphadenopathy　持続性全般リンパ節疾患，持続性全身性リンパ節腫脹
+PGN　proliferative glomerulonephritis　増殖性糸球体腎炎
+PGP　paralysis generalisata progressiva［ラ］　進行性全身麻痺
+PGP　psychogalvanic phenomenon　精神電流現象
+PgR　progesterone receptor　プロゲステロン受容体
+PGR　psychogalvanic reflex　精神電流反応
+PGSR　psychogalvanic skin response　精神皮膚電流反応
+PGTT　prednisolone-glucose tolerance test　プレドニゾロンブドウ糖負荷試験
+PGU　postgonococcal urethritis　淋疾後尿道炎
+pH　hydrogen ion exponent　水素イオン指数(ペーハー)。水溶液の性質（酸性，アルカリ性）を測定する検査。pH（ペーハー）はその単位で，０〜14の目盛で表し，pH7を中性とし，それ以下が酸性，それ以上がアルカリ性となる。胃・食道逆流症の検査に用いられ，pH電極を胃や食道に挿入してpHを測定する。胃酸の逆流によってpHは低下し（酸性），胆汁の逆流によってpHは上昇（アルカリ性）する。
+PH　past history, previous history　既往歴。広義には，診察時までの患者の経過すべて。①出生状況，母体の妊娠合併症，②幼・小児期の発育状況・疾患・予防接種，③結婚歴，女性では月経・妊娠歴，④生活歴，職業，生活および職業の環境，食生活，嗜好品，⑤現症発病以前に経験した疾患，外傷，⑥常用薬──など。
+PH　patient history　患者歴
+p/h　per hour　１時間当たり
+PH　persistent hepatitis　持続性肝炎
+Ph　pharyngitis　咽頭炎
+PH　plasma pheresis　血漿交換
+PH　previous history　既往歴
+PH　prolyl hydroxylase　プロリン水酸化酵素
+PH　prolyl hydroxylase　プロリル・ヒドロキシラーゼ
+PH　prostatic hypertrophy（＝BPH）　前立腺肥大症。加齢に伴い前立腺の内腺が肥大し，尿路が圧迫され排尿障害をきたす良性疾患。
+PH　pseudohypoparathyroidism　偽性副甲状腺機能低下症
+PH　pulmonary hypertension　肺高血圧症。肺動脈圧が亢進する症例の総称。原発性肺高血圧と２次性肺高血圧に分けられる。原発性肺高血圧は若い女性に多くみられ，肺血管収縮をきたす原因不明の疾患である。２次性肺高血圧は種々の心肺疾患によって引き起こされる。低酸素症やアシドーシス（血液の酸素イオン濃度が正常域より下がった状態）で，肺血管収縮が起こるので，酸素投与や肺胞換気量増大などにより，呼吸不全の改善を図ることが治療につながる。
+Ph1　Philadelphia chromosome　フィラデルフィア染色体。慢性骨髄性白血病で異常を示す。
+P/H3　procaine hydrochloride　塩酸プロカイン（局所麻酔剤）
+PHA　para-aminohippuric acid　パラアミノ馬尿酸
+PHA　passive hemagglutination　受身赤血球凝集反応
+PHA　phytohemagglutinin　フィトヘマグルチニン，植物性赤血球凝集素
+PHA　plant hemagglutinin　植物性血球凝集素。レクチン
+PHA　plasma histaminase activity　血漿ヒスタミナーゼ活性
+PHA　pseudohypoaldosteronism　偽性低アルドステロン症
+phal　phalanges　指骨
+PHAT　passive hemagglutination test　受身赤血球凝集試験
+PHC　primary health care　プライマリヘルスケア
+Ph.D.　①Dr. of Philosophy　医学博士。②pharmaciae doctor　薬学博士
+P.H.D.　personal health data　個人病歴
+Phe　phenylalanine　フェニルアラニン
+pheno　phenobarbital　フェノバルビタール（催眠・鎮痛剤）
+phenolp　phenolphthalein　フェノールフタレイン
+PHF　paired helical filaments　二重らせん状線維
+PHG　portal hypertensive gastropathy　門脈圧亢進性胃症
+p-hGH　pituitary human growth hormone　下垂体性ヒト成長ホルモン
+PHHL　post-heparin plasma hepatic lipase　ヘパリン加血漿肝性リパーゼ
+PHI　pancreatic human insulin　膵由来ヒトインスリン
+PHI　past history of illness　既往歴
+PHI　peptide HI　ペプチドHI
+PHI　peptide histidine isoleucine　ペプチド，ヒスチジン，イソロイシン。視床下部のプロラクチン（PRL：黄体刺激ホルモン）の本体
+Phi　Philadelphia chromosome　フィラデルフィア染色体。慢性骨髄性白血病で異常を示す。
+PHI　phosphohexose isomerase　ホスホヘキソースイソメラーゼ。解糖系の酵素
+PHIN　progressive hypertrophic interstitial neuritis　進行性肥厚性間質性神経炎
+PHL　phospholipids　リン脂質
+PHLA　postheparin lipolytic activity　ヘパリン投与後の脂肪分解能
+PHLPL　postheparin plasma lipoprotein lipase　ヘパリン加血漿リポ蛋白リパーゼ
+PHM　peptide histidine methionine　ペプチドHM
+PHM　phaeohyphomycosis　フェオヒフォミコーシス，黒色菌糸症
+PHM　pulmonary hyaline membrane disease　肺硝子膜症
+PHN　postherpetic neuralgia　ヘルペス後神経痛，帯状疱疹後神経痛
+PHN　public health nurse　保健師
+PHO　pulmonary hypertrophic osteoarthropathy　肺性肥大性骨関節症。肺疾患が原因で，四肢長管骨に関節の腫脹や疼痛を発症する。
+PHP　primary hyperparathyridism　原発性副甲状腺機能亢進症
+PHP　pseudohypoparathyroidism　偽性副甲状腺機能低下症
+P-HPLA　para-hydroxyphenyl acetic acid　パラヒドロキシフェニル酢酸
+PHPPA　para-hydroxyphenyl pyruvic acid　パラヒドロキシフェニルピルビン酸
+PHPS　para-hydoxyphenyl salicyl amide　パラヒドロキシフェニルサリチルアミド。胆汁分泌促進剤
+PHPT　primary hyperparathyroidism　原発性副甲状腺機能亢進症
+PHPV　persistent hyperplastic primary vitreous　第１次硝子体過形成遺残
+PHS　Prolene herinia system　プロリーンヘルニアシステム
+pHSA　polymerized human serum albumin　重合ヒト血清アルブミン
+PHT　phenytoin　フェニトイン
+PHT　pulmonary hypertension　肺高血圧症。肺動脈圧が亢進する症例の総称。原発性肺高血圧と２次性肺高血圧に分けられる。原発性肺高血圧は若い女性に多くみられ，肺血管収縮をきたす原因不明の疾患である。２次性肺高血圧は種々の心肺疾患によって引き起こされる。低酸素症やアシドーシス（血液の酸素イオン濃度が正常域より下がった状態）で，肺血管収縮が起こるので，酸素投与や肺胞換気量増大などにより，呼吸不全の改善を図ることが治療につながる。
+PHVA　posthyperventilation apnea　過換気後無呼吸
+Physiol　physiological　生理学の
+phys med　physical medicine　物療内科，物理療法学
+Phys Ther　physical therapy（＝PT）　理学療法
+PH精密　プロリルヒドロキシラーゼ精密測定
+Pi　inorganic orthophosphate　無機オルトリン酸
+Pi　inorganic phosphate　無機リン酸塩
+pI　isoelectric point　等電点
+PI　pancreatic insufficiency　膵機能不全
+PI　parasympathetic index　副交感指数
+PI　peculiarity index　特性指数
+PI　phosphatidylinositol　ホスファチジルイノシトール
+PI　phospholine iodide　沃化ホスホリン
+PI　plasma iron　血漿鉄
+PI　premature infant　未熟児
+PI　present illness　現病歴
+Pi　pressure inspiration　吸気圧
+PI　progressive improvement　漸進的向上
+PI　protamine insulin　プロタミンインスリン
+Pi　protease inhibitor　プロテアーゼ抑制型
+PI　pulmonary infarction　肺梗塞
+PI　pulmonary insufficiency　肺動脈弁閉鎖不全(症)，肺機能不全
+PI　pulsatility index　拍動係数
+PI　pyknosis index　核濃縮指数。エストロゲンの効果を示す指数
+PIA　postinfarction angina　梗塞後狭心症
+PIB　partial ileal bypass　部分回腸バイパス手術
+PIC　picibanil（＝OK432）　ピシバニール（抗悪性腫瘍薬）
+PIC　plasmin inhibitor complex　プラスミン・インヒビター複合体
+PICA　posterior inferior cerebellar artery　後下小脳動脈
+PICU　perinatal intensive care unit　周産期集中治療室(監視室)
+PID　pelvic inflammatory disease　骨盤内炎症性疾患，骨盤内感染症
+PID　phenindione　フェニンジオン（合成抗凝血剤）
+PID　plasma iron disappearance　血漿鉄消失時間
+PID　primary immunodeficiency　原発性免疫不全症
+PID　prolapsed intervertebral disk　椎間板ヘルニア。脊柱を構成する椎骨の間にある円盤状の髄核が飛び出して，脊髄や神経を圧迫した状態。頸椎・胸椎・腰椎のどこにでも発生するが，下部腰椎の２椎間に発生するものがほとんどであり，椎間板ヘルニアといえば腰部のものを指すことが多い。安静，牽引という治療で多くは軽快するが，難治例ではヘルニアの摘出手術が行われる。
+PIDR　plasma iron disappearance rate　血漿鉄消失率
+PIDT1/2　plasma iron disappearance time1/2　血漿鉄半減期
+PIE　pulmonary infiltration with eosinophilia syndrome　PIE症候群，好酸球性肺炎，肺好酸球浸潤症候群
+PIE　pulmonary interstitial edema　肺間質性水腫
+PIE　pulmonary interstitial emphysema　間質性肺気腫
+PIF　pectoral island flap　血管茎前胸壁皮弁
+PIF　prolactin inhibiting factor　プロラクチン抑制因子
+PIF　proteolysis inducing factor　蛋白質分解誘導因子
+PIG　phosphatidyl inositolglycan　ホスファチジルイノシトールグリカン
+PIG　piggy bag　ピギーバッグ。中心的な点滴から別の点滴ラインをつなぐこと
+pigmt　pigment　色素。pigmentation　色素沈着
+PIH　phenyl-isopropylhydrazine　フェニルイソプロピルヒドラジン。モノアミン酸化酵素（MAO）抑制剤
+PIH　pregnancy induced hypertension　妊娠性高血圧
+PIH　primary intracerebral hemorrhage　原発性脳内出血
+PIH　prolactin-inhibiting hormone　プロラクチン抑制ホルモン
+PII　peripheral blood lymphocytes interferon induction test　末梢血リンパ球インターフェロン誘発試験
+PII　pulmonary incompetence index　肺不全指数
+PILN　percutaneous intradiscal laser nucleotomy　経皮的椎間板レーザー髄核切除。腰椎椎間板ヘルニアの治療法
+PIL test　Purpose In Life test　実存心理検査法の一つ
+PIMS　programmable implantable medication system　プログラム可能な埋め込み式薬物システム。体内に装置を埋め込み，長期間にわたり一定量の薬物を体内に放出するシステム
+PIN　prostatic intraepithelial neoplasia　前立腺上皮内腫瘍
+PIN　pyridoxine　ピリドキシン。ビタミンB6
+PIOL　phakic intraocular lens　有水晶体眼内レンズ
+PION　posterior ischemic optic neuropathy　後部虚血性神経症
+PIP　peak inspiratory airway pressure　最大吸気圧
+PIP　phosphatidylinosytol-diphosphate　ホスファチジルイノシトール二リン酸（ホスファチジルイノシトールビスリン酸）
+PIP　phosphatidylinosytol-monophosphate　ホスファチジルイノシトール一リン酸〔ジホスホイノシチド（DPI）〕
+PIPC　piperacillin sodium　ピペラシリンナトリウム（抗菌薬）
+PIPD　posterior inferior pancreaticoduodenal artery　後下膵十二指腸動脈
+PIP joint　proximal interphalangeal joint　近位指節間関節
+PISA　proximal isovelocity surface area　近位部等流速表面
+PISCES　percutaneously inserted spinal cord electrical stimulation　経皮的埋込み脊髄電気刺激法
+PISP　penicillin-intermediate streptococcus pneumoniae　ペニシリン中等度耐性肺炎球菌，ペニシリン低感受性肺炎球菌
+PIT　passive immune thrombocytopenia　受動免疫血小板減少症
+PITC　phenyl isothiocyanate　フェニルイソチオシアネート
+PIT(R)　plasma iron turnover　血漿鉄交代(率)
+PIVKA-II　protein induced by vitamin K absence or antagonist-II　ビタミンK欠乏性蛋白—Ⅱ。ビタミンKに依存性の高い血液凝固第Ⅱ因子（プロトロンビン）が，ビタミンK不足により合成されず，血中に貯留したプロトロンビン前駆体。血液凝固検査で，ビタミンK欠乏性出血症の診断（LA法）に用いられるほか，肝細胞癌に特異性が高く，腫瘍マーカーとしても用いられる。
+PIXE　particle induced X-ray emission　荷電粒子励起X線分光法，粒子励起X線分析法
+PJM　postjunctional membrane　後接合部膜
+PK☆　嚼面充実冠（歯)
+PK　Pankreaskrebs［独］　膵臓癌
+PK　prekallikrein　プレカリクレイン
+PK　protein kinase　プロテインキナーゼ。蛋白質分子をリン酸化する酵素
+PK　pyruvate kinase　ピルビン酸キナーゼ
+PKA　protein kinase A　プロテインキナーゼA
+PKC　paroxysmal kinesigenic choreoathetosis　発作性運動誘発型舞踏病アテトーゼ
+PKC　protein kinase C　プロテインキナーゼC
+PKD　polycystic kidney disease　嚢胞腎
+PKDL　post-kala-azar dermal leishmaniasis　カラアザール性皮膚リーシュマニア症
+PKG　protein kinase G　プロテインキナーゼG
+PKK　Pankreaskopfkrebs［独］　膵頭部癌
+PKM　diphenyl-hydantoin　ジフェニルヒダントイン（抗てんかん薬）
+PKP　penetrating keratoplasty　全層角膜移植
+PK/PD　pharmacokinetics/pharmacodynamics　薬物動態と薬力学
+PK，P-KR　Prausnitz-K\u000000fcstner reaction　受動感作試験，プラウスニッツ・キュストネル反応
+PKU　phenylketonuria　フェニルケトン尿症
+Pl　blood platelet　血小板。血球成分の一つで，核を有しない円盤状の細胞。止血促進がその主たる機能である。
+PL　palmaris longus　長掌筋
+p.l.　perception of light　光覚
+PL　phospholipid　リン脂質
+PL　placental lactogen　胎盤性ラクトゲン
+Pl　plantar　足底の
+pl　plasma cell　形質細胞
+PL　plasmin　プラスミン。蛋白質分解酵素（プロテアーゼ）の一種。凝固反応で生成されたフィブリンを分解し，凝固塊を再溶解させる（線維素溶解）働きがある。プラスミンインヒビター（アンチプラスミン活性）は，血中プラスミンと特異的に結合し，線溶系の活性を抑える蛋白質。線溶系の活性度を測定する検査として用いられる。なお，抗プラスミン薬はプラスミンの線溶の働きを抑え，止血作用を発揮する薬剤。
+PL　polymorphocytic leukemia　多形球性白血病
+PL　polymyxin　ポリミキシン（抗生物質）
+PL　posterolateral branch　後側壁枝
+PL　Posticusl\u000000e4hmung［独］　後筋麻痺。声帯麻痺の一種
+PL　preferential Looking　選択視。他覚的視力検査法の一つ
+PL　primary lysosome　一次ライソゾーム
+PL　primed lymphocytes　初回抗原刺激を受けたリンパ球
+PL　product liability　製造物責任
+PL　prolactin　プロラクチン，催乳ホルモン，黄体刺激ホルモン。下垂体で産生される乳汁分泌ホルモンで，下垂体病変などによって異常分泌をきたす。ヒトでは女性ホルモンの存在下で乳汁分泌を促進する。妊婦では妊娠週の経過につれて増加する。
+PL　punction lumbaire　腰椎穿刺。髄液の排除，採取の方法。左右の腸骨棘の上端を結ぶヤコビー線（両側腸骨稜の最上点を結ぶ線）を目標として，穿刺針を用いて行う。
+PL☆　puncture liquor　脳脊髄液
+PL　pyridoxal　ピリドキサール。ビタミンB6の一つ
+PLA　phospholipase A　ホスホリパーゼA
+PLA　polylactic acid　ポリ乳酸
+PLA2，PLaseA2　phospholipase-A2　ホスホリパーゼA2
+Plant-flex　plantar flexion　足底屈
+PLAP　placental alkaline phosphatase　胎盤性アルカリホスファターゼ
+PLAP　placental leucil aminopeptidase　胎盤性ロイシルアミノペプチダーゼ
+pLAR　post late asthmatic response　後遅発型喘息反応
+PLAT　cisplatinum（＝CDDP）　シスプラチン（抗悪性腫瘍薬）
+platy　platysma　広頸筋
+PLB　phospholipase B　ホスホリパーゼB
+PL-B　polymyxin B sulfate　硫酸ポリミキシンB(硫酸ポリミキシンB\u000000ae)。ポリミキシン系抗生物質
+PLC　pharyngolaryngitis chronica［ラ］　慢性咽頭喉頭炎
+PLC　phospholipase C　ホスホリパーゼC
+PLC　primary liver carcinoma (cancer)　原発性肝癌
+PLCB　percutaneous large core biopsy　経皮的大核生検
+PL-CI☆　puncture liquor chlorine　クロール定量(脳脊髄液)
+PLD　partial lipodystrophy　部分脂質異栄養症
+PLD　phospholipase D　ホスホリパーゼD
+PLD　potentially lethal damage　潜在的致死損傷
+PLDD　percutaneous laser disc decompression　経皮的レーザー椎間板減圧術
+PLDF　periflux laser Doppler flow meter　ペリフラックス・レーザー・ドプラ流量計
+PLDR　potentially lethal damage recovery　潜在的致死損傷回復
+PLE　pleura　胸膜
+PLE　polymorphorous light eruption　多型日光疹
+PLE　protein-losing enteropathy　蛋白喪出性腸症
+PLE　pseudolupus erythematodes　偽エリテマトーデス
+PLED　periodic lateralized epileptiform discharge　周期性一側てんかん型発射（放電）
+PLEVA　pityriasis lichenoides et varioriformis acuta　急性痘瘡状苔癬状ろう糠疹
+PLG　phonolaryngogram　音喉頭図
+PLG　plasminogen　プラスミノーゲン。線維素溶解酵素プラスミンの前駆物質として血中に存在する蛋白質
+PLGA　poly-L-glutamic acid　ポリ-L-グルタミン酸
+PLGE　protein-losing gastroenteropathy　蛋白喪失性胃腸症
+PLGV　psittacosis lymphogranuloma venereum　オウム病性リンパ肉芽腫
+PLIF　posterior lumbar interbody fusion　後方進入椎体間固定術，後方椎体間固定術
+PL-K(PL-カリウム)☆　カリウム定量(脳脊髄液)
+PLL　poly-l-lysine　ポリ-l-リジン。リジン重合体。酵素，蛋白質，ウイルス，細菌などの活性を阻害する。
+PLL　prolymphocytic leukemia　前リンパ球性白血病
+PLMD　periodic limb movement disorder　周期性四肢運動障害
+PLMs　periodic leg movements　周期性四肢運動
+PLN　posterior lymph node　後リンパ節
+PL-Na(PL-ナトリウム)☆　puncture liquor sodium　ナトリウム定量(脳脊髄液)
+PL-NPN☆　puncture liquor nonprotein nitrogen　残余窒素定量(脳脊髄液)
+PLP　phospholipase　ホスホリパーゼ
+PLP　proteolipid protein　プロテオリピド蛋白質
+PLP　pyridoxal-5'-phosphate　ピリドキサール-5'-リン酸
+PL，Pl　placebo　プラセボ，偽薬
+PLR　persistent light reaction　残存光反射
+PLS　Papillon-Lef\u000000e9vre syndrome　パピヨン-ルフェーヴル病
+PlSF　plica stapedis fold　アブミ骨靱帯ひだ
+pl. surg.　plastic surgery　形成外科
+PLSVC　persistent left superior vena cava　左大静脈遺残症。両側上大静脈。上大静脈は通常１本のみ（右上大静脈）だが，上大静脈が左右２本ある疾患
+PLT　platelet　血小板。血球成分の一つで，核を有しない円盤状の細胞。止血促進がその主たる機能である。
+PL-TP☆　puncture liquor total protein　総蛋白定量(脳脊髄液)
+PLV　partial liquid ventilation　部分液体換気
+PLV　posterior left ventricle　左室後壁
+PLVS　percutaneous left ventricular assist system　体外循環左室補助装置
+PLWS　Prader-Labhart-Willi syndrome　プラダー-ラープハルト-ウィリー症候群
+plx　plexus　叢
+PL-クロール☆　クロール定量(脳脊髄液)
+PL-タン☆　蛋白定量(脳脊髄液)
+PL-トウ☆　糖定量(脳脊髄液)
+PL-検 (PL-イッパン)☆　髄液一般検査
+PM　pacemaker　ペースメーカー
+PM　papillary muscle　乳頭筋
+PM　paramethasone　パラメタゾン（副腎皮質ホルモン）
+PM　paromomycin　パロモマイシン（アミノ配糖体系抗生物質）
+PM　PEP＋MMC　PM療法。癌化学療法の一つ
+PM　phlebitis migrans［ラ］　移行性静脈炎
+PM　physical medicine　物理療法。病気のために異常な状態となっている生体の仕組みに働きかけ，ゆがんだ平衡状態を調整する治療方式。主に痛みや麻痺などに対して補助療法として行われる。鍼，灸，マッサージ・指圧，牽引療法，温熱療法，超音波療法，パック（湿布）療法などがある。
+PM　plasma membrane　細胞質膜
+Pm　Plasmodium malariae　四日熱マラリア原虫
+PM　poliomyelitis　ポリオ，灰白脊髄炎
+PM　polymyositis　多発性筋炎
+PM　poor metabolizer　低代謝患者
+p.m.　post meridiem［ラ］　午後
+PM　presystolic murmur　前収縮期雑音。心房細動で聴取される心房収縮性雑音
+PM　pretibial myxedema　脛骨前粘液水腫
+PM　prolactinoma　プロラクチン産生腫瘍
+pm　propria muscle　固有筋
+PM　pulse moduration　パルス変調
+PM　puromycin　ピューロマイシン
+PM　pyridoxamine　ピリドキサミン。ビタミンB6作用物質の一つ
+PM&R　physical medicine and rehabilitation　物理療法とリハビリテーション
+PMA　peroneal muscle atrophy　腓骨筋萎縮症
+PMA　phorbol myristate acetate　ホルボールミリステイトアセテート
+PMA　progressive muscular atrophy　進行性筋萎縮
+PMAA　polymetaacrylic acid　ポリメタアクリル酸
+PMA test　primary mental abilities test　基礎知能測定検査
+PMB　polymorphonuclear basophilic leukocytes　多形核好塩基性白血球
+PM-B　polymyxin B（＝PL-B，PMXB）　ポリミキシンB（ポリペプタイド剤）。抗生物質
+PMB　post-menopausal bleeding　閉経後出血
+PMBC　peripheral blood mononuclear cells　末梢血単核球
+PMBN　polymyxicin B nonapeptid　ポリミキシンBノナペプチド
+PMC　pontine micturition center　橋排尿中枢
+PMC　postmyocarditic cardiomegaly　心筋炎後心肥大
+PMC　pseudomembranous colitis　偽膜性大腸炎
+PMCT　percutaneous microwave coagulation therapy　経皮的マイクロ波凝固法
+PMD　primary myocardial disease　原発性心筋症
+PMD　private medical doctor　かかりつけの医師
+PMD　progressive muscular dystrophy　進行性筋ジストロフィー(症)
+PMDD　premenstrual dysphoric disorder　月経前不快気分障害
+PMDI　pressurized metered dose inhaler　加圧式定量噴霧吸入器
+PMDS　persistent m\u000000fcllerian duct syndrome　ミュラー管遺残症候群
+PME　phosphomonoesterase　リン酸モノエステラーゼ
+PME　polymorphonuclear eosinophilic leukocytes　多形核好酸性白血病
+PME　pulmonary microembolization　肺微小塞栓術
+PMF　phenylmercuric acetate　酢酸フェニル水銀
+PMF　primary myelofibrosis　原発性骨髄線維症
+PMF　progressive massive fibrosis　進行性塊状線維症，巨大塊状巣
+PMG　primary macroglobulinemia　原発性マクログロブリン血症
+PMH　past medical history　既往歴
+PMH　pure motor hemiplegia　純運動性片麻痺
+PMI　past medical illness　既往疾病
+PMI　perioperative myocardial infarction　術中心筋梗塞
+PMI　phosphomannoseisomerase　ホスホマンノースイソメラーゼ
+PMI　point of maximal impulse　最大拍動点
+PMI　point of maximum intensity　最強点
+PMI　proportional mortality indicator　50歳以上死亡割合
+PMI　pulmonary gas mixing index　肺内ガス混合指数
+PML　posterior mitral leaflet　僧帽弁後尖
+PML　progressive multifocal leukoencephalopathy　進行性多巣性白質脳症
+PML　promyelocytic leukemia　前骨髄性白血病
+PMMA　polymethyl methacrylate　ポリメチルメタクリレート
+PMMF　pectoralis major myocutaneous flap　大胸筋皮弁
+PMN　polymorphonuclear (neutrophilic) leukocytes　多形核（好中性）白血球
+PMND　Parkinson syndrome with motor neuron degeneration　運動神経変性を伴うパーキンソン症候群
+PMNL　polymorphonuclear leukocytes　多形核白血球。白血球のうち，細胞核が球状ではなく様々な形のもの
+PMNR　periadenitis mucosa necrotica recurrens［ラ］　反復壊死性粘液腺周囲炎
+PMP　past menstrual period　前月経期
+PMP　previous menstrual period　最終月経期
+PMPC　pivmecillinam hydrochloride　塩酸ピブメシリナム（抗菌薬）
+PMPS　post mastectomy pain syndrome　乳房切除後疼痛症候群
+PMR　papillary muscle rupture　僧帽弁乳頭筋破裂
+PMR　perinatal mortality rate　周産期児死亡率
+PMR　photomyoclonic reaction　光ミオクローヌス反応
+PMR　pimaricin　ピマリシン（抗真菌薬）
+PMR　poliomyeloradiculitis　ポリオ脊髄神経根炎
+PMR　polymyalgia rheumatica［ラ］　リウマチ性多発筋痛症
+PMR　postural miosis reaction　体位性縮瞳反応
+PMR　proportional mortality ratio　50歳以上死亡割合
+PMR　proton magnetic resonance　陽子磁気共鳴
+PMS　periodic movement during sleep　睡眠時周期性運動
+PMS　polymyositis（＝PM）　多発性筋炎。筋肉の炎症をきたす膠原病の一つ。皮膚病変を伴うものを皮膚筋炎（DM）という。
+PMS　post marketing surveillance　市販後医薬品監視(第４相)，市販後調査
+PMS　postmenopausal syndrome　閉経後症候群
+PMS　premenstrual syndrome　月経前症候群
+PMSF　phenylmethylsulfonyl fluoride　フェニルメチルスルフォニルフッ化物
+PMS，PMSG　pregnant mare serum gonadotropin　血清性腺刺激ホルモン(セロトロピン\u000000ae，ピーメックス\u000000ae)
+PMT　pacemaker mediated tachycardia　ペースメーカー起因頻拍
+PMT　premenstrual tension　月経前緊張症
+PMTC　professional mechanical tooth cleaning　歯科専門家が機械で行う歯面清掃（歯）
+PMV　posterior mesencephalic vein　後中脳静脈
+PMX-B　polymyxin B sulfate（＝PL-B）　硫酸ポリミキシンB，ポリミキシン系抗生物質
+PMX-DHP　polymyxin-B immobilized column direct hemoperfusion　エンドトキシン吸着療法
+PN　panangitis nodosa［ラ］　結節性汎動脈炎
+PN　parenteral nutrition　高カロリー輸液，非経腸栄養法，静脈栄養。口から食物が摂取できない患者に対し，静脈から注入するカロリーの高い輸液。高濃度のブドウ糖からなる。カテーテルを用いて鎖骨下静脈などの大静脈から注入を行う。
+PN　percutaneous nucleotomy　経皮的髄核摘出術
+PN　periarteritis nodosa　結節性動脈周囲炎
+PN　pink noise　ピンク・ノイズ
+Pn　pneumococcus　肺炎球菌
+PN　polyarteritis nodosa　結節性多発動脈炎
+PN　progress notes　経過記録
+PN　purine nucleoside phosphorylase　プリンヌクレオシドホスフォリラーゼ
+PN　pyelonephritis　腎盂腎炎。細菌（主として大腸菌などのグラム陰性桿菌）の感染による腎盂および腎実質の炎症
+PN　pyridoxine　ピリドキシン
+PNA　Pariser Nomina Anatomica　パリ解剖学用語
+PNA　peanut agglutinin　ピーナッツ凝集。T細胞を分解するのに用いる。
+PNA　pentose nucleic acid　ペントース核酸
+PNA　percutaneous needle aspiration (biopsy)　経皮的穿刺吸引（生検）
+PNC　penicillin（＝PC）　ペニシリン
+PND　paroxysmal nocturnal dyspnea　発作性夜間呼吸困難
+PND　postnasal drip　後鼻漏
+PNE　plasma norepinephrine　血漿ノルエピネフリン
+PNE　psychoneuroendocrinology　精神神経内分泌学
+PNET　primitive neuroectodermal tumor　未分化神経外胚葉性腫瘍
+Pneumo　pneumoarthrography　関節空気造影法
+Pneumo　pneumoencepharography（＝PEG）　気脳写
+Pneumoret　pneumoretroperitoneum　腹膜後気体造影法
+pneumoultra　pneumonoultramicroscopic silicovol-canoconiosis　肺微細珪肺，じん肺症
+PNF　proprioceptive neuromuscular facilitation　固有受容性神経筋促通法
+PNG　photoelectric-nystagmography　光電眼振計
+PNH　paroxysmal nocturnal hemoglobinuria　発作性夜間ヘモグロビン（血色素）尿症
+PNI　prognostic nutritional index　予後推定栄養指数
+PNL　perceived noise level　知覚騒音レベル
+PNL　percutaneous nephrolithotomy　経皮的腎結石破砕術
+PNLa　pallidonigroluysial atrophy　淡蒼球黒質ルイ体萎縮症
+PnM　postnatal month　胎児後月齢
+PNMA　progressive neural muscular atrophy　進行性神経性筋萎縮症
+PNMED　pneumomediastinum　気縦隔
+PNMT　phenylethanolamine N-methyltransferase　フェニルエタノールアミンN-メチルトランスフェラーゼ
+PNO　progressive nuclear ophthalmoplegia　進行性核性眼筋麻痺
+p-NP　para-nitrophenol　パラニトロフェノール
+PNP　positive neck pressure　頸部陽圧負荷
+PNP　purine nucleotide phosphorylase　プリンヌクレオチド・リン酸分解酵素
+PNP　purine5′-nucleotidase　プリン5′-ヌクレオチダーゼ
+PNPB (V，R)　positive negative pressure breathing (ventilation, respiration)　陽圧陰圧呼吸法
+PNPG　para-nitrophenylglycerin　パラニトロフェニルグリセリン
+Pn，pneu　pneumonia　肺炎。肺胞内滲出液貯溜を主病変とする感染性の炎症。病原体の種類によって，細菌性肺炎，マイコプラズマ肺炎，ウイルス性肺炎，真菌性肺炎などに分類される。上気道感染に続いて起こることが多い。咳・痰・発熱などのほかに呼吸困難を伴うことがある。病原菌を確定して抗生物質療法，酸素吸入が行われる。
+PNPP　para-nitrophenyl phosphate　パラニトロフェニルリン酸塩
+PNPR　positive-negative pressure respiration　陽陰圧呼吸
+PNPV　positive negative pressure ventilator　自動陽陰圧呼吸装置
+PNS　paranasal sinus　副鼻腔
+PNS　parasympathetic nervous system　副交感神経系。自律神経系の一部であり，コリン作用性。内臓器官の安静を維持するように働く。
+PNS　percutaneous nephrostomy　経皮的腎瘻術
+PNS　peripheral nervous system　末梢神経系
+PNT　partial nodular transformation　部分的結節変形
+PNT　pentamycin　ペンタマイシン。トリコモナス腟炎，外陰カンジダ症等に用いる抗生物質
+PNT　postnasal tumor　上咽頭腫瘍
+Pnx，Px　pneumothorax　気胸。臓側および壁側胸膜によりできる胸膜腔に気体が貯留した状態。空気のほかに膿液がある場合を膿気胸，血液のある場合を血気胸という。主として若年健康者に突然起こる気胸を自然気胸（特発性気胸）といい，胸膜下の気腫性嚢胞の破裂によることが多い。肺内にある結核や肺線維症などによって起こるものは続発性気胸といい，外傷によるものは外傷性気胸という。また，吸気時のみに胸腔内に空気が流入し，呼気時に穿孔部が閉鎖されるものを緊張性気胸という。
+PO　peroxidase　ペルオキシダーゼ\u000021e8POD
+PO　peroxidase　過酸化水素酵素
+Po　Plasmodium ovale　卵形マラリア原虫
+Po　polyp　ポリープ
+PO　posterior thalamic nuclei　視床後核群
+PO　postoperative　手術後
+PO　preoptic area　視束前野
+PO　propylene oxide　酸化プロピレン
+PO　prosthetist and orthotist　義肢装具士
+PO　pulmonary opening sound　肺開放音
+PO　pump-oxygenator　人工心肺装置
+PO　pyruvate oxygenase　ピルビン酸酸化酵素
+Po2，PO2　partial pressure of oxygen　酸素分圧，血中酸素分圧
+Po-3　peritoneal dissemination　肉眼的腹膜播種性転移の程度分類
+POA　pancreatic oncofetal antigen　膵癌胎児抗原。腫瘍マーカー
+POA　primary optic atrophy　原発性視神経萎縮
+POAG　primary open angle glaucoma　原発性開放隅角緑内障
+POB　phenoxybenzamine hydrochloride　塩酸フェノキシベンザミン
+POB　procarbazine　プロカルバジン（抗悪性腫瘍薬）
+POBA　percutaneous old balloon angioplasty　経皮的旧バルーン動脈形成術
+POC，POCS　postoperative cholangioscopy　術後胆道鏡
+POCT　point-of-care testing　ポイントオブケア検査
+POD　peroxidase　ペルオキシダーゼ，過酸化水素酵素
+POE　polyoxyethylene　ポリオキシエチレン
+POEMS　polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes　多発神経疾患，臓器肥大症，内分泌疾患，単クローン，ガンモパチー，皮膚病変──症候群。ポエムス症候群
+POF　pyruvate oxidation factor　ピルビン酸酸化因子
+POL　polymerized flagellin　重合化フラジェリン
+pol ind　pollen index　花粉指数
+polio　poliomyelitis anterior acuta　ポリオ，急性灰白髄炎
+Poly　polymorphonuclear leukocyte　多形核白血球
+Poly A　polyadenylic acid　ポリアデニル酸
+Poly C　polycytidylic acid　ポリシチジル酸
+Poly G　polyguanilic acid　ポリグアニル酸
+polyso　polysography　X線重複撮影
+Poly T　polythymidic acid　ポリチミジル酸
+Poly U　polyuridylic acid　ポリウリジル酸
+POM　pain on motion　運動痛
+POMC　pro-opiomelanocortin　プロオピオメラノコルチン
+POMR　problem-oriented medical record　問題志向型診療記録
+POMS　problem-oriented medical system　問題志向型診療システム
+POMS　Profile of mood state　感情プロフィール検査。心理検査の一つ
+PONV　postoperative nausea and vomiting　術後悪心・嘔吐
+POP　plasma osmotic pressure　血漿浸透圧
+poplit　popliteal　膝窩の
+PO，P.O.，p.o.　per os［ラ］　経口（処)
+POPS　peroral pancreatoscopy　経口的膵管鏡検査，経口的膵管内視鏡
+por　poorly differentiated adenocarcinoma　低分化腺癌
+P/O ratio　phosphate (ATP)/oxygen ratio　リン酸／酸素比
+POS　patient oriented system　患者指向型システム
+pos　position　体位
+pos　positive　陽性の
+POS　problem-oriented medical record system　問題志向型診療記録。①基礎データ　②問題リスト　③初期計画　④経過観察　⑤退院時要件からなる。
+POSC　preoptic suprachiasmatic area　視束前視交叉上野
+posit. ny.　positional nystagmus　頭位眼振
+Posm　plasma osmotic pressure　血漿浸透圧
+postgangl　postganglionic　神経節後の
+Pot. AGT　potential abnormality of glucose tolerance　潜在性耐糖能異常
+POTS　postural orthostatic tachycardia syndrome　体位性起立性頻拍症候群
+PP　pancreatic peptide　膵ペプチド
+PP　pancreatic polypeptide　膵ポリペプチド
+PP　paradoxical pulse　奇脈。クスマウル脈ともいう。吸気時に収縮期血圧が大きく低下するもの
+PP　periodic paralysis　周期性四肢麻痺
+PP　periportal region　門脈周囲域
+PP　pharyngeal posterior (wall)　咽頭後壁
+PP　phenolphthalein phosphate (medium)　フェノールフタレインリン酸塩(培地)
+PP　phthisis pulmonum［ラ］　肺結核。結核菌の吸入によって発症する肺の感染性疾患。診断は，咳，痰，倦怠感，寝汗などの自覚症状のほかに，ツベルクリン反応，エックス線検査，血沈などが参考になるが，喀痰中の結核菌の証明で確定する。結核は化学療法の進歩によって予後は著しく改善されたが，近年，薬剤耐性結核菌の発生などにより再び増加傾向を示し，1999年には厚生大臣（当時）によって「結核緊急事態宣言」が出された。
+PP　pin prick　ピン痛覚法。痛覚消失領域の判定法の一つ。皮膚を刺激し，痛みの有無を調べる。
+PP　plasma perfusion　血漿灌流
+PP　plasma protein　血漿蛋白
+PP　plasmapheresis　プラスマフェレーシス，血漿交換療法，血漿分離
+Pp　pluripara［ラ］　経産婦
+PP　pneumoperitoneum　腹腔気体撮影(法)
+PP　polypropylene　ポリプロピレン
+Pp　post partum　分娩後
+PP　posterior pituitary　下垂体後葉
+Pp　postprandial　食後の
+Pp　primipara　初産婦
+PP　progressive paralysis　進行麻痺
+PP　propranolol　プロプラノロール。β2遮断剤
+PP　protoporphyria　プロトポルフィリン症
+PP　protoporphyrin　ポロトポルフィリン
+PP　pseudomyxoma peritonei［ラ］　腹膜偽粘液腫
+PP　pulse pressure　脈圧
+PP　punctum proximum［ラ］　近点
+pp&a　palpation, percussion and auscultation　触診-打診-聴診
+PPA　phenylpyruvic acid　フェニルピルビン酸
+PPA　pipemidic acid　ピペミド酸
+PPA　pipemidic acid trihydrate　ピペミド酸三水和物（抗菌薬）
+PPA　prostatic acid phosphatase　血清前立腺性酸ホスファターゼ
+PPA　pure pulmonary atresia　純型肺動脈閉鎖症
+PPAA　phenyl-peracetic acid　フェニル過酢酸
+PPAND　primary pigmented adrenocortial nodular dysplasia　原発性色素性副腎結節性異形成
+PPAR　peroxisome proliferator-activated receptor　過オキシゾーム増殖活性化受容体
+PPB　positive pressure breathing　陽圧呼吸(法)
+PPC　paper chromatography　ペーパークロマトグラフィー
+PPC　progressive patient care　段階的患者管理
+PPC　prostatic pressure coefficient　前立腺圧係数
+PPC　purpura pigmentosa chronica　慢性色素性紫斑
+PPCA　plasma prothrombin conversion accelerator　血漿プロトロンビン転化促進因子
+PPCF　plasma prothrombin conversion factor　血漿プロトロンビン転化因子
+PPD　Mantoux Test　ツベルクリン検査。精製ツベルクリン
+PPD　postpartum day　分娩後日数
+PPD　p-phenylenediamine　パラフェニレンジアミン。接触性皮膚炎の貼布試験に使用
+PPD　purified protein derivative of tuberculin　精製ツベルクリン蛋白質
+PPE　personal protective equipment　個人防護具
+PPF　pellagra preventing factor　ペラグラ予防因子。ペラグラ（ニコチン酸欠乏などによって発症する紅斑）を防ぐビタミン
+PPF　plasma protein fraction　血漿蛋白質分画
+PPF　posterior pyramidal fold　後錐体靱帯
+PP factor　pellagra-preventive factor　ペラグラ阻止因子。ニコチン酸。ペラグラとはニコチン酸欠乏などによって発症する紅斑
+PPG　pylorus preserving gastrectomy　幽門輪保存胃切除
+PPGA　post-pill galactorrhea amenorrhea　ピル後乳汁分泌無月経
+ppGpp　guanosine 5'-diphosphate 3'-diphosphate　グアノシン5'-二リン酸3'-二リン酸
+PPH　posterior pituitary hormone　下垂体後葉ホルモン
+PPH　postpartum hemorrhage　分\_c07791後出血
+PPH　primary pulmonary hypertension　原発性肺高血圧症
+PPH　procedure for prolapse and hemorrhoids　PPH手術。自動吻合器による痔核手術の一つ
+PPHDF　protein permeable hemodiafiltration　蛋白透過性血液濾過
+PPHN　persistent pulmonary hypertension of the newborn　新生児遷延性肺高血圧症
+PPI　patient package insert　患者向け添付文書
+PPI　post-prostatectomy infection　前立腺摘出後感染
+PPI　proton pump inhibitor　プロトンポンプ阻害薬
+PPi　pyrophosphate　ピロリン酸
+PPIC　plasmin-α2-plasmin inhibitor complex　プラスミン-α2-プラスミンインヒビター複合体
+PPK　plasma prekallikrein　血漿プレカリクレイン
+PPL　penicilloyl polylysine　ペニシロイルポリリジン
+PPL　phospholipid　リン脂質
+PPL　prostatic profile length　前立腺部尿道長
+PPLO　pleuropneumonia-like organism　ウシ肺炎菌様微生物（培地）
+ppm　parts per million　100万分の１(10-6），百万分率(百万分量単位中の絶対数)。百万容積当たり。106mlに含まれる溶質のグラム数
+PPM　pepleomycin+cisplatinum+mitomycin C　ペプレオマイシン＋シスプラチン＋マトマイシンC。癌化学療法の組み合わせの一つ
+PPM　posterior papillary muscle　後乳頭筋
+PPM　propulsiv-petit-mal　前屈小発作（点頭てんかん，ウエスト症候群）
+PPN　pedunculopontine nucleus　中脳橋被蓋核
+PPN　peripheral parenteral nutrition　末梢静脈栄養法
+PPNAD　primary pigmented nodular adrenal disease　原発性色素性結節性副腎疾患
+PPNAD　primary pigmented nodular adrenal dysplasia　原発性色素性結節性副腎異形成
+PPNG　penicillinase-producing Neisseria gonorrhoeae　ペニシリナーゼ産生淋菌
+PPO　platelet peroxidase　血小板ペルオキシダーゼ
+PPoma　pancreatic polypeptide adenoma　膵ポリペプチド腺腫
+PPP　palatopharyngoplasty　口蓋咽頭形成術
+PPP　pancreatic polypeptide　膵ポリペプチド
+PPP　pentose phosphate pathway　五炭糖リン酸回路
+PPP　pigmented pretibial patches　前脛骨部色素斑
+PPP　platelet poor plasma　乏血小板血漿
+PPP　polluter pays principle　汚染者負担の原則
+PPP　pustulosis palmaris et plantaris　掌蹠膿疱症
+PPPD，PpPD　pylorus-preserving pancreaticoduodenectomy　幽門輪温存膵頭十二指腸切除術
+PPR　photopalpebral reflex　光眼瞼反射。光刺激による瞬目反射を電位変化としての導出する方法
+PPRF　pontine paramedian reticular formation　傍正中橋網様体
+PPS　pain-producing substance　発痛物質
+PPS　peripheral pulmonic stenosis　末梢性肺動脈狭窄
+PPS　pneumococcal polysaccharide vaccine　肺炎球菌多糖類ワクチン
+PPS　prospective payment system　定額払い制度\u000021e8DRG/PPS
+PPS　pure pulmonary stenosis　純型肺動脈狭窄症
+PPSB　乾燥ヒト血液凝固第Ⅸ因子複合体
+PPT　partial prothrombin time　部分プロトロンビン時間
+PPT☆　plasma prothrombin time　プロトロンビン時間測定(一段法)，血漿プロトロンビン時間
+ppt　praecipitatus［ラ］　沈殿した
+PPT　prone position test　うつぶせ試験。原発閉塞隅角緑内障の検査
+PPTD　pancreas preserving total duodenectomy　膵温存十二指腸全切除術
+P＋P-test　prothrombin-proconvertin-stuart-factor activity test　プロトロンビン・プロコンバーチン・スチュアート因子活性検査
+PPV　polyvalent pneumococcal polysaccharide vaccine　多価肺炎球菌多糖ワクチン
+PPV　positive predictive value　陽性反応適中度
+PPVA　porto-pulmonary venous anastomosis　門脈−肺静脈シャント
+PQ　phonation quotient　発声指数
+PQ　PQ time (atrioventricular conduction time)　PQ時間(房室伝導時間)(心電図)
+PQ　pronator quadratus　方形回内筋
+pQCT　peripheral quantitative computed tomography　末\_c07705骨定量的CT。骨量測定法の一つ
+PQQ　pyrroloquinolin-quinon　ピロロキノリンキノン。水溶性ビタミンB群に含まれる新種のビタミン
+PR　partial response　有効，部分寛解
+PR　peripheral resistance　末梢抵抗
+PR　phenol red　フェノールレッド。pH指示薬に用いられる色素
+PR　phosphorylase　ホスホリラーゼ
+PR　polyribosomes　ポリリボソーム。ポリソーム
+PR　PR time (＝PQ time)　心電図でのPR間隔
+PR　prednisolone　プレドニゾロン（ステロイド剤）
+Pr　presbyopia　老視，老眼
+Pr　prescribe　処方する，命令する。prescription（＝presc）　処方せん
+PR　pressoreceptor　降圧受容器
+PR　progesterone receptor　プロゲステロン受容体
+Pr　propafenon　プロパフェノン（抗不整脈薬）
+PR　pulmonic regurgitation, pulmonary regurgitation　肺動脈弁閉鎖不全，肺動脈弁逆流症
+PR　punctum remotum［ラ］　遠点
+PR3　proteinase 3　プロテイナーゼ３
+PRA　phosphoribosylamine　ホスフォリボシルアミン
+PRA　plasma renin activity　血漿レニン活性(値)
+PRA　probabilistic risk assessment　確率論的リスク評価
+PRA　progesteron receptor assay　プロゲステロン受容体試験
+PRC　plasma renin concentration　血漿レニン濃度
+PRCA　pure red cell aplasia　赤芽球癆
+PRD　partial reaction of degeneration　部分変性反応
+PRE　progressive resistive exercise　漸増抵抗運動
+Pre-alb　prealbumin　プレアルブミン
+p rec　per rectum（＝pr）　経直腸の
+preg　pregnancy　妊娠
+PregDM　pregestational diabetes mellitus　糖尿病の合併妊娠
+prem　premature　早発の，早熟の
+pre-med　premedication　準備投薬
+pre-op　preoperative　手術前の
+prep　preparation　準備
+presby　presbyopia　老視，老眼
+presc　prescription（＝Pr）　処方，処方せん
+prev　prevention　予防
+prev　previous　前の，事前の
+Prev AGT　previous abnormality of glucose tolerance　既往耐糖能異常
+pre-β-LP　pre-β-lipoprotein　プレβリポ蛋白
+PRF　prolactin-releasing factor　プロラクチン放出因子
+PRF　pulse repetition frequency　パルス繰返し周波数
+PRH　prolactin-releasing hormone　プロラクチン放出ホルモン
+PRIS　propofol infusion syndrome　プロポフォール注入症候群
+PRIST　paper disc radioimmunosorbent test　濾紙放射免疫吸収試験
+PRK　photorefractive keratectomy　レーザー屈折矯正角膜切除術，光屈折角膜切除
+PRL　prolactin　プロラクチン\u000021e8PL
+PRLN　pyrrolnitrin　ピロールニトリン（抗真菌性抗生物質）
+PRM　paromomycin　パロモマイシン（抗生物質）
+PRM　positron remission microscope　陽電子再放出顕微鏡
+PRM　primidone　プリミドン
+PRN　pertactin　パータクチン。百日咳の病原因子として考えられているものの一つ
+PRN　polyradiculoneuritis　多発根神経炎
+Pro　proline　プロリン
+pro　pronation　回内
+pro　prophylatic　予防の
+proct　proctocolonoscopy　直腸肛門大腸鏡検査
+proct　proctolitis　直腸肛門炎
+proct　proctoplegia　直腸肛門麻痺
+proct　proctosigmoidectomy　直腸肛門S字状結腸摘出術
+proct　proctosigmoidoscopy　直腸肛門S字状結腸鏡検査
+Procto　proctoscopic　直腸鏡の
+pro dos　pro dosi［ラ］　１回量として（処）
+ProGRP　pro-gastrin releasing peptide　ガストリン放出ペプチド前駆体
+PROM　passive range of motion　受動的運動範囲
+PROM　premature rupture of membrane　前期破水
+prop　propranolol　プロプラノロール（非選択的β受容体阻害剤）
+proph　prophylactic　予防の
+PROST　pronucleus stage intratubal transfer　前核期胚卵管内移植
+prost　prostate　前立腺。男性の膀胱の出口に尿道を取り巻くように位置する器官。精子の運動を活発にする液体を分泌する臓器
+Prot　protein　蛋白質
+pro tem.　pro tempore［ラ］　当分（処）
+prothrom　prothrombin　プロトロンビン
+PROTO　protoporphyrin　プロトポルフィリン
+Protogen　protoporphyrinogen　プロトポルフィリノーゲン
+PRP　panretinal photocoagulation　汎網膜光凝固
+PRP　platelet-rich plasma　多血小板血漿
+PRP　pneumoretroperitoneum　後腹膜気体造影法
+PRP　pressure rate product　ダブルプロダクト，心拍数×収縮期血圧値
+PrP　prolactin-releasing peptide　プロラクチン放出ペプチド
+PRPP　phosphoribosyl pyrophosphate　ホスホリボシルピロリン酸
+PR，pr　pulse rate　脈拍数
+PRR　population relative risk　人口相対危険度
+PRRSV　porcine reproductive and respiratory syndrome virus　ブタ繁殖・呼吸障害症候群ウイルス
+PRSCL　planned replacement soft contact lens　定期交換ソフトコンタクトレンズ
+PRSP　penicillin-resistant Streptococcus pneumoniae　ペニシリン耐性肺炎球菌
+PRT　photoradiation therapy　光照射治療
+pRTA　proximal renal tubular acidosis　近位尿細管性アシドーシス
+PRTH　pituitary resistance to thyroid hormone　下垂体性甲状腺ホルモン不応症
+Prth-C　prothrombin time control　プロトロンビン時間管理
+PRTR　Pollutant Release and Transfer Register　環境汚染物質排出・移動登録
+PRU　peripheral resistant unit　末\_c07705抵抗単位
+PRV　planning organ at risk volume　計画的リスク臓器体積
+PRV　pseudorabies virus　偽性狂犬病ウイルス
+PS　pancreozymin secretin (test)　パンクレオザイミン・セクレチン(試験)
+PS　paradoxical sleep　逆説睡眠。レム睡眠
+PS　parapharyngeal space　咽頭側間隙
+PS　pathological stage　病理学的病期
+PS　patient\u000002bcs serum　患者血清
+PS　performance status　入院時現症，行動状況
+PS　phosphatidylserine　ホスファチジルセリン
+Ps　photic stimulation　光刺激
+PS　photostimulation　(閃)光刺激賦活法
+PS　physical status　全身状態
+PS　plasma separation　血漿分離
+PS　plastic surgery　形成手術
+PS　polysaccharide　ポリサッカライド
+P/S　polyunsaturated to saturated fat ratio　多価不飽和脂肪酸／飽和脂肪酸比
+PS　posterior sagittal diameter of pelvic outlet　骨盤出口後縦径
+Ps　prescription　投薬，処方
+Ps　pressure systolic　収縮期圧
+PS　progressive sclerosis　進行性硬化症，強皮症
+PS　protein S　プロテインS
+Ps.　Pseudomonas　シュードモナス，プソイドモナス，緑膿菌(属)
+PS　psychomotor seizure　精神運動発作。側頭葉てんかん
+PS　pulmonary (pulmonic) stenosis　肺動脈(弁)狭窄(症)
+PS　pulmonary stenosis（＝pul sten）　肺動脈狭窄症，肺動脈弁狭窄症
+PS　pulmonary surfactant　肺表面活性物質
+PS　pyloric stenosis　幽門狭窄症
+PS　pyriformis sinus　梨状陥凹（下咽頭の一部位）
+PS　serum from a pregnant woman　妊婦血清
+PSA　posterior sagittal anorectoplasty　後縦肛門形成。鎖肛手術の一種
+PSA　probabilistic safety assessment　確率論的安全評価
+PSA　prostate specific antigen　前立腺特異抗原
+PSA-ACT　prostate specific antigen-α1-antichymotripsin complex　前立腺特異抗原α1-アンチキモトリプシン複合体
+PSAGN　poststeptococcal acute glomerulonephritis　溶連菌感染後急性糸球体腎炎
+ps.an.　psychoanalysis　精神分析
+PSAP　prostatic serum acid phosphatase　血清前立腺性酸性ホスファターゼ
+PSC　posterior subcapsular cataract　後嚢下白内障
+PSC　primary sclerosing cholangitis　原発性硬化性胆管炎
+PSC　primary systemic chemotherapy　術前化学療法
+PSC　pyriformis sinus cancer　梨状陥凹癌。下咽頭癌の一つで，下咽頭の梨状陥凹部位の癌
+PSD　perianal streptococcal dermatitis　肛門周囲溶連菌性皮膚炎
+PSD　periodic synchronous discharge　周期性同期性放電
+PsD　personality disorder　人格障害
+PSD　poststenotic dilatation　狭窄後拡張
+PSD　post-stroke depression　脳卒中発作後うつ状態
+PSD　postsynaptic density　シナプス後肥厚部
+PSD　psychosomatic disease　心身症。心理的要因によって起こる身体疾患の総称。厳密には，心身症は病名ではなく病態を表した言葉である。何らかの身体症状があり，その原因が心理的要因であれば心身症によるものということになる。ただし，神経症などの精神疾患が原因であるものは除外される。例えば，胃潰瘍を例にあげると，胃の粘膜を傷つける作用のある薬剤を服用して胃潰瘍になった場合は薬剤性の胃潰瘍であるが，過大なストレスによる多量の喫煙が原因であるような場合は心身症による胃潰瘍という診断になる。
+PSE　partial splenic (arterial) embolization　部分的脾動脈塞\_c07717術
+PSE　patterned sensory enhancement　パターン的感覚強化
+PSE　portal systemic encephalopathy　門脈大循環性脳症。門脈の血液が肝臓に入らず，肝臓の働きを受けずに大循環系に流入する短絡路による脳症
+PSF　point spread function　点広がり関数
+PSF　posterior stapedial fold　後アブミ骨ひだ
+PSG　polysomnography　睡眠ポリグラフィー検査
+PSG　procto-sigmoidgraphy　直腸S状結腸X線像
+PSGN　poststreptococcal glomerulonephritis　溶連菌感染後糸球体腎炎
+PSH　periarthritis scapulohumeral［ラ］　肩甲上腕関節周囲炎
+PSH　pseudo-hypertension　偽高血圧
+PSH　purpura Sch\u000000f6nlein-Henoch　シェーンライン・ヘノッホ紫斑病
+PSI　proton spectroscopic imaging　プロトン・スペクトロスコープ画像
+PSI　pulmonic steno-insufficiency　肺動脈狭窄・閉鎖不全
+PSI　purse string suture instrument　巾着縫合器
+PSIS　posterior superior iliac spine　上後腸骨棘
+PSK　krestin　クレスチン（抗悪性腫瘍薬）
+PSL　prednisolone　プレドニゾロン。下垂体前葉ホルモン
+PSLS　prehospital stroke life support　脳卒中病院前救護
+PSM　palmo-plantar-subungual-mucosal melanoma　掌蹠爪下粘膜黒色腫
+PSM　pansystolic murmur　全収縮期雑音
+PSM　presystolic murmur　前収縮期雑音
+PSM　psychosomatic medicine　心身医学（療法），精神身体医学。心身医学療法とは，心身症の患者について，一定の治療計画に基づいて，身体的傷病と心理・社会的要因を明らかにし，患者に対して心理的影響を与えることにより，症状の改善または疾病からの回復を図る治療法。自律訓練法，カウンセリング，行動療法，催眠療法等が挙げられる。
+PSMA　progressive spinal muscular atrophy　進行性脊髄性筋萎縮症
+PSMA　proximal spinal muscular atrophy　近位型脊髄性筋萎縮症
+Psmax　maximal safety pressure　最高安全圧（人工呼吸装置）
+PSMF　protein sparing modified fast　蛋白流動食
+Psmin　minimum safety pressure　最低安全圧（人工呼吸装置）
+PSMS　physical self-maintenance scale　PSMS法。ADL評価法の一つ
+PSO　proximal subungual onychomycosis　近位部爪甲下爪真菌症
+PSP　pancreatic spasmolytic polypeptide　膵攣縮寛解ポリペプチド
+PSP　pancreatic stone protein　膵石蛋白
+PSP　paralytic shellfish poison　麻痺性貝中毒
+PSP　parathyroid secretory protein　上皮小体分泌蛋白
+PSP☆　phenolsulfonphthalein test　フェノールスルホンフタレイン排泄試験(色素排泄試験)。尿細管機能検査法の一種
+psp　postsynaptic potential　後シナプス電位
+PSP　progressive supranuclear palsy　進行性核上性麻痺
+PSPD　posterior superior pancreaticoduodenal artery　後上膵十二指腸動脈
+PSR　Patellarsehnenreflex［独］　膝蓋腱反射
+PSS　physiological saline solution　生理的食塩水
+PSS　progressive systemic sclerosis　汎発性強皮症，進行性全身性硬化症
+PSS　pure sensory stroke　純粋感覚性脳卒中
+PSSP　penicillin susceptible Streptococcus pneumoniae　ペニシリン感受性肺炎球菌
+PST　picture story test　絵画物語検査（性格検査）
+PST　prefrontal sonic treatment　前頭葉前超音波療法
+PST　protamine sulfate test　プロタミン硫酸試験
+PST　proximal straight tubule　近位直尿細管
+P-S test，PST　pancreozymin secretin test　パンクレオザイミン・セクレチンテスト，膵機能検査
+PSTI　pancreatic secretory trypsin inhibitor　膵分泌性トリプシンインヒビター
+PSTT　placental site trophoblastic tumor　胎盤着床部絨毛性腫瘍，胎盤部トロホブラスト腫瘍
+PSTVd　potato spindle tuber viroid　ジャガイモやせイモ病ウイロイド
+PSV　pressure support ventilation　圧補助換気，従圧式人工呼吸
+PSvE　progressive subcortical vascular encephalopathy　進行性皮質下血管脳症
+PSVT　paroxysmal supraventricular tachycardia　発作性上室性\u0000fa6a拍
+PSW　psychiatric social worker　精神科ソーシャルワーカー，精神保健福祉士
+Psy　psychiat，psychiatric　精神医学の
+Psy　psychiatry　精神科
+Psy　psychosis　精神病
+Psychother　psychotherapy　精神療法，暗示療法
+Ps-ZES　pseudo-Zollinger-Ellison syndrome　偽性ゾリンジャー-エリソン症候群
+PT　paroxysmal tachycardia　発作性\u0000fa6a拍
+PT　pars tensa　緊張部(鼓膜)
+PT　passage time　通過時間
+Pt　patient　患者
+PT　percussion tone　打診音
+Pt　perstetur［ラ］　それを継続せよ（処）
+PT　pertussis toxin　百日咳毒素。百日咳菌が生産する菌体外毒素。気管炎症作用等をもち，百日咳の特徴的な発作性の咳の原因となる。
+PT　pharyngeal tonsil　咽頭扁桃。アデノイド
+PT　physical therapist　理学療法士。physical therapy　理学療法
+PT　placebo tablet　プラセボ錠，偽薬錠
+Pt　platinum　白金
+PT　portio temperature　子宮腟部温度
+PT　post transfusion　輸血後
+PT　precipitation test　沈降反応試験
+Pt　pregnanetriol（＝P3）　プレグナントリオール。ステロイドの一種
+PT　proficiency testing　技能試験
+PT　pronator teres　円回内筋
+PT　protease toxoid　プロテアーゼ・トキソイド。蛋白分解酵素類毒素
+PT　prothrombine time　プロトロンビン時間。血液凝固過程で，組織液が関与して始まる外因系凝固動態を検査する方法の一つ。活性化トロンボプラスチン時間（APTT）とともに凝固異常のスクリーニング検査として利用される。外因系凝固因子の欠乏症，肝機能の急激な障害，ビタミンK欠乏症などで時間が延長する。内因性凝固因子の欠乏や血小板数減少の場合には正常値を示す。
+PT　proximal tubule　近位尿細管
+PT　pulmonary thrombosis　肺血栓症，肺動脈血栓症。肺動脈内腔に一次性に形成された血栓によって閉塞されたもの。
+PT　Punta Toro virus　プンタトロウイルス
+PT　pyramidal tract　錐体路
+PT％　prothrombin time percentage activity　プロトロンビン時間活性百分率
+PTA　pancreas transplantation alone　膵単独移植
+PTA　percutaneous transluminal angioplasty　経皮的経血管内血管形成術
+PTA　peritonsillar abscess（＝periton）　扁桃周囲膿瘍
+PTA　peritubal adhesion　卵管周囲\_c07803着
+PTA　phosphotransacetylase　ホスフォトランスアセチラーゼ
+PTA　phosphotungstic acid　リン・タングステン酸
+PTA　plasma thromboplastin antecedent (FactorXI)　血漿トロンボプラスチン前駆物質(凝結第XI因子)，プラスマトロンボプラスチン前駆物質
+PTA　posttraumatic amnesia　外傷後健忘（症）
+pta　prior to admission　入院前〜
+PTA　pure tone average　純音平均聴力
+PTAH stain　phosphotungstic acid-hematoxylin stain　リンタングステン酸ヘマトキシリン染色
+PTAP　purified toxoid aluminium phosphate　精製ジフテリア・トキソイド
+PTASE　phosphatase　リン酸酵素
+PTB　patellar tendon bearing　膝蓋腱荷重式下\_c07728義足
+PTB　posttraumatische Beschwerde［独］　外傷後遺症
+PTBA　percutaneous transluminal balloon angioplasty　経皮的バルーン血管形成術
+PTB brace　patellar tendon bearing brace　膝蓋腱支持装置
+PTB cast　patellar tendon bearing cast　膝蓋腱支持ギプス
+PTBD　percutaneous transhepatic biliary drainage　経皮経肝胆管ドレナージ
+PTC　percutaneous transhepatic cholangiography　経皮経肝胆管造影。局所麻酔を用いて経皮的に肝内胆管を穿刺して，造影剤を注入してエックス線撮影するもの。穿刺は超音波誘導下に行うことが多い。胆管の腫瘍，閉塞性黄疸症例が対象となり，造影に引き続いて，ガイドワイヤーを利用して太いカテーテルに置換し，経皮経肝胆管ドレナージ（PTCD）を行うことが多い。
+PTC　phenylthiocarbamide　フェニルチオカルバミド
+PTC　plasma thromboplastin component　血漿トロンボプラスチン成分(凝血第Ⅸ因子)
+PTCA　percutaneous transluminal coronary angioplasty　経皮経管冠状動脈形成術。冠動脈の動脈硬化などを原因とする狭心症や心筋梗塞の疾患に対して，股動脈や上腕動脈から経皮的にカテーテルを動脈内に挿入し，その中にバルーン（風船）カテーテルを通して狭窄部位または閉塞部位まで進め，バルーンを拡張させて病変部位を拡張させる手技。
+PTCCD　percutaneous transhepatic cholecysto drainage　経皮経肝胆嚢ドレナージ\u000021e8PTGBD
+PTCCS　percutaneous transhepatic cholecystoscopy　経皮経肝胆嚢内視鏡検査。経皮経肝的に胆嚢を直接穿刺してルートを作り，そのルートに内視鏡を挿入して検査を行うもの
+PTCD　percutaneous cholangial drainage　経皮経肝胆管ドレナージ。経皮経肝的に胆管内にドレナージチューブを挿入・留置する方法。閉塞性黄疸（腫瘍や胆管結石によって胆管が閉塞）の診断や治療に用いられ，胆道減圧，減黄や全身状態の改善を図る。その他，胆管結石の除去や急性化膿性胆管炎の治療などにも行われる。
+PTCD　plasma thromboplastin component deficiency　血漿トロンボプラスチン因子欠乏
+PTCL　peripheral T cell lymphoma　末梢T細胞型リンパ腫
+PTCR　percutaneous transluminal coronary recanalization　冠状動脈内血\_c07717溶解療法，経皮的冠状動脈再開通術
+PTCR　percutaneous transluminal coronary reperfusion　経皮経管冠状動脈再灌流
+PTCRA　percutaneous transluminal coronary rotational atherectomy　ロータブレーターによる冠状動脈拡張術
+PTCS　percutaneous transhepatic cholangioscopy　経皮経肝胆管内視鏡検査，経皮経肝胆道鏡
+PTD　persistent trophoblastic disease　存続絨毛症
+PTD　preventable trauma death　防ぎえた外傷死
+PtdCho　phosphatidylcholine　ホスファチジルコリン
+PtdGro　phosphatidylglycerol　ホスファチジルグリセロール
+PtdIns　phosphatidyl inosytol　ホスファチジルイノシトール。細胞膜の成分
+PtdSer　phosphatidylserine　ホスファチジルセリン
+PTE　parathyroid extracts　上皮小体エキス
+PTE　pulmonary thromboembolism　肺血\_c07717塞\_c07717症。下部深部静脈等で形成された血栓が肺に運ばれ，肺動脈が閉塞する疾患。ほとんど深部静脈血栓症に起因する。深部静脈血栓症は，手術や分娩，長期臥床，悪性腫瘍，エコノミークラス症候群などによる血液のうっ滞が誘因となって起こる。多くは無症状で進行するため発見が遅れやすく，死に至ることもあるため，早期離床や積極的な運動などの予防が重要である。
+PTEG　percutaneous trans-esophageal gastro-tubing　経皮経食道胃管挿入術
+PTF　plasma thromboplastin factor　血漿トロンボプラスチン因子(第Ⅷ因子)
+PTF　posttetanic facilitation　テタヌス刺激後促進
+PTF　primary tissue failure　一次性組織損傷
+PTF-D　plasma thromboplastin factor D　血漿トロンボプラスチン因子D
+PTG　percutaneous transhepatic cholangiography　経皮経肝胆管造影(法)
+PTGBD　percutaneous transhepatic gallbladder drainage　経皮経肝胆嚢ドレナージ。経皮経肝的に胆嚢を直接穿刺してドレーンチューブを挿入して排膿や減圧を行うこと。
+PT-GVHD　posttransfusion graft-versus-host disease　輸血後移植片対宿主病
+PTH　parathyroid hormone　副甲状腺ホルモン，上皮小体ホルモン。副甲状腺によって合成され，血中に分泌され血中のCa，P濃度を支配するホルモン。84個のアミノ酸が単一鎖を形成する。低カルシウム血症，低マグネシウム血症，ヒスタミンなどが分泌刺激であり，高マグネシウム血症，シメチジンは分泌抑制作用を有する。
+PTH　post-transfusion hepatitis　輸血後肝炎
+PTH　prothionamide　プロチオナマイド
+PTHrP精密　parathyroid hormone-related protein　副甲状腺ホルモン関連蛋白質精密測定
+PTI　posterior tympanic isthmus　後鼓膜峡部
+PT-INR　prothrombin time-international normalized ratio　プロトロンビン時間国際標準比
+PTK　phototherapeutic keratectomy　治療的レーザー角膜切除術
+PTL　posterior tricuspid leaflet　三尖弁後尖
+PTLA　percutaneous transluminal laser angioplasty　経皮経管レーザー血管形成術
+PTLD　post-transplant lymphoproliferative disease　移植後リンパ増殖性疾患
+PTLS　primary-care trauma life support　多発外傷初期診療
+PTMC　percutaneous transluminal mitral commissurotomy　経皮的僧帽弁交連切開術
+PTMC　percutaneous transvenous mitral commissurotomy　経皮的経静脈的僧帽弁交連切開術
+PTN　phenytoin　フェニトイン
+PTN　pleiotrophin　プレイオトロフィン
+PTO　percutaneous transhepatic obliteration of varices　経皮経肝的食道静脈瘤塞\_c07717術
+PTP　percutaneous transhepatic portography　経皮経肝門脈造影
+PTP　posttetanic potentiation　反復刺激後増強
+PTP　posttransfusion purpura　輸血後紫斑病（症候群）
+PTPA　posterior thalamoperforating arteries　後視床穿通動脈
+PTPC　percutaneous transhepatic portal catheterization　経皮経肝門脈カテーテル挿入
+PTPE　percutaneous transhepatic portal embolization　経皮経肝門脈塞栓術
+PTPI　percutaneous transhepatic intraportal infusion therapy　経皮経肝門脈内注入療法
+PTPS，PTS　6-pyruvoyltetrahydropterin synthase　6-ピルボイルテトラヒドロプテリンシンターゼ
+PTPvS　percutaneous transhepatic portalvenous sampling　経皮経肝門脈血採取法
+PTR　patellar tendon reflex　膝蓋腱反射
+PTR　platelet transfusion refractoriness　血小板輸血不応（状態）。血小板を輸血しても有効な血小板数の増加が得られない状態
+PTRA　percutaneous transluminal renal angioplasty　経皮経管的腎動脈形成術
+PTS　patellar tendon supracondylar prothesis　顆上ソケット下腿義足
+PTS　permanent threshold shift　永久性閾値上昇
+PTSA　post thymic T-lymphocite antigen　成熟Tリンパ球特異抗原
+PTSD　posttraumatic stress disorder　外傷後ストレス障害
+PTSMA　percutaneous transluminal septal myocardial ablation　経皮的中隔心筋焼灼術
+PTT☆　partial thromboplastin time　部分トロンボプラスチン時間。血液凝固過程で，血液自体の作用で凝固する内因系凝固動態を検査する方法の一つ。凝固時間の延長が凝固因子の欠乏を意味する。内因系凝固に関与する凝固因子の量，質的異常，後天性循環抗凝血素に対して，全血凝固時間より鋭敏な感受性をもち，血友病やDIC（播種性血管内凝固症候群）の診断に役立つ。
+PTU　phenylthiourea　フェニルチオ尿素
+PTU　propylthiouracil　プロピルチオウラシル（甲状腺疾患治療薬）
+PTV　planned target volume　計画標的体積
+PTV　planning tumor volume　計画腫瘍体積
+PTX　paclitaxel　パクリタキセル（抗悪性腫瘍薬）
+PTX　parathyroidectomy　副甲状腺摘除術
+PTZ　pentetrazol　ペンテトラゾール。pentylenetetrazol　ペンチレンテトラゾール
+PTZ　phenothiazine　フェノチアジン
+PU　chorionic gonadotrophin in pregnancy urine　胎盤性性腺刺激ホルモン(HCG，ゴナドトロピン，プレグニール)
+PU　pass urine　排尿する
+PU　pelviureteric　腎盂尿管の，腎盂尿管移行部の
+PU　penetrating ulcer　貫通性潰瘍
+PU　pregnancy urine　妊娠尿
+pu　putamen　被殻
+PUBS　percutaneous umbilical blood sampling　経皮的臍帯血採取
+PUD　peptic ulcer disease　消化性潰瘍
+PUF，PUFA　polyunsaturated fatty acids　多価不飽和脂肪酸
+PUFX　prulifloxacin　プルリフロキサシン（抗菌薬）
+PUJ　pelviureteric junction　腎盂尿管移行部
+PUJS　pyeloureteral junction stenosis　腎盂尿管移行部狭窄
+Pul　pulmonary disease　肺疾患
+Pul☆　pulpitis　カリエスのない歯髄炎（歯)。①齲\_c07709症第３度慢性壊疽性歯髄炎，②齲\_c07709症第３度慢性潰瘍性歯髄炎，③齲\_c07709症第３度慢性増殖性歯髄炎，④齲\_c07709症第３度化膿性歯髄炎
+pul ins　pulmonary insuffciency　肺不全
+pulm　pulmonary　肺の
+Puls　プルス［独］　脈拍
+pul sten　pulmonary stenosis（＝PS）　肺動脈狭窄症，肺動脈弁狭窄症
+pulv.　pulveres［ラ］　散剤
+pulv　pulvis［ラ］　粉末
+PUO　pyrexia of unknown origin　原因不明熱
+Pura　urethral pressure　尿道圧
+Pura，max　maximum urethral pressure　最大尿道圧
+purg　purgativus［ラ］　下熱
+PUT　plain urinary tract X-ray　尿路単純X線検査
+Put　putrescin　プトレシン
+PUV　posterior urethral valve　後部尿道弁
+PUVA　psoralen ultraviolet A therapy　ソラレン紫外線療法，プーバ療法。UVA（長波長紫外線）のエネルギーを光感作物質ソラレンで強力にし，皮膚の深部まで紫外線のエネルギーを届ける治療法。太陽光線の数％を占める紫外線には，波長の長いUVAと波長の短いUVBがある。UVBはエネルギーが大きく，日焼けを起こし皮膚癌の原因となるが，UVAはエネルギーが小さく，遮へい物があっても通過して皮膚の深部まで届くが，発癌性はほとんどないといわれる。免疫系への作用があることから，アトピー性皮膚炎の根本療法として用いられ，少量照射で局所免疫を抑制，大量照射で全身の免疫系を抑制して，アレルゲンに対する過敏な反応を抑える。
+puエシ☆　齲触症第３度歯髄壊死（歯)
+puエソ☆　齲触症第３度歯髄壊疽（歯)
+PV　papilloma virus　乳頭腫ウイルス
+PV　paraventricular nucleus　室傍核
+PV　pemphigus vulgaris　尋常性天疱瘡
+PV　peripheral vascular plasma volume　末梢血管血漿量
+PV　pertussis vaccine　百日咳ワクチン
+PV　pinocytotic vesicle　吸水細胞性小胞
+PV　plasma vaccine　血漿由来ワクチン
+PV　plasma volume　循環血漿量
+Pv　Plasmodium vivax　三日熱マラリア原虫
+PV　Polenske\u000002bcs value　ポレンスケ価
+PV　polycythemia vera　真性多血症
+PV　polyo virus　ポリオウイルス
+PV　portal vein　門脈，portal venography　門脈造影。門脈とは，解剖学では２つの毛細血管網にはさまれた血管を指し，一般的には消化管（胃，小腸，大腸，膵臓，胆嚢）と脾臓からの静脈血を集めて，肝臓へと注ぎ込む部分の血管，肝門脈を指すことが多い。肝硬変等により門脈の血圧が上昇し，その側副路に流れる血液が増加すると，門脈圧亢進症や食道静脈瘤などが出現する。
+PV　pressure-volume　圧容積
+PV　pulmonary valve　右房
+PV　pulmonary vein　肺静脈。肺循環系の一部を分担する静脈。肺門から左右ともに上下の２条が出て，気管支の前をほとんど水平に走り左右両肺動脈の下で左心房の上後部に入る。この静脈を通る血液は肺でガス交換を行って酸素を多く含んだ動脈血である。
+PVA　postfracture vertebral augmentation　椎体の支持性を回復する治療法
+PVA　systolic pressure-volume area　収縮期圧容積面積
+PVB　cisplatin+vincristine+bleomycin　シスプラチン＋ビンクリスチン＋ブレオマイシン。癌化学療法の組み合わせの一つ
+PVB　premature ventricular beat　心室性期外拍動
+PVC　polyvinyl chloride　ポリ塩化ビニル
+PVC　premature ventricular contraction　心室性期外収縮
+PVD　peripheral vascular disease　末梢血管疾患
+PVD　posterior vitreous detachment　後部硝子体剥離
+PVD　pulmonary vascular disease　肺血管疾患
+PVDF　polyvinylidene fluoride　ポリフッ化ビニリデン
+PVE　periventricular cerebrospinal fluid edema　脳室周囲髄液浮腫
+PVE　periventricular echodensities　脳質周囲高エコー域
+PVE　prosthetic valve endocarditis　人工弁感染性心内膜炎。置換した人工弁によって生じる感染性の心内膜炎
+PVeg　pemphigus vegetans［ラ］　増殖性天疱瘡
+Pves　intravesical pressure　膀胱内圧
+Pves，max　maximal intravesical pressure　最大膀胱内圧
+PVF　polyvinyl formal sponge　人工皮膚の一つ
+PVG　pneumoventriculography　気脳室撮影
+PVH　periventricular hemorrhage　脳室周囲出血
+PVH　periventricular high intensity　脳室周囲高信号域
+PVI　paravariceal injection　食道静脈瘤周囲注入法
+PVI　pressure-volume index　圧容積指標
+PVK　pyruvate kinase　ピルビン酸キナーゼ。解糖系調節酵素
+PVL　periventricular leukomalacia　脳室周囲白質軟化症
+PVL　periventricular low-density　脳室周囲低吸収域
+PVL　purified vaccine lymph　精製痘苗
+PVN　paraventricular nuclei　室傍核
+PVNS　pigmented villonodular synovitis　色素性絨毛結節性滑膜炎
+Pvo2　mixed venous oxgen pressure　混合静脈血酸素分圧
+PVOD　pulmonary veno-occlusive disease　肺静脈閉塞病
+PVOV　pulmonic valve opening velocity　肺動脈弁開放速度
+PVP　peripheral venous pressure　末梢静脈圧
+PVP　polyvinyl pyrrolidone　ポリビニルピロリドン
+PVP　portal vein pressure　門脈圧
+PVR　PACAP/VIP receptor　PACAP/VIP受容体
+PVR　peripheral vascular resistance　末\_c07705血管抵抗
+PVR　post-void residual　残尿・膀胱内圧測定
+PVR　pressure-volume response　圧容積反応
+PVR　proliferative vitreoretinopathy　増殖性硝子体網膜症
+PVR　pulmonary vascular resistance　肺血管抵抗
+PVRS　pulmonary volume reduction surgery　肺容量減少術
+PVS　persistent vegetative state　持続的植物状態
+PVS　pigmented villonodular synovitis　色素性絨毛結節性滑膜炎
+PVS　poliovirus sensitivity　ポリオウイルス感受性
+PVT　paroxysmal ventricular tachycardia　発作性心室性\u0000fa6a拍
+PVX　Potato virus X　ジャガイモウイルスX
+PVY　Potato virus Y　ジャガイモウイルスY
+PW　posterior wall　後壁
+PWB　partial-weight-bearing　部分荷重
+PWC　physical working capacity　身体的作業能力
+PWC　posterior pharyngeal wall cancer　下咽頭後壁癌
+PWE　posterior wall ecursion　後壁振幅
+PWI　physiological workload index　生理的作業負荷指数
+PWM　pokeweed mitogen　ポークウィードマイトジェン
+Pwmax　maximal working pressure　最大作動圧（人工呼吸装置）
+Pwmin　minimal working pressure　最小作動圧（人工呼吸装置）
+PWP　pulmonary artery wedge pressure（＝PAWP）　肺動脈楔入圧。スワン・ガンツ・カテーテルのバルーンを膨らませて肺動脈の枝を閉塞した際の肺動脈圧
+PWP　pure water permeability　純水濾過係数
+PWS　Prader-Willi syndrome　プラダー-ウィリー症候群
+PWT　posterior wall thickness　後壁厚
+PWV　posterior wall velocity　後壁速度
+PWV　pulse wave velocity　脈波伝播速度。動脈硬化の指標として測定する。
+Px　past history　既往歴\u000021e8PH
+Px　pneumothorax　気胸
+PX　prognosis　予後
+Px　recipe［ラ］　処方。同義語：Rp.
+px　survival rate　生存率
+PXE　pseudoxanthoma elasticum　弾力線維性仮性黄色腫
+PyC　pyogenic culture　化膿菌培養
+PYDV　Ppotato yellow dwarf virus　ジャガイモ黄化萎縮ウイルス
+PYFV　Parsnip yellow fleck virus　パースニップイエローフレックウイルス
+PYP　99mTc-pyrophosphate　テクネチウム99m-ピロリン酸塩
+pyr　pyridine　ピリジン
+pyroglu　pyroglutamic acid　ピログルタミン酸
+PyV　polyoma virus　ポリオーマウイルス
+PYY　peptide YY　ペプチドYY
+PZ☆　歯冠形成，①生活歯冠形成は生PZ（歯)　②失活歯冠形成は失PZ（歯)
+PZ　pancreozymin　パンクレオザイミン
+PZ　protein Z　プロテインZ
+PZA　pyrazinamide　ピラジナミド（抗菌薬）
+PZ-CCK　pancreozymin cholecystokinin　パンクレオザイミン・コレシストキニン。消化管ホルモン
+PZFX　pazufloxacin mesilate　メシル酸パズフロキサシン（抗菌薬）
+PZI　protamine zinc insulin　プロタミン亜鉛インスリン
+PZN　periportal zonal necrosis　門脈周囲帯壊死
+P-ダグラス☆　ダグラス窩穿刺。膣のすぐ裏側に位置する腹腔内（ダグラス窩）に異常な液体がないか，穿刺によって調べる検査。通常，ダグラス窩には体液は存在しないために，下腹部および骨盤内部に痛みがある場合，子宮外妊娠，卵巣出血などで腹腔内出血の有無を確認するために，子宮のすぐ下の膣壁に細長い針で穿刺する。
+P-関節 (P-カンセツ）☆　関節穿刺。関節腔に穿針して，関節液検査や関節造影を行ったり，治療のため薬剤を関節内に注入する手技。必要に応じてエックス線テレビなどで針尖の位置を見ながら行うこともある。どの関節でも穿刺可能であるが，膝関節で行われることが最も多い。
+P-胸 (P-ムネ）☆　胸水・腹水穿刺，その他の検体採取
+P-上ガク洞 (P-ジョウガク）☆　上顎洞穿刺
+P-腹 (P-ハラ）☆　胸水・腹水穿刺，その他の検体採取

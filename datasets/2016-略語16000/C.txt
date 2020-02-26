@@ -1,0 +1,1460 @@
+Ｃ
+C☆　齲\_c07709症第１度（歯）　②齲\_c07709症第２度（歯）　③齲\_c07709症第２度単純性歯髄炎（歯）　④齲\_c07709症第３度（歯）
+C　Candida　カンジダ属。真菌の一つ
+C　canine　犬歯
+c　capillary blood　毛細血管，毛細管血。動脈と静脈の間にある血管。動脈によって運ばれた栄養分などは，毛細血管を通って組織へ運ばれ，組織で発生した老廃物は毛細血管を通って静脈へ運ばれる。
+C　capsule　カプセル
+C　carbohydrate　炭水化物，糖質
+C　carbon　炭素，カーボン
+C　case　症例
+C　cathode　陰極
+C　cecum　盲腸。結腸の起始部を形成する消化管の一部。大腸の入口にあたる。盲腸は回腸の先にあり，下の端には虫垂がある。盲腸の先は結腸（上行結腸）となる。
+C　cervical　　頸椎の，頸髄の。C1（第１頸椎，頸髄），C2（第２頸椎，頸髄）。頸椎とは，体内にある椎骨のうち，一番上方に位置する７つの骨を指す。頸部の脊柱を構成する。
+C　cervical nerve　頸神経
+C　cervical vertebrae　頸椎
+C　cervix　頸，頸管
+C　chest　胸部
+C　Chlamydia　クラミジア属
+C　cicatrization　瘢痕形成
+C☆　circulation　循環機能
+C　Clostridium　クロストリジウム属
+c　cocaine　コカイン
+C　cochlea　蝸牛
+c　cold　寒い，冷たい
+C　complement　補体。component of complement　補体成分，補体蛋白：C1〜C9に分かれる。血清中に存在し，感染症の際に感染予防や炎症反応の形成に関与する一連の蛋白。血中に存在する補体蛋白のうちC3が最も多く，C4はこれについで多い。血清補体価とともにC3，C4蛋白量を測定することにより，膠原病や自己免疫性疾患，腎疾患など病態の診断，経過観察に用いられる。
+c　compliance　コンプライアンス。保健医療従事者の指示（通院，服薬，食事，運動，仕事などに関する指示やアドバイス）に患者が応じ，順守すること。逆に順守しないことをノンコンプライアンスという。
+C　contact　接触
+C　contraction　収縮
+C　costa　肋骨。胸椎と前胸部の間にある弓状の弾性に富んだ12対の骨のこと。胸部骨格を形成する。上方７対は胸骨とつながっているので真肋といい，下方５対を仮肋ともいう。腹部側は肋軟骨で，仮肋のうち上方３対は融合しており肋骨弓を作る。
+C　coulomb　クーロン
+C　course　経過
+C　cranial nerve　脳神経
+C　cyanosis　チアノーゼ，青色症，紫藍症
+C　vitamin C　アスコルビン酸注射液，VC注
+C1〜C4 　first component of complement　血漿に含まれる蛋白性の因子。補体第１〜第４成分，血漿蛋白免疫学的検査
+C1″☆　二次齲\_c07709による齲\_c07709症第１度（「″」は二次齲\_c07709の二次の略称）（歯）
+C10　decamethonium bromide　臭化デカメトニウム。筋弛緩剤
+C1INA　C1 inactivator　C1不活性化因子
+C1INH　C1 inhibitor　C1インヒビター
+C2″☆　二次齲\_c07709による齲\_c07709症第２度（歯）
+C3″☆　二次齲\_c07709による齲\_c07709症第３度（歯）
+C3A　C3 activator　C3活性化因子
+C3b INA　C3b inactivator　C3b不活性化因子
+C3IN　C3 inactivator　C3不活性化因子
+C3NeF　C3 nephritic factor　C3腎炎性因子
+C3PA　complement 3 proactivator　補体第３成分プロアクチベーター
+C4　乳歯晩期残存（歯）
+C4-bp　C4-binding protein　C4結合蛋白質
+C4NeF　C4 nephritic factor　C4腎炎因子
+C5　pentamethonium bromide　臭化ぺンタメトニウム。交感神経節遮断剤。降圧剤
+C6　hexamethonium bromide　臭化ヘキサメトニウム。交感神経節遮断剤。降圧剤
+C6 INA　C6 inactivator　C6不活性化因子
+CA　calcium antagonist　カルシウム拮抗薬
+CA　capsid　カプシド
+CA　carbonic anhydrase　炭酸脱水素酵素
+Ca　carcinoma（cancer）　癌\u000021e8Can
+CA　cardiac arrest　心停止
+CA　carotid artery　頸動脈
+CA　casts　円柱。尿沈渣での硝子CA，顆粒CAなど
+CA　catecholamine　カテコールアミン。化学構造にカテコール核をもった生体アミンの総称。生体内に存在するのは，ドーパミン，アドレナリン，ノルアドレナリンの３化合物で，交感神経系伝達物質として生体内で重要な役割を果たしている。副腎髄質交感神経系に分布する。褐色細胞腫，交感神経芽細胞腫で血中，尿中値ともに上昇する。ラジオイムノアッセイ，クロマト法で定量される。
+CA　CDDP＋DXR　CA療法。化学療法の一つ
+CA　celiac artery　腹腔動脈
+CA　cellulose acetate　酢酸セルロース
+CA　cholic acid　コール酸
+CA　chorioadenoma destruens［ラ］（＝CAD）　破壊性絨毛腺腫，侵入胞状奇胎，破壊性胞状奇胎，浸潤性ブドウ状奇胎
+CA　chronological age　暦年
+ca.　circa［ラ］　約，およそ（処）
+CA　cold agglutinin　寒冷凝集素。低温で赤血球を凝集させる冷式自己抗体で，寒冷凝集素症に出現する。
+CA　condyloma acuminatum［ラ］　尖圭コンジローマ，尖圭疣贅
+CA　coronary artery　冠（状）動脈。上行大動脈から分岐する最初の枝であり，左右１対ある。大動脈起始部には３つの冠動脈洞（バルサルバ洞）があり，右冠動脈洞から右冠動脈が，左冠動脈洞からは左冠動脈が起始している。
+CA　cortisone acetate　酢酸コルチゾン。副腎皮質から分泌される糖質コルチコイドの一つ
+CA　Coxsackie A　コクサッキーA
+CA　croup-associated virus（＝CAV）　クループ関連ウイルス，CAウイルス
+CA　cystic artery　胆嚢動脈
+CA　cytosine arabinoside　シトシンアラビノシド　cytarabine（＝Ara-C）　シタラビン（抗悪性腫瘍薬）
+CA　cytotoxic antibody　細胞毒性抗体，細胞傷害抗体
+CA125　carbohydrate antigen 125　糖鎖抗原125
+CA130　carbohydrate antigen 130　糖鎖抗原130
+CA15-3　carbohydrate antigen 15-3　糖鎖抗原15-3
+CA19-9　carbohydrate antigen 19-9　糖鎖抗原19-9，腫瘍マーカー
+CA50　carbohydrate antigen 50　糖鎖抗原50
+CA546　carbohydrate antigen 546　糖鎖抗原546
+CA54/61　carbohydrate antigen 54/61　糖鎖抗原54/61
+CA72-4　carbohydrate antigen 72-4　糖鎖抗原72-4
+CAA　carbon anhydrase activity　炭酸脱水酵素活性
+CAA　cerebral amyloid angiopathy　脳アミロイド血管症
+CAB　cellulose acetate butyrate　セルロースアセテートブチレート
+CAB　coronary artery bypass　冠状動脈バイパス
+CABG　coronary artery bypass grafting　冠状動脈バイパス術
+Ca，Cal　calcium　カルシウム，血清カルシウム定量。カルシウムはアルカリ土類金属の一つ。元素記号Ca。体重70kgの男子なら体内に1200gのカルシウムが存在し，その99％は骨組織に貯蔵されている。体液中には微量のカルシウムがイオン化して存在し，血液凝固，心筋，骨格筋，神経の正常の興奮性の維持，膜透過性などに寄与している。
+CACG　chronic angle closure glaucoma　慢性閉塞隅角緑内障
+CACNL1A　α1A-voltage-dependent calcium channel　α1A電位依存性カルシウムチャネル
+Caco-2 cell　ヒト腸管上皮細胞
+CACS　celiac axis compression syndrome　腹腔動脈起始部圧迫症候群。腹腔動脈起始部の外因性圧迫によって生じる腸管慢性虚血性疾患
+Cad　cadmium（＝Cd）　カドミウム
+CAD　cardiac assist device　補助心臓，補助人工心臓
+CAD　chorioadenoma destruens［ラ］（＝CA）　破壊性絨毛線腫
+CAD　chronic actinic dermatitis　慢性光線性皮膚炎
+CAD　chronic ambulatory dialysis　長期外来透析
+CAD　cold agglutinin disease　寒冷凝集素症
+CAD　collision-activated dissociation　衝突活性化分離法。オリゴ糖分析法の一種
+CAD　computer-aided detection（diagnosis）　コンピュータ補助診断システム，コンピュータを利用した自動診断
+CAD　congenital alveolar dysplasia　先天性肺胞形成異常，先天性肺胞形成不全
+CAD　coronary artery disease　冠状動脈疾患
+CADⅡ　congenital dyserythropoietic anemia type Ⅱ　先天性赤血球異形成貧血Ⅱ型
+CAE　childhood absence epilepsy　小児欠神てんかん
+CAE　chloroacetate esterase　クロロ酢酸エステル分解酵素
+CAE　coronary artery embolization　冠状動脈塞栓
+CAEBV　chronic active Epstein-Barr virus infection　慢性活動性EBウイルス感染症，遷延性EBウイルス感染症。Epstein-Barrウイルスの感染で様々な臓器障害が起こる重症疾患
+CA EDTA　calcium disodium ethylene diamine tetra-acetate　エチレンジアミン4酢酸カルシウム2ナトリウム
+CAEP　cellulose acetate electrophoresis　セルロース・アセテート（膜）電気泳動法
+caf　caffeine　カフェイン，強心薬
+CAF　cyclophosphamide, adriamycin, 5-FU　シクロホスファミド，アドリアマイシン，5-FU。癌化学療法の組み合わせの一つ
+CAG　cardioangiography　心血管撮影
+CAG　carotic angiography　頸動脈撮影
+CAG　carotid angiography　頸動脈造影法，頸動脈撮影
+CAG　cerebral angiography　脳血管撮影
+CAG　cholangiography　胆道造影，胆管造影法，胆管撮影
+CAG　chronic atrophic gastritis　慢性萎縮性胃炎。胃粘膜の病気（びらんなど）を繰り返した結果，その部分の胃表面（胃腺）が萎縮してしまい元の状態に戻らなくなった病態のこと。原因として，食事，薬剤，加齢，自己免疫などの要因が考えられている。長期にわたる食欲不振，吐き気，嘔吐，上腹部不快感などがあるが，根治は困難である。
+CAG　coronary angiography　冠動脈造影，冠状動脈血管造影。上腕動脈や大腿動脈からガイドワイヤーを用いてカテーテルを冠状動脈入口に挿入し，造影剤を注入して冠状動脈を造影する方法。心筋を養う冠状動脈の病変から，心筋梗塞や狭心症などを診断する。
+CAH　carbonic anhydrase（＝CA）　炭酸脱水素酵素，炭酸デヒドラターゼ
+CAH　chronic active hepatitis　慢性活動性肝炎
+CAH　congenital adrenal hyperplasia　先天性副腎過形成
+CAH　cyanoacetic acid hydrazide　シアン酢酸ヒドラジド
+CAHD　coronary athelosclerotic heart disease　冠状動脈粥状硬化性心疾患
+CAHS　central alveolar hypoventilation syndrome　中枢性肺胞低換気症候群。呼吸中枢の異常により，肺胞の換気が障害され動脈血の炭酸ガス分圧が上昇した状態
+CAI　carbonic anhydrase inhibitor　炭酸脱水酵素阻害剤，炭酸デヒドラターゼ阻害薬
+CAI　confused artificial insemination　混合人工授精
+CAI　coronary atherosclerosis index　冠動脈硬化指数
+CAL　calcium test　カルシウム試験
+Cal　calorie　カロリー（大カロリー）
+CAL　coracoacromial ligament　烏口肩峰靱帯
+CAlb　albumin clearance　アルブミン・クリアランス
+calc　calcium　カルシウム（処）
+CALD　chronic active liver disease　慢性活動性肝疾患
+CALLA　common acute lymphoblastic leukemia antigen　急性リンパ芽球性白血病共通抗原
+Cal.lact.　calcium lactate　乳酸カルシウム
+Cam　amylase clearance　アミラーゼ・クリアランス
+CaM　calmodulin　カルモジュリン
+CAM　cell adhesion molecule　細胞接着分子
+CAM　choriamnionitis　絨毛羊膜炎
+CAM　chorio allantoic membrane　尿膜絨毛膜
+CAM　clarithromycin　クラリスロマイシン（抗菌薬）
+Cam/Ccr　amylase creatinine clearance ratio（＝ACCR）　アミラーゼ・クレアチニン・クリアランス比
+C-AMP　cyclic adenosine monophosphate　サイクリックアデノシン一リン酸，アデノシン環状リン酸
+CaMV　cauliflower mosaic virus　カリフラワー状モザイクウイルス
+Can　cancer（＝Ca）　癌，悪性腫瘍，悪性新生物。生体自身の細胞が体内に異常に増殖・転移した状態，またその細胞によって構成された組織。上皮性組織から発生する癌と，非上皮性組織から発生する肉腫がある。増殖は生体の生理的支配を受けず，発生原因を除去しても自立的増殖を行う。宿主は局所障害として出血・壊死を起こし，全身障害として悪液質（全身状態の著しい衰弱をきたす状態）を起こし，死に至る。
+C-ANCA　cytoplasmic-anti-neutrophil cytoplasmic antibody　細胞質性抗好中球細胞質抗体価
+CANP　calcium-activated neutral protease　カルシウム依存性中性プロテアーゼ
+CAO　chronic airway obstruction　慢性気道閉塞
+CAO　chronic arterial occlusion　慢性動脈閉塞。脈なし病，腎血管性高血圧なども含む。
+Cao2　arterial oxygen content　動脈血酸素含量
+CAOD　coronary artery occlusive disease　冠状動脈閉塞性疾患
+cap　capacity　容量
+cap.　capiat, capitatur［ラ］　服用させよ（処）
+Cap　capillary　毛細血管。動脈と静脈の間にある血管。動脈によって運ばれた栄養分などは，毛細血管を通って組織へ運ばれ，組織で発生した老廃物は毛細血管を通って静脈へ運ばれる。
+CAP　capreomycin（＝CPM，CPRM）　カプレオマイシン。結核の抗生物質
+cap　capsule　カプセル
+CAP　carotid artery pulse　頸動脈拍動
+CAP　catabolite activator protein　カタボライトアクチベーター蛋白質
+CAP　celluloseacetopropionate　セルロースアセトプロピオン酸
+CAP　central arterial pressure　中心動脈圧
+CAP　chronic alcoholic pancreatitis　慢性アルコール性膵炎
+CAP　ciliary artery pressure　毛様体動脈圧
+CAP　community acquired pneumonia　共同生活で感染する肺炎，市中肺炎
+CAP　compound action potential　複合活動電位
+CAP　cystine aminopeptidase　シスチンアミノペプチダーゼ。妊婦の血液中で増量する酵素
+\u000002bccap　handicapped　身体障害のある
+CAPD　continuous ambulatory peritoneal dialysis　持続携行式腹膜透析
+cap. moll　capsula mollis［ラ］　カプセル剤（処）
+caps.　capsula，capsules　カプセル剤（処）
+CAPS　clinician-administered PTSD scale　PTSD臨床診断面接尺度
+CAPTAIN　character and pattern telephone access information network system　文字図形電話アクセス情報網［和製用語］。国際的にはビデオテックス
+c.aq.　cum aqua［ラ］　水と共に（処）
+Car.　carotid pulse wave　頸動脈波
+CAR　conditioned avoidance response　条件回避反応
+CAR　cytosine arabinoside　シトシンアラビノシド。抗腫瘍性代謝拮抗剤
+carbo　carbohydrate　炭水化物，含水炭素，糖質
+CaR，CaSR　calcium-sensing receptor　カルシウム感知受容体
+cardiov　cardiovascular　心血管の
+CARES-SF　cancer rehabilitation evaluation system-short form　癌治療における新しいQOL診断法の一つ
+Carot　carotid pulse wave　頸動脈波
+CART　cocaine amphetamine regulated transcript　コカイン-アンフェタミン調節ペプチド
+CAS　carotid artery stenting　頸動脈ステント留置術
+CAS　central anticholinergic syndrome　中枢性抗コリン症候群
+CAS　cerebral arteriosclerosis　脳動脈硬化症
+CaSF　calcium-activated sarcoplasmic factor　カルシウム依存性筋形質因子
+CAT　carnitine acyltransferase　カルニチンアセチルトランスフェラーゼ，カルニチンアシル基転移酵素
+CAT　catalase　カタラーゼ，酸化酵素
+cat.　cataplasm　罨法
+cat　cataracta　白内障，白そこひ。水晶体が混濁した状態
+CAT　cellular atypia　細胞異型
+CAT　children\u000002bcs apperception test　小児知覚テスト。児童用統覚検査
+CAT　chloramphenicol acetyltransferase　クロラムフェニコールアセチルトランスフェラーゼ
+CAT　choline acetyl transferase　コリンアセチルトランスフェラーゼ
+CAT　combined approach tympanoplasty　外耳道保存鼓室形成手術
+CAT　computer assisted tomography（＝CT）　コンピュータ断層撮影，CTスキャン
+CAT　computerized axial tomography　コンピュータＸ線体軸断層撮影
+cath　catheter，catheterize　カテーテル，カテーテル挿入
+CATV　community antenna television　共同アンテナテレビ，双方向有線テレビ
+caud　caudal　尾側の
+CAV　CPA＋ADM＋VCR＋CAV療法。化学療法の一つ
+CAV　cardiac allograft vasculopathy　慢性拒絶反応
+cav　cavity　腔，窩洞，空洞
+CAV　congenital absence of vagina　先天性腟欠損
+CAV　congenital adrenal virilism　先天性副腎性男性化
+CAV　croup-associated virus（＝CA）　クループ関連ウイルス，CAウイルス。パラインフルエンザ・ウイルスの一種
+CAV3　caveolin-3　カベオリン３
+CAVB　complete atrio-ventricular block，complete A-V block　完全房室ブロック
+CAVH　chronic activated virus hepatitis　慢性活動性ウイルス肝炎
+CAVH　continuous arteriovenous hemofiltration　持続性動静脈血液濾過法
+CAVI　cardio-ankle vascular index　心臓足首血管指数。動脈硬化指標の一つ
+Caw　airway conductance　気道コンダクタンス
+CAZ　ceftazidime　セフタジジム（抗菌薬）
+CB　chest back　胸背
+Cb　columbium　コランビウムの元素記号
+C-B　conjugated bilirubin　抱合型［結合型］ビリルビン
+CB　cytochalasin B　サイトカラシンB
+CB 1348　chlorambucil　クロラムブシル（抗悪性腫瘍薬）
+CB-154　2-bromo-α-ergocryptin, bromocryptine　ブロモクリプチン
+CBA　chemical biological activity　化学・生物学活性度
+CBA　chronic bronchitis with asthma　喘息を伴う慢性気管支炎
+CBA　congenital biliary atresia　先天性胆道閉鎖症
+CBA　cytochemical bioassay　細胞化学的生物検定法
+CBB　coomassie brilliant blue　クーマシーブリリアントブルー
+CB，BC　chronic bronchitis (bronchitis chronicum［ラ］）　慢性気管支炎
+CBC　combined blood count　複合血球計測
+CBC　complete blood count　全血球計算
+CBCL　cutaneous B cell lymphoma　B細胞性リンパ腫
+CBD　closed bladder drainage　閉鎖導尿
+CBD　common bile duct　総胆管
+CBD　congenital biliary dilatation　先天性胆道拡張症
+CBD　congenital biliary dyskinesia　先天性胆道運動障害
+CBD　cortico-basal degeneration　大脳皮質基底核変性症
+CBDCA　cyclobutane dicarboxylate platinum　シクロブタンジカルボン酸プラチナム，カルボプラチン
+CBE　chemical binding effect　化学結合効果
+CBE　community-based education　地域立脚型教育
+CBED　convergentbeam electron diffraction　収束電子線回折法
+CBF　cerebral blood flow　脳血流量
+CBF　coronary blood flow　冠血流量
+CBF　cutaneous blood flow　皮膚血流量
+CBG　corticosteroid-binding globulin　コルチコステロイド結合グロブリン
+CBG　cortisol-binding globulin　コルチゾール結合グロブリン
+CBH　cutaneous basophilic hypersensitivity　皮膚好塩基球過敏症
+C-bile　hepatic bile　肝胆汁，C−胆汁
+CBL　capillary basement lamina　毛細管基底板
+CBL　community-based learning　地域立脚型教育
+CBM　chromo blastomycosis　黒色分芽菌症，クロモブラストミコーシス，クロモミコーシス
+CBMC　cord blood mononuclear cell　臍帯血単核細胞
+CBO　cells-bound organisms　菌が付着あるいは侵入した細胞
+CBP　carotid body paraganglioma　頸動脈球傍神経節腫
+CBP　corticosteroid-binding protein　コルチコステロイド結合蛋白質
+CBPC　carboxybenzyl-penicillin, carbenicillin　カルベニシリン（合成ペニシリン剤）
+CBPZ　cefbuperazone sodium　セフブペラゾンナトリウム（抗菌薬）
+CBR　complement binding reaction　補体結合反応
+CBR　complete bed rest　絶対安静
+CBS　chronic bed rest　長期就床安静
+CBS　chronic brain syndrome　慢性脳症候群，慢性器質性脳症候群
+CBSCT　cord blood stem cell transplantation　臍帯血幹細胞移植
+CBT　community-based teaching　地域立脚型教育
+CBT　cord blood transplantation　臍帯血移植。白血病の治療法の一つに骨髄移植があるが，骨髄と同様，造血幹細胞が多量に含まれている臍帯血（へその緒に含まれる血液）を用いた臍帯血幹細胞移植のこと。骨髄移植に比べて，供血者（ドナー）の負担が少ないこと，幹細胞の増殖能が高いこと，凍結保存が可能なこと，GVHD（移植片対宿主反応病）が軽度であることなどの利点がある。
+CBV　cerebral blood volume　脳血液量。脳血流障害における脳の機能評価法の一つ
+CBV　circulating blood volume　循環血液量
+CBV　collected blood volume　集積血液量
+CBZ　carbamazepine　カルバマゼピン
+CBZ　carbamazole　カルバマゾール（抗甲状腺ホルモン物質）
+CC　case conference　ケース・カンファレンス，症例検討会
+CC　cell count　細胞数計測
+CC　chief complaint　主訴
+CC　choriocarcinoma　絨毛癌
+CC　clinical conference　臨床検討会
+CC　closing capacity　クロージング・キャパシティー，閉鎖容量
+CC　common cold　感冒。かぜ症候群。上気道の粘膜の炎症（カタル）のこと。くしゃみ，軽い発熱，鼻閉，咽頭痛が主たる症状。原因は，ライノウイルス，呼吸器合併体ウイルス，アデノウイルスをはじめ多くのウイルス感染による。症状は軽微で予後は良好。
+CC　consumption coagulopathy　消費性凝固障害
+CC　counter coup　反対側衝撃
+CC　critical condition　危篤状態
+CCA　chondrocalcinose articulaire［仏］　関節軟骨石灰症
+CCA　circumflex coronary artery　冠状動脈回旋枝
+CCA　common carotid artery　総頸動脈
+CCA　complement cold activation　補体寒冷活性化現象
+CCA　conjunctivitis catarrhalis acuta［ラ］　急性カタル性結膜炎
+CCA　cortical cerebellar atrophy　皮質性小脳萎縮症
+CCAD　chronic cold agglutinin disease　慢性寒冷凝集素症
+CCAM　congenital cystic adenomatoid malformation　先天性嚢胞性腺腫様奇形
+CCAT　conglutination on complement absorption test　膠着補体結合反応
+CCA unit　chick cell-agglutination unit　幼若細胞凝集反応単位
+CCB　calcium channel blocker　カルシウムチャンネルブロッカー，カルシウム流入阻害剤，カルシウム拮抗薬
+CCBV　central circulating blood volume　循環血液量
+CCC　cholangiocellular carcinoma　胆管細胞癌
+CCC　chronic complicated cystitis　慢性複雑膀胱炎
+CCC　citrated calcium carbamide　クエン酸カルシウム尿素
+CCC　congenital cutaneous candidiasis　先天性皮膚カンジダ症
+CCC　conjunctivitis catarrhalis chronica［ラ］　慢性カタル性結膜炎
+CCC　countercurrent chromatography　向流クロマトグラフィー
+CCCP　carbonylcyanide-m-chlorophenyl hydrazon　カルボニルシアニド-ｍ-クロロフェニル・ヒドラゾン
+CCD　central core disease　中心コア病
+CCD　cortical collecting duct　皮質部集合管。腎臓の皮質部で遠位尿細管が集まったもの
+CCE　ceratoconjunctivitis epidemica［ラ］　流行性角結膜炎
+CCE　clubbing, cyanosis and edema　棍棒状，チアノーゼと浮腫
+CCE　counterflow centrifugal elutration　カウンターフロー遠心分離
+CCF　cancer coagulative factor　癌凝固因子
+CCF　carotid-cavernous sinus fistula　頸動脈海綿静脈洞瘻
+CCF☆　cephalin-cholesterol flocculation　セファリンコレステロール絮状試験
+CCF　chronic cardiac failure　慢性心不全
+CCF　compound comminuted fracture　複合粉砕骨折
+CCF　congestive cardiac failure　うっ血性心不全
+CCH　chronic cholestatic hepatitis　慢性胆汁性肝炎
+CCHD　cyanotic congenital heart disease　チアノーゼを示す先天性心疾患。ファロー四徴症など
+CCHF　Crimean-Congo hemorrhagic fever　クリミア・コンゴ出血熱
+CCI　chronic coronary insufficiency　慢性冠不全
+CCK☆　嚼面鋳造冠（歯）
+CCK　cholecystokinin　コレシストキニン
+CCK-OP　cholecystokinin octopeptide　コレシストキニン・オクトペプチド。消化管ペプチドの一つ
+CCK-PZ，CCK/PZ　cholecystokinin-pancreozymin　コレシストキニン・パンクレオザイミン
+CCL　cefaclor　セファクロル（抗菌薬）
+C，Cl　clearance　尿素クリアランス。腎機能検査の一種，腎のクリアランステスト
+CCL　coracoclavicular ligament　烏口鎖骨靱帯
+CCLF　cephalin-cholesterol-lecithin flocculation　セファリン・コレステロール・レシチン絮状反応。肝機能検査法の一種
+CCM　calcium citrate malate　クエン酸リンゴ酸カルシウム
+CCM　closed-chest cardiac massage　非開胸的心マッサージ，閉胸心マッサージ，体外式心マッサージ
+CCM　congestive cardiomyopathy　うっ血型心筋症
+CCM　critical care medicine　集中治療医学，重症管理医学
+CCMSU　clean catch midstream urine　非汚染（無菌的）中間尿採取
+CCMV　cowpea chlorotic mottle virus　ササゲ豆萎黄病斑状ウイルス
+CCNS　cell cycle nonspecific agents　細胞回転周期非特異性薬剤
+CCNU　chloroethyl-cyclohexyl nitrosourea　クロロエチルシクロヘキシルニトロソウレア（抗悪性腫瘍薬）
+Cco2　CO2 content　二酸化炭素含有，炭酸ガス含量
+CCP　chronic calcifying pancreatitis　慢性石灰化膵炎。一般的に非代償期に認められる。
+CCP　chronic complicated pyelonephritis　慢性複雑性腎盂腎炎
+CCP　ciliocytophthoria　CCP細胞
+CCP　classical complement pathway　補体古典経路
+CCP　complement control protein　補体調節蛋白質
+CCP　critical closing pressure　臨界閉鎖圧
+CCPD　continuous cyclic peritoneal dialysis　持続性周期的腹膜透析
+CCPR　cardio-cerebral pulmonary resuscitation　心肺脳蘇生法
+CCR　complex chemical reaction　複合化学反応
+Ccr，Ccr　creatinine clearance　クレアチニンクリアランス，腎糸球体濾過値の測定法
+CCRS　congenital constriction ring syndrome　絞扼輪症候群
+CCRT　concurrent chemoradiotherapy (chemoradiation)　同時化学放射線療法
+CCS　cell cycle specific agents　細胞回転周期特異性薬剤
+CCS　certified coding specialist　コーディング・スペシャリスト（カルテから診療情報を分類するスペシャリスト）
+CCS　colon clean solution　経口腸管洗浄液
+CCS　contact compound scan　接触複合走査
+CCSK　clear cell sarcoma of the kidney　腎明細胞肉腫。淡明な細胞質をもつ腫瘍細胞による稀な腎癌
+CCT　coated compressed tablet　被覆加工圧縮錠剤
+CCT　cortical collecting tubule　皮質集合管
+CCT　cycotiamine　シコチアミン
+CCU　chronic complicated urinary tract infection　慢性複雑性尿路感染症
+CCU　coronary care unit　心臓集中治療室，冠状動脈疾患集中治療部（門）。心筋梗塞や狭心症など，主として冠血管性疾患で発作を起こした患者を，専門的な知識をもったスタッフ（医師，看護師など）が集中的に治療を行う病棟（病室）。各種患者監視記録装置，治療機材などが配置されている。
+CCVD　chronic cerebrovascular disease　慢性脳血管疾患
+CCW　counter-clock wise　反時計方向，counter-clock wise rotation，反時計方向回転
+CCXD　computer-controlled X-ray diffractometer　コンピュータ制御X線回析器
+CCZ　croconazole hydrochloride　塩酸クロコナゾール（抗真菌薬）
+Cd　cadmium　カドミウム
+CD　celiac disease　セリアック病，セリアックスプルー，グルテン腸症
+CD　cesarean delivery　帝王切開分娩。子宮筋を切開して胎児および胎児付属物を娩出させる手術。狭骨盤，児頭骨盤不均衡，全前置胎盤，切迫子宮破裂，常位胎盤早期剥離，胎位の異常などにより経腟分娩が不能な場合などに適応となる。腹式帝王切開と腟式帝王切開（妊娠中期の中絶に用いられる）に大別される。
+Cd　chlordiazepoxide　クロルジアゼポキシド（抗不安薬）
+c/d　cigarettes per day　喫煙本数
+CD　cluster of differentiation antigen　CD抗原，同一表面抗原分子
+CD　coefficient of digestion　消化吸収率（係数）
+CD　colidyspepsie［ラ］　大腸性消化不良
+CD　collecting duct　集合管
+CD　conjugata diagonalis［ラ］　骨盤結合線の対角線
+CD　conjugate diameter　骨盤内径
+CD　contagious disease（communicable disease）　伝染病。細菌やウイルスによる感染症のうち，ヒトからヒトへ伝播していくものをいう。
+CD　convulsive disorder　痙攣性疾患
+CD　Crohn\u000002bcs disease　クローン病。消化管に起こる肉芽腫性炎症性病変。病因は不明。特定疾患治療研究事業の対象疾患。
+C/D　cup to disc ratio present in optic disc　網膜乳頭の曲折比率
+Cd　diodrast clearance　ダイオドラスト・クリアランス。腎血漿流量の測定法
+CDA　cerebral dissecting aneurysm　解離性脳動脈瘤
+CDA　congenital dyserythropoietic anemia　先天性赤血球異形成貧血
+CDAD　Clostridium difficile-associated disease　C. difficile関連疾患
+CDAI　Crohn\u000002bcs disease activity index　クローン病活動指数
+CDC　calculated date of confinement　出産予定日
+cdc　cell division cycle　細胞分裂周期
+CDC　complement dependent cellular cytotoxicity　補体依存性細胞障害
+CDC，CDCA　chenodeoxycholic acid　ケノデオキシコール酸。コレステロールから生成される胆汁酸の一種
+Cd，CdR　cadmium reaction　カドミウム反応，血清膠質反応の一種
+CD-choline　cytidine diphosphate choline　シチジン二リン酸コリン
+CDCM　carbon-dioxide concentration module　炭酸ガス濃度単位
+CDD　chemically defined diet　完全栄養
+CDDP　cis-diamine-dichloroplatinum　シスジアミンジクロロプラチナム。cisplatin　シスプラチン（抗悪性腫瘍薬）
+CD-DST法　collagen gel droplet embedded culture drug sensitivity test　コラーゲン包理培養薬剤感受性試験（抗悪性腫瘍剤感受性検査）
+CDF　cholinergic differentiation factor　コリン作動性神経分化因子
+CDGP　nedaplatin　ネダプラチン（抗悪性腫瘍薬）
+CDGS　carbohydrate deficient glycoprotein syndrome　糖蛋白質糖鎖不全症候群
+CDH　ceramide dihexoside　セラマイド・ジヘキソサイド。糖脂質の一種
+CDH　cervical disc herniation　頸椎椎間板ヘルニア
+CDH　congenital diaphragmatic hernia　先天性横隔膜ヘルニア
+CDH　congenital dislocation of the hip（joint）　先天性股関節脱臼
+CDI　color Doppler imaging　カラードプラ画像法
+cdk　cyclin-dependent kinase　サイクリン依存性キナーゼ
+CDKN2　cyclin-dependent kinase 2　サイクリン依存性キナーゼ2。急性骨髄性白血病でみられる染色体異常
+CDLE　chronic discoid lupus erythematosus　慢性円板状エリテマトーデス
+cDNA　complementary DNA　相補的DNA
+CDP　calcium dependent protease　カルシウム依存性蛋白分解酵素，カルシウム依存性プロテアーゼ
+CDP　cytidine diphosphate　シチジン二リン酸
+CDP　cytosine diphosphate　2リン酸シトシン
+Cd-probe　cadmium-probe　カドミウム試験。血清膠質反応
+CdR　cadmium reaction　カドミウム反応，硫酸カドミウム反応。血清膠質反応の一種
+CDR　clinical dementia rating　臨床認知症評価尺度
+CDR　complementarity determining region　相補性決定領域
+CdR　cytosine deoxyriboside　シトシンデオキシリボシド　deoxycytidine　デオキシシチジン
+CDS　cadmium shell　カドミウムシェル
+CDS　Colistin-Dextromycin-Salbe［独］　コリスチン・デキストロマイシン軟膏
+CD tox A　Clostridium difficile toxin A　クロストリジウムディフィシレ毒素
+CDTR-PI　cefditoren pivoxil　セフジトレンピボキシル（抗菌薬）
+CDV　canine distemper vaccine　イヌジステンパーワクチン
+CDV　canine distemper virus　イヌジステンパーウイルス
+CDV（＋Feron）療法　CDDP＋DTIC＋VDS（＋IFN-β）　皮膚科化学療法の一つ
+CDX　cefadroxil　セファドロキシル（抗菌薬）
+Cdyn　dynamic compliance　動的肺コンプライアンス。最高気道内圧と吸気一回換気量の比
+CDZ　chlordiazepoxide　クロルジアゼポキシド
+CDZM　cefodizime sodium　セフォジジムナトリウム（抗菌薬）
+Ce　cerium　セリウム
+Ce　cervical esophagus　頸部食道
+CE　cholesterol ester　コレステロールエステル
+CE　clinical engineer　臨床工学技士。clinical engineering　臨床工学，クリニカル・エンジニアリング
+CE　contrast enhancement　造影増強効果，コントラスト増強。造影剤によって画像上，組織の濃度や信号強度が上昇・低下する。
+CE　counter-flow centrifugal elutriation　対向流遠心洗浄法
+Ce　esophageal cancer　食道癌
+CEA　carcinoembryonic antigen　癌胎児性抗原
+CEA　carotid endarterectomy　頸動脈血\_c07717内膜切除術
+CEA　continuous epidural analgesia　持続硬膜外麻酔
+CEA　cultured epidermal autograft　培養上皮細胞移植
+CEAP　clinical・etiology・anatomy・pathophysiology　臨床的・病因的・解剖学的・病態生理学的
+CEC　capillary electrochromatography　毛細管電気クロマトグラフィー
+CEC　cephacetrile　セファセトリル
+CEC　circulation extracorporale　体外循環。血液を体外に導いて必要な操作を加え，再び体内に戻す治療法。心臓内部の病変に対して開心術を行う際，心血流遮断を安全に行うために開発された技術（人工心肺装置）。心臓に帰ってくる静脈血を心臓の手前で遮断して，全量をいったん身体の外に誘導し，人工心肺装置（人間の心臓と肺の役目をする）に流し込み，その静脈血の炭酸ガスを除去して酸素を加えて肺のガス交換を人工的に行い動脈血化したのちに，カニューレを使用して動脈系内に再挿入する。体内に入った動脈血は心臓に流れ込む手前で遮断され，内部には流入せずに生体に酸素を供給する。
+CED　cefradine　セフラジン（抗菌薬）
+CED　chondroectodermal dysplasia　軟骨外胚葉異形成症
+CEEG　computer-analyzed EEG　コンピュータ分析脳波
+CE-EUS　contrast-enhanced endoscopic ultrasonography　造影超音波内視鏡
+CEEV　Central European encephalitis virus　中央ヨーロッパ脳炎ウイルス
+CEF　central expansion factor　中央膨張因子
+CEG　cardiac electrogram，electrocardiogram（＝ECG）　心電図。ドイツ語での省略形はEKG。心臓の筋肉（心筋）が動くときに発生する微弱な電流を増幅させて記録したもの。心電図を連続監視する装置を心電図モニターといい，記録装置を心電計という。基本的には，心房筋の興奮を表すP波，心室筋の興奮を表すQRS波，心室筋興奮の回復を表すT波の３波から成る。不整脈，心筋梗塞，冠状動脈不全，狭心症，心臓弁膜症，心臓神経症，心不全，高血圧，動脈硬化症，術前検査などに広く用いられる。
+CEG　cephaloglycin　セファログリシン
+CEI　converting enzyme inhibitor　変換酵素抑制剤
+cell　cellulose　線維素
+cell nitr　cellulose nitrate　硝酸セルロース，ニトロセルロース
+CELO　chicken embryo lethal orphan virus　ニワトリ胎致死孤児ウイルス
+CEM　central excitatory mechanism　中枢興奮機構
+CE mix　chloroform ether mixture　クロロホルム・エーテル混合物
+CEMT-PI　cefetamet pivoxil HCl　塩酸セフェタメトピボキシル（抗菌薬）
+cen　center　中心の
+CEO　coefficient of ethanol oxidation　アルコール酸化係数
+CEP　2-cyanoethyl-phosphate　2-シアノエチル・リン酸塩
+CEP　cephalosporin　セファロスポリン（抗生物質）
+CEP　cephapirin（＝CEPR）　セファピリン（セフェム系抗生物質）
+CEP　cerebral evoked potential　大脳誘発電位
+CEP　chronic eosinophilic pneumonia　慢性好酸球性肺炎
+CEP　congenital erythropoietic porphyria　先天性赤芽球性ポルフィリン症，先天性造血性ポルフィリン症，先天性骨髄性ポルフィリン症
+CEP　cortical evoked potential　皮質誘発電位
+CEP　counter electrophoresis　対向電気泳動
+Ceph　cepharanthine　セファランチン。アルカロイド
+CEPR　cephapirin　セファピリン
+CEPs　cephalosporins　セファロスポリン類（抗生物質）
+CEQ　coenzyme Q（＝CoQ）　補酵素Q，コエンザイムQ，ユビキノン
+CER　cephaloridine　セファロリジン
+CER　conditioned emotional response　条件情動反応
+cerebral AVM　cerebral arteriovenous malformation　脳動静脈奇形
+cerv　cervical（＝C）　頸椎の
+CES　central excitatory state　中枢興奮状態
+CET　cefalotin sodium　セファロチンナトリウム（抗菌薬）
+CET　cephothin　セフォチン（セフェム系抗生物質）
+CET　corrected effective temperature　修正有効温度
+CETB　ceftibuten　セフチブテン（抗菌薬）
+CETP　cholesterol ester transfer protein　コレステロールエステル転送蛋白質
+CEV　Califonia encephalitis-virus　カリフォルニア脳炎ウイルス
+CEW　Centrum-Erker Winkel［独］　大腿骨中心臼蓋角
+CEX　cefalexin　セファレキシン（ケフレックス）。セファロスポリン系抗生物質（第１世代セフェム系抗菌薬）
+CEZ　capillary zone electrophoresis　毛細管領域電気泳動
+CEZ　cefazolin sodium　セファゾリンナトリウム（抗菌薬）
+CF　calcium folate　葉酸カルシウム
+Cf　californium　カリフォルニウム
+CF　carbol-fuchsin　カルボール・フクシン。染色液
+CF　cardiac failure　心不全\u000021e8CI
+CF　cationized ferritin　陽性イオン・フェリチン
+CF　characteristic frequency　特徴周波数
+CF　chemotactic factor　遊走因子，走化性因子。白血球の遊走を誘発する化学物質
+CF　Christmas factor　クリスマス因子，プラズマトロンボプラスチン成分，抗血友病因子B。血液凝固第Ⅸ因子
+CF　citrovorum factor　抗葉酸物質拮抗因子，シトロボルム因子，5-ホルミルテトラヒドロ葉酸，ホリン酸。貧血予防因子
+CF　clastogenic factor　破砕因子
+CF　complement fixation　補体結合（反応）
+cf.　confer［ラ］　〜を比較参照
+CF　counting fingers　指数弁
+CF　coupling factor　結合因子，共役因子，カップリング因子
+CF　cryofiltration　血漿冷却濾過法
+CF　cystic fibrosis　嚢胞性線維症，膵嚢胞性線維症，線維性嚢胞膵症。CFTR遺伝子の変異による常染色体劣性の遺伝性疾患
+CF　cytolytic factor　細胞融解因子
+CFA　complement fixing activity　補体結合活性
+CFA　complement fixing antibody　補体結合抗体
+CFA　complete Freund adjuvant　完全フロイントアジュバント。殺菌乾燥マイコバクテリウムを浮遊させた油中水型乳剤アジュバント
+CFA　conjunctivitis follicularis acuta［ラ］　急性濾胞性結膜炎
+CFA　continuous flow adapter　連続流量調整器
+CFA　continuous flow analyzer　連続流動分析器
+CFA　cryptogenic fibrosing alveolitis　特発性線維性肺胞炎，特発性間質性肺炎，特発性びまん性間質性肺炎。原因不明の間質性肺炎（急性びまん性間質性肺炎と慢性びまん性間質性肺炎とに分類）
+CFC　capillary filtration coefficient　毛細管透過率
+CFC　colony-forming cell　コロニー形成細胞
+CFC　conjunctivitis follicularis chronica［ラ］　慢性濾胞性結膜炎。眼瞼結膜に濾胞が形成される結膜炎で慢性のもの
+CF，CFS　colonofiberscope　大腸ファイバースコープ。肛門から内視鏡を挿入して大腸内部を観察する検査法。現在は，内視鏡の先端に光を電子信号に変換する素子のCCDが組み込まれた電子スコープまたはビデオスコープによって，画像をモニターテレビに映す仕組みになっている。消化管粘膜の状態を直接確認でき，ポリープ，潰瘍の表面の変化や平坦な病変の変化も色調で発見できる。悪性・良性の判断のために組織を直接採取（生検）すること，さらに内視鏡的ポリープ切除・粘膜切除術の治療もできる。
+CFDⅠ　craniofacial dysostosis Ⅰ　頭蓋顔面異骨症Ⅰ型
+CFDN　cefdinir　セフジニル（抗菌薬）
+CFE　colony-forming efficiency assay　コロニー形成試験
+CFF　critical flicker frequency　限界融合周波数
+CFF　critical fusion frequency　臨界融合周波数
+cfg　centrifuge　遠心分離
+CFI　chemotactic factor inactivator　（白血球）遊走因子不活化物質，走化性因子不活化物質
+CFI　community fluorosis index　地域フッ素症指数
+CF-ICA　complement-fixing cytoplasmic isletcell antibody　補体結合性膵島細胞質抗体
+CFIT　complement fixation inhibition test　補体結合阻止試験
+CFIX　cefixime　セフィキシム（抗菌薬）
+CFP　cyclophosphamide, 5-fluorouracil, prednisolone　シクロホスファミド，5-FU，プレドニゾロン。癌化学療法の組み合わせの一つ
+CFP　cystic fibrosis of pancreas　膵嚢胞線維症，嚢胞性線維症，線維性嚢胞膵症
+CFPC　carfecillin　カルフェシリン
+CFPM　cefepime dihydrochloride　塩酸セフェピム（抗菌薬）
+CFPN-PI　cefcapene pivoxil hydrochloride　塩酸セフカペンピボキシル（抗菌薬）
+CFR　complement fixation reaction　補体結合反応
+CFR　coronary flow reserve　冠血流予備量
+CFS　cefsulodin sodium　セフスロジンナトリウム（抗菌薬）
+CFS　chronic fatigue syndrome　慢性疲労症候群。全身倦怠感・疲労感・微熱・頭痛・思考力・集中力の低下が長時間続き，検査などで精査を行っても数字として現れてこない原因不明の病気のこと。患者は年々増加傾向である。現在のところ有効な治療方法はない。病気の実体ははっきりしておらず，膠原病，うつ病，更年期障害などが誤って診断されるケースが多く，独立した病気がどうかも議論の対象となっている。
+CFSL　cefoselis sulfate　硫酸セフォセリス（抗菌薬）
+CFT　clinical full time　臨床基準時間
+CFT　complement fixation test　補体結合試験。抗原に対する抗体の存在を，抗原・抗体複合体に補体が結合する量で定量する検査
+CFT　propylene glycol cefatrizine　セファトリジンプロピレングリコール（抗菌薬）
+CFTM-PI　cefteram pivoxil　セフテラムピボキシル（抗菌薬）
+CFTR　cystic fibrosis transmembrane regulator　嚢胞性線維症膜貫通調節蛋白質
+CFU　colony-forming unit　コロニー形成単位
+CFU-C　colony-forming unit in culture　培養コロニー形成単位
+CFU-E　colony-forming unit-erythroid　赤芽球コロニー形成単位
+CFU-EO　colony-forming unit-eoisinophil　好酸球コロニー形成単位
+CFU-G　colony-forming unit-granulocyte　顆粒球コロニー形成単位
+CFU-GM　colony-forming unit-granulocyte macrophage　顆粒球マクロファージコロニー形成単位
+CFU-Meg(MK)　colony-forming unit-megakaryocyte　巨核球コロニー形成単位
+CFU-mix　mixed colony forming unit　混合コロニー形成単位
+CF unit　complement fixation unit　補体結合単位
+CFU-S　colony-forming unit in spleen　脾コロニー形成単位
+CFV　constant flow ventilation　定常流換気
+CFX　cefoxitin　セフォキシチン
+CG　choking gas　窒息ガス
+CG　cholesterin granuloma　コレステリン肉芽腫，コレステロール肉芽腫
+CG　chorionic gonadotropin　絨毛性ゴナドトロピン，絨毛性性腺刺激ホルモン，ヒト絨毛性性腺刺激ホルモン
+CG　chronic glomerulonephritis（＝CGN）　慢性糸球体腎炎
+CG　colloidal gold　コロイド状金
+CG　cryoglobulin　クリオグロブリン
+CG　cystography　膀胱(X線)造影(法)
+CGA　comprehensive geriatric assessment　高齢者総合機能評価
+CGD　chronic granulomatous disease　慢性肉芽腫症
+CGE　capillary gel electrophoresis　毛細管ゲル電気泳動
+CGF　chemotaxis generating factor　化学走性産出因子
+CGH　chorionic gonadotropic hormone　絨毛性ゴナドトロピン・ホルモン
+CGH　comparative genomic hybridization　比較ゲノムハイブリダイゼーション
+CGL　chronic granulocytic leukemia　慢性顆粒球性白血病
+CGL　congenital generalized lipodystrophy　先天性全身性脂肪萎縮症
+CGM　central grey matter　中心灰白質
+CGM　concentration hemoglobinique［仏］　ヘモグロビン濃度
+CGM　continuous glucose monitoring system　連続的血糖測定装置
+cGMP　cyclic guanosine 3', 5'-monophosphate　サイクリックGMP
+CGN　chronic glomerulonephritis　慢性糸球体腎炎
+CGN　cis Golgi network　シスゴルジネットワーク
+CGOQ　cerebral glucose oxygen quotient　脳グルコース酸比
+CGP　choline glycerophosphatide　コリン・グリセロリン脂質
+CGP　chorionic growth hormone prolactin　絨毛性成長ホルモン・プロラクチン
+CGP　circulating granulocyte pool　循環顆粒球数，循環顆粒球プール
+CGRP　calcitonin gene-related peptide　カルシトニン遺伝子関連ペプチド
+CGT　chorionic gonadotropin　絨毛性性腺刺激ホルモン
+CGTT　cortisone glucose tolerance test　コルチゾン・ブドウ糖負荷試験（耐糖能検査法）
+CH　charcoal hemoperfusion　活性炭血液灌流。吸着剤である活性炭を血液に直接に接触させ毒性物質を除去する手法
+Ch　chest　胸
+Ch　chlorpromazine　塩酸クロルプロマジン（抗精神病薬）
+Ch　cholesterol　コレステロール。細胞膜などの構成成分で，胆汁酸，ステロイドホルモン，ビタミンＤなどの前駆体
+Ch　choline　コリン。生体内にあるビタミンB群の一つ
+Ch　chondroitin　コンドロイチン
+Ch　chronic　慢性の
+CH　chronic hepatitis　慢性肝炎。肝臓の持続性炎症。急性肝炎から移行したものと，潜行的に発症したものがある。診断は肝生検による。臨床的には１年以上肝機能障害が続くものを慢性肝炎と呼ぶ。急性B型肝炎・C型肝炎から移行するが，A型肝炎から移行することはほとんどない。肝硬変に移行する危険性もある。B型とC型，特にC型ではインターフェロン療法が行われる。
+CH　chronic hypertension　慢性高血圧
+CH　clinical history　病歴
+CH　common hepatic artery　総肝動脈
+CH　communicating hydrocephalus　交通性水頭症
+CH　critical hours　危急時間
+CH　crown-heel　頭頂踵間距離，頭踵長。胎児の体長を表す。
+CH　hydrogen ion concentration　水素イオン濃度
+CH2O　free water clearance　自由水クリアランス
+CH50　50％ hemolytic unit of complement　血清補体価
+CHA　caprylhydroxamic acid　カプリルヒドロキサム酸
+Ch-A　choline acetylase　コリンアセチラーゼ
+CHA　chronic hemolytic anemia　慢性溶血性貧血。赤血球寿命の異常な短縮によって貧血などの諸症状をきたす病態のうち慢性的なもの
+CHA　cold hemagglutination test　赤血球寒冷凝集反応。37℃以下でより強く血球や細菌と凝集を起こす抗体（寒冷凝集素）を検出する方法。マイコプラズマ肺炎（原発性非定型肺炎）では血清中の寒冷凝集素価が上昇するため，マイコプラズマ肺炎の診断に利用される。健康人血清でも多少の寒冷凝集素を認めるため，通常32〜64倍以上を陽性とする。肺結核，インフルエンザ，肝硬変，妊娠などでも陽性になることがあり，マイコプラズマ肺炎の確定診断には補体結合反応による特異抗体の検出などが必要である。
+CHA　congenital hypoplastic anemia　先天性形成不全型貧血，先天性再生不良性貧血，ブラックファン貧血
+CHAD　cold hemagglutinin disease　寒冷赤血球凝集素症
+CHAOS　congenital high airway obstruction syndrome　先天性上気道閉塞症候群
+CHARGE　coloboma of the eye, heart defect, atresia of the choanae, retardation of growth and/or development, genital and urinary abnormalities, ear malformation and/or hearing loss　チャージ連合。網脈絡膜欠損，心疾患，後鼻孔閉鎖症，成長障害，知能発育障害（中枢神経系奇形），外性器低形成（耳介奇形，聾）。多発奇形の一種
+CHART　continuous hyperfractionated accelerated radiotherapy　連続過分割加速放射線治療
+ChAT　cholin acetyltransferase　コリンアセチル転移酵素
+CHAT　cold hemagglutination test（＝CHA）　赤血球寒冷凝集反応，寒冷凝集反応
+CHB　complete heart block　完全心ブロック
+CHBA　congenital Heinz body anemia　先天性ハインツ小体貧血，不安定ヘモグロビン症
+CHC　cyclohexylamine carbonate　炭酸シクロヘキシルアミン
+Ch-ca　choriocarcinoma　絨毛癌，絨毛上皮腫，悪性絨毛上皮腫。絨毛上皮の細胞が病的増殖をきたす悪性腫瘍で，大部分が妊娠に続発する。
+CHD　child blood disease　小児血液疾患
+ChD　childhood disease　小児疾患
+CHD　compensated heart disease　代償性心疾患
+CHD　congenital heart disease　先天性心疾患
+CHD　congenital hip disease　先天性股関節疾患
+CHD　congenital hip dislocation　先天性股関節脱臼
+CHD　congestive heart disease　うっ血性心疾患
+CHD　coronary heart disease　冠動脈性心疾患
+CHD　cyanotic heart disease　チアノーゼ性心疾患
+CHDF　continuous hemodiafiltration（＝CHF）　持続緩徐式血液濾過。血液透析法（血液から老廃物を除去する処置）の一種。血液を持続緩徐式血液濾過器に送ることにより老廃物を除去する。長時間にわたり行うため，体に与える影響が少なくてすむ反面，老廃物の除去が人工透析に比べて少し劣るのが欠点。多臓器不全や心不全を伴う腎不全や重症急性膵炎，劇症肝炎，術後肝不全などに対して行われる。
+C-HDL（HDL-C）　high density lipoproteins cholesterol　高比重リポ蛋白コレステロール
+ChE　cholesterol ester　コレステロールエステル
+ChE　cholinesterase　コリンエステラーゼ。肝臓に含まれる酵素で，血液生化学検査の肝機能検査の一つ。この数値が標準値より高い場合は，ネフローゼ症候群や糖尿病，甲状腺機能亢進症などの疑いがある。低い場合は，肝硬変，肝炎，肝臓癌などの疑いがある。
+CHE　chronic hepatic encephalopathy　慢性肝性脳症
+Chemo Ther　chemotherapy　化学療法。病原菌によって起こる疾患に対して，その病原菌の増殖を抑制する化学物質を投与して治療を行うこと。あるいは，白血病や悪性腫瘍などの異常細胞の増殖を抑制する化学物質を投与して治療を行うこと。
+Ch-ep　chorionepithelioma (＝chorio)　絨毛上皮腫（絨毛癌）\u000021e8Ch-ca
+CHESS method　chemical shift selective method　化学シフト選択法
+Chest-XP　chest X-ray photography　胸部単純X線
+chf　cell-associated helper factor　細胞依存ヘルパー因子
+CHF　congenital heart failure　先天性心不全
+CHF　congenital hepatic fibrosis　先天性肝線維化症
+CHF　congestive heart failure　うっ血性心不全
+CHF　continuous hemofiltration　持続緩徐式血液濾過\u000021e8CHDF
+CHH　cartilage-hair hypoplasia　軟骨・毛髪低形成症
+CHI　chemotherapeutic index　化学療法係数
+CHI　creatinine height index　クレアチニン身長指数
+CHIK　Chikungunya virus　チクングニヤウイルス
+CHIP　cis-dichloro-trans-dihydroxy-bis isopropylamine platinum　シス・ジクロロ・トランスジヒドロキシ・ビスイソプロピラミン・プラチヌム（抗悪性腫瘍薬）
+Chiro　chiropractic　脊椎指圧療法，脊柱指圧療法，徒手脊柱矯正術，カイロプラクティック
+Chk　checkpoint kinase　チェックポイント・キナーゼ
+Chl　chloroform　クロロホルム
+Chlb　chlorobutanol　クロロブタノール。局所麻酔剤
+chlor　chloride　塩化物。chlorine　塩素
+chloro　chloroform　クロロホルム
+CHN　carbon, hydrogen, nitrogen　炭素，水素，窒素
+CHO　carbohydrate　炭水化物，糖，糖質
+CHO　Chinese hamster ovary cell　チャイニーズ・ハムスター卵巣由来細胞，CHO細胞
+Chol　cholesterol　コレステロール（コレステリン）。コレステロールとは体内に存在する脂質の一つで，細胞膜や神経，ホルモン合成などに関わる物質。HDLコレステロールとLDLコレステロールの２種類がある。HDLは高比重リポ蛋白として血中に存在するコレステロール（一般に善玉コレステロールと呼ばれる）で，LDLは低比重リポ蛋白として血中に存在するコレステロール（一般に悪玉コレステロールと呼ばれる）。
+chole　cholecystitis　胆嚢炎
+chole　cholelithiasis　胆石症。胆嚢・胆管内に生じる石のような固形物による症状をもつ症例のこと。胆石は胆汁成分を主成分とすることが多く，コレステロール系とビリルビン系に大別される。症状は，腹痛，黄疸，発熱，悪心，嘔吐などである。特に右上腹部に起こる激しい痙攣発作性の痛みは，胆石疝痛の特徴である。無症候性胆嚢結石に対しては，胆石溶解剤の投与で十分であるが，胆管結石，症状を繰り返す胆石症に対しては，外科的（または腹腔鏡的）治療が必要となる。
+chole　cholesteatoma　真珠腫，コレステリン腫，胆脂腫。中耳炎，上鼓室化膿症でみられる炎症性の腫瘍
+chol est　cholesterol ester（＝ChE）　コレステロールエステル。コレステロールに長鎖脂肪酸がエステル結合したもの
+chol-ester　cholesterin ester　コレステリンエステル
+Chol-T　cholesterol total　総コレステロール定量
+CHOP　cyclophosphamide, hydroxydaunomycin, oncovin, prednisolone　シクロホスファミド＋ヒドロキシダウノマイシン＋オンコビン＋プレドニゾロン。チョップ療法
+CHOP-B　cyclophosphamide, hydroxydaunomycin, oncovin, prednisolone, bleomycin　シクロホスファミド＋ヒドロキシダウノマイシン＋オンコビン＋プレドニゾロン＋ブレオマイシン。癌化学療法の組み合わせの一つ
+chorio　chorionepithelioma（＝Ch-ep）　絨毛上皮腫（絨毛癌）\u000021e8Ch-ca
+CHP　Chandipura virus　カンディプーラウイルス
+CHP　charcoal hemoperfusion　活性炭血液灌流
+CHPP　continuous hyperthermic peritoneal perfusion　持続温熱腹膜灌流。胃癌腹膜播種の予防・治療のため，抗癌剤等を腹膜内に灌流させる方法
+chpx　chicken pox　水痘。水ぼうそう。水痘ウイルスによって，発熱とともに全身の皮膚や口内に水疱ができる急性発疹性疾患。小児に多いが成人も罹患する。伝染力が強く，接触，飛沫感染するが，１度かかれば長い年月にわたる免疫が得られる。健康小児が罹患した場合，予後は一般に良好で，１〜２週間の経過で全治する。
+CHR　carpal height ratio　手根骨高比
+chr　Chromobacterium　クロモバクテリウム，有色バクテリウム属
+chr　chronic　慢性の
+CHRM　chromomycin　クロモマイシンA3
+chRNA　chromosomal ribonucleic acid　染色体リボ核酸
+chromo　chromosome　染色体
+CHRS　cerebrohepatorenal syndrome　脳肝腎症候群
+CHS　Ch\u000000e9diak-Higashi syndrome　チェディアック−東症候群
+ChS　chondroitin sulfate　コンドロイチン硫酸
+ch. s　chondrosarcoma　軟骨肉腫
+CHS　chronic hypersensitivity　慢性過敏症候群
+CHS　compression hip screw　大腿骨頸部骨折の骨接合術で使用するスクリュー
+ChT　chiasma of tendon　腱交叉部
+chylo　chylomicron（＝CM）　カイロミクロン，乳び脂粒，乳び球
+CI　cardiac index　心係数
+CI　cardiac insufficiency　心不全。心臓のもつポンプとしての機能が障害された結果，肺循環系や体循環系に血流のうっ滞を生じた状態。左心不全（肺うっ血型不全），右心不全（体うっ血型不全）に分類される。前者は大動脈弁膜症，僧帽弁膜症，冠状動脈硬化症，高度の高血圧症などが原因で肺循環系にうっ血をきたすもので，後者は肺動脈狭窄，高度の僧帽弁膜症などによって大循環系のうっ血をきたすもの。症状としては，左心不全は易疲労，動悸，息切れ，呼吸困難，起坐呼吸を生じ，比較的急性型が多い。右心不全では静脈怒張，四肢・臓器の浮腫，肝腫大，胸水，腹水を生じ，慢性型の病状が多い。
+CI　cerebral infarction　脳梗塞。脳血管が詰まることで血行が途絶し，その流域下の脳組織に壊死を起こす病気。肉眼的に，貧血性梗塞と出血性梗塞とに分類される。原因としては，主に脳血栓や脳塞栓のほか，脳血管攣縮，急激な血圧低下，低灌流血管症などがある。症状は病変を生じた動脈によって異なるが，運動麻痺，知覚麻痺，失語症などを起こす。
+CI　chemotherapeutic index　化学療法指数
+CI　collapsibility index　虚脱度
+CI　colloidal iron　コロイド鉄
+CI　color index　カラーインデックス，色素指数（血液）。Hb（血色素量）/R（赤血球数）
+CI　confidence interval　信頼区間
+ci　continuous infusion　持続静注
+CI　cornification index　角化係数
+CI　coronary insufficiency　冠不全，冠状動脈機能不全症。心筋組織の酸素欠乏状態を総称する言葉。最も多い原因は，冠動脈硬化による狭窄や，大動脈弁・大動脈起始部の異常，ショックなどによる冠動脈血流量の低下である。そのほか，動脈血酸素容量の減少（一酸化炭素中毒・肺性心など肺疾患による換気障害，高山病など），心筋の代謝性障害（原発性および続発性心筋症，粘液水腫など），心仕事量増加（大動脈弁膜症，高血圧性心臓病，甲状腺機能亢進症など）がある。ストレス，労作などが冠動脈の一時的攣縮や心筋酸素消費量の増大を招けば狭心症を生じ，不可逆性変化が生じれば心筋梗塞を発症する。症状がなくても長期間の冠不全状態は心筋の脱落，線維化を生じる。
+Ci　Curie　キュリー。放射性物質量を表す単位
+CIA　colony inhibiting activity　コロニー阻止活性
+CIA　common iliac artery　総腸骨動脈
+CIA　communication inter-auriculaire　耳内連絡
+CIBHA　congenital inclusion body hemolytic anemia　先天性封入体溶血性貧血
+CIC　cardio-inhibitor center　心機能抑制中枢，心臓抑制中枢
+CIC　circulating immune complex　循環性免疫複合体
+CIC　clean intermittent catheterization　無菌間欠導尿法
+CICR　Ca-induced Ca release　カルシウム誘発性カルシウム遊離
+CICU　coronary intensive care unit（＝CCU）　心臓集中治療室，冠状動脈疾患集中治療病棟，冠状動脈疾患監視病室
+CID　(acquired) cytomegalic inclusion disease　(後天性)巨細胞封入体病
+CID　combined immunodeficiency　複合免疫不全症
+CIDP　chronic inflammatory demyelinating poly (radiculo) neuropathy　慢性炎症性脱髄性多発根ニューロパチー
+CIDR　chronic inflammatory demyelinated radiculopathy　慢性炎症性脱髄性根神経疾患
+CIDS　cellular (cell-mediated) immunity deficiency syndrome　細胞性免疫不全症候群
+CIE　countercurrent immunoelectrophoresis　対向免疫電気泳動法
+CIEP　counter-immunoelectrophoresis　対向免疫電気泳動法，免疫電気向流法
+CIF　cartilage inducing factor　軟骨誘導因子
+CIF　clonal inhibition factor　クローン化阻止因子
+CIF　colony inhibiting foctor　コロニー阻止因子
+CIFD　congenital intrinsic factor deficiency　先天性内因子欠損症
+CIG　cold insoluble globulin　寒冷不溶（解）性グロブリン
+cIg　cytoplasmic immunoglobulin　細胞質免疫グロブリン
+CIH　carbohydrate-induced hyperglycemia　炭水化物由来高血糖，糖質由来高血糖
+CIH　chronic inactive hepatitis　慢性非活動性肝炎
+CIHD　chronic ischemic cardiomyopathy　慢性虚血性心疾患
+CIIP　chronic idiopathic intestinal pseudoobstruction　慢性特発性偽腸閉塞
+CIIPS　chronic idiopathic intestinal pseudoobstruction syndrome　慢性特発性偽腸閉塞症候群。原因不明の腸閉塞症状を繰り返す状態
+CIN　cervical intraepithelial neoplasia　子宮頸部上皮内腫瘍
+CIN　chronic interstitial nephritis　慢性間質性腎炎
+CINS　chronic idiopathic neutropenia syndrome　慢性特発性好中球減少症候群
+CINX　cinoxacin　シノキサシン
+CIP　chronic idiopathic pancreatitis　慢性特発性膵炎
+CIP　chronic inflammatory polyneuropathy　慢性炎症性多発ニューロパチー
+CIPC　carbenicillin indanyl penicillin　カリンダシリン
+CIPD　chronic intermittent poritoneal dialysis　慢性間欠的腹膜透析
+circum　circumference　周囲
+CIRPN　chronic idiopathic relapsing polyneuropathy　慢性特発性再発性多発ニューロパチー
+CIS　carcinoma in situ　上皮内癌
+CIS　central inhibitory state　中枢抑制状態
+CIS-DDP　cis-diaminoplatinum dichloride (cisplatin)　シス-ジアミノプラチナムジクロライド（シスプラチン）。抗悪性腫瘍薬
+cit　citrate　クエン酸塩。血液抗凝固剤
+CIT　cold ischemic time　冷阻血時間
+CIT　conventional insulin therapy　通常インスリン治療。通常１日１〜３回のインスリン注射を毎日行う。
+CIV　communication interventriculaire　脳室内連絡
+CIV　continuous intravenous infusion　持続点滴静注，持続静脈内注射
+CIVD　cold induced vasodilatation　寒冷血管拡張反応
+C-IVH　continuous intravenous hyperalimentation　持続静脈高栄養法
+CIVII　continuous intravenous insulin infusion　持続インスリン点滴静注
+CIX　circumflex　回旋枝
+CIXA　constant infusion excretory urogram　持続注入排泄尿路X線像
+CJD　Creutzfeldt-Jakob disease　クロイツフェルト-ヤコブ病
+CK☆　鋳造冠（歯）
+CK　creatine kinase　クレアチンキナーゼ
+CK　creatine phosphokinase　血清クレアチンホスフォキナーゼ（リン酸酵素）
+CK　cyanogen chloride　塩化シアノジェン
+CK-BB　creatine kinase brain band isoenzyme　クレアチンキナーゼ脳型アイソザイム
+CKD　chronic kidney disease　慢性腎臓病
+CK-MB　creatine kinase myocardial band isoenzyme　クレアチニンキナーゼ心筋型アイソザイム
+CK-MM　creatine kinase muscle band isoenzyme　クレアチンキナーゼ筋型アイソザイム
+Cl　鈎（歯）
+CL　cardiolipin　カルジオリピン
+CL　central lateral nucleus of thalamus　視床外側中心核
+CL　chest and left arm　胸部と左腕。心電図の電極設置部位
+Cl　chloride　塩化物
+Cl　chlorine　クロール定量，塩素イオン定量
+Cl　chlorine　塩素
+CL　chronic leukemia　慢性白血病
+Cl　clavicle　鎖骨
+Cl　clear　きれいな，明瞭な
+CL　cleft lip　口唇裂。口唇部の片側か両側に披裂がある状態。
+CL　clonidine　クロニジン。交感神経刺激剤
+Cl　close　閉鎖する
+Cl　Clostridium　クロストリジウム菌。破傷風菌やボツリヌス菌などが属する。
+CL　colistin sulfate　硫酸コリスチン・硫酸フラジオマイシン配合剤（抗菌薬）
+CL　complicated lesion　複合病変
+CL　contact lens　コンタクトレンズ
+CL　control limit　管理限界
+CL　corpus luteum［ラ］　黄体
+CL　cytotoxic lymphocytes　細胞傷害性リンパ球
+CL　lung compliance　肺コンプライアンス。拡張した肺が元に戻ろうとする力を示す指標の一つ
+CLA　conjugated linoleic acid　共役リノール酸
+CLAC-Ⅱ　check list for autistic childⅡ　自閉性障害児の行動チェックリスト（一般用）
+CLAC-Ⅲ　check list for autistic childⅢ　自閉性障害児の行動チェックリスト（行動療法用）
+CLAS　congenital localized absence of skin　先天性限局皮膚欠損
+clav　clavicle　鎖骨
+CLB　chlorambucil　クロラムブシル
+CLBBB　complete left bundle branch block　左脚ブロック，完全左脚ブロック
+CLD　chronic liver disease　慢性肝疾患
+CLD　chronic lung disease　慢性肺疾患
+CLDM　clindamycin　クリンダマイシン（ダラシン\u000000ae），リンコマイシン系抗生物質
+CLE　centrilobular emphysema　小葉中心型肺気腫
+CLE　cutaneous lupus erythematosus　皮膚エリテマトーデス
+CLEIA　chemiluminescent enzyme immunoassay　化学発光酵素免疫測定法
+CLF　ceroid lipofuscinosis　セロイドリポフスチン症，セロイドリポフスチン蓄積症
+CLH　chronic lobular hepatitis　慢性小葉性肝炎
+CLI　critical limb ischemia　重症虚血肢
+CLIA　chemiluminescent immunoassay　化学発光免疫測定法
+Clin　clinic　診療所
+Clin　clinical　臨床の
+Clin Dx　clinical diagnosis　臨床診断
+clin proc　clinical procedures　臨床手技
+CLIP　contused, lacerated, incised and punctured wounds　挫・裂・切・刺創
+CLIP　corticotropin-like intermediate lobe peptide　コルチコトロピン様中葉ペプチド
+CLIS　clinical laboratory information system　臨床検査情報システム
+clit　clitoral　陰核の。clitoridectomy　陰核切除。clitoris　陰核
+CLL　cholesterol lowering lipid　コレステロール低下脂質
+CLL　chronic lymphocytic(lymphatic) leukemia　慢性リンパ性白血病
+CLM　clindamycin（＝CLDM）　クリンダマイシン（抗生物質）
+Cln　inulin clearance　イヌリンクリアランス。腎クリアランス検査法の一種
+CLNP　colistin nonapeptide　コリスチンノナペプチド（抗生物質）
+C-L op　Caldwell-Luc operation　上顎洞根本手術，コルドウェル・リュック上顎洞（根治）手術
+clr　clear（＝cl）　きれいな，明瞭な
+CLS　Coffin-Lowry syndrome　コフィン-ローリー症候群
+clsd　closed　閉鎖された
+clsg　closing　閉鎖
+CLSI　Clinical and Laboratory Standards Institute　臨床検査標準協会
+CLSL　chronic lymphosarcoma leukemia　慢性リンパ肉腫白血病
+clsr　closure　閉鎖
+CLT　clotting time　血液凝固時間，全血凝固時間
+4-CLTA　4-chlorotestosterone acetate　4-クロロテストステロン酢酸
+4-CLTC　4-chlorotestosterone capronate　4-クロロテストステロン・カプロン酸
+4-CLTP　4-chlorotestosterone propionate　4-クロロテストステロン・プロピオン酸
+CLV　Carnation latent virus　カーネーション潜在ウイルス
+CM　carboxymethyl　カルボキシメチル
+CM　cardiomyopathy　心筋症
+CM　carpometacarpal joint（＝CMJ）　手根中手関節
+CM　cellular immunity　細胞性免疫
+cM　centimorgan　センチモルガン
+CM　centromedian nucleus of thalamus　中心正中核
+CM　centrum medianum［ラ］　中心核
+CM　cervical mucus　頸管粘液
+CM　chloramphenicol　クロラムフェニコール（クロロマイセチン\u000000ae）（抗生物質）
+CM　chylomicron　乳び脂粒
+CM　circular muscle　輪状筋
+CM　cochlear microphonics　蝸牛マイクロホン電位
+CM　compression myelopathy　圧迫性脊髄症
+CM　conditioned medium　ならし培地
+CM　continuous murmur　連続性雑音。聴診で聞かれる心雑音の一つ
+CM　contrast medium　造影剤。画像診断において組織の画像濃度を上下させるために用いる薬剤で，濃度を上げるものを陽性造影剤（消化管造影に使用する硫酸バリウム，CTや血管造影などで使用する水溶性ヨード造影剤，MRIで使用するガドリニウムキレート剤など），下げるものを陰性造影剤（MRIで使用する超常磁性酸化鉄粒子など）という。
+Cm　costal margin　肋骨縁
+Cm　curium　キュリウム
+CM　cytoplasmic membrane　細胞質膜，細胞膜，細胞表面膜，原形質膜
+Cm　maximum urea clearance　最高尿素クリアランス
+Cman　mannite clearance　マンニット・クリアランス
+CMAP　compound muscle action potential　複合筋活動電位
+CMAP　contrast myocardial appearance picture　造影剤心筋出現図
+Cmax　maximum concentration　最高（血中）濃度
+CMC　carboxy methylcellulose　カルボキシメチルセルロース
+CMC　cell mediated cytotoxicity　細胞媒介性細胞傷害（作用）
+CMC　cervical mucous crystallization　頸管粘液結晶形成
+CMC　closed mitral commissurotomy　閉鎖式（僧房弁）交連切開術，非直視下交連切開術
+CMC　critical micell concentration　臨界ミセル濃度
+CMCC　chronic mucocutaneous candidiasis　慢性粘膜皮膚カンジダ症，慢性皮膚粘膜カンジダ症
+CMC-Na　carboxymethyl cellulose sodium　カルボキシメチルセルロースナトリウム／カルメロースナトリウム（下剤）
+CM，CP　capreomycin　硫酸カプレオマイシン（抗結核抗生物質）
+CMCT　central motor conduction time　中枢運動神経伝導時間
+CMD　cartilage matrix deficiency　軟骨基質不全
+CMD　cefamandole　セファマンドール
+CMD　congenital muscular dystrophy　先天性筋ジストロフィー
+CME　cystoid mascular edema　類嚢胞黄斑浮腫
+CMF　comparative mortality figure　年齢調整死亡率指数
+CMF　cyclophosphamide, methotrexate, 5-fluorouracil　シクロホスファミド，メトトレキセート，5-FU。癌化学療法の組み合わせの一つ
+CMFVP　cyclophosphamide, methotrexate, 5-fluorouracil, vincristine, predonine　シクロホスファミド，メトトレキセート，5-FU，ビンクリスチン，プレドニン。癌化学療法の組み合わせの一つ
+CMG　cysto(mano)metrography　膀胱内圧測定
+CMGN　chronic membranous glomerulonephritis　慢性膜性糸球体腎炎
+CMI　carbohydrate metabolism index　炭水化物代謝指数，糖代謝指数
+CMI　cell mediated immunity　細胞性免疫
+CMI　colon motility index　結腸運動係数
+CMI☆　Cornell Medical Index　コーネル医学指数
+c/min　cycle per minute　毎分周期
+Cmin　minimum concentration　最低（血中）濃度
+CMJ　carpometacarpal joint　手根中手関節
+CML　cell mediated lympholysis　細胞介在リンパ球融解
+CML　chronic myelogenous leukemia, chronic myelotic leukemia　慢性骨髄性白血病
+CML　cutaneous malignant lymphoma　皮膚悪性リンパ腫。リンパ球系細胞の悪性腫瘍で，非ホジキンリンパ腫の一つ
+CMM　cutaneous malignant melanoma　皮膚悪性黒色腫
+CMM　cystic medial necrosis　嚢性中心壊死，嚢胞性中膜壊死，特発性嚢胞性大動脈中膜壊死
+CMME　chloromethyl methyl ether　クロロメチルメチルエーテル
+CMML，CMMoL　chronic myelomonocytic leukemia　慢性骨髄単球性白血病
+CMN-AA　cystic medial necrosis of ascending aorta　上行大動脈嚢性中心壊死
+CMNX　cefminox sodium　セフミノクスナトリウム（抗菌薬）
+CMO　cardiac minute output　毎分心拍出量
+C-MOPP　cyclophosphamide, oncovin (vincristine), procarbazine, prednisolone　シクロホスファミド，オンコビン，プロカルバジン，プレドニゾロン。癌化学療法の組み合わせの一つ
+CMoV　Carrot motolle virus　キャロットモトルウイルス
+CMP　cardiomyopathy　心筋症
+CMP　cytidine monophosphate　シチジン一リン酸，シチジル酸
+CMPD　chronic myeloproliferative disorder　慢性骨髄増殖性疾患
+cmpd　compound　混合する。compounded　混合した
+CM-Pf　centromedian-parafascicular thalamotomy　中内側傍索状視床切除。除痛術
+cmpt　component　成分
+CMR　cerebral metabolic rate　脳代謝率
+CMRG，CMRglu　cerebral metabolic rate of glucose　脳ブドウ糖消費量，脳のグルコース代謝率
+CMRO2　cerebral matabolic rate of oxygen　脳酸素代謝率，脳酸素消費量
+CMT　cervical mucous test　頸管粘液検査。エストロゲン活性を知ることができ，排卵時期が予測できる。
+CMT(D)　Charcot-Marie-Tooth disease　シャルコー・マリー・トゥース病
+CMU　concentration maximale of urine　最大尿濃度
+CMV　canalicular membrane vesicle　小管膜小嚢
+CMV　continuous mandatory ventilation　持続的強制換気，調節人工呼吸
+CMV　continuous mechanical ventilation　持続的機械換気
+CMV　controlled mechanical ventilation　機械的調節換気。設定した間隔で人工呼吸器がガスを送気する。
+CMV　cucumber mosaic virus　キュウリモザイクウイルス
+CMV　cytomegalovirus　サイトメガロウイルス
+CMV-DNA　cytomegalovirus-dexyribonucleic acid　サイトメガロウイルスデオキシリボ核酸
+CMV-mRNA　cytomegalovirus-messenger ribonucleic adid　サイトメガロウイルス伝令リボ核酸
+CMX　cefmenoxime hemihydrochloride　塩酸セフメノキシム（抗菌薬）
+CMZ　cefmetazole sodium　セフメタゾールナトリウム（抗菌薬）
+CN　cardiac neurosis　心臓神経症，心臓血管神経症，神経循環性無力症，神経循環失調症，循環器神経症
+CN　cranial nerves　脳神経。脳から出る12対の末梢神経。各神経は脳底から左右対称に１対ずつ出て，顔の知覚，筋肉，目，耳，鼻など，頭や顔部の働きを支配する。
+CN　cyanide　シアン
+CNAG　chronic narrow angle glaucoma　慢性狭隅角緑内障
+CNAP　chronic nonalcoholic pancreatitis　慢性非アルコール性膵炎
+c.n.b.　coffeinum et natrii benzoas［ラ］　安息香酸ナトリウムカフェイン
+CNB　core needle biopsy　針生検
+CN-B12　cyanocobalamin　シアノコバラミン（レヂソール），ビタミンB12剤
+CND　chenuda virus　ケヌダウイルス
+CNDC　chronic non-suppurative destructive cholangitis (＝CNSDC)　慢性非化膿性破壊性胆管炎
+CNDI　congenital nephrogenic diabetes ixsipidus　遺伝性腎性尿崩症
+CNE　chronic nervous exhaustion　慢性神経疲労
+CNH　central neurogenic hyperventilation　中枢神経性過呼吸
+CNHD　congenital nonspherocytic hemolytic disease　先天性非球状赤血球溶血疾患
+CNL　chronic neutrophilic leukemia　慢性好中球性白血病
+CNM　congenital nonprogressive myopathy　先天性非進行性ミオパチー，良性先天性ミオパシー
+CNP　continuous negative pressure　持続陰圧
+CNP　C-type natriuretic peptide　C型ナトリウム利尿ペプチド
+CNPV　chest negative pressure ventilation　胸郭外陰圧式換気
+CNR　contrast-to-noise ratio　コントラスト雑音比
+CNS　central nervous system　中枢神経系。脳と脊髄。外胚葉性の神経管から発達し，その頭部にあたる３つの膨らみが脳になり，これより尾部が脊髄になる。末梢神経を介して身体の各部とつながっている。中枢神経の一般構造は主として神経細胞とその突起である神経線維であり，脳からは12対の脳神経，脊髄からは31対の脊髄神経がそれぞれ出る。神経細胞の集合を灰白質，有髄神経線維の束を白質という。
+CNS　certified nurse specialist　専門看護師
+CNS　coagulase negative Staphylococcus　コアグラーゼ非産生ブドウ球菌，コアグラーゼ陰性ブドウ球菌
+CNSDC　chronic non-suppurative destructive cholangitis (＝CNDC)　慢性非化膿性破壊性胆管炎
+CNSHA　chronic nonspherocytic hemolytic anemia　慢性非球状性溶血性貧血
+CNSL　central nervous system leukemia　中枢神経系白血病，CNS白血病
+CNSLD　chronic non-specific lung disease　慢性非特異性肺疾患
+CNT　connecting tubule　結合尿細管
+CNTF　ciliary neurotrophic factor　毛様体神経栄養因子
+CNV　contingent negative variation　随伴陰性変動
+CNVP cell　converted non-virus producing cell　転換性非ウイルス産出細胞
+CO　carbon monoxide　一酸化炭素。炭素Cの不完全燃焼時に発生
+CO　cardiac output　心拍出量
+Co　cobalt　コバルト
+CO　cobalt reaction　血清コバルト反応，血液化学検査。血液化学検査とは，血液や尿などに含まれている化学物質を測定する検査。病気の診断はもちろん，経過や予後の判定に重要な意味をもっている。
+Co　coenzyme　補酵素，コエンザイム，助酵素
+CO　corneal opacity　角膜不透明，角膜混濁
+CO　cyclooxygenase　シクロオキシゲナーゼ，脂肪酸シクロオキシゲナーゼ
+60Co　radioactive cobalt　放射性コバルト。放射線治療に使用される。
+CO2　carbonic acid gas　炭酸ガス。二酸化炭素の慣用名
+Co2　O2 content　酸素含量
+CO2 content　carbon oxide content　（血中）炭酸ガス含量
+CO2 ct　CO2 content　炭酸ガス含量
+CO2 MR　cerebral oxygen metabolic reserve　脳酸素代謝予備能
+CO2排泄☆　炭酸ガス排泄量測定
+CoA　atypical coarctation of aorta　異型大動脈縮窄症
+COA　coagglutination　凝集反応
+CoA　coenzyme A　補酵素A
+CoAAc　acetyl coenzyme A　アセチル補酵素A，アセチルコエンザイムA，アセチルCoA
+COA complex　coarctation of aorta complex　大動脈縮窄複合
+COAD　chronic obstructive airway disease　慢性閉塞性気道疾患
+COAG　chronic open angle glaucoma　慢性開放隅角緑内障
+COAP　cyclophosphamide, oncovin, Ara-C, predonisolone　シクロホスファミド，オンコビン，Ara-C，プレドニゾロン。急性白血病の化学療法の組み合わせの一つ
+Coarc　coarctation of aorta　大動脈縮窄，大動脈絞窄症，大動脈狭部狭窄
+COASAC　S-acetyl-coenzyme A　アセチルコエンザイムA
+COB　cobamamide　コバマミド（カロマイド，コバマイド）。補酵素型ビタミンB12製剤
+COBD　chronic obstructive bronchial disease　慢性閉塞性気管支疾患
+COBT　chronic obstruction of biliary tract　慢性胆道閉塞
+coc　cocaine　コカイン
+COC　cocal virus　コカルウイルス
+COC　combination-type oral contraceptive　複合経口避妊薬
+COCC　coccyx　尾骨
+coch，cochl.　cochleare［ラ］　匙１杯（処）
+COCl　cathodal opening clonus　陰極開放性クローヌス
+COCM　congestive cardiomyopathy　拡張型心筋症
+COD　cause of death　死因
+COD　chemical oxygen demand　化学的酸素要求量
+cod.　codeine　コデイン。麻薬の一種
+cod. phos.　codeine phosphate　リン酸コデイン。麻薬性鎮咳剤
+COEPS　cortically originating extrapyramidal system　皮質由来錐体外路系
+Co-F　coenzyme-F　補酵素F，コエンザイムF
+COGNISTAT　neurobehavioral cognitive status examination　神経行動的認知状態検査
+CO-graphy　cobalt radiography　コバルトグラフ
+COHb　carboxyhemoglobin　カルボキシヘモグロビン。一酸化炭素ヘモグロビン，カルボニルヘモグロビン
+COI　central obesity index　中心肥満指数
+coke　cocaine　コカイン
+col.　cola［ラ］　濾過せよ（処）
+COL　collagen　コラーゲン
+COLD　chronic obstructive lung disease　慢性閉塞性肺疾患
+Cold　cold hemagglutination test　寒冷凝集反応
+colet　coleatur［ラ］　濾過せよ（処）
+Col fac　colicin factor　コリシン因子
+coll　colloidal　膠質の
+collod.　collodium［ラ］　コロジオン。局所塗布剤
+collut.　collutorium［ラ］　含漱剤
+collyr.　collyrium［ラ］　点眼剤
+COM　chronic otitis media　慢性中耳炎
+com　complement　補体
+COM　cyclophosphamide, oncovin, methotrexate　シクロホスファミド，オンコビン，メトトレキセート。癌化学療法の組み合わせの一つ
+COM　Combivir\u000000ae　ジドブジン・ラミブジン配合剤（コンビビル\u000000ae）。抗HIV薬
+comb　combination　結合
+comm dis　communicable disease　伝染病
+comm dis　communication disorder　伝達障害
+common A-V canal　common atrioventricular canal　共通房室弁口
+Compl　complication　合併症
+complete ECD　complete endocardial cushion defect　完全型心内膜床欠損症
+complete-TGA　complete transposition of great arteries　完全大血管転位症
+compo　composite　混成の，合成の，合成物
+Compound B　corticosterone　コルチコステロン。副腎皮質ホルモン，化合物B
+Compound E　cortisone　コルチゾン。副腎皮質ホルモン，化合物E
+Compound F　cortisol　コルチゾール。副腎皮質ホルモン，化合物F
+Compound S　11-deoxycortisol　デオキシコルチゾール。副腎皮質ホルモン，化合物S
+COMT　catechol O-methyltransferase　カテコールO-メチルトランスフェラーゼ。メチル基転移酵素
+Con　condyloma　コンジローマ
+con　conservative　保存的な
+Con-A　concanavalin A　コンカナバリンA
+c-onc　cellular oncogene　細胞性癌遺伝子
+cond ref　conditioned reflex　条件反射
+cond resp　conditioned response　条件反応
+conf　cofectio［ラ］　舐剤，糖剤，糖漬菓
+congen　congenital　先天性の
+conj　conjunctiva　結膜
+cons　conservative　保存的な
+constit　constituent　賦形剤
+contin.　continuetur［ラ］　継続せよ（処）
+cont. rem.　continuetur remedia［ラ］　薬を続けよ（処）
+COP　center of pressure　床反力作用点
+COP　circum oval precipitin reaction　虫卵周囲沈降反応
+COP　cisplatin, oncovin, pepleomycin　シスプラチン，オンコビン，ペプレオマイシン。癌化学療法の組み合わせの一つ
+COP　colloid osmotic pressure　血漿膠質浸透圧，コロイド浸透圧，膠質浸透圧
+COP　cryptogenic organizing pneumonia　特発性器質化肺炎
+COP　cyclophosphamide, oncovin, prednisolone　シクロホスファミド，オンコビン，プレドニゾロン。癌の多剤化学療法の組み合わせの一つ
+COPD　chronic obstructive pulmonary disease　慢性閉塞性肺疾患。従来の慢性気管支炎と肺気腫を統合した病名。気管支の炎症や肺胞の破壊によって始まり，咳，痰，息切れが続いて次第に悪化し，重症になると気流閉塞となり呼吸困難に陥る。
+COPE　chronic obstructive pulmonary emphysema　慢性閉塞性肺気腫
+COPP　cyclophosphamide, oncovin, procarbazine-P, predonine　エンドキサン，オンコビン，プロカルバジン−P，プレドニン
+COPRO　coproporphyrin　コプロポルフィリン
+COPROgen　coproporphyrinogen　コプロポルフィリノーゲン
+COPT　circum oval precipitation test　卵周囲沈降テスト
+CoQ　coenzyme Q　補酵素Q
+coq.　coque［ラ］　沸騰させよ（処）
+CoR☆　cobalt reaction　血清コバルト反応，血清膠質反応の一種
+Cor　corium　真皮
+COR-audiometry　conditioned orientation reflex audiometry　条件詮索反射聴力検査
+Cord-T　coordination test　協調性テスト
+Coron　coronary　冠状動脈の
+CORP　ceramics ossicular replacement prosthesis　セラミック製人工耳小骨，セラミック耳小骨
+Cort　cortex　皮層，外皮，皮質
+Cort A　cortical atrophy　脳皮質萎縮，皮質性萎縮
+COSM　compound streptomycin　複合ストレプトマイシン
+Cosm　osmolar clearance　浸透圧クリアランス。腎機能低下の状態を示す指標の一つ
+cost resp　costal respiration　胸式呼吸
+COX　cytochrome oxidase　チトクローム酸化酵素
+COX　fatty acid cyclooxygenase　脂肪酸シクロオキシゲナーゼ
+Cox-V　Coxsackie virus　コクサッキーウイルス。エンテロウイルスの一種で，コクサッキーウイルス感染症（手足口病，ヘルパンギーナ，無菌性髄膜炎）の原因ウイルス。
+Co急化pul☆　カリエスのない歯髄炎（歯）
+CP　canal paresis　管麻痺
+CP　capillary pressure　毛細管圧
+CP　cerebral palsy　脳性（小児）麻痺
+CP　cerebral peduncle　大脳脚
+CP　cerebral poliomyelitis　脳性灰白髄炎
+CP　chloramphenicol　クロラムフェニコール（抗菌薬）
+C/P　cholesterol/phospholipid ratio　コレステロール・リン脂質比。動脈硬化の測定法
+CP　chronic pancreatitis　慢性膵炎
+CP　chronic pyelonephritis　慢性腎盂腎炎
+CP　cicatricial pemphigoid　瘢痕性類天疱瘡，良性粘膜類点疱瘡。眼部や口腔等に水疱やびらんを生じ瘢痕が残る類天疱瘡
+CP　cleft palate　口蓋裂。口蓋が正中で開いている先天性の異常
+CP　clinical psychologist　臨床心理士，臨床心理専門家
+CP　clitical pass　クリティカル・パス，クリニカル・パス。一定の疾患をもつ患者に対して，入院から退院までの，検査，手術，処置，投薬，注射，リハビリテーション，指導，看護ケア，食事指導，安静度，退院指導など，主たる臨床行為を標準化し，時間軸に沿って効率的に配したスケジュール表のこと。一般には「特定の疾患をもつ患者に対して達成すべきアウトカム（成果）を含む医療チームの情報を集積した，事前に定められた時間枠（タイムフレーム）の指針」と解釈されており，入院診療計画の策定などに有効な手段となっている。
+CP　clobetasol propionate　プロピオン酸クロベタゾール
+CP　colloid osmotic pressure　コロイド浸透圧，膠質浸透圧
+Cp　compressed tablet　錠剤
+CP　constrictive pericarditis　収縮性心膜炎，収縮性心嚢炎，狭窄性心外膜炎，ピック病，慢性収縮性心膜炎
+CP　coproporghyrin　コプロポルフィリン
+CP　cor pulmonale　肺性心
+CP　creatine phosphate　クレアチンリン酸
+CP　cryptomeria pollinosis　スギ花粉症
+CPA　cardiogenic pulmonary edema　心原性肺水腫
+CPA　cardiopulmonary arrest　心肺機能停止，心呼吸停止
+CPA　carotid phonoangiography　頸動脈脈音記録
+CPA　coeur pulmonaire aigu［仏］　急性肺性心
+CPA　cyclophosphamide　シクロホスファミド（抗悪性腫瘍薬）
+CPAg　cryptomeria pollinosis antigen　スギ花粉症抗原
+CPAH　p-aminohippuric acid clearance　パラアミノ馬尿酸クリアランス
+CPALP　carcinoplacental alkaline phosphatase　癌胎盤性アルカリホスファターゼ
+CPA-OA　cardiopulmonary arrest on arrival　来院時心肺機能停止
+CPAP　continuous positive airway pressure　持続陽圧呼吸（シーパップ），持続気道陽圧型（人工呼吸）
+CPAP　nasal continuous positive airway pressure　鼻腔持続陽圧呼吸
+CPAP titration　CPAP適正圧の決定。CPAP装着状態でPSG検査を行い適正圧を決める。
+CPB　cardiopulmonary bypass　人工心肺，心肺バイパス
+CPB　chronic pulmonary berylliosis　慢性ベリリウム中毒肺。じん肺症の一種
+CPBA　competitive protein binding analysis (assay)　競合性蛋白結合分析法
+CPC　cetylpyridinium chloride［ラ］　塩化セチルピリジニウム。皮膚消毒剤
+CPC　chronic passive congestion　慢性受動的うっ血
+CPC　clinical pathological conference　臨床病理検討会
+CPC　coeur pulmonaire chronique［仏］　慢性肺性心
+CPC　coil planet centrifuge, cyclic path centrifuge　コイルプラネット遠心分離機を応用した動的赤血球膜物性検査
+Cp，cod.phos.　codeinum phosphoricum［ラ］，codei ne phosphate　リン酸コデイン，リンコ，リンコデ。鎮咳薬，麻薬
+CP，CPZ　chlorpromazine　（塩酸）クロルプロマジン（ウインタミン，コントミン），フェノチアジン系向精神薬
+CPCR　cardiopulmonary cerebral resuscitation　心肺脳蘇生法
+CPD　cephalopelvic disproportion　児頭骨盤不均衡(不適合）
+Cpds　compounds　化合物
+CPD soln.　citrate phosphate dextrose solution　クエン酸・リン酸・ブドウ糖溶液
+CPDX-PR　cefpodoxime proxetil　セフポドキシムプロキセチル（抗菌薬）
+CPE　cardiogenic pulmonary edema　心原性肺水腫。心不全等の原因で血液が肺に余分に貯留した状態
+CPE　chronic pulmonary emphysema　慢性肺気腫
+CPE　cytopathic effect　細胞変性効果
+CPEO　chronic progressive external ophthalmoplegia　慢性進行性外眼筋麻痺
+CPFX　ciprofloxacin hydrochloride　塩酸シプロフロキサシン（抗菌薬）
+CPH　chronic persistent hepatitis　慢性持続性肝炎
+Cph　counts per hour　毎時カウント。放射性物質の量を測る単位
+CPIB　chlorophenoxy isobutyrate　クロフィブラート
+CPK☆　creatine phosphokinase　血清クレアチンホスフォキナーゼ活性値
+CPL　cirrhotic, progressive and lymphatic forms　硬性，進行性，リンパ管型。癌の増殖の状態を分類したもので，周囲組織の反応性増殖を示すC型（硬性），実質が増殖するP型（進行性），リンパ管に侵入するL型（リンパ管型）に分けられる。
+CPM　cefpiramide sodium　セフピラミドナトリウム（抗菌薬）
+CPM　central pontine myelinolysis　橋中心髄鞘崩壊
+CPM　chronic progressive myelopathy　慢性進行性ミエロパチー
+CPM　cisplatin, pepleomycin, mitomycin-C　シスプラチン，ペプレオマイシン，マイトマイシンC。癌化学療法の組み合わせの一つ
+CPM　continuous passive motion　持続的他動運動。手術後早期に，専用装置で他動的に屈伸運動等を行わせる療法
+cpm　count per minute　カウント毎分。放射性物質の量を測る単位
+Cpm　cycles per minute　毎分周波数
+CPM　cyclophosphamide　シクロホスファミド
+CPMAS　cross polarization magic-angle spin　交差分極マジック角度回転法
+CPMG　Carr-Purcell-Meiboom-Gill method　カール・パーセル・メイブーム・ギル法。画像診断法の一つ
+CpMV　Cowpea mosaic virus　ササゲモザイクウイルス
+CPN　chronic polyneuropathy　慢性多発性ニューロパチー
+CPN　chronic pyelonephritis　慢性腎盂腎炎
+CPNB　continuous peripheral nerve block　持続末梢神経ブロック
+CPP　cerebral perfusion pressure　脳灌流圧
+CPPB，CPPV　continuous positive pressure breathing（ventilation）　持続陽圧呼吸(換気)(法）
+CPPD　calcium pyrophosphate dihydrate　ピロリン酸カルシウム
+CPR　cardio-pulmonary resuscitation　心肺蘇生法，心蘇生術，心肺脳蘇生術。心停止，呼吸停止に対して，心臓と肺の活動を再確立する救命措置のこと。具体的には，気道の確保，異物除去，人工呼吸および非開胸心マッサージを行う。
+CPR　cefpirome sulfate　硫酸セフピロム（抗菌薬）
+CPR　cochleo-pupillary response　蝸牛瞳孔反応
+CPR　connecting-peptide immunoreactivity　C-ペプタイド免疫活性，C-ペプチド免疫学的測定，ラジオアイソトープを用いた検体測定
+CPRM　capreomycin　カプレオマイシン
+CPS　carbamoyl-phosphate synthase　カルバモイルリン酸シンターゼ
+CPS　cardiac patient simulator　心臓病患者シミュレータ
+CPS　cholangiopancreatoscopy　胆膵管鏡
+CPS　Cognitive Performance Scale　認知活動評価尺度。認知機能障害を分類する指標で，０（障害なし）〜６（最重度）の７段階で評価し，CPS３以上を「障害あり」と判定する。
+CPS　complex partial seizure　複雑部分発作
+Cps　cycles per second（＝c/s）　毎秒周波数
+CPSE　complex partial status epilepticus　複合性部分てんかん重積状態
+CPT　carnitine palmitoyltransferase　カルニチンパルミトイルトランスフェラーゼ
+CPT　carotid pulse tracing　頸動脈波
+CPT　cholangioscopic papillotomy　胆道鏡的乳頭切開術
+CPT　cold pressure test　寒冷昇圧試験
+CPT　combining power test　二酸化炭素結合力テスト
+CPT-11　irinotecan　塩酸イリノテカン（抗悪性腫瘍薬）
+C-PTHrP精密　C-terminal parathyroid hormone-related protein　副甲状腺ホルモン関連蛋白C端フラグメント精密測定
+CPV　circulation plasma volume　循環血漿量
+CPV　cytoplasmic polyhedrosis virus　細胞質多角体病ウイルス
+CPVD　congenital polyvalvular disease　先天性多弁膜症
+CPX　cardiopulmonary exercise testing　心肺運動負荷試験
+CPZ　cefoperazone sodium　セフォペラゾンナトリウム（抗菌薬）
+CPZ/SBT　cefoperazon sodium/sulbactam sodium mixture　セフォペラゾンナトリウム・スルバクタムナトリウム合剤
+CQ　carboquone　カルボコン（抗悪性腫瘍薬）
+CQ　chloroquine quinine　クロロキン・キニーネ。抗マラリア剤
+CR　cardiac respiration　心臓呼吸
+CR　cardiorespiratory　心呼吸系
+CR　centric relation　中心位
+CR　chest and right arm　胸部と右腕（心電図）
+Cr　chromium　クロム。ヘモグロビンと結びつきやすいため血液検査に用いられる。
+CR　clot retraction　血餅退縮，血餅収縮。血液が凝固した塊（血餅）は次第に収縮し，淡黄色の液体（血清）が分離してくる過程。
+CR　coefficient of fat retention　脂肪蓄積係数
+CR　colon retention　停滞腸
+CR　complement receptor　補体レセプター
+CR　complete response, complete remission　完全寛解，著効
+CR☆　composit resin　複合レジン（歯）
+CR　computed radiography　コンピュータX線撮影。フィルムのかわりにイメージング・プレート（IP）という板状のエックス線エネルギーを記録するプレートにあて，画像読取装置にてエックス線エネルギーを読み取り，コンピュータ処理によって画像化する技術。撮影後，コントラストや濃度調整等の様々な画像処理が可能である。
+CR　conditioned reflex　条件反射
+CR　cough reflex　咳嗽反射
+Cr　cranial　頭側の
+Cr　creatine　クレアチン。肝および腎で合成され血中に入り，その98％は筋に取り込まれ，筋肉内ではクレアチンリン酸に合成されてエネルギー源として重要な役割を果たす。主として筋委縮や脱力を主徴とする疾患で高値を示す。
+Cr　creatinine　クレアチニン。筋肉中のクレアチンの最終代謝物で，腎糸球体で濾過され尿中に排出される。尿中クレアチニンの濃度は，１日排泄量を基準として検査する。筋肉量の減少する疾患（筋ジストロフィー，低栄養，廃用性萎縮，多発性筋炎，筋萎縮性側索硬化症等）の診断に用いられる。また，クレアチニン値の上昇が見られる場合として，ショックや心不全など前腎性因子，糸球体腎炎や尿細管障害などの腎性因子，尿路閉塞などの腎後性因子の場合がある。
+CR　cremaster-reflex　挙睾筋反射，精巣挙筋反射。大腿内側の皮膚を刺激すると正常男性では挙睾筋が収縮すること
+CR　critical ratio　臨界比
+Cr　crown　クラウン
+CR　crown-rump　頭頂-臀部。胎児の長さを表す。
+CRA　central retinal artery　網膜中心動脈
+CRABP　cellular retinoic acid binding protein　細胞内レチノイン酸結合蛋白
+CRAMPS　combined rotation and multiple-pulse spectroscopy　回転と多振動を合わせた分光測定。核磁気共鳴測定の標準的測定法
+Cranium　craniometry　頭蓋計測法，児頭計測法，クラニオメトリー
+CRAO　central retinal artery occlusion　網膜中心動脈閉塞症
+CRA syndrome　Cardio-renal anemia syndrome　CRA症候群
+CRBBB　complete right bundle branch block　完全右脚ブロック
+CRBP　cellular retinoic binding protein　細胞網膜結合蛋白
+CRBSI　catheter-related blood stream infection　カテーテル由来血流感染
+CRC　clinical research coordinator　治験コーディネーター
+CRC　concentrated red cells　濃厚赤血球
+CrCl　creatinine clearance　クレアチニンクリアランス。糸球体濾過値を表す。
+CRD　chronic renal disease　慢性腎疾患
+CRD　chronic respiratory disease　慢性呼吸器疾患
+CRE　cyclic AMP-responsive element　サイクリックAPM応答配列
+Crea　creatinine　クレアチニン
+CREB　CRE-binding protein　CRE結合蛋白質
+C-region　constant region　不変部，C領域，定常領域，Cドメイン
+crep　crepitus［ラ］　捻髪音
+CREST syndrome　calcinosis, Raynoud\u000002bcs phenomenon, esophageal hypomotility, sclerodactylia, telangiectasia syndrome　クレスト症候群，CREST症候群
+CRF☆　加圧根管充\u00005861（歯）
+CRF　chronic renal failure　慢性腎不全
+CRF　chronic respiratory failure　慢性呼吸不全
+CRF　coronary risk factor　冠状動脈危険因子，冠疾患危険因子
+CRF　corticotropin-releasing factor　副腎皮質刺激ホルモン放出因子
+CRH　corticotropin-releasing hormone　副腎皮質刺激ホルモン放出ホルモン
+CRH　critical relative humidity　臨界相対湿度。水溶性物質の吸湿性を示す値
+CRH-BP　corticotropin-releasing hormone-binding protein　副腎皮質刺激ホルモン放出ホルモン結合蛋白質
+CRI　chronic renal insufficiency　慢性腎不全
+CRIP　chronic relapsing inflammatory polyradiculoneuropathy　慢性再発性炎症性多発根ニューロパチー
+crip　cripple　肢体不自由者
+Crit　hematocrit（＝Ht，Hct）　ヘマトクリット値。血液中に占める赤血球の容積パーセント。内径が一定のガラス管に凝固阻止血を入れ，一端を封じて遠心したのち，血液柱全長に対する赤血球柱の長さを読み取り，それをパーセントで表す。赤血球容積は遠心法のほか，全血の電気抵抗を測定して求める方法や，自動血球計算器で赤血球一つひとつの容積を測定して総計を出す方法などがある。遠心法以外の原理によって求めた赤血球容積パーセントもヘマトクリット値と呼んでいる。
+CRL　crown rump length　胎児頭臀長
+CRM　carbomycin　カルボマイシン
+CRM　certified reference material　認証標準物質
+CRM　cross reacting material　交叉反応物質
+CRMD　children with retarded mental development　精神発達遅滞児
+CRMN　carumonam sodium　カルモナムナトリウム（抗菌薬）
+Crn　creatine　クレアチン。肝および腎で合成され血中に入り，その98％は筋に取り込まれ，筋肉内ではクレアチンリン酸に合成されてエネルギー源として重要な役割を果たす。主として筋萎縮や脱力を主徴とする疾患で高値を示す。
+cRNA　complementary RNA　相補的RNA
+CRO　cathode ray oscilloscope　陰極線オシロスコープ
+CRO　clinical research coordinator　臨床試験コーディネーター
+CRO　contract research organization　医薬品開発業務受託機関
+CRP　C-reactive protein　C反応性蛋白\u000021e8CR-test
+CRP　cyclic AMP receptor protein　サイクリックAMP受容蛋白質
+CRPA　C-reactive protein antiserum　C反応性蛋白抗血清
+CRPL　ceruloplasmin　セルロプラスミン。血漿蛋白質。炎症性疾患や悪性腫瘍で血漿中に増加
+CRPS　complex regional pain syndrome　複合局所疼痛症候群
+CRPV　cottontail rabbit papillomavirus　コットンテイルラビットパピローマウイルス
+CRQ　cerebral respiratory quotient　脳呼吸比
+CRQ　chronic respiratory disease questionnaire　慢性呼吸器疾患質問表。慢性閉塞性肺疾患（COPD）患者等のQOLを評価する質問票
+CRRT　continuous renal replacement therapy　持続的腎代替療法
+CRS　catheter related Sepsis　カテーテル敗血症
+CRS　Chinese restaurant syndrome　中華料理店症候群
+CRS　congenital rubella syndrome　先天性風疹症候群
+CRT　cathode ray tube　端末機モニター用ブラウン管（陰極線管）
+CRT　chemo-radio therapy　化学放射線療法
+Crt　creatinine　クレアチニン。筋肉中のクレアチンの最終代謝物で，腎糸球体で濾過され尿中に排出される。尿中クレアチニンの濃度は，１日排泄量を基準として検査する。筋肉量の減少する疾患（筋ジストロフィー，低栄養，廃用性萎縮，多発性筋炎，筋萎縮性側索硬化症等）の診断に用いられる。また，クレアチニン値の上昇が見られる場合として，ショックや心不全など前腎性因子，糸球体腎炎や尿細管障害などの腎性因子，尿路閉塞などの腎後性因子の場合がある。
+CR-test　C-reactive protein test　C反応性蛋白（CRP）試験。C反応性蛋白（CRP）を血清学的方法を用いて患者血清から検出する方法。C反応性蛋白とは人血清中にあって，肺炎双球菌菌体多糖類（C多糖類）と反応する蛋白で，炎症または組織崩壊のある疾患では陽性になる。鑑別診断には利用できないが，変化の有無，重症度の判定に便利である。化膿性疾患，感染症リウマチ熱などは陽性率が高い。
+CRV　Carnation ringspot virus　カーネーションリングスポットウイルス
+CRV　central retinal vein　網膜中心静脈
+CRVF　congestive right ventricular failure　うっ血性右心室不全
+CRVO　central retinal vein occlusion　網膜中心静脈閉塞症
+Cry　cryoglobulin　クリオグロブリン
+cryo-Ig　cryo-immunoglobulin　クリオ免疫グロブリン
+CS　2-chlorobenzylidene malonenitrile　クロロベンジリデンマロノニトリル。催涙剤
+CS　carcinosarcoma　癌肉腫
+CS　cardiogenic shock　心原性ショック。心臓の機能が著しく低下し十分な酸素供給ができずショックに陥った状態
+CS　center split　中央遮蔽（体）
+CS　cerebrospinal　脳脊髄の
+CS　cervical spondylosis　頸椎症
+C/S　cesarean section　帝王切開。分娩方法の一つで，子宮筋を切開して胎児および胎児付属物を娩出させる手術。狭骨盤，児頭骨盤不均衡，全前置胎盤，切迫子宮破裂，常位胎盤早期剥離，胎位の異常などにより経腟分娩が不能な場合などに適応となる。腹式帝王切開と腟式帝王切開（妊娠中期の中絶に用いられる）に大別される。
+Cs　cesium　セシウム
+cs　Chi-shao　赤芍。漢方薬の一つ
+Cs　cholesterol sulfate　硫酸コレステロール
+CS　chorionic somatomammotropin　絨毛性ソマトマンモトロピン。胎盤性ラクトゲン，コリオニックソマトマンモトロピン，絨毛成長ホルモンプロラクチン
+CS　chorionic somatotropin　絨毛性ソマトトロピン
+CS　chronic sinusitis　慢性副鼻腔炎
+CS　clinical stage　臨床病期
+CS　cockayne syndrome　コカイン症候群
+CS　compartment syndrome　コンパートメント症候群，筋区画症候群
+CS　convalescent status　回復状態
+CS　coronary sclerosis　冠動脈硬化
+CS　coronary sinus　冠静脈洞
+CS　corticosteroid　コルチコステロイド，副腎皮質ステロイド
+c/s　cycles per second（＝cps）　毎秒周波数，サイクル，ヘルツ
+CS　cycloserine　サイクロセリン（抗結核抗生物質）
+Cs-137　cesium 137　セシウム137
+CSA　central sleep apnea　中枢性睡眠時無呼吸。呼吸を調節する脳幹の機能が障害されて発症する睡眠時無呼吸
+CSA　colony stimulating activity　コロニー形成刺激活性
+CSA　continuous subcutaneous adiminstration　持続皮下注入法
+CsA　cyclosporine A　シクロスポリンA
+CSB　caffeine sodium benzoate　安息香酸ナトリウムカフェイン，アンナカ
+CSB　Cheyne-Stokes breathing　チェーン・ストークス呼吸，交代性無呼吸。一回換気量が増加・減少した後に無呼吸が起こり，再び同様の周期で繰り返される呼吸
+CSCT　central somatosensory conduction time　中枢感覚伝導時間
+CS，cysto　cystoscopy examination　膀胱鏡検査。膀胱鏡による膀胱内腔の検査。膀胱鏡には硬性膀胱鏡と軟性膀胱鏡がある。検査前処置として，キシロカインゼリー（粘膜麻酔剤）を尿道から注入し，膀胱鏡を介して水を注入して膀胱を満たす。水が膀胱内に貯まると，膀胱壁が伸展し，膀胱内腔全体を観察できるようになる。組織に異常が認められた場合は，膀胱鏡下生検を実施することがある。
+CSDH　chronic subdural hematoma　慢性硬膜下血腫
+CSEP　cortical somatosensory evoked potentials　皮質性身体感覚誘発電位
+CSF　cerebrospinal fluid　脳脊髄液
+CSF　colony-stimulating factor　コロニー刺激因子
+CSF　cytostatic factor　細胞分裂抑制因子
+CSF shunt　cerebrospinal fluid shunt　髄液シャント
+CSF-WaR，CSF-Wr　cerebrospinal fluid-Wasserman reaction　脳脊髄液ワッセルマン反応
+CSH　chronic subdural hematoma　慢性硬膜下血腫
+CSHS　carotid sinus hypersensitivity syndrome　頸動脈洞過敏症候群
+CSHT　context sensitive half-time　薬剤の持続投与中止後に血中濃度が50%に低下するまでの時間
+CSI　continuous subcutaneous infusion　持続皮下注射
+CSI　coronary stenosis index　冠動脈狭窄度指数
+CSII　continuous subcutaneous insulin infusion　持続皮下インスリン注入法
+CSL　clinical skills laboratories　臨床技能実習
+CSLEX　sialyl Lewis-X antigen　シアリルLe-X抗原
+CSM　cerebrospinal meningitis　脳脊髄膜炎
+CSM　cervical spondylotic myelopathy　頸髄症
+CSNA　cardiac sympathetic nerve activity　心臓交感神経活動
+CSNB　congenital stationary night blindness　先天停止性夜盲
+CSO　cardiac second output　毎秒(心)拍出量
+CSP　cell surface protein　細胞表面蛋白質
+CS-P　chondroitin sulfate-protein　コンドロイチン硫酸-蛋白質
+CSP test　carotid sinus pressure test　頸動脈洞加圧試験
+CSR　cervical spondylotic radiculopathy　頸椎症性神経根症
+CSR　cesarean section rate　帝王切開率
+CSR　Cheyne-Stokes respiration（＝CSB）　チェーン・ストークス呼吸
+CSR　coronary sinus rhythm　冠静脈洞調律
+CSR　corrected sedimentation rate　補正赤血球沈降速度
+CSR　cortisol secretion rate　コルチゾール分泌率
+CS-T　caerulein-secretin test　セルレイン-セクレチン試験
+CST　color symbolism test　色彩象徴テスト（小保内，松岡氏法による）
+CST　contraction stress test　収縮ストレステスト
+CST　convulsive shock therapy　痙攣ショック療法
+Cst　static compliance　静的肺コンプライアンス
+CSU　catheter specimen of urine　カテーテル尿
+Ct☆　カートリッジ（キシロカイン，シタネスト）（歯）
+CT　接触面の歯間離開度検査（歯）
+CT　calcitonin　カルシトニン（チロカルシトニン，カルシタール）。甲状腺より分泌される32個のアミノ酸よりなるペプチドホルモン。カルシウムやリンを骨に沈着させる作用や，血中カルシウム値を下げる作用があり，PTH（副甲状腺ホルモン）と反対の作用を示す。
+CT　cerebral thrombosis　脳血栓
+CT　cerebral tumor　脳腫瘍
+CT　Chlamydia trachomatis　クラミジアトラコマチス
+CT　chlorothiazide　クロロチアジド。サイアザイド系利尿薬の代表
+CT　circulating time　循環時間
+CT　closed thoracotomy　閉鎖式開胸術
+CT　coagulation (clotting) time　凝固時間
+CT　conduction time　伝導時間
+CT　Coombs\u000002bc test　クームス試験。抗グロブリン試験。抗原と抗体だけでは反応が起こらない場合や弱い場合に，抗体に対する抗体を加えることによって反応を起こす方法。直接クームス試験（体内で血球に不完全抗体が結合しているか否かをみる）と，間接クームス試験（血清中に遊離の不完全抗体が存在しているか否かをみる）がある。
+CT　coronary thrombolysis　冠血栓溶解療法
+CT　craniotabes　頭蓋癆
+CT-1824　clearance test of Evans blue　エバンスブルー・クリアランス試験
+CTa　catamenia　月経
+CTA　cellulose triacetate　セルローストリアセテート
+CTA　computerized tomographic arteriography　CT動脈造影
+CTA　cor triatum　三心房心。心臓の先天異常
+CTA　CT angiography　CT血管造影
+CTA　cystine trypticase agar mediumcystine tryptone agar　シスチン・トリプチケース寒天培地
+CTAC　cetyltrimethyl-ammonium chloride　セチル3メチル塩化アンモニウム。白血球の測定に使用
+CTAP　computed tomography during arterial portography　経動脈性門脈造影下CT。上腸間膜動脈へ注入した造影剤が門脈から肝臓に流入する時間に撮影するCT検査
+CTAR　cardiothoracic area ratio　心胸郭面積比
+CTC　chlortetracycline　塩酸テトラサイクリン。抗生物質
+CTC　clinical therapeutic conference　症例治療検討会
+CTCAE　Common Terminology Criteria for Adverse Events　有害事象共通用語基準
+CTCL　cutaneous T-cell lymphoma　T細胞性リンパ腫，皮膚T細胞リンパ腫
+CT，CT scan　computed tomography（scanning）　コンピュータ断層撮影法。エックス線管球と検出器を対向させ，管球を回転させることにより，身体の中を通過してきたエックス線の量を検出器に感知させ，それをコンピュータによって画像に再構成する撮影方法。一般の断層撮影装置では，軟部組織間の黒化度の解像力が弱いが，これを用いると軟部組織間の区別が可能となる。通常のエックス線検査と同様に，病巣あるいは血管内腔を描出するために造影剤を血管内に注入することもある。
+CTD　circulation time descending　循環時間延長
+CTD　connective tissue disease　結合（組）織疾患
+CTDF　cytotoxic T cell differentiation factor　細胞傷害性T細胞分化因子
+CTF　Colorado tick fever virus　コロラド・ダニ熱ウイルス
+CTF　cytotoxic factor　細胞傷害因子
+CTG　cardiotachometer　心拍計
+CTG　cardiotocography　分娩監視装置。cardiotocograph　胎児心拍陣痛図
+CTGA　corrected transposition of great arteries　修正大血管転位症
+CTH　ceramide trihexoside　セラミドトリヘキソシド
+CTHA　CT hepatic arteriography　肝動脈造影下CT
+Cthio　sodium thiosulfate clearance　チオ硫酸ナトリウムクリアランス
+CTL　cutaneous T cell lymphoma　皮膚T細胞リンパ腫
+CTL　cytotoxic T lymphocyte　細胞障害性Tリンパ球
+CTM　cardiotachometer　長期心拍計
+CTM　cefotiam hydrochloride　塩酸セフォチアム（抗菌薬）
+CTM　CT myelography　CT脊髄腔造影
+CTM-HE　cefotiam hexetil hydrochloride　塩酸セフォチアムヘキセチル（抗菌薬）
+cTnI　cardiac toroponin I　心筋トロポニンI
+cTnT　cardiac toroponin T　心筋トロポニンT
+CTO　cerebral thromboangitis obliterans　脳閉塞性血栓動脈炎
+CTP　carboxyl-terminal peptide　カルボキシル末端ペプチド
+CTP　cytidine triphosphate　シチジン三リン酸。RNA合成酵素の基質の一つ
+CTR，C/T ratio　cardiothoracic ratio　心胸郭比。心臓の大きさを表示する方法\u000021e8HLR
+CTRX　ceftriaxone sodium　セフトリアキソンナトリウム（抗菌薬）
+CTS　carpal tunnel syndrome　手根管症候群
+CTS　computed thermography system　コンピュータ・サーモグラフィーシステム
+CTT　cefotetan　セフォテタン（ヤマテタン\u000000ae）。第３世代セフェム系抗菌薬
+CTT　central transmission time　中枢伝導時間
+CTT　compressed tablet triturate　圧縮錠剤粉末
+CTV　clinical target volume　臨床標的体積
+CTV　clinical tumor volume　臨床腫瘍体積
+CTX　cefotaxime sodium　セフォタキシムナトリウム（抗菌薬）
+CTX　cerebrotendinous xanthomatosis　脳腱黄色腫症
+CTx　cross-linked carboxyterminal telopeptide of type I collagen　Ⅰ型コラーゲンC末端テロペプチド
+CTX　cyclophosphamide　シクロホスファミド。アルキル化剤（抗悪性腫瘍薬）
+CTZ　chemoreceptor trigger zone　化学受容器引金帯
+CU　clinical unit　臨床単位
+CU　colitis ulcerosa［ラ］　潰瘍性大腸炎。大腸の粘膜にびらんや潰瘍ができる原因不明の炎症性疾患
+CU　common or clinical unit　共通表示法による数値
+Cu　cuprum［ラ］，copper　（血清）銅
+CU　urea clearance　尿素クリアランス，腎のクリアランステスト
+CUA　calcific uremic auteriolopathy　カルシウム尿毒症性細動脈症
+CUC　Chronische-Ulcerative Colitis［独/英］　慢性潰瘍性大腸炎
+CUD　continent urinary diversion　蓄尿型尿路変向術
+CUG　cystourethrography　膀胱尿道造影法
+CUPI　cholesterol uric acid phospholipid index　コレステロール尿酸リン脂質指数
+CUR　continent urinary reservoir　禁制型尿リザボア
+cur　curability　手術根治度
+Curea　urea clearance　尿素クリアランス
+CUSA　Cavitron ultrasonic surgical aspirator　キューサー。超音波メスの商品名
+CUT　cover uncover test　遮蔽-非遮蔽試験
+C-V　cardiovascular　心臓血管の
+CV　central vein catheter　中心静脈カテーテル
+CV　central venous injection　中心静脈注射
+CV　closing volume　クロージング・ボリューム，閉鎖容積
+CV　coated vesicle　被覆小胞。電子顕微鏡用語
+CV　conducting veins　伝導静脈
+CV　conduction velocity　伝導速度
+CV　coronary vein　冠状静脈
+CV　corpuscular volume　赤血球容積
+CV　coxa vara［ラ］　内反股
+CV(O)　conjugata vera (obstetrica)［ラ］　産科真結合線
+CVA　cerebral vascular accident　脳血管発作，脳血管障害。脳血管の異常により虚血や出血を起こし，脳が機能的または器質的に侵された状態の総称。主に動脈の変化によるもので動脈硬化が最も重要であるが，動静脈奇形，静脈の病変も原因となる。脳血管障害は脳卒中として急激に発症することが多い。
+CVA　costovertebral angle　肋骨脊椎角，肋椎角
+CVA　cough variant asthma　せき喘息
+CVA/AMPC　clavulanic acid, amino-hydroxybenzyl penicillin　クラブラン酸＋アモキシシリン
+C-value　coefficient of aqueous outflow　房水流出率
+CVAT，CVA tenderness　costovertebral angle tenderness　肋骨脊柱角圧痛
+CVA/TIPC　clavulanic acid, ticarcillin　クラブラン酸＋チカルシリン
+CVC　crying vital capacity　啼泣時肺活量
+CVCT　cardiovascular computed tomography　心血管コンピュータ断層撮影
+CVD　cardiovascular disease　心血管疾患
+CVD　cardiovascular dysfunction score　心血管機能障害スコア
+CVD　cerebrovascular disease, cerebral vascular disease　脳血管疾患
+CVD　color-vision-deviant　色盲
+CVD　combined valvular disease　連合弁膜疾患
+CVF　cobra venom factor　コブラ毒因子
+CVG　cerebral venography　脳静脈撮影(法）
+CVG　cerebral ventriculogram　脳室撮影図。cerebral ventriculography　脳室撮影
+CVH　combined ventricular hypertrophy　両室肥大
+CVI　cerebrovascular insufficiency　脳血管機能不全
+CVI　check valve index　呼気閉塞指数
+CVI　chronic venous insufficiency　慢性静脈不全
+CVID　common variable immunodeficiency　分類不能型原発性免疫不全症
+C-virus　Coxsackie virus　コクサッキーウイルス
+CVL　central venous line　中心静脈ライン
+CvO2　oxygen content of mixed venous blood　混合静脈血酸素含有量
+CVP　central venous pressure　中心静脈圧測定。心臓への負担を調べるため，より心臓に近い大静脈の圧力を測定する検査。圧測定器がついた中心静脈圧測定キットを使用して，静脈より圧測定用のカテーテルを右心房の手前の下大静脈まで挿入し，圧測定器（マノメーター）の液面の高さを見ることで中心静脈圧がわかる。大量の輸血や輸液を実施する場合や急性循環不全時などに行う。
+CVP　cyclophosphamide, vincristine, prednisolone（＝COP）　シクロホスファミド，ビンクリスチン，プレドニゾロン。癌の多剤化学療法の組み合わせの一つ
+CVR　cerebral vascular reactivity　脳血管反応性
+CVR　cerebral vascular resistance　脳血管抵抗
+CVR　coronary vascular resistance　冠血管抵抗
+CVRD　cardiovascular renal disease　心血管腎疾患
+CVS　cardiovascular surgery　心血管外科
+CVS　cardiovascular system　心血管系
+CVS　chorionic villus sampling　絨毛膜採取法
+CVS　closing valve sound　閉鎖時弁音
+CVS　congenital varicella syndrome　先天性水痘症候群
+CVSMC　cultured vascular smooth muscle cell　培養血管平滑筋細胞
+CVVH　continuous veno-venous hemofiltration　持続的静静脈血液濾過。人工透析の一種
+CW　case worker　ケース・ワーカー
+CW　chest wall　胸壁
+CW　clockwise　時針方向（右回り）
+CWC　Chemical Weapons Convention　化学兵器禁止法
+CWD　continuous wave Doppler　連続超音波ドプラー法
+CWHB　citrated whole human blood　クエン酸処理ヒト全血
+CWI　cardiac work index　心作業指数
+CW NMR　continuous wave NMR　連続波核磁気共鳴法
+Cwp　childbirth without pain　無痛分娩。主に硬膜外麻酔によって出産時の痛みを緩和する方法
+CWP　chronic widespread pain　広範な疼痛
+CWP　coal worker’s pneumoconiosis　炭坑夫塵肺
+CWP　cotton wool patch　綿花状白斑。軟性白斑。糖尿病性網膜症などでみられる。
+CWS　cell wall skeleton　細胞壁骨格
+cws　clockwise（＝CW）　時針方向の，右回転の
+CX　cerebral cortex　大脳皮質
+Cx　cervix　頸部
+CX　chest X ray　胸部X線写真
+CX　circumflex　回旋枝
+Cx　circumflex artery　回旋動脈
+Cx　connexin　コネキシン
+CX　cyclohexamide　シクロヘキシミド
+Cx32　connexin 32　コネキシン32
+CXD　cefroxadine　セフロキサジン（抗菌薬）
+CXD　computed X-ray densitometry　コンピュータによるX線濃度測定。骨塩量測定法の一つ
+CXM　cefuroxime　セフロキシム
+CXM-AX　cefuroxime axetil　セフロキシムアキセチル（抗菌薬）
+cy　cycle　周期，周波数
+CY　cyclophosphamide（＝CPA）　シクロホスファミド（抗悪性腫瘍薬），エンドキサン
+CYA　cyclospolin　シクロスポリン。異常な働きをしている免疫を正常に調節する薬剤（免疫抑制剤）。腎移植などの臓器移植や骨髄移植，ベーチェット病や再生不良性貧血などに用いられる。副作用が非常に強く，投薬を行うにあたっては厳密な管理が必要なため，血液中に含まれているシクロスポリンの分量（血中濃度）を定期的に測定する。
+Cyc-IVH　cyclic intravenous hyperalimentation　周期的経静脈高カロリー輸液
+CyD　cyclodextrin　シクロデキストリン
+Cyd　cytidine　シチジン
+CYFRA　cytokeratin fragment　サイトケラチンフラグメント
+CyIg　cytoplasmic immunoglobulin　細胞質免疫グロブリン
+Cyl　cylindrical lens　円柱レンズ
+cyn　cyanide　シアン化物
+CYP　cytochrome P450　シトクロムP450
+Cys　cysteine　システイン
+CYS　cystoscopy　膀胱鏡検査(法）
+Cyst　cysteamine　システアミン
+cyt　cytochrome　シトクロム
+Cyt　cytosine　シトシン
+cytol　cytology　細胞学，細胞診断学
+CZE　capillary zone electrophoresis　毛細管領域電気泳動法
+CZI　crystalline zinc insulin　結晶性亜鉛インスリン
+CZOP　cefozopran hydrochloride　塩酸セフォゾプラン（抗菌薬）
+CZP　clonazepam　クロナゼパム
+CZX　ceftizoxime sodium　セフチゾキシムナトリウム（抗菌薬）
+C-シンカテ☆　心臓カテーテル法による諸検査。心臓カテーテル検査は，末梢血管より心臓，大動脈，肺動脈，冠動脈などにカテーテルを挿入して，心臓内血液ガス分析・心臓内圧曲線分析・選択的心臓血管造影法などにより心臓の血行動態や機能形態を調べる検査法。心臓弁膜症の診断や心臓内あるいは近接大血管の間の異常（先天性心臓疾患）の有無を判断し，また心臓と肺の機能を調べることを目的とする。左心カテーテル法と右心カテーテル法がある。
+C-ヒベンケツリュウ☆　皮弁血流検査
+C-ブンベンカンシ☆　分\_c07791監視装置による諸検査

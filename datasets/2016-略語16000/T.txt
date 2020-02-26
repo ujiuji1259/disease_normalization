@@ -1,0 +1,878 @@
+Ｔ
+T　intraocular tension　眼内圧，眼圧
+T　primary tumor　原発腫瘍
+T　taurine　タウリン
+T　temperature　体温
+T　temporal　側頭部の
+T　testosterone　テストステロン。筋肉の増大，蛋白同化作用の促進や体毛増加に作用する男性ホルモンの一種。男性では睾丸（精巣）で95％，副腎で５％が産生される。
+T　therapeutic plan　治療計画
+T　thoracic vertebra（＝TV）　胸椎
+t　time　時間；s (sec)，秒。m (min)，分。h (hour)，時間
+T☆　tissue　病理組織
+T　trace　微動
+T　transformation zone　移行帯
+T　transverse colon　横行結腸。上行結腸が肝臓の下面に達して右に曲がったところから始まり，やや左上方に走り脾臓の下端に達して下方に曲がり下行結腸になるまでの結腸の一部。横行結腸間膜をもって後腹壁に緩やかに固定されている。
+T　Treponema　トレポネーマ属。スピロヘータ
+T　Trichophyton　白癬菌属。皮膚糸状菌の一つで，白癬（水虫，たむし）を起こす。
+T　triiodothyronine　トリヨードチロニン(トリヨードサイロニン)，リオチロニン。発育ホルモン
+T　tritium　トリチウム
+T　tumor（＝TM）　腫瘍，新生物。体細胞が自律的に増殖を続け，宿主を傷害する病態。良性腫瘍と悪性腫瘍に分けられる。
+T&A　tonsilloadenoidectomy　扁桃アデノイド摘出術
+T3　triiodothyronine（＝TIT）　トリヨードサイロニン。生体の成長や代謝の促進を担う甲状腺ホルモンの一つ。甲状腺ホルモンにはサイロキシン（T4）とトリヨードサイロニンの２種がある。新生児で甲状腺ホルモンが欠けると，知能障害やクレチン症の原因となる。内分泌学的検査の一つに含まれ，血中の量を測定する。高値を示す疾患としては甲状腺機能亢進症，橋本病など，低値を示す疾患としては甲状腺機能低下症などがある。
+T3-test　131Ⅰ-triiodothyronine resin sponge uptake test (triosorb test)　131Ⅰ-トリヨードサイロニン・レジン摂取率(トリオゾルブテスト)。甲状腺機能に関する試験管内検査
+T3U，T3UR　triiodothyronine uptake (ratio)　トリヨードサイロニン摂取率
+T3精密　triiodothyronine　トリヨードサイロニン精密測定
+T4　tetraiodothyronine, thyroxine　テトラヨードサイロニン(チロキシン)，血中サイロキシン
+T4精密　thyroxine　チロキシン(サイロキシン)精密測定
+TA　temporal arteritis　側頭動脈炎
+TA　thyroglobulin agglutination　サイログロブリン凝集反応。thyroglobulin aggregation　サイログロブリン凝集
+TA　thyroglobulin antibody　サイログロブリン抗体
+TA　tibialis anterior muscle　前脛骨筋
+T.a.　tinctura amara［ラ］　苦味チンキ（処)
+TA　toxin-antitoxin　毒素抗毒素
+TA　transactional analysis　交流分析
+TA　transaldolase　トランスアルドラーゼ。ジヒドロキシアセトン・トランスフェラーゼ
+TA　transfer agent　伝達因子
+TA　transplantation antigen　移植抗原
+TA　tricuspid atresia　三尖弁閉鎖(症)
+TA　truncus arteriosus　総動脈幹症
+TA　tryptophane acid method　トリプトファン過塩素酸試験。tryptophan acid reaction　トリプトファン過塩素酸反応
+TA　typhus abdominalis［ラ］　腸チフス。チフス菌の経口感染によって起こる急性の全身性伝染病で，法定伝染病の一つ。バラ疹・比較的徐脈（高熱時でも脈拍毎分100以下）・脾腫の３主徴のほか，乾燥した皮膚や舌苔など多彩な症状を認める。
+TAA　thoracic aortic aneurysm　胸部大動脈瘤
+TAA　total amino acid　総アミノ酸
+TAA　tumor-associated antigen　腫瘍関連抗原
+TAAIDS　transfusion-associated aquired immunodeficiency syndrome　輸血関連後天性免疫不全症候群。輸血感染によるエイズ
+TAase　transaminase　トランスアミナーゼ
+tab.　tablet　錠剤（処）
+TAB　total androgen blockade　完全アンドロゲンブロック
+Tab/D　tablets daily　１日の錠剤用量
+TAC　time-activity curve　時間放射能曲線
+TAC　triallylcyanurat　トリアリルシアヌール酸
+TAC　truncus arteriosus communis　総動脈幹症
+TACE　transcatheter arterial chemoembolization　経カテーテル肝動脈化学塞栓術
+TA cell　amplifier T cell　増幅T細胞
+TAD　thiamine allyl disulfide　チアミンアリルジスルフィド。ジスルフィド型活性ビタミンB1剤
+TAE　transcatheter arterial embolization　経カテーテル動脈塞\_c07717術
+TAF　T cell activating factor　T細胞活性化因子
+TAF　TBP-associated factor　TBP結合因子
+TAF　tissue angiogenesis factor　組織脈管形成因子
+TAF　tumor angiogenesis factor　腫瘍血管新生因子
+TAG　triacylglycerol　トリアシルグリセロール
+TAH　total abdominal hysterectomy　腹式子宮全摘出術
+TAH　total replacement artificial heart　全置換型人工心臓，完全人工心臓
+TAHV　Tahyna virus　タヒナウイルス
+TAI　thoracoabdominal irradiation　体幹部照射
+TAI　transcatheter arterial infusion　肝動脈注入療法
+TAI　transcatheter arterial infusion　経カテーテル動脈内注入(療法)
+TAL　thick ascending limb　太い上行脚
+T-ALL　T-acute lymphoblastic leukemia　T細胞性急性リンパ芽球性白血病
+TAM　tamoxifen citrate　クエン酸タモキシフェン（抗悪性腫瘍薬）
+TAM　total range of active motion　総自動運動域
+TAM　toxoid-antitoxin mixture　トキソイド・抗毒素合剤
+TAM　transient abnormal myelopoiesis　一過性骨髄異常増殖症
+TAM　tunneling acoustic microscope　トンネル音響顕微鏡
+TAMCHA　trans-4-aminomethyl cyclohexane carboxylic acid　トラネキサム酸（トランサミン）。止血剤
+TAMV　Tamiami virus　タミアミウイルス
+TAN　total ammonia nitrogen　全アンモニア窒素
+TAO　thromboangitis obliterans［ラ］　閉塞性血\_c07717(性)血管炎，Burger病
+TAO　thyroid associated ophthalmopathy　甲状腺眼症状
+TAP　total acid phosphatase　総酸性ホスファターゼ，総酸性リン酸分解酵素
+TAP　tricuspid annuloplasty　三尖弁輪縫縮術
+TAPA　transabdominal preperitoneal approach　腹腔鏡手術・経腹腔的アプローチ
+TAPC　talampicillin hydrochloride　塩酸タランピシリン（抗菌薬）
+TAPL　tractus arteriosus posterolateralis［ラ］　後脊髄動脈管
+TAPP　transabdominal preperitoneal mesh repair　腹腔鏡下鼠径ヘルニア手術の経腹腔的メッシュ固定法
+TAPVC　total anomalous pulmonary venous connection　総肺静脈還流異常症
+TAPVD(R)　total anomalous pulmonary venous drainage (return)　総肺静脈還流異常症
+TA-R　Takata-Ara's reaction　高田-荒反応
+TAR　thrombocytopenia-absent radius syndrome　血小板減少橈側列無形成症候群
+TAR　tissue-air ratio　組織空中線量比
+TAR　total ankle replacement　人工足関節置換術
+TARC　thymus and activation-regulated chemokine　白血球走化作用をもつケモカインの一種
+tart. a.　tartaric acid　酒石酸
+TAS　tumor associated substance　腫瘍関連物質
+T\u000002bcase　tryptophane synthetase　トリプトファン合成酵素
+TAT　tetanus antitoxin　破傷風抗毒素
+TAT　thematic apperception test　テーマ知覚テスト
+TAT☆　thematic apperception test　絵画統覚検査，題目統覚検査
+TAT　thrombin-antithrombinⅢ complex　トロンビン・アンチトロンビンⅢ複合体
+TAT　toxin-antitoxin　毒素抗毒素
+TATA　tumor-associated transplantation antigen　腫瘍関連移植抗原
+TAT reaction　toxin antitoxin reaction　毒素抗毒素反応
+TAT精密　thrombin-antithrombin compound　トロンビン・アンチトロンビン複合体精密測定
+Tau，tau　taurine　タウリン
+Ta-wave　auricular Twave　心房性T波
+TAZ/PIPC　tazobactam/piperacillin　タゾバクタム・ピペラシリン（抗菌薬）
+TAテスト　(latex) thyroglobulin aggregation test　(ラテックス)チログロブリンによる血清凝集反応
+TB　thymol blue　チモールブルー，液性指示薬(pH指示薬)
+TB　tuberculosis　結核。結核菌によって引き起こされる感染性疾患。飛沫感染や塵埃感染により生体内に進入する経気道感染（空気感染）がほとんど。治療は多剤併用の化学療法が主だが，耐性菌による難治性の薬剤耐性結核も出現している。
+TBA　T-bandage　T字包帯
+TBA　thiobarbituric acid reaction　チオバルビツール酸反応
+TBA　total bile acid　胆汁酸測定
+TBAC　transbronchial aspiration cytology　経気管支的吸引針生検
+TBARS　thiobarbituric acid reactive substance　チオバルビツール酸反応物質
+TB/bc　tubercle bacillus　結核菌
+TBC　pulmonary tuberculosis　結核(肺結核)
+TBC　target-binding capacity　標的結合能
+TBC　thrombocyte　血小板，栓球。血球成分の一つで，核を有しない円盤状の細胞。止血促進がその主たる機能
+TBC　thyroxine binding capacity　サイロキシン結合能精密測定
+TBC　thyroxine-binding coagulin　サイロキシン結合凝固素
+TBCI　T3 binding capacity index　トリヨードサイロニン結合能指数
+TBE　tick born encephalitis　ダニ媒介性脳炎
+TB-E　toluidine blue-eosin　トルイジンブルー・エオシン
+TBE　tuberculin bacillus emulsion　菌乳剤ツベルクリン
+TBG　testosterone binding globulin　テストステロン結合グロブリン
+TBG　thyroxine binding globulin　サイロキシン結合グロブリン，サイロキシン結合蛋白精密測定
+TBGL　tuberculous glycolipid　結核菌糖脂質
+TBGP　total blood granulocyte pool　全血顆粒球数
+TBH　total-body hyperthermia　全身高熱療法
+TBH　TSH-binding inhibiting immunoglobulin　TSH結合阻害免疫グロブリン
+TBI　131I thyro-binding index　131I標識サイロ結合指数（甲状腺機能検査）
+TBI　tooth brushing instruction　ブラッシング指導（歯）
+TBI　total body irradiation　全身放射線照射法
+TBI　traumatic brain injury　外傷性脳損傷（脳外傷）
+TBIA　thyroid stimulating hormone binding inhibiting activity　甲状腺刺激ホルモン結合阻害活性
+TBIAb　thyroid-stimulating hormone-binding inhibitor antibody　甲状腺刺激ホルモン結合阻害抗体
+TBII　thyroid-stimulating hormone-binding inhibitor immunoglobulin　甲状腺刺激ホルモン結合阻害免疫グロブリン
+TBI-test　thyroxine-binding-index test　サイロキシン結合指数試験
+TBLB　transbronchial lung biopsy　経気管支肺生検。X線撮影または他の診断結果後に腫瘍または気管支内の閉塞などが疑われる場合に，気管支鏡から生検鉗子を挿入し肺組織から標本を採取する検査方法。
+TBM　toluidine blue metachromasia　トルイジンブルー異染色
+TBM　tubule basement membrane　尿細管基底膜
+TBNA　transbronchial needle aspiration biopsy　経気管支的吸引針生検
+TBP　TATA box-binding protein　TATAボックス結合蛋白質
+TBP　thyroxine-binding protein　サイロキシン結合蛋白質
+TBPA　thyroxine-binding prealbumin　サイロキシン結合プレアルブミン
+TBS　The Bethesda System　ベセスダ・システム
+TBSV　Tomato bushy stunt virus　トマトブッシースタントウイルス
+TBT　tracheobronchial toilet　気道内清掃
+TB，T-Bil　total bilirubin　総ビリルビン(量)
+TBV　total blood volume　全血液量
+TBV　tubercle bacillus vaccine　結核菌ワクチン
+TBW　total body water　(体内)全(総)水分量，全体液量
+TBZ　thiabendazole　チアベンダゾール。かび防止効果のある保存料で，食品添加物，工業用抗菌剤，農薬などとして使われる。
+T/B比　Tリンパ球とBリンパ球の数の比率
+Tc　cytotoxic T cell　細胞傷害性T細胞。キラーT細胞。ウイルス感染細胞や癌細胞などの標的細胞を特異的に障害するT細胞。
+TC　PTX＋カルボプラチン　TC療法。癌化学療法の一つ
+Tc　technetium　テクネチウム
+TC　terminal care　ターミナルケア
+TC　tetracycline hydrochloride　塩酸テトラサイクリン（抗菌薬）
+TC　tissue culture　組織培養
+TC　toluene-2,4-diisocyanate　トルエン-ジイソシアネイト
+TC　tonic contraction　強直収縮
+TC　total cholesterol　総コレステロール。脂質の一種であるコレステロールの血中に含まれる総量。血液中の脂質が正常に代謝されない高脂血症の指標となり，動脈硬化や心疾患の経過を調べるのに用いる。コレステロールが血管の内壁にたまると動脈硬化の原因となる。
+TC　transcobalamin　トランスコバラミン
+TC　transcortin　トランスコルチン
+tc　transcutaneous　経皮的
+TC　true cord　声帯
+TC　tuberculin　ツベルクリン
+TC　tubocurarine chloride　塩化ツボクラリン（アメリゾール）。筋弛緩剤
+TC　type crossmatch　血液交叉試験。輸血を行う際に血液型の適合性を調べるための検査。クロスマッチともいう。輸血を行う前には必ず施行する検査である。
+99mTc，99mTC　99m-technetium　放射性テクネチウム99m
+TCA　taurocholic acid　タウロコール酸
+TCA　trichloroacetic acid　トリクロル酢酸
+TCAs　tricyclic antidepresants　三環系抗うつ剤
+TCA，TCA-cycle　tricarboxylic acid cycle　トリカルボン酸回路(Krebs回路，クエン酸回路)
+TcB　transcutaneous bilirubinometry　経皮的ビリルビン濃度測定法
+TCC　thromboblastic cell component　血小板母細胞成分
+TCC　total trichloro-compounds　総三塩化物濃度
+TCC　transitional cell carcinoma　移行上皮癌
+TCC　trichlorocarbanilide　トリクロロカルバニリド
+TCCFI　transcranial color flow image　経頭蓋超音波カラー・フロー断層像
+TCD　tissue culture dose　組織培養量
+TCD　total cardiac dimension　全心臓容積（断層心エコー図）
+TCD　transcranial Doppler sonography　経頭蓋ドプラ検査
+TCD　tumor control (cure) dose　腫瘍制御（治\_c07803）線量
+TCD50　tumor control dose 50　50％腫瘍制御線量
+TCDT　transcranial color doppler tomography　経頭蓋骨超音波カラードプラー断層法
+TCE　tetrachloroethylene　テトラクロロエチレン
+TCE　transcatheter chemo-embolization　経カテーテル化学塞栓療法
+T-cell　thymus derived cell　T細胞(胸腺由来リンパ球)
+T cell　thymus-derived (or dependent) cell　T細胞，Tリンパ球，胸腺由来（依存）リンパ球。Ｂ細胞とともに免疫機能の中核を担う細胞。ウイルス感染細胞を殺すキラーT細胞，Ｂ細胞の抗体産生を助けるヘルパーＴ細胞などがある。
+TCF　tumor cytolytic factor　腫瘍溶解因子
+TCGF　T-cell growth factor　T細胞成長因子
+TCGF-R　T-cell growth factor receptor　T細胞成長因子受容体
+T-ch，Tcho　total cholesterol　総コレステロール\u000021e8TC
+TCI　target-controlled infusion　目標制御注入法
+TCLB　transcutaneous lung biopsy　経皮的肺生検。皮膚を通して針を刺し，生体の組織や臓器から材料を採取する方法。この材料を顕微鏡や生化学的方法で検査する。組織を採取するのに外科的に切開をしないことが特徴。
+TCLL　T cell chronic lymphocytic leukemia　T細胞慢性リンパ球性白血病
+TCM　tissue culture medium　組織培養培地。細菌や細胞を培養するため必要な栄養素を含んだ生育環境となるもの
+T.CO2　total CO2 content　総炭酸ガス量
+TCP　tumor control probability　腫瘍制御（確）率
+TcPaO2　transcutaneous arterial oxygen pressure　経皮内動脈血酸素分圧
+TCPC　total cavo-pulmonary connection　心外導管法。単心室に対する手術法の一つ
+TCPR　T cell proliferative reaction　T細胞増殖反応
+TC-PTP　T-cell tyrosine phosphatase　T細胞チロシンホスファターゼ
+TCR　T cell antigen receptor　T細胞抗原受容体
+TCR　T-cell receptor　T細胞受容体
+TCRαβ　T-cell receptor αβ　T細胞受容体αβ
+TCRγδ　T-cell receptor γδ　T細胞受容体γδ
+TCs　tetracyclines　テトラサイクリン類。抗生物質の分類の一つ
+TCS　transcranial surgery　開頭手術。頭蓋内での手術的処置を行うため頭蓋を開く手術手技。脳は柔らかく壊れやすいので，多重の防護がなされており，皮膚，筋膜（腱膜），頭蓋骨，硬膜，クモ膜などを開けて脳を露出する。骨弁をナイロン糸，鋼線，チタンプレートなどで固定整復する骨形成的開頭術と，骨弁を除去したままにしておく頭蓋切除術がある。
+TCT　thyrocalcitonin　サイロカルシトニン。カルシウム調節ホルモン
+TCT　tracheal cytotoxin　気管上皮細胞毒素
+TCT　transcranial brain tomography　経頭蓋脳断層法
+TCUK　tissue culture urokinase　組織培養ウロキナーゼ
+t.d.　tales doses［ラ］　同量，Tage dosen［独］　〜回分，〜日分（処)
+TD　tardine dyskinesia　晩期運動障害
+TD　tenderness　圧痛
+t. d.　ter die［ラ］　１日３回（処）
+TD　thoracic duct　胸管
+TD　threshold dose　閾値量
+TD　threshold of discomfort　不快閾値
+TD　tidal volume　１回呼吸量
+TD　tolerance dose　耐(線)量。tolerated dose　耐容線量
+TD　total dose　総量，総線量
+TD　tumor dose　腫瘍線量
+TD　typhoid dysentery　チフス様赤痢
+TD50　toxic dose fifty　50％中毒量
+TD50　tumor cell dose 50　50％腫瘍生着細胞数
+TDA　thymus-dependent area　胸腺依存領域
+TDA　thyroid stimulating hormone displacing activity　甲状腺刺激ホルモン代替活性
+TD antigen　thymus dependent antigen　胸腺依存抗原
+t. d. d.　ter de die［ラ］　１日３回（処）
+TDD　thoracic duct drainage　胸管ドレナージ法
+T. denticola　Treponema denticola　偏性嫌気性グラム陰性菌
+TDF　testis-determining factor　精巣決定因子
+TDF　total dietary fiber　総食物繊維量
+TDF　tumor degenerating factor　腫瘍変性因子
+TDF factor　time, dose and fractionation factor　時間線量分割因子，TDF因子
+TDH　thermostable direct hemolysin　耐熱性溶血毒
+TDH　traumatic diaphragmatic hernia　外傷性横隔膜ヘルニア
+TDH　traumatic dislocation of hip　外傷性股関節脱臼
+TDH検査　(腸炎ビブリオ)菌耐熱性溶血毒検査
+TDI　tolerable daily intake　１日耐容摂取量
+TDI　tolylene diisocyanate　トリレンジイソシアネート。喘息誘発物質
+TDL　thoracic duct lymph　胸管リンパ液
+TDL　thoracic duct lymphocyte　胸管リンパ球
+TDLU　terminal ductal-lobular unit　終末乳管小葉単位
+TDM　therapeutic drug monitoring　薬物血中濃度モニタリング，薬剤血中濃度測定。薬剤の治療効果が維持されるよう，薬剤の投与量の確認，投与設計を行うため，薬剤の血中濃度を測定すること。薬の効果は服用量ではなく，血液中の薬物の量（血中濃度）で決まる。血中濃度が治療域に入っていれば有効，それ以上であれば副作用が出やすく，それ以下であれば効果が不十分ということになる。
+TDN　total digestible nutrients　消化可能総栄養素，完全栄養素
+TDO　thermo disc oxygenator　熱交換器内蔵人工肺
+TdP　torsades de pointes［仏］　尖端索状線（心電図のQRSの尖端部分のよじれ）
+TDPR　T lymphocyte dependent proliferative response　Tリンパ球依存幼若化反応
+TDR　thymidine　チミジン
+t.d.s.　tef die sumendum［ラ］　１日３回服用（処)
+TDS　thiamine disulfide　チアミンジスルフィド。ビタミンB1誘導体
+TDS　Tobacco Dependence Screener　ニコチン依存症のスクリーニングテスト
+TDT　transverse diameter of thorax　胸郭横径
+TdT精密　terminal deoxynucleotidyl transferase　ターミナルデオキシヌクレオチジルトランスフェラーゼ精密測定
+TDZ　tinidazole　チニダゾール
+TE　echo time　エコー時間
+TE　expiratory time　呼気時間
+Te　testosterone　テストステロン
+Te　tetanus（＝tet）　破傷風。破傷風菌が産生する神経毒（テタノスパスミン）によって発症する非伝染性疾患
+TE　thrombo-embolism　血栓塞栓症。血栓により血管が閉塞した疾患。心筋梗塞や僧帽弁狭窄症などにみられる心・大動脈内膜の血栓遊離による動脈血栓塞栓症と，腫瘍や外傷などに続発する静脈血栓塞栓症がある。
+TE　thymic epithelium　胸腺上皮
+TE　tissue equivalent　組織当量
+TE　tonic extension　強直性伸展
+TE　tonsillectomy　扁桃摘除術
+TE　tumor echo　腫瘍エコー
+TEA　tanned erythrocyte aggulutination test　タンニン酸処理赤血球凝集反応
+TEA　tetraethylammonium　テトラエチルアンモニウム
+TEA　thrombo endarterectomy　血\_c07717内膜切除術
+TEA　tracheal-esophageal airway　気管—食道エアウェイ
+TEAB　tetraethyl-ammonium bromide　臭化４エチルアンモニウム
+TEAC　tetraethyl-ammonium chloride　塩化４エチルアンモニウム
+TEAS　transcutaneous electrical acupoint stimulation　経皮的ツボ電気刺激療法
+TEBG，TeBG　testosterone-estradiol-binding globulin　テストステロン・エストラジオール結合グロブリン
+TED　threshold erythema dose　紅斑閾値，皮膚最小紅斑量
+TED　thrombo-embolic disease　血栓塞栓症\u000021e8TE
+TEE　trans esophageal echocardiography　経食道心エコー法。通常の経胸壁ではなく，食道内から心エコーを行う方法
+TEER　trancepithelial electrical resistance　細胞膜抵抗
+TEF，T-E fistula　tracheoesophageal fistula　気管食道瘻
+TEG　thromboelastogram，thromboelastography　トロンボエラストグラム，トロンボエラストグラフィー。血\_c07799の弾性変化を示す図
+TEG　thromboplastin generation test　トロンボプラスチン形成試験
+TEIC　teicoplanin　テイコプラニン
+TEL　telithromycin　テリスロマイシン（ケトライド系抗菌薬）
+TEL　tetraethyllead　四エチル鉛
+tele ci　tele curie therapy　遠隔照射療法
+tele Co　tele cobalt therapy　コバルト遠隔照射療法
+TEM　transanal endoscopic microsurgery　経肛門的内視鏡下マイクロサージャリー
+TEM　transmission electron microscope　透過型電子顕微鏡
+TEM　triethylenemelamine　トリエチレンメラミン
+temp　temperature　温度
+TEN　total excretory nitrogen　全排出窒素
+TEN　toxic epidermal necrolysis　中毒性表皮壊死症
+TENS　transcutaneous electrical nerve stimulation　経皮的電気神経刺激術
+TEOAE　transiently evoked otoacoustic emission　瞬間的誘発耳音響放射
+TEP　expiratory pause time（＝TE）　呼気休止時間
+TEP　totally extraperitoneal approach　腹腔鏡手術・全腹膜外アプローチ
+TEPA　tespamin　テスパミン（抗悪性腫瘍薬）
+TEPP　tetraethyl pyrophosphate　テトラエチルピロリン酸
+TEPP　totally extraperitoneal preperitoneal repair　（腹腔鏡下鼠径ヘルニア手術における）腹膜外腔アプローチ
+TER　thermal enhancement ratio　（温）熱増感比
+TER　thymal epithelial reticulocyte　胸腺上皮性細網細胞
+TER　tubular extraction rate　尿細管抽出率
+TES　therapeutic electrical stimulation　治療的電気刺激
+TESE　testicular sperm extraction　精巣精子採取術
+T-E shunt　tracheo-esophageal shunt　気管食道シャント（短絡）
+TESPA　thiotepa　チオテパ，テスパミン\u000000ae（抗悪性腫瘍薬）
+TESPA　triethylenethiophosphoramide (＝TSPA)　トリエチレンチオホスホラミド
+tet　tetanus（＝Te）　破傷風
+TET　thermal equivalent time　温熱等価時間
+TETD　tetraethyl-thiuram disulfide　テトラエチルチウラムジスルフィド
+TEWL　transepidermal water loss　経表皮水分喪失
+TF☆　仮床試適（歯)
+TF　tactile fremitus　触覚振盪音
+TF　termination factor　翻訳終了因子
+TF　tissue factor　組織因子
+TF　tonic flexor　強直性屈筋
+TF　transfer factor　伝達因子，トランスファー・ファクター
+Tf　transferrin　トランスフェリン，(シデロフィリン)。鉄結合性の血漿蛋白
+TF　tube feeding　経管栄養。経口摂取が困難な患者に対して，消化態経腸栄養剤をチューブを介して投与する栄養法。投与ルートには，①経鼻，胃・十二指腸ルート，②胃瘻ルート，③空腸瘻ルートの３つがある。（→EEH，EH，EN）
+TF　tuberculin filtrate　ツベルクリン濾液
+TFA　total fatty acids　全脂肪酸，総脂肪酸
+TFA　trifluoroacetic acid　トリフルオロ酢酸
+TFCC　triangular fibrocartilage complex　三角線維軟骨複合体
+TFD　target-to-film distance　目標・フィルム間距離（X線撮影）
+TFL m-c flap　tensor fascia lata musculocutaneous flap　大\_c07728筋膜張筋皮弁
+TFLX　tosufloxacin tosilate　トシル酸トスフロキサシン（抗菌薬）
+TFN　total fecal nitrogen　糞便全窒素(量)
+TFN　transferin　トランスフェリン
+TFNH　transient familial neonatal hyperbilirubinemia　一過性家族性新生児高ビリルビン血症
+TFPI　tissue factor pathway inhibitor　第Ⅶ因子，組織因子経路インヒビター
+TFR　total fertility rate　合計特殊出生率
+TfR　transferrin receptor　トランスフェリン受容体
+TFT　tetracycline fluoresence test　テトラサイクリン蛍光試験
+TFT　thyroid function test　甲状腺機能検査。主に甲状腺ホルモンの血中濃度を調べる検査。そのほかに，アイソトープを用いた検査，超音波検査，CT検査，吸引細胞診を用いた検査などがある。血液検査では，TSH（甲状腺刺激ホルモン），T4，T3の増減により甲状腺機能障害（甲状腺機能亢進症や甲状腺機能低下症）などが鑑別される。
+TF，T/F　tetralogy of Fallot　ファロー四徴症。心室中隔欠損・肺動脈狭窄・大動脈騎乗・右室肥大の４つの異常を併せもつ先天性心疾患。血液中の酸素量が通常の人より少なくなるためチアノーゼ（全身が紫色になる状態）となる。予後は肺動脈狭窄の重症度により左右されるが，成人まで生存することもまれではない。治療は，根治手術またはブラロック—タウシック手術（肺血流量を増加させて低酸素症を改善することを目的として行う姑息手術）を行う。
+TG　6-thioguanine　6チオグアニン（抗悪性腫瘍薬）
+TG　tetraglycine　テトラグリシン
+TG　Thiersch’s graft　チール植皮
+TG　tomography（＝Tomo）　断層撮影法。トモグラフィー。目的の部位のみを明瞭に撮影して，この部位に重なる他の部位をぼかして行うエックス線撮影法
+TG　triacylglycerol　トリアシルグリセロール
+TG☆　triglyceride　トリグリセライド，血清中性脂肪
+TG　tympanogram　チンパノグラム。鼓膜や耳小骨の振動（動き具合）を調べる検査
+TGA　transient global amnesia　一過性全健忘
+TGA　transposition of the great arteries　大血管転位症
+TgAb　antithyroglobulin antibody　抗サイログロブリン抗体
+TGC　time gain compensation　時間獲得代償（超音波診断）
+TGE　transmissible gastroenteritis　伝染性胃腸炎
+TGEV　porcine transmissible gastroenteritis virus　ブタ感染性胃腸炎ウイルス
+TGF　Tegafur　テガフール（抗悪性腫瘍薬）
+TGF　therapeutic gain factor　治療利得係数
+TGF　transforming growth factor　変換成長因子
+TGF　transforming growth factor　腫瘍増殖因子，トランスフォーミング増殖因子
+TGF　tuburo-glomerular feedback　尿細管・糸球体フィードバック
+TGF-β　transforming growth factor-β　トランスフォーミング増殖因子β
+TGL　triglyceride　トリグリセライド
+TGL　triglyceride lipase　トリグリセライドリパーゼ。トリアシルグリセロールリパーゼ
+TGN　trans-Golgi network　トランスゴルジネットワーク
+TGT　thromboplastin generation test　トロンボプラスチン生成試験，血液凝固時間測定法
+TG，Tg　thyroglobulin　サイログロブリン(チログロブリン)，甲状腺性の糖蛋白
+TGV　complete transposition of great vessels　大血管完全転位。右心室から大動脈が，左心室から肺動脈が出る心臓の奇形
+TGV　thoracic gas volume　胸腔内ガス容量
+TH　ethionamide　エチオナミド（抗結核剤）
+Th　thalamus　視床
+Th　thoracic　胸椎の，Th1，Th2など。胸椎は，頸椎，腰椎，仙椎，尾骨とともに脊柱を構成しているもの。12個の椎骨で構成されており，上方には７個の頸椎，下方には５個の腰椎を継続している。
+TH　thorax　胸部
+TH　thrill　振戦。不随意的に出現する律動的振動
+Th　thrombn　トロンビン
+TH　thyroid hormone　甲状腺ホルモン。甲状腺から分泌されるホルモンで，成長・成熟の促進，糖蛋白質・脂質等の代謝促進，熱産生と酸素消費の促進を司る。サイロキシン（T4）とトリヨードサイロニン（T3）の２種類がある。
+TH　tyrosine 3-hydroxylase　チロシン３-水酸化酵素
+Th，232Th　thorium　トリウム
+TH4　tetrahydrofolate（＝THF，H4FA）　テトラヒドロ葉酸
+THA　total hip arthroplasty　人工股関節全置換術
+thal　thalassemia　サラセミア，地中海性貧血。小球性低色素性溶血性貧血
+THAM　trihydroxymethyl-aminomethane　トリヒドロキシメチルアミノメタン
+THAM　tris hydroxy methyl aminomethane，tromethamine　トロメタミン（代謝改善剤）
+THb　tidal hemoglobin　循環ヘモグロビン
+THb　total amount of hemoglobin　ヘモグロビン総量
+THBF　total hepatic blood flow　総肝血流量
+THC　tetrahydrocannabinol　テトラヒドロカンナビノール
+THC　transhepatic cholangiogram　経肝胆管造影像
+Thd　ribothymidylic acid　リボチミジル酸
+THDOC　tetrahydrodeoxycorticosterone　テトラヒドロデオキシコルチコステロン
+THE　tetrahydrocortisone (tetrahydrocompound E)　テトラヒドロコルチゾン
+Thf　T cell factor helper Tcell　T細胞因子ヘルパーT細胞
+THF　tetrahydrocortisol　テトラヒドロコルチゾール
+THF　tetrahydrofuran　テトラヒドロフラン
+THF　thymic humoral factor　胸腺液性因子
+THFA　tetrahydrofolic acid　テトラヒドロ葉酸
+ThG　thyroglobulin　サイログロブリン(チログロブリン)。甲状腺由来の糖蛋白
+THGL　thyroglobulin　サイログロブリン
+TH glycoprotein　Tamm-Horsfall glycoprotein　タム-ホースフォール糖蛋白質
+THI　trihydroxy-indole　トリヒドロキシインドール
+Thio　thiosulfate　チオ硫酸塩
+THM　trihalomethane　トリハロメタン
+THO　ribosyl thymin　リボシールチミン
+THO　tyrosine hydroxylase　チロジン水酸化酵素
+THOV　thogoto virus　トゴトウイルス
+THP　pirarubicin hydrochloride　塩酸ピラルビシン（抗悪性腫瘍薬）
+THP　Tamm-Horsfall protein　タム-ホースフォール蛋白
+THP　Total Health Promotion Plan　トータル・ヘルスプロモーション・プラン，健康保持増進措置。労働者の健康保持を図るため，厚生労働大臣から公表された指針
+THP-ADM　pirarubicin hydrochloride　塩酸ピラルビシン（抗腫瘍性抗生物質）
+THQ　tetrahydroxy-quinone　テトラヒドロキシ・キノン（テラシン）。ケロイド治療剤
+Thr　threonine　トレオニン
+THR　total hip replacement　人工股関節全置換術
+thrombo　thrombosis　血栓症
+THS　tetrahydro-11-desoxycortisol　テトラヒドロ-11-デスオキシコルチゾル
+THS　tetrahydrosteroid　テトラヒドロステロイド
+Th. surg.　thoracic surgery（＝TS）　胸部外科
+THU　tetrahydro-uridine　テトラヒドロウリジン
+THVE　total hepatic vascular exclusion　THVE法。肝臓を一時的に全身血行から完全に遮断する手術法
+Thy　thymine　チミン
+Thy-1　a kind of T cell antigen　T細胞抗原の一種
+Thy-1 DEC　Thy-1 dendritic T cell　Thy-１樹枝状T細胞
+ThySA　thymus specific antigen　胸腺特異抗原
+THZ　thiazolidomycin　チアゾリドマイシン（抗マイコバクテリウム抗生物質）
+Thコーン☆　トロンビン歯科円錐-ミドリ（歯)
+TI　inspiratory time　吸気時間
+TI　inversion time　反転時間
+TI　thermal index　サーマルインデックス
+Ti　titanium　チタン
+TI　transverse diameter between ischia　坐骨の横径
+TI　tricuspid(al) insufficiency　三尖弁閉鎖不全(症)
+TIA　thymus-independent area　胸腺非依存域
+TIA　transient (cerebral) ischemic attack　一過性脳虚血(貧血)発作
+TIA　turbidimetric immunoassay　免疫比濁法
+TIBC　total iron-binding capacity　総鉄結合能，血清鉄量と不飽和鉄結合の和
+TIC　tracheo-ileocecal shunt　TICシャント法，気管食道シャント法
+TICU　trauma intensive care unit　外傷集中治療室
+t.i.d.　ter in die［ラ］　１日３回（処)
+TIF　Ten-twenty Electrode System of International Federation　国際脳波学会標準電極配置法
+TIG　tetanus immune globulin　破傷風ヒト免疫グロブリン
+TIL　tumor infiltrating lymphocyte　腫瘍浸潤リンパ球
+TIMI　thrombolysis in myocardial infarction　心筋梗塞の血\_c07717溶解
+TIMP　tissue inhibitor of metalloprotease　メタロプロテアーゼ組織阻害物質
+TIN　tubulointerstitial nephritis　尿細管間質性腎炎
+TIP　inspiratory pause time　吸気休止時間
+TIP　tone influencing pattern　姿勢緊張調整パターン
+TIP　translation inhibitory prtein　翻訳阻止蛋白。ウイルスの遺伝情報伝達を阻止する蛋白
+TIP　tumor inducing principle　腫瘍誘発物質
+TIPBn　transurethral incision of prostate and bladder neck　経尿道的前立腺・膀胱頸部切開術
+TIPC　ticarcillin　チカルシリン。広域の菌に有効な合成ペニシリンの１つ。特に緑膿菌，大腸菌などに有効
+TIPPV　tracheostomy intermittent positive pressure ventilation　気管切開口陽圧換気
+TIPSS　transjugular intrahepatic portosystemic shunt　肝内門脈肝静脈短絡術，経頸静脈的肝内門脈体循環シャント
+TIQ　tetrahydroisoquinoline　テトラヒドロイソキノリン
+TIR　terminal innervation ratio　終末神経支配比
+Tis　tumor in situ　上皮内腫瘍。上皮細胞と間質細胞（組織）を隔てる基底膜を破って浸潤していない腫瘍
+TIT　total ischemic time　総阻血時間
+TIT　Treponeme pallidum-immobilization test　梅毒トレポネーマ運動停止試験
+TIT　triiodothyronine　トリヨードサイロニン
+TIVA　total intravenous anesthesia　全静脈麻酔
+TJ　triceps jerk　上腕三頭筋反射
+Tk　killer T cell　キラーT細胞，細胞傷害性T細胞\u000021e8Tc
+TK　tachykinin　タキキニン
+TK　thymidine kinase　チミジンキナーゼ
+TK　transketolase　トランスケトラーゼ
+TKA　total knee arthroplasty　人工膝関節全置換術
+TKA　transketolase activity　トランスケトラーゼ活性
+TKD　tokodynamometer　子宮娩出力測定器
+TKG　tokodynamograph　子宮娩出力記録表。tokodynamography　子宮娩出力測定法
+TKP　thermokeratoplasty　角膜熱形成術
+TKR　total knee replacement　人工膝関節全置換術
+TKs　thymidine kinase，soluble　可溶性チミジンキナーゼ
+TK活性精密　deoxythymidine kinase activity　デオキシチミジンキナーゼ活性精密測定
+Tl　thallium　タリウム
+TL　thermal lens spectroscopy　熱レンズ分光法
+TL　thymus leukemia　胸腺白血病
+TL　total lipids　総脂質測定
+TL　tubal ligation　卵管結紮
+Tla　TL antigen　TL抗原
+TLC　thin layer chromatography　薄層クロマトグラフィー
+TLC　total lung capacity　全(総)肺気量
+TLC　total lymphocyte count　総リンパ球数
+TLCA　taurolithocholic acid　タウロリトコール酸
+TL-CFC　T lymphocyte colony-forming cell　Tリンパ球コロニー形成細胞
+TLD　thermoluminescence dosimeter　熱蛍光線量計
+TLD　thoracic lymph duct　胸管
+TLD　threshold load of dyspnea　呼吸困難の自覚閾値
+TLE　thin layer electrophoresis　薄層電気泳動
+TLESR　transient lower esophageal sphincter reluxation　一過性下部食道括約筋弛緩
+TLG　thyroid lymphography　甲状腺リンパ造影
+TLH　total laparoscopic hysterectomy　腹腔鏡下子宮摘出術
+TLI　total lymphoid irradiation　全リンパ組織照射法
+TLIF　transforaminal lumbar interbody fusion　経椎間孔腰椎椎体間固定術
+TLSO　thoraco-lumbo-sacral orthosis　胸腰仙骨部専用コルセット
+TLV　threshold limit value　許容閾値
+TLV　total liquid ventilation　完全液体呼吸
+TLV　total lung volume　全(総)肺容量
+TLV-C　threshold limit value-ceiling　許容濃度上限値
+TLVSW　total left ventricular stroke work　全左心房拍出作業
+Tm　maximum tubular clearance　尿細管クリアランス極量
+TM　temporal mandibular　側頭下顎骨の
+TM　temporal muscle　側頭筋
+TM　Terramycin\u000000ae　テラマイシン\u000000ae，オキシテトラサイクリン塩酸塩（抗生物質）
+TM　thrombomodulin　トロンボモジュリン
+T-M☆　tissue microscope　病理組織顕微鏡検査。手術や生検で人体より採取した組織について顕微鏡で検査すること。特に腫瘍の良性と悪性の判別，原発巣および転移巣の確認，抗癌剤や放射線療法の効果の有無などを診断する。
+t. m.　total massa［ラ］　全量（処）
+TM　total mastectomy　全乳房切断術
+TM　trabecular meshwork　線維柱帯網
+Tm　tubular transport maximum　尿細管最大輸送量
+TM　tumor　腫瘍，新生物。体細胞が自律的に増殖を続け，宿主を傷害する病態。良性腫瘍と悪性腫瘍に分けられる。
+TM　tumor marker　腫瘍マーカー。腫瘍細胞が生成する物質，あるいはその物質に反応して身体が生成する生体物質のなかで，それを測定することで腫瘍の診断に役立つ物質の総称。肝癌などのα—フェトプロテイン（AFP），大腸癌や胃癌の癌胎児抗原（CEA）など。腫瘍マーカーは血液や尿中に移行するので，血液や尿を採取して検査する。通常は数種類のマーカーを併用し，スクリーニング検査には使用せず，治療効果や再発の有無，予後の判定などに用いる。
+TM　tympanic membrane　鼓膜。外耳道と鼓室を分ける直径約１cmの真珠様の白く薄い膜。外耳道から伝わった空気振動により作用する。３耳小骨があり，ツチ骨とキヌタ骨は鼓膜での振動を拡大しアブミ骨に伝える働きをする。
+TMA　tetramethylammonium　テトラメチルアンモニウム
+TMA　thrombotic microangiopathy　血\_c07717性微小血管症
+TMA　transcription mediated amplification　TMA法(HBV-DNA定量）
+TMA　trimethyl arsenate　トリメチル・ヒ素化合物
+tmax　最高血中濃度到達時間
+TMB　transient monocular blindness　一過性単眼盲
+TMCD　tetramethyl-cyclobutanediol　テトラメチルシクロブタンジオール
+TMD　temporomandibular disorder　側頭下顎障害
+TMEV　Theiler murine encephalomyelitis virus　タイラー・マウス脳脊髄炎ウイルス
+Tmg　maximum tubular resortive capacity for glucose　尿細管糖再吸収極量
+TmG　transport maximum glucose　ブドウ糖最大移送値
+TMJ　temporomandibular joint　顎関節
+TMJ arthrography　temporomandibular joint arthrography　顎関節造影
+TM joint　tarsometatarsal joint　足根中足関節
+T-ML　T-cell malignant lymphoma　T細胞悪性リンパ腫
+TML　tetramethyllead　四メチル鉛
+TM line　tuberculum maxillare line　上顎結節線
+TMLR　transmyocardial laser revascularization　心筋内レーザー血行再建術
+TMO　trimethadione　トリメタジオン
+T-M/OP☆　tissue microscope operation　病理組織迅速顕微鏡検査。外科的生検，または手術中に切除した組織を病理医がすばやく診断を下すための顕微鏡検査。執刀医はこの診断結果を受けて，手術の継続・追加または終了を決める。
+TMP　thiamine monophosphate　チアミン一リン酸
+TMP　thymidine monophosphate　チミジン一リン酸
+TMP　transmembrane pressure　膜濾過圧
+TMP　transmembrane pressure　膜圧較差
+TMP　trimethoprim　トリメトプリム
+TMP　trimethyl-phosphate　リン酸トリメチル
+TmPAH，TmPAH　tubular excretory mass of p-aminohippuric acid　PAH(パラアミノ馬尿酸)を用いた尿細管排泄極量検査
+TMP-SMZ　trimethoprim-sulfamethoxazole　トリメトプリム・スルファメトキサゾール（合成サルファ剤）
+TMR　tissue-maximum (dose) ratio　組織最大線量比
+TMR　topical magnetic resonance　局所磁気反響
+TMS　transcranial magnetic stimulation　経頭蓋磁気刺激
+TMT　mamillothalamic tract　乳頭体視床路
+TMTD　tetramethylthiuram disulfide　テトラメチルチウラムジスルフィド
+TMV　tobacco mosaic virus　タバコモザイクウイルス
+Tn　normal intraocular pressure　正常眼圧
+TN　trigeminal neuralgia　三叉神経痛。顔の感覚を脳に伝える三叉神経に異常が生じ，顔面に激しい痛みが生じる。
+TNBS　trinitrobenzene sulfonic acid　トリニトロベンゼンスルホン酸
+TNC　thymic nurse cell　胸腺栄養細胞
+TNF　tumor necrosis factor　腫瘍壊死因子
+TNFR　tumor necrosis factor receptor　腫瘍壊死因子受容体
+TNFα　tumor necrosis factor-α　腫瘍壊死因子-α
+Tng　tonography　トノグラフィー（眼圧記録）
+TNI　total nodal irradiation　全リンパ節照射（法）
+TNI　total nodal irradiation　総結節照射
+TNM　Tumor，Nodes and Metastasis classification　TNM分類，癌の国際臨床病期分類
+TNP　trinitrophenyl (group)　トリニトロフェニル基
+TNR　tonic neck reflex　緊張性頸反射
+TNS　transcutaneous nerve stimulation　経皮的神経刺激。transcutaneous nerve stimulator　経皮的神経刺激装置
+TNS　transient neurologic symptoms　（脊髄くも膜下麻酔後の）一過性神経障害
+TNV　Tobacco necrosis virus　タバコネクロシスウイルス
+TNZ　thermoneutral zone　温熱中性帯
+To　thromboangitis obliterans［ラ］（＝TAO）　閉塞性血\_c07717(性)血管炎
+TOB　tobramycin　トブラマイシン（抗生物質）
+TOBEC　total body electorical conductivity　全身電気伝導度測定法（体脂肪測定法）
+TOD　total oxygen demand　総酸素要求量
+TOET　tympanic orifice of Eustachian tube　耳管鼓室開口部
+TOF　tetralogy of Fallot　ファロー四徴症
+TOF　train-of-four stimulation　連続４回刺激法
+TOF-MRA　time-of-flight MR angiography　飛行時間効果
+tomo，Tomo　tomography　断層撮影。トモグラフィー。目的の部位のみを明瞭に撮影して，この部位に重なる他の部位をぼかして行うエックス線撮影法。
+tonic NMU　tonic neuromuscular unit　緊張性神経筋単位
+TO number　turn over number　代謝回転数
+TOPS　twin oligohydramnios-polyhydramnios sequence　双胎間輸血症候群
+TORCH　toxoplasma, rubella, cytomegalo and herpes-virus　トキソプラズマ・風疹・サイトメガロ・ヘルペス・ウイルス。妊娠中に感染すると新生児に心臓の奇形や水頭症などの先天異常が起きやすいウイルス
+TORP　total ossicular replacement prosthesis　全置換用人工耳小骨
+Torr　Torricelli［伊］　トール。圧力の単位
+TOS　thoracic outlet syndrome　胸郭出口症候群
+TOS　toxic oil syndrome　毒性油症候群
+TOS　tricuspidal opening snap　三尖弁開放音
+TOSV　Toscana virus　トスカーナウイルス
+TOT　trans-obturator tape　TOT（ティー・オー・ティー）手術。経腟式尿道スリング手術の一つ
+Total G　total gastrectomy　胃全摘術
+tox　toxemia　毒血症
+tox　toxicity　毒性
+TP　testosterone propionate　プロピオン酸テストステロン
+TP　therapeutic plan　治療計画
+TP　thianphenicol　チアンフェニコール
+TP　threshold potential　閾値電位
+TP　ticlopidine　チクロピジン
+TP　tiopronin　チオプロニン
+TP　total parotidectomy　耳下腺全摘出術
+TP　total protein　総蛋白，血液総蛋白定量。血漿中に含まれる蛋白成分の総和。アルブミンの低下の有無，免疫グロブリンの増減や蛋白喪失の有無などを調べ，膠質浸透圧の維持や生体の防御機構など身体の状態を知るために測定する。なお，血漿蛋白は約60％がアルブミン，約20％がグロブリン。アルブミンは血液中で様々な物質と結合し，それらを身体の隅々に運ぶ。また，水分の量（浸透圧）の調整，蛋白質とアミノ酸の貯蔵などの役割を担っている。グロブリンは，感染を防ぐ役割を担っている。
+Tp　Toxoplasma　トキソプラズマ。原虫の一つ
+TP　toxoplasmosis　トキソプラズマ症
+TP　transforming principle　形質転換因子
+TP　transposition of the great vessels　大血管転位症
+Tp　Treponema pallidum subspecies pallidum　梅毒
+TP　triosephosphate　トリオースリン酸
+TP　tympamoplasty　鼓室形成術。慢性中耳炎に対して行う手術で，鼓膜に穿孔がある場合には鼓膜も再建する。
+TPA　12-O-tetradecanoylphorbol-13-acetate　12-O-テトラデカノイルホルボール13-アセテート
+t-PA　tissue plasminogen activator　ヒト組織プラスミノーゲン活性化因子，組織型プラスミノーゲン活性化因子。血\_c07717溶解作用を有する生体固有の酵素
+TPA　tissue polypeptide antigen　組織ポリペプチド抗原。腫瘍マーカーの一種
+TPA　Treponema pallidum agglutination (test)　梅毒トレポネーマ凝集(試験)
+TPAL　tractus arteriosus posterolateralis［ラ］（＝ASP）　後脊髄動脈
+TPA精密　tissue polypeptide antigen　組織ポリペプチド抗原精密測定
+TPC　thromboplastic plasma component　血栓形成促進性血漿成分
+TPCF　Treponema pallidum complement fixation (test)　梅毒トレポネーマ補体結合(試験)
+TPD　thiamine propyl disulfide　二硫酸チアミン・プロピル
+TPD　tidal peritoneal dialysis　干満型腹膜透析
+TPD　two point distinction　二点識別。皮膚の２点を同時に刺激し，これを２点と知覚する最小距離のこと
+TPE　time to peak ejection　ピーク駆出までの時間（心電図）
+TPE　tropical pulmonary eosinophilia　熱帯性肺好酸球増加症
+TPE　typhus-paratyphus-enteritis　チフス・パラチフス・腸炎
+TPEPS　tooth-pulp-evoked potentials　歯髄誘発電位
+TPF　time to peak filling　ピーク充満までの時間（心電図）
+TPG　transplant glomerulopathy　移植腎糸球体症
+TPH　tryptophan 5-hydroxylase　トリプトファン水酸化酵素
+TPHA☆　Treponema pallidum hemagglutination assay　梅毒トレポネーマ血球凝集試験。梅毒血清反応
+TPI　Todai Personality Inventory　東大版総合人格目録
+TPI　Treponema pallidum immobilization test　梅毒トレポネーマ運動抑制試験(ネルソン試験)。梅毒血清反応
+TPI　triose phosphate isomerase　トリオースリン酸イソメラーゼ
+TPIA　Treponema pallidum immune adherence test　梅毒トレポネーマ免疫付着試験
+TPL　thromboplastin　トロンボプラスチン。血栓形成促進物質
+TPL　total phospholipid　総リン脂質
+TPL　total profile length　全尿道内圧曲線長
+Tpl　transplantation　移植
+T-PLL　T-prolymphocytic leukemia　T細胞性前リンパ球性白血病
+TPMB　treponema pallidum methylene blue test　梅毒トレポネーマ・メチレンブルー試験
+TPMT　genotyping of thiopurine S　チオプリンS-メチルトランスフェラーゼ遺伝子診断
+TPN　total parenteral nutrition　中心静脈栄養法。経静脈栄養法。カテーテルを大静脈に挿入して高カロリー輸液を行い栄養を補給すること。何らかの理由によって経口からの栄養補給が不可能な場合，または胃や腸などの炎症性疾患により経口摂取が望ましくない場合，経腸補液を上回る高カロリー補給が必要な場合などに用いられる。日本では，ブドウ糖を主たるエネルギー源としアミノ酸と混合して中心静脈に投与する方法が一般に採られている。
+TPN　triphosphopyridine nucleotide　トリホスホピリジンヌクレオチド
+TPNH　reduced triphosphopyridine nucleotide　還元型トリホスホピリジンヌクレオチド
+TPO　thrombopoietein　トロンボポエチン
+TPO　thyroid peroxidase　甲状腺ペルオキシダーゼ
+TPO　tryptophan peroxidase　トリプトファン過酸化酵素
+TPOAb　antithyroid peroxidase antibody　抗甲状腺ペルオキシダーゼ抗体
+Tpot　potential doubling time　潜在倍加時間
+TPP　testosterone phenylpropionate　テストステロン・フェニルプロピオネート。男性ホルモン剤
+TPP　thiamine pyrophosphate　サイアミンピロリン酸，コカルボキシラーゼ(ヌトラーゼ，カルボキシン)
+TPp　tidal plasma protein　循環血漿蛋白量
+TPP　triphenyl phosphite　リン酸トリフェニル
+TPR　temperature, pulse，respiration　体温-脈拍-呼吸(vital sign\u000021e8VS)
+TPR　tissue-peak (dose) ratio　組織ピーク線量比
+TPR　tissue-phantom (dose) ratio　組織ファントム線量比
+TPR　total peripheral (vascular) resistance　全末\_c07705血管抵抗
+TPR　total pulmonary resistance　全肺血管抵抗
+TP shunt　tracheo-pharyngeal shunt　気管-咽頭シャント
+TPT　tetraisopropylthitan　テトライソプロピルチタン
+TPT　total protein tuberculin　精製ツベルクリン蛋白質
+TP，T-P　Treponema pallidum　トレポネーマ・パリドム，梅毒病原体，梅毒TP感作血球凝集反応検査
+TP，Tp　trichophytia pompholyciformis［ラ］　汗疱状白癬
+TPTX　thyroid parathyroid extraction　甲状腺・副甲状腺摘出
+TPV　terminal portal vein　終末門脈枝
+TPV　total plasma volume　全(総)血漿量
+TPVR　total peripheral vascular resistance　全末梢血管抵抗
+TQM　total quality management　総合的精度マネジメント
+Tr　rectal temperature　直腸温
+TR　repetition time　繰り返し時間（MRI撮影のパラメーター）
+TR　Takata's reaction　高田反応
+TR　terminal stimulus　終末刺激
+TR　therapeutic ratio　治療可能比
+TR　thyroid hormone receptor　甲状腺ホルモン受容体
+TR　thyrotropin receptor　サイロトロピン受容体
+Tr　trachoma　トラコーマ。クラミジア・トラコマチスの感染による角結膜炎
+Tr　triamcinolone（＝Triam）　トリアムシノロン（合成ステロイド）
+TR　tricuspid regurgitation　三尖弁逆流症，三尖弁閉鎖不全症
+TR　tuberculin reaction　ツベルクリン反応。結核菌の培養液から抽出した精製たんぱく質（PPD）を注射し，その部位に起こる変化により結核の既往，不顕性感染を調べる検査。48時間後に注射部位にできた紅斑と硬結によって判定を行う。陰性（−）は反応発赤の径が4mm以下，疑陽性（±）が５〜9mm，弱陽性（＋＋）が10mm以上，発赤が10mm以上で硬結が中程度は陽性（＋＋＋），10mm以上で硬結と二重発赤がある場合は強度陽性となる。陰性は結核に対して免疫機能がないか，きわめて弱いためにBCG接種を行い，結核菌に対する免疫をつけるようにする。
+TR　tubular rising　耳管隆起
+TRA　terminal repeatarray　反覆配列
+TRA　tumor rejection antigen　腫瘍拒絶抗原
+TRAb　thyroid stimulating hormone (thyrotropin) receptor antibody　甲状腺刺激ホルモンレセプター抗体，甲状腺刺激ホルモン受容体抗体
+trach　trachea　気管。tracheotomy　気管切開
+TRACP　tartarate resistant acid phosphatase　酒石酸抵抗性酸ホスファターゼ。破骨細胞から分泌される酒石酸抵抗性の酵素で，骨吸収マーカーの一つ
+TRACP-5b　tartrate-resistant acid phosphatase 5b　骨型酒石酸抵抗性酸ホスファターゼ
+TRALI　transfusion-related acute lung injury　輸血関連急性肺障害
+trans sect　transverse section　横断面
+TRAPS　TNF receptor associated periodic syndrome　TNF（腫瘍壊死因子）受容体関連周期熱症候群
+trau　trauma　外傷
+TRAV　transient recurrent atypical vertigo　一過性再発性非定型めまい
+TRBF　total renal blood flow　全腎血流量
+TRC　tanned red cell　タンニン酸処理赤血球。ボイデン法
+TRC　tissue repair cells　組織修復細胞
+TRCH　tanned red cell hemagglutination　タンニン酸処理赤血球凝集反応
+TRCV　total red cell volume　循環全赤血球量
+TRE　thyroid hormone-responsive element　甲状腺ホルモン応答配列
+Trep　Treponema　トレポネーマ
+TRF　T cell replacing factor　T細胞代行因子
+TRF　thyroid stimulating hormone releasing factor（＝TSHRF）　甲状腺刺激ホルモン放出因子
+TRF　thyrotropin releasing factor　向甲状腺物質遊離因子
+TR-FIA　time resolved fluoroimmunoassay　時間分解蛍光免疫測定法
+TRFR　tubular rejection fraction rate　尿細管排出分画率
+TRH　thyrotropin-releasing hormone　甲状腺刺激ホルモン放出ホルモン
+TRI　total red cell iron　全赤血球鉄
+TRI　total response index　総反応指数
+Triam　triamcinolone（＝Tr）　トリアムシノロン
+TRIC　trachoma inclusion conjunctivitis　トラコーマ封入体性結膜炎
+TRIC agents　trachoma inclusion conjunctivitis agents　トラコーマ封入体性結膜炎病原体
+tricaphos　tricalcium phosphate　リン酸トリカルシウム
+Tricho　Trichomonas　トリコモナス属。trichomoniasis　トリコモナス症
+Trig　triglycerides　トリグリセライド
+tri sten　tricuspid stenosis　三尖弁狭窄
+TRIT　triiodothyronine　血中トリヨードサイロニン
+TRITC　tetramethylrhodamine isothiocyanate　テトラメチルローダミンイソチオシアネート
+TRI test　tetrazolium reduction inhibition test　テトラゾリウム還元阻止試験
+Trk　tropomyosin receptor kinase　トロポミオシン受容体キナーゼ
+TRL　therapy-related leukemia　治療に関係する白血病。二次性白血病
+TRMC　trapezius myocutaneous flap　僧帽筋皮弁。体幹などの再建に用いる。
+tRNA　transfer RNA　トランスファーRNA，転移RNA
+%TRP　％ tubular reabsorption of phosphate　尿細管リン再吸収係数。副甲状腺機能検査の一種
+Trp　tryptophan　トリプトファン，必須アミノ酸
+TRP　tubular reabsorption of phosphate　尿細管リン再吸収量
+TRPF　total renal plasma flow　全腎血漿流量
+TrpRS　tryptophanyl trans-ribonucleic acid synthetase　トリプトファニルtRNA合成酵素
+TRPS　trichorhinophalangeal syndrome　毛髪鼻指節症候群
+TRR　tubular reabsorption rate　尿細管再吸収量
+TRS　total renin substrate　総レニン基質
+TRSV　Tobacco-ringspot virus　タバコ環状斑ウイルス
+TRT　tinnitus retraining therapy　耳鳴再訓練療法
+TRTV　Turkey rhinotracheitis virus　シチメンチョウ鼻気管炎ウイルス
+TRUS　transrectal ultrasonography　経直腸的超音波断層法
+TRV　Tobacco ratlle virus　タバコラトルウイルス
+TRV　Tobacco ringspot virus　タバコリングスポットウイルス
+Tr.Valer.　Tincture Valeriana　カノコソウチンキ
+TRXF　total reflection X-ray fluorescence　全反射蛍光X線分析法
+TS　nucleus tractus solitarius［ラ］　孤束核
+t. s.　temporal sinistra［ラ］　左側頭
+TS　terminal sensation　末端感覚
+TS　terminal stimulus　終末刺激
+TS　testosterone　テストステロン。男性ホルモン
+TS　thermosonimetry　熱音響測定
+TS　thoracic surgery（＝Th. surg.）　胸部外科
+TS　thymidine synthetase　チミジン合成酵素
+T/S　thyroid serum (radioiodine) ratio　甲状腺血清放射ヨード比
+TS　tracheal sound　気管音
+TS　transitional sclerosis　移行型硬化症
+TS　transverse sinus　横静脈洞
+TS　trauma score　外傷表。救急医療に関係
+TS　tricuspidal stenosis　三尖弁狭窄(症)
+TS　tubal stenosis　耳管狭窄症
+TS　tuberous sclerosis　結節性硬化症。プリングル病。全身に過誤腫という腫瘍が発生する常染色体優性遺伝疾患
+TSA　therapeutic substances act　治療薬物効果
+TSA　tumor specific antibody　腫瘍特異抗体
+TSA　tumor specific antigen　腫瘍特異抗原
+TSAb　thyroid-stimulating antibodies　甲状腺刺激抗体，TSH刺激性レセプター抗体。バセドウ病における甲状腺機能亢進症の原因物質と考えられている。
+TSAb精密　thyroid stimulating antibody　TSH刺激性レセプター抗体精密測定
+TSB　total spinal block　全脊髄神経遮断
+TSBAb　thyroid stimulation-blocking antibody　甲状腺刺激阻害抗体
+TSD　target skin distance　焦点皮膚間距離（放射線照射）
+TSD　Tay-Sachs disease　ティ・サックス病。家族性黒内障性認知症
+TSE　transmissible spongiform encephalopathy　伝播性海綿状脳症
+TSE　turbo spin echo　ターボスピンエコー
+Tsect　tranverse section　横断面
+T-set　tracheotomy set　気管切開術セット
+TSF　thymocyte stimulating factor　胸腺細胞刺激因子
+TSF　triceps skinfold　上腕三頭筋部皮下脂肪
+TSF　triceps skinfold thickness　上腕三頭筋部皮下脂肪厚
+TSH　thyroid-stimulating hormone，thyrotropic hormone　甲状腺刺激ホルモン。甲状腺に働きかけて甲状腺のホルモン分泌を促進させるホルモン。脳下垂体前葉から分泌される。甲状腺刺激ホルモンの分泌は間脳の視床下部から分泌される甲状腺刺激ホルモン放出ホルモン（TRH）によって調節される。
+TSH-R　thyroid-stimulating hormone receptor　甲状腺刺激ホルモン受容体
+TSHRAb　thyroid-stimulating hormone receptor antibody　甲状腺刺激ホルモン受容体抗体
+TSHRF　TSH releasing factor　甲状腺刺激ホルモン放出因子
+TSH精密　thyroid-stimulating hormone　甲状腺刺激ホルモン精密測定
+TSI　thyroid-stimulating immunoglobulin　甲状腺刺激免疫グロブリン
+TSI　tricuspid stenoinsufficiency　三尖弁狭窄閉鎖不全症
+TSI　trophic state index　栄養状態指数
+TSLB　thoracoscopic lung biopsy　胸腔鏡下肺生検
+TSLO　thoracolumbosacral orthosis　ボストン装具
+TSLS　toxic shock-like syndrome　劇症型A群連鎖球菌感染症，毒素性ショック様症候群
+TSP　thrombospondin　トロンボスポンジン
+TSP　thyroid-stimulating (hormone of) prepituitary　前下垂体甲状腺刺激（ホルモン）
+TSP　transduodenal sphincteroplasty　経十二指腸括約筋形成術
+TSP　trisodium phosphate　リン酸三ナトリウム
+TSP　tropical spastic paraparesis　熱帯性痙性不全対麻痺症
+TSPA　triethylene thiophoshoramide　アルキル化抗腫瘍剤。白血病悪性リンパ腫，ホジキン病に用いる。テスパミン，チオテパ\u000021e8TESPA
+TSPR　total systemic peripheral resistance　全末梢血管抵抗
+TSS　time sharing system　タイムシェアリング
+TSS　toxic shock syndrome　毒素性ショック症状群，中毒性ショック症候群
+TSS　transsphenoidal surgery　経蝶形骨手術
+TSS　tumor specific substance　腫瘍特異物質
+TSSA　tumor specific surface antigen　腫瘍特異性表面抗原
+TSST-1　toxic shock syndrome toxin-1　毒素性ショック症候群毒素
+TST　thromboplastin screening test　トロンボプラスチン・スクリーニング試験
+TST　toxic shock toxin　毒素性ショック毒素
+TSTA　tumor specific transplantation antigen　腫瘍特異移植抗原
+TSV　Tobacco streak virus　タバコストリークウイルス
+TSVR　total systemic vascular resistance　全末梢血管抵抗。細い動脈の収縮の程度
+TSWV　Tomato spotted wilt virus　トマト黄化萎縮ウイルス
+TT　tensor tympani muscle（＝TTM）　鼓膜張筋
+TT　terminal tendon　終腱
+TT　tetanus toxoid　破傷風トキソイド
+TT　thrombin time　トロンビン時間。フィブリノーゲンをフィブリンに転化するトロンビンの血液凝固時間測定のこと。フィブリノーゲン量，異常フィブリノーゲン，抗トロンビンなどに影響される。血管内血液凝固症候群（DIC）の診断に有用である。
+TT　thrombo test　トロンボテスト，トロンボ試験
+TT　thymol turbidity　チモール混濁度
+TT　toilet training　排便訓練
+TT　tolerance test　耐性試験
+TT　transit time　血液通過時間
+TT　trophoblastic tumor　栄養膜腫瘍
+TTA　transtracheal aspiration　経気管吸引
+T，Tab　tablet, tabella［ラ］　錠，錠剤，例：３錠\u000021e8３T
+TTAG　tubo-tympanoaerodynamic graphy　耳管鼓室気流動態法。耳管機能検査法の一つで，耳管開放症などの診断に用いる。
+TTC　2,3,5-triphenyltetrazolium chloride　試薬2,3,5-トリフェニルテトラゾリウムクロリドを用いる尿中細菌数検査，TTC還元能
+TTC-test　triphenyltetrazolium-chloridetest　塩化トリフェニールテトラゾリウム
+TTCパスタ　tetracortisone paste　テトラ・コーチゾン軟膏。抗生物質副腎皮質ホルモン
+TTD　temporary threshold drift　一過性閾値変動，一過性値上昇
+TTD　tetraethyl-thiuram disulfide　テトラエチルチウラムジスルフィド
+TTD　threshold tone-decay (test)　TTD(テスト)，閾値音減衰検査
+TTF　tensor thympani fold　鼓膜張筋ひだ
+TTF　time to treatment failure　治療成功期間
+TTH　thyrotropic hormone　甲状腺刺激ホルモン
+TTh　tritiated thymidine　トリチウムチミジン
+TTI　tension time index　張力・時間係数。心筋のエネルギー消費量を示す指数
+TTJV　transtracheal jet ventilation　経気管ジェット換気
+TTM　tensor tympani muscle（＝TT）　鼓膜張筋
+TTN　transient tachypnea of nenate　新生児一過性多呼吸
+TTNB　transient tachypnea of new born　新生児一過性多呼吸
+TTP　thiamine triphosphate　チアミン三リン酸
+TTP　thrombotic thrombocytopenic purpura　血\_c07717性血小板減少性紫斑病
+TTP　thymidine triphosphate　チミジン三リン酸
+TTR　transthyretin　トランスサイレチン
+TTR　triceps tendon reflex　上腕三頭筋腱反射
+TTS　tarsal tunnel syndrome　足根管症候群
+TTS　temporal threshold shift　一過性閾値変動，一過性閾値上昇
+TTS　transdermal therapeutic system　経皮治療システム
+TTT☆　thymol turbidity test　チモール混濁反応。肝機能検査法の一種，膠質反応の一種
+TTT　tolbutamide tolerance test　トルブタミド負荷試験。血中インスリン測定
+TTT　transpupillary thermotherapy　経瞳孔的温熱療法
+TTTS　twin to twin transfusion syndrome　双胎間輸血症候群
+TTV　TT virus　TTウイルス
+TTX　tetrodotoxin　テトロドトキシン。フグ毒
+TU　toxic unit　毒素単位
+TU　tuberculin unit　国際ツベルクリン単位
+tub　tubing　挿管
+TUB　tubular adenocarcinoma　尿細管腺癌
+tub　tubular adenocarcinoma　管状腺癌
+tub1　well differentiated type　高分化型管状腺癌
+tub2　moderately differentiated type　中分化型管状腺癌
+tuberc　tuberculosis（＝TB，Tbc）　結核症
+TUC　transurethral coagulation　経尿道的凝固術
+TUL　transurethral lithotripsy　経尿管的結石破砕術
+TUL　transurethral ureterolithotripsy　経尿道的尿管砕石術
+TULIP　transurethral ultrasound-guided laser induced prostatectomy　経尿道的超音波ガイド下レーザー前立腺切除術
+tum　tumor（＝T，TM）　腫瘍
+TUN　total urinary nitrogen　尿中総窒素量
+TUPV　Tupaia virus　チュパイアウイルス
+TUR　transurethral resection　経尿道的切除(術)
+TURB　transurethral resection of bladder tumor　経尿道的膀胱腫瘍切除(術)
+TURBT　transurethral electroresection of bladder tumor　経尿道的根治的腫瘍切除術
+TURF　trans urethral radiofrequency heating　経尿道的光線照射高熱療法
+TUR-P　transurethral resection of prostate　経尿道的前立腺切除術
+tus　tussis［ラ］　せき
+TUV　total urine volume　全尿量
+TUVP　transurethral electro-vaporization of prostate　経尿道的前立腺電気蒸散術。高周波電流を使用して前立腺肥大組織を蒸散させる治療法
+TV　thoracic vertebra（＝T）　胸椎
+TV　tidal volume　１回換気量
+TV　total volume　総量
+TV　Trichomonas vaginalis［ラ］　腟トリコモナス
+TV　tricuspid valve　三尖弁
+TV　truncal vagotomy　全迷走神経切離術
+TV　tubulovesicles　管状小胞
+Tv　typhus vaccine　チフスワクチン
+TVC　time vital capacity　時限肺活量。フローボリュームカーブから計算によって求めたものは別に算定できない。
+TVH　total vaginal hysterectomy　腟式子宮全摘出術
+TVM　tension-free vaginal mesh　TVM手術。骨盤臓器脱手術の一つ
+TVP　transurethral vaporization of prostate　経尿道的電気蒸散術
+TVP　tricuspid prolapse　三尖弁逸脱
+TVR　tonic vibration reflex　振動誘発性緊張反射
+TVR　total vascular resistance　全血管抵抗
+TVR　tricuspid valve replacement　三尖弁置換術
+TVT　tension-free vaginal tape　TVT手術。尿失禁の手術法
+TVU　total volume urine　全尿
+TX　thromboxane　トロンボキサン
+TxA2　thromboxane A2　トロンボキサンA2
+TXRF　total reflection X-ray fluorescencespectrometry　全反射蛍光X線分析法
+TXT　Taxotere　タキソテール\u000000ae（抗悪性腫瘍薬）
+Tymp　tympany　鼓音（打診による胸部・腹部の音響の増加），鼓腸・鼓脹（ガスが貯まり腹部が膨隆した状態で，打診により高調鼓音を発する）
+tymp. memb.　tympanic membrane（＝TM）　鼓膜
+TYMV　Turnip yellow mosaic virus　カブ黄斑モザイクウイルス
+Tyr　tyrosine　チロシン，チロジン。甲状腺ホルモンの前駆体となる芳香族アミノ酸
+Tys　sclerotylosis　硬化性胼胝症。硬化性萎縮症と皮膚角化症を呈する症候群
+TYUV　Tyuleniy virus　チュレニィウイルス
+TZ　transition zone　前立腺移行領域
+T.Z.　traubenzucker［独］　ブドウ糖注射液
+TZD　Thiazolidinediones　チアゾリジン系誘導体
+T-内膜(T-ナイマク)☆　病理組織顕微鏡検査

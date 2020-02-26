@@ -1,0 +1,701 @@
+Ｉ
+i　corneal infiltration　角膜浸潤
+I　ileum　回腸。小腸のうちで腹腔にあり，腸間膜をもち，小腸の後3/5を占める部分。はっきりした境界はなく，空腸から移行し右の腸骨窩に達して盲腸に開く。だいたい小腸の右下部を占める。
+I☆　immunity　免疫
+i　infant　乳児
+I　iodine　ヨウ素，ヨード(沃度)
+I　isoleucine　イソロイシン
+131I　radioactive iodine　放射性ヨウ素131
+I&D　incision and drainage　切開排膿(ドレーン挿入)
+I-125　iodine 125　ヨード125
+I2KL　iodo-iodokalium Lugol’s solution　ルゴール液。グラム染色に使用
+IA　A current　A電流
+IA　immune adherence　免疫粘着現象。immunoadsorbent　免疫吸着
+IA　immunoassay　イムノアッセイ，免疫学的測定(法)
+IA　inteiligence age　知能年齢
+IA　interaural atenuation　両耳間移行減衰。気導聴力検査において，片側の耳に聞かせた音が外耳〜鼓膜〜中耳〜内耳を経て反対側の耳に弱くなって伝わること。
+IA，i.a.　intra-arterial　動脈内の
+IA　intra-articular　関節内の
+I/A　irrigation and aspiration　灌流吸引
+IA-A　Ia-like antigen　Ia様抗原
+IAA　ileo-anal anastomosis　回腸嚢肛門吻合術
+IAA　indole-3-acetic acid　インドール-3-酢酸
+IAA　insulin autoantibody　インスリン自己抗体
+IAA　interruption of aortic arch　大動脈弓離断症
+IABO　intra-aortic balloon occlusion catheter　大動脈遮断バルーンカテーテル
+IABP　intra-aortic balloon pumping　大動脈内バルーンパンピング法。心筋梗塞の治療法の一つ。心筋に血液を送っている冠状動脈が血栓や塞栓を起こして心筋に血液が十分に流れなくなると，心筋が壊死に陥る。それを防ぐために，股動脈を切開してバルーンカテーテルを下行大動脈付近まで挿入し，心臓の拡張に合わせてバルーンを膨らませて心臓の圧力を上げて，冠状動脈に血液が十分に行き渡るようにし，逆に心臓収縮時にはバルーンをしぼませて血液の流出量を増加させる。
+IAC　intraarterial chemotherapy　動脈内化学療法
+IACA　ileo-anal canal anastomosis　回腸肛門管吻合術
+IADHS　inappropriate secretion of antidiuretic hormone syndrome　抗利尿ホルモン分泌異常症
+IADL　instrumental activities of daily living　手段的日常生活動作
+IADSA　intraarterial digital subtraction angiography　動脈内デジタル減算血管造影法
+IAH，IAHA　immune adherence hemagglutination　免疫粘着赤血球凝集反応。抗原抗体反応の後，補体（免疫，炎症反応に関与する蛋白）が結合した複合体が赤血球と付着し，赤血球が凝集する現象を利用した検査で，抗原，抗体，補体を検出する。水痘の診断や感染歴を知るのに用いられる。
+IAHS　infection-associated hemophagocytic syndrome　感染症に伴う血球貪食症候群
+IAM　inner auditory meatus　内耳道
+IAO　intermittent aortic occulusion　間欠性大動脈閉塞
+IAP　immunosuppressive acidic protein　免疫抑制酸性蛋白(検査)
+IAP　intermittent acute porphyria　間欠性急性ポルフィリン症
+IAPP　islet amyloid polypeptide　膵島アミロイドポリペプチド
+IAR　immediate asthmatic response　即時型喘息反応
+IARF　ischemic acute renal failure　虚血性急性腎不全
+IARR　indirect antiglobulin rosetting reaction　間接抗グロブリン・ロゼット形成反応
+IAS　inactivated serum　不活性化血清
+IAS　interatrial septum　心房中隔。心房を左右の腔室に分けている隔壁。心室中隔からつながっている。心房中隔の大部分は筋組織をもつ筋性部から成るが，心房中隔の近くには膜性部と呼ばれる部分がある。
+IASD　interatrial septal defect　心房中隔欠損
+IAV　intermittent assisted ventilation　間欠的補助換気
+IB　immune body　免疫体
+IB　inclusion body　封入体。細胞質や核のなかに入った変性産物やウイルス，沈着物などの総称
+IB　index of body build　体型指数
+IB　indirect bilirubin　間接型ビリルビン。遊離ヘモグロビンともいう。
+IB　infectious bronchitis　感染性気管支炎
+IB　intestinal Beh\u000000e7et　腸管べーチェット病
+IBBB　incomplete bundle branch block　不完全脚ブロック
+IBC　iron-binding capacity　(血清)鉄結合能
+IBD　inflammatory bowel disease　炎症性腸疾患
+IBG　iron binding globulin　鉄結合グロブリン
+IBI　intermittent bladder irrigation　間欠的膀胱還流
+IBI　ischemic brain infarction　虚血性脳梗塞
+IBL　immunoblastic lymphadenopathy　免疫芽球性リンパ節症
+IBM　inclusion body myositis　封入体筋炎。筋線維の核内や細胞質内に，細い管状の封入体がある筋炎
+IBM　intact bridge tympanomastoidectomy　橋保存鼓室乳突洞穿開術
+123I-BMIPP　123I-beta-methyl-iodophenyl pentadecanoic acid　15-(4-ヨードフェニル) -3(R,S)-メチルペンタデカン酸（カルディオダイン\u000000ae）。心筋脂肪酸代謝シンチグラフィー用注射剤
+IBMX　3-isobutyl-1-methylxanthine　3-イソブチル-1-メチルキサンチン（ホスホジエステラーゼ阻害剤）
+iBOOP　idiopathic bronchiolitis obliterans organizing pneumonia　特発性器質化肺炎
+IBP　idiopathic bacterial peritoritis　特発性細菌性腹膜炎
+IBP　iprobenfos　イプロベンホス
+IBP　iron-binding protein　鉄結合蛋白質
+IBS　indirect bilirubin syndrome　間接胆汁症候群
+IBS　irritable bowel syndrome　過敏性腸症候群
+IBS　isobaric solution　等比重液
+IBT　isatin-beta-thiosemicarbazone　イサチン・べータ・チオセミカルバゾン
+IBTR　ipsilateral breast tumor recurrence　乳房内再発
+IBV　infectious bronchitis vaccine　伝染性気管支炎ワクチン
+IBW　ideal body weight　理想体重，標準体重
+IB法　immunoblotting　免疫ブロット法
+IC　ileal conduit　回腸導管
+IC　immune complex　免疫複合体
+IC　immunochromatography　イムノクロマトグラフィー
+IC　indigocarmine　インジゴカルミン。色素の一種
+IC　inferior colliculus　（脳の）下丘
+IC　informed consent　インフォームド・コンセント，説明と同意。医師が病状，治療目的，治療法について十分な説明を行い，患者の自発的意思による同意を得たうえで医療行為を行うこと。
+IC　inspiratory capacity　最大(深)吸気量(VC＋IRV)，最大吸気量
+IC　inspiratory center　吸気中枢，吸息中枢
+IC　integrated circuits　集積回路
+i.c.　inter cibos［ラ］　食間（処）
+IC　intercostal　肋間の
+IC　internal capsule　（脳の）内包
+IC　interstitial cells（＝ISC）　間質細胞
+IC　intracardial　心臓内の
+IC　intracerebral　脳内の
+IC　intracranial　頭蓋内の
+IC，i.c.　intracutaneous　皮内に，皮内の
+IC　intrahepatic cholestasis　肝内胆汁うっ滞症，肝内閉塞性黄疸
+IC　intrapleural catheter　胸膜内カテーテル
+IC　ischemic colitis　虚血性大腸炎
+ICA　intracranial aneurysm　頭蓋内動脈瘤
+ICA　islet cell antibody　膵島細胞抗体，膵ランゲルハンス島細胞抗体
+ICAM　intercellular adhesion molecule　細胞間接着分子
+ICAO　internal carotid artery occlusion　内頸動脈閉塞
+ICBP　intracellular binding proteins　細胞内結合蛋白
+ICC　ischemic cell change　虚血性細胞変化
+ICCA　islet cell cytoplasmic antibody　膵ランゲルハンス島細胞質抗体
+ICCE　intracapsular cataract extraction　水晶体嚢内摘出術，白内障嚢内摘出術
+ICD　distance between iliac crests　腸骨棘間径
+ICD　immune complex disease　免疫複合体病。抗原と抗体の複合体が沈着して組織障害等を引き起こす疾患群
+ICD　implantable cardioverter defibrillator　植込み型除細動器。心室細動を未然に防ぐため体内に埋め込まれる電気信号を発する機械。心室頻脈や著しい徐脈，心室細動の際にショック電流やペースメーカーとしての電流を流す。電池は通常胸壁に，電極はリードを通じて心臓の外膜，内膜に留置される。
+ICD　infection control doctor　感染管理医師
+ICD　International Classification of Disease　国際疾病分類
+ICD　ischemic coronary disease　虚血性冠（動脈）疾患
+ICD，ICDH　isocitric dehydrogenase　イソクエン酸脱水素酵素。TCA回路の酵素
+ICD-O　International Classification of Diseases for Oncology　国際疾病分類—腫瘍学
+I cell　inclusion cell　封入体細胞
+ICE症候群　iridocorneal endothelial syndrome　虹彩角膜内皮症候群
+ICF　idiopathic chronic fatigue　特発性慢性疲労
+ICF　International Classification of Functioning, Disability and Health　国際生活機能分類
+ICF　intracellular fluid　細胞内液
+ICFV　intracellular fluid volume　細胞内液量
+ICG　indocyanine green test　インドシアニングリーン試験。肝機能や肝予備能を調べる色素負荷試験。一定量の色素溶液（ICG）を静脈注射し，一定時間後に採血して血中ICG濃度を測定する。ICGは血中リポ蛋白に結合して肝臓に運ばれ，肝細胞に摂取されて胆汁に排泄される。その過程で血中ICG濃度を経時的に測定することによって，肝臓の色素排泄機能（解毒作用）を調べる。高値を示す病態に，肝硬変，慢性活動性肝炎，慢性非活動性肝炎などがある。
+ICGN　immune complex glomerulonephritis　免疫複合体糸球体腎炎
+ICG/消失☆　血漿消失率の測定
+ICG/停滞(ICG/テイタイ）☆　血中停滞率測定
+ICH　intracerebral hematoma　脳内血腫
+ICH　intracerebral hemorrhage　脳内出血
+ICH　intracranial hypertension　頭蓋内圧亢進
+IC，ICA　internal carotid artery　内頸動脈
+ICL　implantable contact lens　インプランタブルコンタクトレンズ
+ICL　intracytoplasmic lumina　細胞質内小腺腔
+ICLE　intracapsular lens extraction　嚢内レンズ摘出。白内障の手術
+ICM　idiopathic cardiomegaly　特発性心拡大
+ICM　idiopathic cardiomyopathy　特発性心筋症
+ICM　intracostal margin　肋間辺縁
+ICMA　idiopathic chronic megaloblastic anemia　原発性慢性巨赤芽球性貧血
+ICMR　inhibitor of chemical mediator release　化学伝達物質遊離抑制薬
+ICMT　infection control microbiological technologist　感染制御認定臨床微生物検査技師
+ICN　infection control nurse　感染管理看護師
+ICP　intracavernous pressure　陰茎海綿体圧
+ICP　intracranial pressure　頭蓋内圧
+IC-PC aneurysm　internal carotid artery-posterior communicating artery aneurysm　内頸動脈後交通動脈分岐部動脈瘤
+ICP-MS　inductively coupled plasma mass spectrometry　誘導結合プラズママススペクトロメトリー
+ICR　distance between iliac crests　腸骨稜間距離
+ICR　International Congress of Radiology　国際放射線医学会議
+ICS　impulse-conducting system　刺激伝導系
+ICS　infection control staff　感染管理スタッフ
+ICS　intercellular substance　細胞間物質
+ICS　intercostal space　肋間腔，肋間隙
+ICS　intermediate coronary syndrome　中間冠症候群。不安定狭心症ともいう。
+ICS　irritable colon syndrome　過敏性大腸症候群，機能性腸症，機能性腸疾患，刺激結腸，過敏結腸
+ICSA　islet cell surface antibody　膵島細胞膜抗体
+ICSD　International Diagnostic Classification of Sleep Disorders　睡眠障害国際分類
+ICSH　International Council for Standardization in Haematology　国際標準法（血液の）
+ICSH　interstitial cell-stimulating hormone　間(質)細胞刺激ホルモン，下垂体性ゴナドトロピンの一種
+ICSI　intracytoplasmic sperm injection　顕微授精，卵細胞質内精子注入法。顕微鏡を見ながら，きわめて細いガラスの針で，卵細胞を取り巻く透明帯に小さな穴を開けて精子の入口をつくり，卵細胞質内へ直接注入して授精させる方法。重症精子減少症，精子無力症，精子透明帯卵細胞膜通過障害などが適応。
+ict　icterus　黄疸
+ICT　indigo carmine test　インジゴカルミン試験
+ICT　indirect Coombs’ test　間接クームス試験。血清中に存在する抗赤血球抗体を検出するもの。赤血球に結合していない不完全抗体を試験管内で血球とクームス血清を加えて凝集することにより検出する。Rh不適合妊娠，自己免疫性溶血性貧血などで陽性となる。
+ICT　induction chemotherapy　術前化学療法
+ICT　infection control team　感染対策チーム。医療機関内に設けられ，院内感染対策を行う。
+ICT　inflammation of connective tissue　結合組織炎
+ICT　insulin coma therapy　インスリン昏睡治療
+ICT　intensified conventional insulin therapy　強化インスリン療法
+ICT　intracoronary thrombolysis（＝PTCR）　冠動脈内血栓溶解療法，経皮経管冠状動脈内血栓溶解療法
+ICT　intracranial tumor　脳腫瘍，頭蓋内腫瘍，脳腫瘤。頭蓋内にできる腫瘍の総称。腫瘍の性質も，好発年齢も，部位も様々である。良性，悪性を問わず進行すれば生命の危険が伴うので，手術を行うのが前提。悪性の場合にはさらに放射線，化学療法を併用する。ガンマ線を集中的に病巣に照射するガンマナイフも行われている。
+ICT　intracutaneous test　皮内試験。皮内に薬物等を注射してその反応をみる検査
+ICT　islet cell tumor　膵内分泌腫瘍，膵島細胞腫，島細胞腺腫，島細胞腫
+ICT　isometric contraction time　等尺性収縮時間
+ICT　isovolumic(isovolumetric) contraction time　等容性収縮時間
+ICU　intensive care unit　集中治療室，集中治療部門
+ICW　intracellular water　細胞内水分量（→ICF）
+Id　diabetic index　糖尿病係数
+ID　identification　同定。事象における同一性を証明することであり，未知のものを既知のものと比較して，その所属する分類群を決定すること。医学的には各病原体の診断，化学物質の構造の同一性の判定，個体の識別などを行うことである。
+Id　idiotype　遺伝型
+ID　immunodeficiency disease　免疫不全症
+ID　immunodiffusion　免疫拡散法
+ID　infectious disease　感染症
+ID　infective dose　感染量
+ID　initial dose　初回量
+ID　Initialdruck［独］　初圧
+ID　inside diameter　内径
+ID，i.d.　intradermal　皮内に，皮内の（→IC）
+ID　intradermal injection　皮内注射。皮内に薬液を注入する注射法。皮内は血管に乏しく吸収が遅いので薬効が長く持続するところから，ツベルクリン反応やワクチン注射のように疾病診断や予防の際に用いられる。
+ID　intradermal test　皮内反応
+ID　intrinsicoid deflection　近接様効果。興奮伝達時間（VAT）
+ID50　medium infective dose　半数感染量
+IDA　iminodiacetic acid　イミノ二酢酸
+IDA　iron deficiency anemia　鉄欠乏性貧血
+IDC　invasive ductal carcinoma　浸潤性乳管癌
+IDDM　insulin dependent diabetes mellitus　インスリン依存性糖尿病，［反対語］NIDDM(非インスリン依存性糖尿病)
+iden　identification　同定，識別
+IDET　intradiscal electrothermal therapy　椎間板内高周波熱凝固法
+IDH　isocitrate dehydrogenase　イソクエン酸脱水素酵素\u000021e8ICD，ICDH
+IDL　intermediate (density) lipoprotein　中間比重リポ蛋白，中間密度リポ蛋白質
+IDL test　intensity difference limen test　音の強さの弁別閾値検査
+IDM　idiopathic disease of myocardium　特発性心筋疾患
+IDM　indomethacin　インドメタシン（消炎鎮痛剤）
+IDM　infant of diabetic mother　糖尿病母体からの出生児
+ID-MS　isotope dilution mass spectrometry　同位元素希釈質量分析計
+I-DNA　informational DNA　情報DNA
+IDP　idiopathic thrombocytopenic purpura（＝ITP）　特発性血小板減少性紫斑病
+IDP　inosine diphosphate　二リン酸イノシン
+IDP　intervertebral disc protrusion　椎間板ヘルニア
+IDR　idarubicin hydrochloride　塩酸イダルビシン（抗悪性腫瘍薬）
+IDR　intradermal reaction　皮内反応。特定の抗原を皮内注射して皮膚の反応を調べる検査。その抗原に対して免疫が成立している場合，抗原に対する抗体が産生され，皮膚に反応が認められる。アレルギー性疾患の原因や感染症の原因菌などの検索および臨床診断に応用する。結核菌感染の有無を調べるツベルクリン反応などが代表的なものである。
+id reaction　イド反応。自家感作性皮膚炎の病因と考えられる，一種の内在性アレルギー性反応
+IDS　immunodeficiency syndrome　免疫不全症候群。T細胞免疫不全症候群，B細胞免疫不全症候群，複合免疫不全症候群に分けられる。
+IDS　interval debulking surgery　再度腫瘍減量手術
+IDT　intradermal test　皮内テスト
+IDU　5-iodo-2′-deoxyuridine　ヨードデオキシウリジン
+IdU　idoxuridine　イドクスウリジン
+IDUS　intraductal ultrasonography　管腔内超音波法
+IDV　indinavir　インジナビル（抗HIV薬）
+IDV　intermittent demand ventilation　間欠性強制換気
+IE　immunoelectrophoresis test　免疫電気泳動試験。血液の蛋白に電気を通して細かく分離し（電気泳動法），血清蛋白質の組成を分析する検査法。電気泳動で分離した各蛋白質に，抗体を含んだ抗血清を加えると，抗原抗体反応を起こして培地上に線を描く（沈降線）。この線の形や蛋白質の移動距離や大きさなどから，個々の成分の同定と濃度を推測することができる。免疫グロブリン異常症，M蛋白血症などの診断に用いられる。
+IE　infectious endocarditis　感染性心内膜炎
+IE　initial echo　初発エコー
+I/E　inspiration time/expiration time ratio　吸気相・呼気相時間比
+IEA　inferior epigastric artery　下腹壁動脈
+IEA　intravascular erythrocyte aggregation　血管内赤血球凝集
+IEC　injection electrode catheter　注射電極カテーテル
+IEC　intraepithelial carcinoma　上皮内癌
+IEC　ion exchange chromatography　イオン交換クロマトグラフィー
+IED　individual effective dose　個別有効量
+IEF　immune enhancing enteral formula　免疫賦活経腸栄養剤
+IEF　isoelectrofocusing electrophoresis　等電点電気泳動
+IEI　idiopathic environmental intolerances　本態性環境不耐性状態
+IEL　intraepithelial lymphocyte　上皮内リンパ球
+IEM　immuno-electronmicroscopy　免疫電子顕微鏡法
+IEP☆　immunoelectrophoresis　免疫電気泳動
+IES-R　Impact of Event Scale Revised　改訂版出来事インパクト尺度。PTSDのハイリスク者をスクリーニングするための自記式質問紙
+IETS　inelastic electron tunneling spectroscopy　非弾性電子トンネリング分光法
+If　funny inward current　奇異性内向き電流
+IF　immunofluorescence assay　免疫蛍光測定(法)
+IF　inhibiting factor　抑制因子
+IF　initiation factor　イニシエーション因子，開始因子
+IF　interferon　インターフェロン
+IF　intermediate filament　中間糸状体
+IF　intimal flap　剥離内膜
+IF　intrinsic factor　内因子
+IF　involved field　併発部
+IFA　immmunofluorescence assay　免疫蛍光測定法（蛍光抗体法または蛍光抗原法）
+IFA　incomplete Freund’s adjuvant　不完全フロイントアジュバント
+IFA　indirect fluorescent antibody method　間接蛍光抗体法
+IFA　inflammatory factor for anaphylaxis　アナフィラキシーの炎症因子
+IFA　intrinsic factor antibody　内因子抗体
+IFAT　indirect fluorescent antibody test（＝IFA）　間接蛍光抗体試験
+IFC　interferential current　干渉電流
+IFCPC　International Federation of Cervical Pathology and Colposcopy　コルポスコピー所見分類
+IFL　5-FU，LV，CPT-11　5-FUの急速注入＋ロイコボリン＋イリノテカン。癌化学療法の一つ
+IFM　ifosfamide　イホスファミド（抗悪性腫瘍薬）
+IFMA　immunofluorometric assay　イムノフルオロメトリックアッセイ
+IFN　interferon　インターフェロン（肝疾患治療薬）。生体の防衛機構因子。ウイルス感染や増殖を阻害する抗ウイルス作用をもっている。そのほかにも抗細胞増殖作用，免疫作用の制御などがあり，これらの作用を利用して，B型・C型のウイルス性肝炎や癌の治療にも用いられる。
+IFNα　interferon alfa　インターフェロンアルファ
+IFNα-2a　interferon alfa-2a　インターフェロンアルファ-2a
+IFNα-2b　interferon alfa-2b　インターフェロンアルファ-2b
+IFNαCon-1　interferon alfacon-1　インターフェロンアルファコン-1
+IFNβ　interferon beta　インターフェロンベータ
+IFNγ-1a　interferon gamma-1a　インターフェロンγ-1a（抗悪性腫瘍薬）
+IFNγ-n1　interferon gamma-n1　インターフェロンγ-n1（抗悪性腫瘍薬）
+IFO　ifosfamide　イホスファミド
+IFP　inflammatory fibroid polyp　炎症性線維性ポリープ
+IFT　immunofluorescent technique　免疫蛍光法
+IFTT　intravenous fat tolerance test　経静脈性脂肪負荷テスト
+IFX　infliximab　インフリキシマブ
+IG　icterogen　黄疸発生物
+Ig　immunoglobulin　免疫グロブリン。免疫グロブリンとは，血清の蛋白，特にγ—グロブリンという物質の中に大部分が含まれており，IgM，IgG，IgA，IgD，IgEの５種類が存在している。これらの物質を測定することによって，炎症性の疾患を診断することができる。骨髄腫，マクログロブリン血症，感染性疾患，肝硬変などの診断に用いられる。
+IgA　immunoglobulin A　免疫グロブリンA。IgGに次ぎ高濃度で血中に存在し，２つのサブクラスに分類される。唾液，涙液，鼻汁，気道粘液，消化管分泌液，乳汁などに高濃度に含まれ，粘膜面での局所免疫に関与する。
+IgANP　IgA nephropathy　IgA腎症
+IgA-SC　immunoglobulin A secreting cell　免疫グロブリンA分泌細胞
+IGCCC　International germ cell cancer consensus classification　国際胚細胞腫瘍予後分類
+IgD　immunoglobulin D　免疫グロブリンD。Bリンパ球の膜表面に多く存在し，上気道感染の防衛に重要な働きをしていると考えられている。血清IgDの測定は，IgD型骨髄腫や原因不明の発熱を伴う高IgD血症に用いられる。
+IgE　immunoglobulin E　免疫グロブリンE。Ⅰ型アレルギーに関与し，アレルギー体質の診断，経過観察の目的で総量が測定される。
+IGF　insulin-like growth factor　インスリン様成長因子
+IGFBP　insulin-like growth factor-binding protein　インスリン様成長因子結合蛋白質
+IgG　immunoglobulin G　免疫グロブリンG。血中に最も多く存在し，胎盤透過性をもつ免疫グロブリン。４つのサブクラスに分類される。免疫不全症，感染症，腫瘍，自己免疫性疾患など抗体を産生する疾患の観察のため測定され，免疫比濁法が用いられる。
+IgG-R　immunoglobulin G receptor　免疫グロブリンG受容体
+IgG-SC　immunoglobulin G secreting cell　免疫グロブリンG分泌細胞
+IgG-STS　short-term sensitizing immunoglobulin G antibody　短期感作免疫グロブリンG抗体
+IGHD　isolated growth hormone deficiency　成長ホルモン単独欠損症
+IGIF　interferon-γ inducible factor　インターフェロンγ誘発性因子
+IgM　immunoglobulin M　免疫グロブリンM。最大の分子量をもち，B細胞の分化や抗体産生，アポトーシスなどの免疫系に関与する。感染症で最も早期に産生されるが，IgGなどの抗体が作られる時期には低下する。
+IGM　intraglomerular mesangium　糸球体メサンギウム細胞
+IgM-HA抗体　IgM-hepatitis A virus antibody
+IgM-HBc抗体　IgM-hepatitis B core antibody
+IgM-SC　immunoglobulin M secreting cell　免疫グロブリンM分泌細胞
+IGRT　image-guided radiation therapy　画像誘導下放射線治療
+IGS　intramural glomerulosclerosis　壁内糸球体硬化症
+IGSS　immunogold-silver staining method　免疫性金銀染色法
+IGT　impaired glucose tolerance　耐糖能障害，糖尿病予備軍である境界型
+IGTT　intravenous glucose tolerance test　静脈内ブドウ糖負荷試験
+IH　immediate-type hypersensitivity　即時型過敏反応。Ⅰ型アレルギー反応。抗原が体内に入ると，すぐに浮腫，掻痒，発疹等の症状が起こる。
+IH　industrial hygienist　労働衛生専門家
+IH　infectious hepatitis　流行性肝炎
+IH　intermittent heparinization　間欠性ヘパリン化
+IH　intracerebral hematoma　脳内血腫
+IH　intracranial hematoma　頭蓋内血腫
+IH　intramural hematoma　壁内血\_c07717
+IHA　idiopathic hyperaldosteronism　特発性アルドステロン症
+IHA　implantable hearing aid　植込み型補聴器
+IHA　indirect hemagglutination　間接赤血球凝集法
+IHA　infusion hepatic angiography　注入肝血管造影
+IHBD　intrahepatic biliary duct　肝内胆管
+IHC　immunohistochemistry　免疫組織化学的方法
+IHD　ischemic heart disease　虚血性心疾患。冠動脈（性心）疾患，冠動脈硬化性心疾患，動脈硬化性心疾患ともいう。冠血流の供給と心筋の血液需要との間に生ずるアンバランスの結果発生する心筋障害。狭心症，心筋梗塞，無症状性虚血性心疾患などに分類される。
+IHE　Integrating the Healthcare Enterprise　医療連携のための情報統合化プロジェクト
+IHF　immune hydrops fetalis　免疫性胎児水腫
+IHMS　isoniazid sodium methanesulfonate　イソニアジドメタンスルホン酸ナトリウム（抗結核薬）
+IHP　idiopathic hypoparathyroidism　特発性上皮小体機能低下症
+IHR　International Health Regulation　国際保健規則
+IHR　intrinsic heart rate　固有心拍数
+IHS　implant heating system　組織内埋込み式加温方式
+IHS　independent hemopathic syndrome　独立血液疾患症候群
+131IHSA　iodinated human serum albumin　放射性ヨウ素標識ヒト血清アルブミン
+IHSS　idiopathic hypertrophic subaortic stenosis　特発肥大性大動脈弁下部狭窄
+IHT　insulin-induced hypoglycemia test　インスリン低血糖試験
+II　icterus index　黄疸指数。同義語：MG(モイレングラハト)
+II　image intensifier　蛍光像増倍管
+II　insulinogenic index　インスリノゲニック・インデックス
+I.I.　insulinogenic index　インスリンインデックス
+IIA　internal liliac artery　内腸骨動脈
+IIC　ion interaction chromatography　イオン干渉クロマトグラフィー
+IICA　intracranial internal carotid artery　頭蓋内内頸動脈
+IIDR　image intensifier digital radiography　蛍光倍増音信号デジタル化診断用X線装置
+IIEF　International Index of Erectile Function　国際勃起機能スコア
+IIF　idiopathic interstitial fibrosis　特発性間質性肺線維症
+IIF　indirect immunofluorescence　間接蛍光抗体
+I，Inj　injection　注射(液)\u000021e8Inf
+IIP　idiopathic interstitial pneumonia　特発性間質性肺炎
+IIR　ion interaction reagent　イオン干渉試薬，イオン相互作用試薬
+IIT　intensive insulin therapy　強化インスリン療法。インスリンの頻回注射またはインスリン持続皮下注入療法に血糖自己測定を併用し，医師の指示に従いながら患者自ら調整し良好な血糖コントロールを目指す治療法。
+I-IVH　intermittent intravenous hyperalimentation　周期的経静脈高カロリー輸液
+IIVP　intensive intravenous pyelography　強化経静脈性腎盂造影撮影法。点滴静脈内腎盂撮影（DIP），遅延撮影法，倍量撮影法，大量造影剤使用撮影法，急速連続静注式腎盂撮影法（RSIVP）などがある。
+IJP　inhibitory junction potential　抑制性接合部電位
+IK　interstitial keratitis　間質性角膜炎
+IL　independent living　自立生活
+IL　interleukin　インターロイキン。免疫反応を司るリンパ球の増殖や分裂を誘導する因子。
+IL　intralaminar thalamic nucleus　髄板内核《視床の》
+IL　intralumbar　腰椎内の
+IL-1　interleukin-1　インターロイキン1
+IL-1R　interleukin-1 receptor　インターロイキン１受容体
+IL-1RA　interleukin-1 receptor antagonist　インターロイキン１受容体アンタゴニスト
+IL-2　interleukin-2　インターロイキン2
+IL-2R精密　interleukin 2 receptor　インターロイキン２受容体精密測定。インターロイキン２受容体とはリンパ球表面に発現するレセプター蛋白で，免疫機構の活性化に関与している。自己免疫疾患，川崎病，ウイルス疾患，白血病などで上昇し，病態の活動性を示す指標ともされている。
+IL-3　interleukin-3　インターロイキン3。造血増殖因子hematopoietic growth factorと同じ。\u000021e8HPGF
+ILA　insulin like activity　インスリン様活性
+ILAS　insulin like activity substance　インスリン様活性物質
+ILBBB　incomplete left bundle branch block　不完全左脚ブロック
+ILC　ichthyosis linearis circumflexa　曲折線状魚鱗癬
+ILC　invasive lobular carcinoma　浸潤性小葉癌
+ILCP　interstitial laser coagulation of prostate　前立腺組織内レーザー凝固法
+ILD　induced labyrinthine deviation　誘発迷路性偏倚。平衡機能検査
+ILD　interaural latency difference　両耳間潜時差
+ILD　interstitial lung disease　間質性肺疾患。肺胞壁（間質）に炎症が起きる疾患群の総称
+ILDL　intermediate low density lipoprotein　中間比重リポ蛋白
+Ile　isoleucine　イソロイシン
+IL-TIF　interleukin-10-related T-cell-derived inducible factor　インターロイキン10関連T細胞由来誘導因子
+ILV　induced leukemia virus　誘発白血病ウイルス
+ILVEN　inflammatory linear verrucous epidermal nevus　炎症性線状疣贅状表皮母斑
+im　immature　未熟な，未分化の
+IM　indomethacin　インドメタシン(インダシン，インテバン，メゾリン，イドメシン)，アリール酢酸系(非ステロイド)抗炎症薬
+IM　infectious mononucleosis　伝染性単核症
+IM　intermediate position　中間位
+IM　internal margin　体内マージン
+IM　internal medicine　内科，内科学
+im　intramural metastasis　壁内転移
+im　intramuscular　筋肉内の
+IM　intramuscular injection　筋肉内注射。薬剤を筋肉内に注射すること。薬液の吸収の速さは皮下注射の約２倍。刺激，疼痛の強いものに対して，あるいは油性の薬剤や吸収の悪いものが筋肉注射に適用される。通常，臀部（中臀筋），上腕（三角筋）などに注射することが多い。
+Im　middle intrathoracic esophagus　胸部中部食道
+IMA　inferior mesenteric artery　下腸間膜動脈
+IMA　internal mammary artery　内乳動脈
+IMA　intestinal mucous antigen　腸粘液抗原
+131I-MAA　131I-macroaggregated albumin　131I-標識大凝集アルブミン
+IMAO　inhibitor monoaminooxydase　モノアミンオキシダーゼ拮抗剤
+IMB　intermenstrual bleeding　月経間出血，月経期外出血
+IMC　interdigestive migrating contraction　消化管間欠伝播性収縮
+IMD　idiopathic myocardial disease　特発性心筋症，原発性心筋症
+IME　increased marking emphysema　肺紋理増強型肺気腫
+IMF　idiopathic myelofibrosis　特発性骨髄線維症
+IMF　intermaxillary fixation　上顎骨間固定
+IMG　idiopathic monoclonal gammopathy　特発性モノクローナル免疫グロブリン異常症
+IMG　inferior mesenteric ganglion　下腸間膜神経節
+IMH test　indirect microhemagglutination test　間接ミクロ血球凝集試験
+i.m.，im　intramuscular　筋肉内
+IM，IMV　inferior mesenteric vein　下腸間膜静脈
+imm　immune　免疫された。immunity　免疫，免疫性。immunological　免疫の
+imp☆　印象採得（歯)
+IMP　123I-isopropyl amphetamine　イソプロピル・アンフェタミン（脳シンチグラフィー用薬剤）
+IMP　imipramine　イミプラミン（抗うつ剤）
+IMP　inferior mesenteric plexus　下腸間膜動脈神経叢
+IMP　inosine monophosphate　イノシン酸一リン酸
+IMP　iodoamphetamine　ヨードアンフェタミン。脳循環測定に使用
+IMPO　immunoperoxidase　免疫過酸化酵素
+IMR　individual medical record　個人の病歴
+IMR　infant mortality rate　乳児死亡率
+IMRT　intensity modulated radiation therapy　強度変調放射線治療
+IMT　intima-media thickness　頸動脈内膜中膜肥厚度
+IMV　intermittent mandatory ventilation　間欠的強制(補助)換気\u000021e8IPPB
+in　insulin　インスリン。生理的に膵臓より分泌され血糖を低下させるホルモン。作用はブドウ糖，アミノ酸，カリウムを骨格筋に取り込み，肝臓の糖新生の抑制，脂肪の合成促進分解抑制など，概説的にはエネルギーの貯蔵を促進し異化を抑制する。糖尿病はインスリンの欠乏または作用不全によるもので，糖尿病の治療薬として使われる。
+INAA　instrumental neutron activation analysis　機器中性子放射化分析法
+INAD　infantile neuroaxonal dystrophy　乳児神経軸索ジストロフィー
+inc　increase　増加する
+IncB　inclusion body（＝IB）　封入体
+incr　increment　増大，増加
+in d.　in die［ラ］　毎日（処）
+indo，IND　indomethacin　インドメタシン（消炎鎮痛剤）
+inf　infant　幼児
+inf　infection　感染
+inf　inferior　下方の
+INF　infiltration　浸潤
+Inf　infusion　注入，注射
+infect　infection　感染
+Inf，inflamm　inflammatory changes　炎症
+Inf. PS　infundibular pulmonary stenosis　漏斗部肺動脈狭窄
+inft　infant　幼児，幼児の
+INH☆　isoniazid　イソニアジド，アイナー(イスコチン\u000000ae，スミフォン\u000000ae)。抗結核薬
+INHG　isonicotinyl hydrazone glucuronic acid　グルクロン酸イソニコチン酸ヒドラジド（結核治療薬）
+Inh，inhal　inhalation　吸入。ネブライザー。薬剤を霧状にして鼻や咽喉で吸入させる療法
+INI　intranuclear inclusion body　核内封入体
+inj　injure　傷害する。injury　傷害
+inj.，Inj　injection　注射
+INLH　intestinal nodular lymphoid hyperplasia　腸管結節性リンパ過形成
+INMS　natrium isoniazid-methasulfonate　イソニアジドメタスルホン酸ナトリウム（結核治療薬）
+INN　infectious nephronephritis　炎症性ネフローゼ腎炎。腎症候性出血熱（HFRS）に属する疾患
+Ino　inosine　イノシン
+Ino　inositol　イノシトール
+INO　internuclear ophthalmoplegia　核間性眼筋麻痺，内側縦束症状群，MLF症候群，失調性眼振。脳内の内側縦束の病変で見られ，患側眼の内転制限などが起こる。
+inoc　inocculated　接種した。inocculation　接種
+INOH　instantaneous orthostatic hypotension　起立直後性低血圧
+inop　inoperable　手術できない
+INP　intracellular negative potential　細胞間陰性電位
+INPB　intermittent negative pressure breathing　間欠的陰圧呼吸法
+iNPH　idiopathic normal pressure hydrocephalus　特発性正常圧水頭症
+INPRONS　information processing in central nervous system　中枢神経系の情報伝達
+INPV　intermittent negative pressure ventilation　間欠的陰圧換気\u000021e8INPB
+INR　international normalized ratio　国際標準化プロトロンビン比
+INS　idiopathic nephrotic syndrome　特発性ネフローゼ症候群，原発性ネフローゼ症候群，一次性ネフローゼ症候群
+INS　information network system　高度情報通信ネットワークシステム
+Ins☆　insulin injection　インスリン注射液。インスリン製剤は，糖質代謝や蛋白合成を促進し，糖質を脂肪化するなどの作用がある膵ホルモン製剤。糖尿病の薬物治療法として，経口血糖下降剤とともに重要である。膵臓のインスリン分泌不全あるいは作用不全によって脂質や蛋白などの代謝障害を起こした糖尿病患者に投与される。
+InsP　inositol phosphate　イノシトールリン酸。イノシン酸
+Insp　inspiration　吸気
+int.cib.　inter cibos［ラ］　食間に（処）
+int.noct.　inter noctem［ラ］　夜間に（処）
+intox　intoxicant　麻薬。intoxication　中毒
+in ut　in utero　子宮内で
+invagi　invagination　腸重積症，重積症
+in viv　in vivo［ラ］　生体内で
+IO　inferior oblique muscle　下斜筋
+IO　intraocular　眼球内の
+IOCT　intraoral cone therapy　口腔内照射筒治療
+IOFB　intra-ocular foreign body　眼球内異物
+IOH　idiopathic orthostatic hypotension　特発性起立性低血圧症
+IOHS　idiopathic orthostatic hypotension syndrome　特発性起立性低血圧症候群
+IOI　intraosseous infusion　骨髄内投与
+IOIBD　International Organization for the study of Inflammatory Bowel Disease　クローン病の活動性評価法の一つ
+IOL　intraocular lens　眼内レンズ。人工水晶体。水晶体嚢内あるいは嚢外摘出術後，眼内に入れるレンズ。支持方式によって，前房レンズ，虹彩支持レンズ，後房レンズに分けられるが，後房レンズが主流である。
+ION　idiopathic osteonecrosis of femoral head　特発性大\_c07728骨頭壊死症
+ION　ischemic optic neuropathy　虚血性視神経症
+IOOA　inferior oblique muscle overaction　下斜筋過動症
+IOP　intraocular pressure　眼(内)圧
+IORT　intraoperative irradiation therapy　術中照射法。全身麻酔の開腹下で，正常組織を避けて病巣部のみに直接放射線を照射する治療法。
+IP　immuno-peroxidase reaction　免疫ペルオキシダーゼ反応
+IP　infection prevention　感染予防
+IP　inorganic phosphorus　無機リン
+IP　inositol phosphate　イノシトールリン酸
+IP　intercuspal position　咬頭嵌合位
+IP　International Pharmacop(o)eia　国際薬局方
+IP　internus paresis　内筋麻痺
+IP　interstitial pneumonitis　間質性肺炎
+IP　intraperitoneal injection　腹腔内注射
+IP　intravenous pyelography　経静脈性腎盂造影(法)
+IP　isoproterenol（＝IPR）　イソプロテレノール。イソプロピルノルアドレナリン
+IPA　incontinentia pigmenti achromians　色素欠乏性色素失調症
+IPA　indirect immunoperoxidase assay　間接免疫ペルオキシダーゼ法
+IPA　isopropylarterenol　イソプロピルアルテレノール
+IPABPC　isopropyliden-aminobenzyl penicillin　ヘタシリン
+IPCD　infantile polycystic disease　幼児型嚢胞腎
+IPD　immediate pigment darkening　一次黒化
+IPD　intermittent peritoneal dialysis　間欠的腹膜透析
+IPDA　inferior pancreaticoduodenal artery　下膵十二指腸動脈
+IPE　interstitial pulmonary emphysema　間質性肺気腫
+IPF　idiopathic pulmonary fibrosis　特発性肺線維症
+IPF　interstitial pulmonary fibrosis　間質性肺線維症
+IPH　idiopathic portal hypertension　特発性門脈圧亢進症
+IPH　idiopathic pulmonary hemosiderosis　特発性肺ヘモジデリン沈着症
+IPI　International Prognostic Index　国際予後予測因子
+IP，ip，i.p.　intraperitoneal　腹腔内(の)
+IPJ　interphalangeal joint　指節間関節
+IPL　idiopathic plasmacytic lymphadenopathy　特発性プラスマ細胞リンパ節腫脹
+IPL　intense pulsed light　光線療法の一つ
+IPM　impulsive-petit-mal　無動小発作
+IPM/CS　imipenem/cilastatin sodium　イミペネム・シラスタチンナトリウム（抗菌薬）
+IPMN　intraductal papillary mucinous neoplasm　膵管内乳頭粘液性新生物
+IPMT　intraductal papillary mucinous tumor　膵管内乳頭粘液性腫瘍
+IPNA　isopropyl-noradrenaline　イソプロピルノルアドレナリン（気管支喘息治療剤）
+IPNPB　intermittent positive negative pressure breathing　間欠的陽陰圧呼吸法
+IPNV　intermittent positive negative pressure ventilation　間欠的陽陰圧換気
+IPO　intrahepatic portal vein obstruction　肝内門脈閉塞症
+IPP　intrapleural pressure　胸膜内圧
+IPPA　inspection, palpation, percussion, auscultation　視診，触診，打診，聴診
+IPPB　intermittent positive pressure breathing　間欠的陽圧呼吸
+IPPR　intermittent positive pressure respiration　間欠的陽圧呼吸
+IPPV　intermittent positive pressure ventilation　間欠的陽圧換気
+IPR　isoproterenol（＝IP）　イソプロテレノール。イソプロピルノルアドレナリン
+IPS　idiopathic postprandial syndrome　特発性食餌後症候群
+iPS　induced pluripotent stem cells　人工多能性幹細胞
+IPS　isoprinosine　イソプリノシン
+IPSID　immunoproliferative small intestinal disease　リンパ増殖性小腸疾患，免疫細胞増殖性小腸病
+IPSP　inhibitory postsynaptic potential　抑制性シナプス後電位
+I-PSS　International Prostate Symptom Score　国際前立腺症状スコア
+IPT　inflammatory pseudotumor　炎症性偽腫瘍
+IPTD　2-(p-aminobenzensulfamido-) 5-isopropylthiadiazole　2-（パラアミノベンゼンスルファミド-）5-イソプロピルチアジアゾール
+IPTG　isopropyl 1-thio-β-D-galactoside　イソプロピル-β-チオガラクトシド
+IPV　immunoreactive polymyelitis vaccine　免疫反応性多発脊髄炎ワクチン
+IPV　inactivated poliovirus vaccine　不活化ポリオワクチン。注射不活化ポリオワクチン
+IPV　infectious pustular vaginitis　感染性膿疱性腟炎
+IPV　infectious pustular vulvovaginitis　感染性膿疱性外陰腟炎
+131I-PVP test　131I-polyvinylpyrrolidone test　131I-標識ポリビニルピロリドン試験
+IPZ　insulin/protamine-zinc　インスリン・プロタミン亜鉛
+IQ　intelligence quotient　知能指数
+IQC　internal quality control　内部精度管理
+Ir　immune response　免疫応答
+IR　infantile Refsum\u000002bcs disease　小児レフサム病（家族性失調性多発神経炎）
+IR　inferior rectus muscle　下直筋
+IR　information retrieval　情報検索
+IR　infrared　赤外線
+IR　infrared absorption spectrometry　赤外吸収分光分析法
+IR　innerrotation　内旋
+IR　inspiratory reserve　補気
+IR　insulin receptor　インスリン受容体
+IR　insulin requirement　インスリン必要量
+IR　inversion recovery　反転回復法
+Ir-192　iridium 192　イリジウム192
+IRA　ileo-rectal anastomosis　回腸直腸管吻合
+IRA　inferior rectal artery　下直腸動脈
+IRA　infrared A　短波長赤外線
+131I-RB　131I-Rose Bengal　131I-ローズベンガル
+IRB　infrared B　中波長赤外線
+IRB　institutional review board　臨床試験審査委員会，医薬品等臨床研究審査委員会
+IRB　internal review board　倫理審査委員会
+IRBBB　incomplete right bundle branch block　不完全右脚ブロック
+IRC　infrared C　長波長赤外線
+IRC　intensive respiratory care　集中呼吸管理
+IRCU　intensive respiratory care unit　呼吸器疾患集中治療部
+IRD　idiopathic respiratory disease　特発性呼吸器疾患
+IRD　ischemic renal disease　虚血性腎症
+IRDA　intermittent rhythmic delta activity　間欠律動性デルタ活動
+IRDNI　idiopathic respiratory distress of the newborn infant　特発性新生児呼吸障害
+IRDS　idiopathic respiratory distress syndrome　特発性呼吸窮迫症候群
+IRDS　infantile (neonatal) respiratory distress syndrome　新生児呼吸窮迫症候群，新生児呼吸促迫症候群
+IRE　immunoreactive elastase　免疫反応性エラスターゼ
+IRE　inhibitor resistant esterase　抑制物質抵抗エステラーゼ
+IRE　insulin responsive element　インスリン反応性要素
+IRES　internal ribosomal entry site　内部リボソーム進入シグナル
+IRF　interferon regulatory factor　インターフェロン制御因子，インターフェロン転写調節因子
+IRG　immunoreactive glucagon　免疫反応性グルカゴン
+IRH　intraretinal hemorrhage　網膜内出血
+IRI　immunoreactive insulin　免疫反応性インスリン
+△IRI/△BS　immunoreactive insulin/blood sugar insulinogenic index　インスリン原性指数。血糖（BS）上昇量に対する血中免疫反応性インスリン（IRI）上昇量の割合
+IRM　immunoreactive motilin　免疫反応性モチリン。消化管ホルモン
+IRMA　immunoradiometric assay　免疫放射定量測定法
+IRMA　intraretinal microvascular angiopathy　網膜内毛細血管異常
+iRNA　immunogenic ribonuclear acid　免疫原性リボ核酸
+iRNA　informational ribonuclear acid　情報伝達リボ核酸
+IRP　immunoreactive proinsulin　免疫反応性プロインスリン
+IRP　immunoreactive prolactin　免疫反応性プロラクチン
+IRPTH　immunoreactive parathyroid hormone　免疫反応性上皮小体ホルモン
+IRR　intrarenal reflux　腎盂内逆流
+irrig　irrigation　灌注，洗浄
+IRS　immunoreactive somatostatin　免疫反応性ソマトスタチン。成長ホルモン放出抑制因子
+IRS-1　insulin receptor substrate-1　インスリン受容体基質-1
+IRS-2　insulin receptor substrate-2　インスリン受容体基質-2
+IRSA　idiopathic refractory sideroblastic anemia　本態性不応性鉄芽球性貧血
+IRT　immunological reactive tryosinogen　免疫反応性トリオシノーゲン
+IRT　immunoreactive trypsin　免疫反応性トリプシン
+IRT　isovolumetric relaxation time　等容性弛緩期
+IRV　inspiratory reserve volume　予備吸気量
+IRV　inverse-ratio ventilation　逆比換気
+IS☆　吸入鎮静法(歯)
+IS　idiopathic scoliosis　特発性側彎症
+IS　immune suppression　免疫抑制
+IS　incentive spirometry　刺激的肺活量測定法
+IS　intercostal space（＝ICS）　肋間腔
+IS　internal standard　内部標準物質
+IS　ischemic score　虚血スコア。Hachinskiによる認知症に関する評価尺度
+IS　subcutaneous injection　皮下注射\u000021e8sci
+ISA　intrinsic sympathomimetic activity　内因性交感神経刺激作用
+ISC　interstitial cells（＝IC）　間質細胞
+ISC　irreversible sickle cells　不可逆性鎌状赤血球
+ISDN　isosorbide dinitrate　硝酸イソソルビド（徐放型のニトログリセリン，肺水腫に用いる血管拡張剤）
+ISE　inhibitor sensitive esterase　抑制物質感受性エステル分解酵素
+ISF　interstitial fluid　間質液
+ISG　immune serum globulin　免疫血清グロブリン
+ISH　icteric serum hepatitis　黄疸性血清肝炎
+ISH　in situ hybridization　組織内交雑。放射線標識RNAプローブによって組織内を調べる方法
+ISH　intrasellar subarachinoidal herniation　トルコ鞍内くも膜下腔嵌入
+ISH　isolated systolic hypertension　孤立性収縮期高血圧
+ISI　insulin sensitivity index　インスリン感受性指数
+ISI　International Sensitivity Index　国際感受性指数
+ISIS　image-selected in vivo spectroscopy　生体内画像選択分光器
+isl of Lan　islands of Langerhans　ランゲルハンス島，膵島
+ISMN　isosorbide 5-mononitrate　イソソルビド5-モノニトラート
+ISO　International Organization for Standardization　国際標準化機構
+ISO　isoproterenol　イソプロテレノール。気管支拡張剤や心刺激剤として使用
+isoamy　isoamylase　イソアミラーゼ
+ISP　distance between iliac spines　腸骨棘突起間距離
+isp　intraspinal　脊髄内の
+ISP　intrasplenic pressure　脾内圧
+ISP　isepamicin sulfate　硫酸イセパマイシン（抗菌薬）
+ISP　isoprenaline　イソプレナリン（イソプロテレノール，イソプロピルノルアドレナリン）
+ISR　inter scapular region　肩甲間部
+ISRE　interferon stimulated response element　インターフェロン刺激応答配列
+ISS　injury severity score　損傷重傷度スコア
+ISS　ion scattering spectroscopy　イオン散乱分光法
+ISSD　infantile sialic acid storage disease　乳児シアル酸蓄積病
+ISSVD　International Society for the Study of Vulva Disease　国際外陰疾患研究会
+IST　injection sclerotherapy　注入硬化療法
+IST　insulin secretion test　インスリン分泌試験
+IST　Insulinschocktherapie［独］　インスリンショック療法
+IST　isometric systolic tension　等尺性収縮張力
+I-sub　inhibitor substance　抑制物質
+ISW　interstitial water　間質液
+isy　intrasynovial　滑膜内
+IT　immunity test　免疫検査
+IT　inhalation test　吸入試験。気管支喘息の原因となるアレルゲンを判定する。
+IT　inhalation therapy　吸入療法。ネブライザー。薬剤を霧状にして鼻や咽喉で吸入させる療法
+IT　intertuberous　結節間の
+IT　intestinal type　腸型
+IT　intradermal test　皮内試験
+IT　intrathecal injection　髄腔内注射
+IT　isomeric transition　核異性体転位
+131I-T3RSU test　131I-triiodothyronine resin sponge uptake test (trisorb test)　131I-トリヨードサイロニンレジン摂取率テスト
+ITA　intratubal adhesion　管内癒着
+ITA-graft　internal thoracic artery graft　内胸動脈グラフト
+ITB療法　intrathecal baclofen　髄腔内バクロフェン投与療法
+ITCVD　ischemic thrombotic cerebrovascular disease　虚血性血栓性脳血管疾患
+ITCZ　itraconazole　イトラコナゾール（抗真菌薬）
+iter　iteretur［ラ］　反復せよ（処）
+ITh　intrathecal　髄鞘内の
+ITN　intra-tracheal narcosis　気管内麻痺
+ITP　idiopathic thrombocytopenic purpura　特発性血小板減少性紫斑病，自己免疫性血小板減少性紫斑病（ATP），ヴェルルホフ紫斑病と同義。明らかな原因疾患や薬物との接触が認められない後天性の血小板減少症
+ITP　immune thrombocytopenic purpura　免疫性血小板減少性紫斑病
+ITP　inosine triphosphate　イノシン三リン酸
+ITP　isotachophoresis　キャピラリー等速度電気泳動
+ITPA　Illinois test of psycholinguistic abilities　精神言語能力イリノイ検査，イリノイ言語学習能力診断検査
+ITT　insulin tolerance test　インスリン耐性テスト
+IU　immunizing unit　免疫単位
+Iu　upper intrathoracic esophagus　胸部上部食道
+IUC　idiopathic ulcerative colitis　特発性潰瘍性大腸炎
+IUD　intrauterine contraceptive device　子宮内避妊具，子宮内避妊器具
+IUD　intrauterine diaphragm　ペッサリー
+IUFD　intrauterine fetal death　子宮内胎児(芽)死亡
+IUGR　intrauterine growth retardation　子宮内胎児発育遅延
+IUI　intrauterine insemination　子宮内受精
+IU，iu.　international unit　国際単位
+IUP　intrauterine pregnancy　子宮内妊娠
+IUP　intrauterine pressure　子宮内圧
+IUP1　insulin upstream factor 1　ヒトのインスリン転写因子
+IUPAC　International Union of Pure and Applied Chemistry　国際純正および応用化学連合
+IUPD　intrauterine pregnancy delivered　子宮内妊娠分娩
+IUT　intrauterine transfusion　子宮内輸血
+IV　ichthyosis vulgaris［ラ］　尋常性魚鱗癬，優性遺伝性尋常性魚鱗癬
+IV　interventricular　心室間の
+IV　intervertebral　脊椎間の
+IV　intravenous injection　静脈内注射，静脈内投与，静注。薬液を静脈内に直接注射すること。長所は①薬の即効効果が期待できること，②注射部位への局所刺激や薬物の変化が少ないこと──など。短所は①作用時間が短いこと，②薬液がすぐに心臓部位に入るのでショック状態になりやすいこと，③薬物血中濃度が急激に上昇する危険があること，④血栓や溶血および感染の危険があること──など。
+iv　inverted　逆転した，転位した
+IVBAT　intravascular bronchoalveolar tumor　血管内気管支肺胞腫瘍
+IVC　inferior vena cava　下大静脈
+IVC　inspiratory vital capacity　吸気肺活量
+IVC　intravenous cholangiography　経静脈性胆管造影法
+IVC　intravenous cholecystography　経静脈胆嚢造影
+IVC　isovolumic contraction time　等容量収縮時間
+IVCD　interventricular conduction delay　心室内伝導遅延
+IVCS　intrapelvic venous congestion syndrome　骨盤内静脈うっ血症候群
+IVD，IV Drip　intravenous drip infusion　点滴静注，静脈内持続点滴法，持続静脈内注射，持続点滴注入法。経口摂取が困難な場合や，大手術後などで脱水症状が著しい場合に，水分や栄養剤，血液代用剤などの薬剤を長時間にわたり持続的に注入すること。注射針を静脈に固定して用い，体液バランスの変動を避けるため，点滴速度を一定に保つようにする。
+IVDSA　intravenous digital subtraction angiography　経静脈性デジタル・サブトラクション血管造影。腕の静脈等から造影剤を注入，心臓を通して目的の動脈に流れてきた時に撮影する方法。
+IVF　in vitro fertilization　体外授精
+IVF　interventricular foramen　脳室間孔
+IVF　intravascular fluid　血管内液。血管内の水分
+IVFB　intravascular foreign body　血管内異物
+IVFET　in vitro fertilization embryo transfer　体外授精-胚移植法
+IVGTT　intravenous glucose tolerance test　静脈内ブドウ糖負荷試験
+IVH　intravenous hyperalimentation　中心静脈栄養法
+IVH　intraventricular hemorrhage　脳室内出血
+IVI　intravariceal injection　静脈瘤内注入
+IVIg　intravenous immunoglobulin　免疫グロブリン大量静注
+IV，i.v.　intravenous　静脈内(の)
+IVJC　intervertebral joint complex　椎間関節複合
+IVL　intravascular lymphomatosis　血管内リンパ腫症
+IVM　involuntary movement　不随意運動
+IVP　intravenous pyelography　経静脈性腎盂造影(法)
+IVPB　intravenous piggyback　静脈用ピギーバック
+IVPFC　isovolume pressure-flow curve　等容量圧フロー曲線
+IVR　interventional radiology　インターベンショナル・ラジオロジー
+IVS　inter villous space　絨毛間隙
+IVS　intravenous cholangiography　静注胆道造影(法)
+IVS　intraventricular septum　心室中隔。心室を左右に分けている壁。室間孔の残りである前上方の膜性中隔と，心内膜床より発生する筋性中隔の２つの部分から構成されている。
+IVSA　interventricular septum anterior　心室中隔前部
+IVSD　intraventricular septal defect　心室中隔欠損
+IVST　interventricular septal thickness　心室中隔壁厚
+IVT　intravenous transfusion　静脈内輸液
+IVU　intravenous urography　経静脈性尿路造影(法)
+IVUS　intravascular ultrasound　血管内超音波（エコー）
+IW　induced wave　嗅球誘起脳波
+IZS　insulin zinc suspension　インスリン亜鉛懸濁液

@@ -1,0 +1,960 @@
+Ｍ
+M　malignant　悪性の
+M　mammillary body　乳頭体
+M　mania, Manie［独］　躁病
+M　mass　質量(kg，キログラム)
+M　mega　メガ(106)。接頭辞
+M☆　mental test　精神科系
+M　metastasis　転移，メタ
+M　micrococcus　ミクロコッカス属
+M　Microsporum　ミクロスポルム属
+M　middle third of the stomach　胃中1/3部
+m　milli-　ミリ(10-3)，接頭辞
+m　minute　分
+M　mitochondria（＝mit）　ミトコンドリア
+M　mole/l，molar　モル濃度の
+M　monocyte　単球。白血球の一種
+M　morphine　モルヒネ
+m　murmur　心雑音
+m　muscle　筋肉
+M　Mycobacterium（＝Myco）　マイコバクテリウム属
+M　Mycoplasma　マイコプラズマ
+M　Myelocyten［独］，myelocyte　骨髄球
+M　myopia　近視
+M0-1　metastasis　癌遠隔転移の有無（M0：なし，M1：あり）
+M1　mitral first sound　心尖部第１音
+M2　mitral second sound　心尖部第２音
+MA　macrophage activation　マクロファージ活性化
+MA　malabsorption　吸収不良
+MA　megaloblastic anemia　巨赤芽球性貧血
+MA　membrane antigen　膜抗原
+MA　mental age　精神年齢，知能年齢
+MA　mentor anterior　頤前方位（胎向）
+MA　microaneurysma　毛細血管瘤
+MA　mitral atresia　僧帽弁閉鎖症
+MA　monoamine　モノアミン
+MA　monoclonal antibody　モノクローナル抗体
+MA　Morax-Axenfeld diplococcus　モラックス・アクセンフェルド菌。慢性単純性結膜炎の病原菌
+MA　motor aphasia　運動失語
+MAA　macroaggregated albumin　大凝集アルブミン
+MAA　mercaptoalkylamine　メルカプトアルキルアミン
+M(A)AS　massive (amnion) aspiration syndrome　(羊水)過度吸引症候群
+MAB　maximum androgen blockade　MAB療法。LH-RHアゴニストと抗アンドロゲン薬を併用するホルモン療法の一つ
+mAb　monoclonal antibody　モノクローナル抗体
+MABP　mean arterial blood pressure　平均動脈血圧
+MAC　maximal acid concentration　最高酸濃度
+MAC　maximum acceptable(allowable) concentration　最大許容濃度
+MAC　membrane attack complex　膜侵襲複合体
+MAC　minimum alveolar concentration　最小肺胞濃度
+MAC　Mycobacterium avium complex　播種性マイコバクテリウム・アビウムコンプレックス症
+mAChR　muscarinic acetylcholine receptor　ムスカリン性アセチルコリン受容体
+MACIF　membrane attack complex inhibitory factor　膜侵襲複合体阻害因子
+MAD　maximum acceptance dose　最大許容（線）量
+MAD　methylandrostenediol　メチルアンドロステンジオール
+MADI　maximum acceptable daily intake　１日摂取許容量
+MADRS　Montgomery-Asberg depression rating scale　モントゴメリ・アスベルグうつ病評価尺度
+MADs　mind-altering drugs　精神変換薬
+MAE　methenolone enanthate　メテノロンエナント酸エステル
+MAF　macrophage aggregation factor　マクロファージ凝集因子
+MAF　macrophage-activating factor　マクロファージ活性化因子
+MAF　methotrexate, adriamycin, futraful　メソトレキセート，アドリアマイシン，フトラフール。癌化学療法の組み合わせの一つ
+MAG　menadione-linked α-glycerophosphate dehydrogenase　メナジオン結合αグリセロリン酸脱水素酵素
+MAG　myelin-associated glycoprotein　髄鞘構成糖蛋白質，ミエリン関連糖蛋白
+Mag. sul.　magnesia sulfuricum［ラ］　硫酸マグネシウム，硫苦。下剤として使用
+MAH　malignancy-associated hypercalcemia　悪性腫瘍随伴高カルシウム血症
+MAHA　microangiopathic hemolytic anemia　細血管障害性溶血性貧血
+MAIDS　mouse acquired immunodeficiency syndrome　マウス後天性免疫不全症候群
+MAL　mid-axillary line　中腋窩線
+malig　malignant　悪性の
+MALT　mucosa-associated lymphoid tissue　粘膜関連リンパ組織
+mal/tagl　マール・テークル［独］　１日何回（処)
+MALToma　mucosa-associated lymphoid tissue lymphoma　粘膜関連リンパ組織リンパ腫
+MAM　myopic astigmatism　近視性乱視
+Man　mannose　マンノース
+mand　mandible　下顎，下顎骨
+ManN　mannosamine　マンノサミン
+ManNAc　N-acetylmannosamine　N-アセチルマンノサミン
+MAO　maximal acid output　最高酸分泌量
+MAO　monoamine oxidase　マオー，モノアミンオキシダーゼ(モノアミン酸化酵素)検査
+MAO-A　monoamine oxidase A　モノアミン酸化酵素A型
+MAO-B　monoamine oxidase B　モノアミン酸化酵素B型
+MAOI　monoamine oxidase-inhibitor　モノアミン酸化酵素阻害剤。抗うつ剤として使用
+MAP　mandibular advancing positioner　下顎挙出器具。睡眠時無呼吸症候群治療用マウスピース
+MAP　mannitol-adenine-phosphate　MAP（赤血球浮遊液）添加濃厚赤血球
+MAP　mean airway pressure　平均気道内圧。呼吸周期で変動する気道内圧の平均値
+MAP　mean arterial pressure　平均動脈圧
+MAP　methamphetamine　メタンフェタミン。覚醒剤
+MAP　microtubule associated protein　微小管結合蛋白
+MAP　mitogen-activated protein　マイトジェン活性化蛋白質
+MAP　mitral annuloplasty　僧帽弁形成術
+MAP　monophasic action potential　単相活動電位
+MAP1C　microtubule-associated protein 1C　微小管結合蛋白質１C
+MAPCA　major aortopulmonary collateral artery　肺内肺動脈の起始異常，主要大動脈肺動脈側副血行路
+MAPKK　MAP kinase kinase　マイトジェン活性化蛋白質キナーゼキナーゼ
+MAPM　macroprolactinoma　プロラクチン産生下垂体腫瘍
+MAPS　make a picture story　絵画創作（性格テスト）
+MAR　bone marrow（＝BM）　骨髄。骨の内部にある腔（髄腔）と，骨端で網状に交錯する薄い骨板（海綿質）の小腔の中にある造血に関わる組織。新生児では，骨髄のほとんどは赤血球，白血球，血小板などの血球成分の元となる細胞からなり，年をとるにしたがって脂肪に置き換わっていく。椎骨，骨盤，胸骨などの骨の骨髄は，年をとっても比較的血球の元になる細胞が残っている。
+MAR　mixed agglutination reaction　混合凝集反応
+MAR　multifocal atrial rhythm　多源性心房頻拍
+MAR　multiple antibiotic resistance　多剤抗生物質抵抗型
+MAS　macrophage activation syndrome　マクロファージ活性化症候群
+MAS　malabsorption syndrome　吸収不良症候群
+MAS　manifest anxiety scale　顕在性不安尺度
+MAS　meconium aspiration syndrome　胎便吸引症候群
+MAS　mobile arm support　可動前腕支持具
+MAS　modified Ashworth Scale　アシュワーススケール変法。痙縮の評価法の一つ
+MAs　myopic astigmatism　近視複合乱視
+MASP　MBL-associated serine protease　MBL統合セリンプロテアーゼ
+MAST　military antishock trouser　ショックパンツ。両下肢と下腹部の３つの独立した部分からなる密着パンツ。足踏みポンプで下肢，下腹部の順に膨らませ加圧することで，①下半身の血液を上半身に送り脳や心臓など重要臓器への循環を確保する，②パンツで圧迫される部分を止血する，③骨折を固定する──といった効果が得られる。
+MAST　multiple antigen simultaneous test　アレルゲン試験，多項目抗原特異的IgE同時測定。アレルゲンとは，アレルギー素因のある人にアレルギー反応を引き起こす物質のこと。
+MAT　microscopic agglutination test　顕微鏡的凝固反応
+MAT　moderate antigenic tumor　中抗原腫瘍
+MAT　motor age test　運動年齢テスト
+MAT　multifocal atrial tachycardia　多源性心房頻拍
+matut.　matutinus［ラ］　朝に（処）
+max.　maximum　最大・最高，対語：min．(最小・最低)
+maxm　maximum　最大値
+max，maxill　maxilla　上顎，上顎骨
+MAY　Mayaro virus　マヤロウイルス
+MB　Mallory body　マロリー小体
+MB　metal bond　メタルボンド（歯）
+MB　methylbromide　臭化メチル（消化剤）
+MB　methylene blue　メチレンブルー，溶液指示薬
+Mb　myoglobin　ミオグロビン，筋肉内ヘム蛋白
+MBAS　methylene blue active substance　メチレンブルー活性物質
+MBC　maximum breathing capacity　最大換気量
+MBC　metastatic breast cancer　転移性乳癌
+MBC　methylbenzyl chloride　塩化メチルベンゾール
+MBC　minimal bacteriocidal concentration　最小殺菌濃度
+MBC　minute breathing capacity　毎分呼吸量\u000021e8MVV
+MBD　Marchiafava-Bignami disease　マルキアファーヴァ・ビニャミ病
+MBD　minimal brain damage　微細脳損傷
+MBD　minimal brain dysfunction　微細脳機能障害
+MBeA　methylbenzylamine　メチルベンジルアミン
+MBF　mesenteric blood flow　腸間膜血流
+MBF　myocardial blood flow　心筋血流量
+MBG　mean blood glucose　平均血糖値
+MBH　medial basal hypothalamus　腹内側視床下部
+MBL　mannose-binding lectin　マンノース結合レクチン
+MBL　mechanical basket lithotripsy　（胆石の）機械式砕石法
+MBL　menstrual blood loss　月経量
+Mbl　Myeloblasten［独］，myeloblast　骨髄芽球
+MBOCA　4,4'-methylenebis (2-chloroaniline)　4,4'-メチレンビス(2-クロロアニリン)
+MBP　mannan-binding protein　マンナン結合蛋白質
+MBP　mannose-binding protein　マンノース結合蛋白質
+MBP　mean blood pressure　平均血圧
+MBP　myelin basic protein　ミエリン塩基性蛋白質
+MBq　megabecquerel　メガベクレル（放射能の単位）
+MBRT　methylene blue reduction time　メチレンブルー退縮時間
+MBSA　methylated bovine serum albumin　メチル化ウシ血清アルブミン
+MBT　mild barbiturate therapy　緩和バルビツレート療法
+MBTI　Myers-Briggs type indicator　マイヤーズ・ブリックス分析。性格検査法の一つ
+MC　mast cell　肥満細胞
+MC　medullary carcinoma　髄様癌。癌細胞成分が多く，間質結合織が少ない癌腫。脳髄のような灰白色を示して，柔らかく，消化管，肝，肺，腎などに発生する。
+MC　melanocortin　メラノコルチン
+MC　Micrococcus　ミクロコッカス属
+MC　mineral corticoid　鉱質コルチコイド
+MC　minor change　小変化
+MC　mitomycin C（＝MMC，MTC）　マイトマイシンC（抗癌性抗生物質）
+MC　mitral closure sound　僧帽弁閉鎖音
+MC　mitral commissurotomy　僧帽弁交連切開術
+Mc　mitral valve closure　僧帽弁閉鎖
+MC　mixed cellularity　混合細胞型
+MC　molluscum countagiosum［ラ］　伝染性軟属腫
+MC　myasthenic crisis　筋無力症性急性悪化
+MC　myocutaneous flap　筋皮弁
+MCA　middle colic artery　中結腸動脈
+MCA　monoclonal antibody　モノクローナル抗体（単クローン抗体）。一つの抗体産生細胞からは１種類の抗体しか産生されないという性質を利用して作られた抗体で，分子標的治療薬として使われる。
+mca　mucous membrane carcinoma　粘膜層癌（胃癌の進行度分類）
+MCA　muricholic acid　ムリコール酸。胆汁酸の一種
+MCAF　monocyte chemotactic and activating factor　単球走化活性化因子
+MCA，McA　middle cerebral artery　中大脳動脈
+MCA/MR　multiple congenital anomalies/mental retardation　奇形症候群
+MCB　McBurney\u000002bcs point　マクバーニー点。虫垂炎診断の圧痛点
+MCB　membranous cytoplasmic body　膜様細胞質小体
+MCCU　mobile coronary care unit　移動式冠疾患集中治療室
+MCD　mean corpuscular diameter　平均赤血球直径
+MCD　medullary cystic disease　髄質嚢胞腎
+MCDK　multicystic dysplastic kidney　多嚢胞性異形成腎
+MCF　macrophage(monocyte) chemotactic factor　マクロファージ遊走因子，単球遊走因子
+MCF　mycoplasma fraction complement fixation test　マイコプラズマによる補体結合反応
+MCFG　micafungin sodium　ミカファンギンナトリウム（抗真菌薬）
+MCG　magnetocardiogram　心磁図
+MCG　mechanocardiography　心機図。心臓大血管の動きに基づく振動を体表面からとらえて記録する心機図によって行う検査。心尖拍動図・経動脈波・経静脈波の３種類がある。
+MCG　membrane coating granule　被膜顆粒
+MCGF　mast cell growth factor　肥満細胞増殖因子
+MCGN　mesangiocapillary glomerulonephritis　膜性増殖性糸球体腎炎，メサンギウム毛細管性子宮体腎炎，脈管膜性糸球体腎炎
+MCH　Maternal and Child Health Promoter　母子保健推進員
+MCH　mean corpuscular hemoglobin　平均赤血球内血色素(ヘモグロビン)量
+MCH　melanin-concentrating hormone　メラニン凝集ホルモン
+MCH　methylcyclohexanone　メチルシクロヘキサノン
+MCH　muscle contraction headache　筋収縮性頭痛
+MCHC　mean corpuscular hemoglobin concentration　平均赤血球内血色素(ヘモグロビン)濃度
+MCHS　Maternal and Child Health Service　母子保健対策
+MCI　metacarpal index　骨皮質幅指数。骨幅に対する皮質部の割合
+MCI　mild cognitive impairment　軽度認知機能障害
+mCi　milliCurie　ミリキュリー。放射性物質の単位。キュリー(Ci)の1/1000
+MCI　myocardial infarction（＝MI）　心筋梗塞。冠動脈からの血流が途絶し，心筋の一部が酸素欠乏により壊死に陥った疾患で，冠動脈の粥状硬化による閉塞ないしは狭窄が主要因。症状は，心臓部や胸部の下部に突然痛みが起こるということでは狭心症と共通するが，狭心症よりも程度が強く，持続時間が長い。呼吸困難，チアノーゼ，血圧低下，ショック状態，不整脈などの症状を呈する。
+MCIPC　methylchlorophenyl-isoxazolyl penicillin　メチルクロロフェニルイソキサゾリルペニシリン
+MCL　medial collateral ligament　内側側副靱帯
+MCL　midclavicular line　鎖骨中線
+MCL　midcostal line　中央肋骨線
+MCL　mucocutaneous leishmaniasis　粘膜皮膚リーシュマニア症
+MCLA　mucocutaneous lymphnode arthritis　粘膜・皮膚・リンパ節・関節炎。川崎病\u000021e8MCLS
+MCLS　(acute febrile）mucocutaneous lymphnode syndrome　(急性熱性)皮膚粘膜リンパ節症候群，川崎病。４歳以下の乳幼児を好発年齢とする原因不明の急性熱性発疹性疾患。1967年川崎富作によって発表された。多くは自然治癒するが，心冠状動脈の栓塞や血管の変化により死亡例をみることもある。また，冠状動脈瘤，弁膜症，心筋炎などの心臓後遺症を残すこともある。
+MCMV　Maize chlorotic mottle virus　メイズクロロティックモトルウイルス
+MCNS　minimal change nephrotic syndrome　微小変化型ネフローゼ症候群
+MCNU　ranimustine　ラニムスチン（抗悪性腫瘍薬）
+MCNU-VMP療法　MCNU (ranimustine), vindesine, melphalan, prednisolone　MCNU＋ビンデシン＋メルファラン＋プレドニゾロン
+M component　monoclonal component　単クローン成分
+MCOS　mucocutaneous ocular syndrome　粘膜・皮膚・眼症候群
+Mcp　McBurney\u000002bcs point　マクバーニー点。虫垂炎の圧痛点
+MCP　membrane cofactor protein　メンブランコファクタープロテイン，膜補助因子蛋白質
+MCP　metoclopramide　メトクロプラミド
+MCP-1　monocyte chemotactic protein-1　単球走化性蛋白質
+MCPJ，MCP joint　metacarpophalangeal joint　中手指節関節
+MCP-test　mucin-clot-prevention-test　ムチン・血餅・予防試験
+MCQ　multiple choice question　多肢選択試験
+MCR　melanocortin receptor　メラノコルチン受容体
+MCR　metabolic clearance rate　代謝率
+MCR　micronomicin sulfate　硫酸ミクロノマイシン（抗菌薬・眼科用剤）
+MCRCC　multilocular cystic renal cell carcinoma　多房性嚢胞状腎癌
+M-CSF　macrophage colony-stimulating factor　マクロファージコロニー刺激因子
+M-CSF　monocyte colony-stimulating factor　単球コロニー刺激因子
+MCT　mean corpuscular thickness　平均赤血球厚径
+MCT　medium chain triglyceride　中鎖脂肪
+MCT　medullary collecting tubule　髄質集合尿細管
+MCT　micro wave coagulation therapy　マイクロ波凝固壊死療法
+MCT　mucinous cystic tumor　膵粘液性嚢胞腫瘍
+MCT8　monocarboxylate transporter 8　モノカルボン酸輸送体（遺伝子）
+MCTD　mixed connective tissue disease　混合性結合組織病，混合(型)結合織疾患(病，症)
+MCV　mean corpuscular volume　平均赤血球容積
+MCV　measles virus containing vaccine　麻疹ウイルス含有ワクチン
+MCV　molluscum contagiosum virus　伝染性軟属腫ウイルス
+MCV　motor nerve conduction velocity　運動神経伝導速度
+MCx　motor cortex　運動皮質
+MCZ　miconazole　ミコナゾール（抗真菌薬）
+MC-インスリン　monocomponent insulin　不純物を含まない単一成分のインスリン
+MD　M\u000000e9ni\u000000e8re\u000002bcs disease　メニエール病。めまい，耳鳴り，難聴が反復する慢性の内耳疾患。めまいは回転性めまいの場合が多く，30分くらいから長い場合は数時間に及ぶこともある。原因は内リンパ水腫といわれている。治療には，鎮静剤，血管拡張剤，利尿剤，抗めまい剤などが用いられるが，難治性のものには手術が行われることもある。
+MD　malate dehydrogenase（＝MDH）　リンゴ酸脱水素酵素
+MD　manic depressive　躁うつの
+MD　Marburg disease　マールブルグ病。ウイルス性出血熱の一種
+MD　maximal dosis　最大投与量
+MD　medicinae doctor［ラ］　学位，医師
+MD　mediodorsal thalamic nucleus　視床背内側核
+MD　mental deficiency　精神発達遅滞
+MD　microdensitometry　マイクロデンシトメトリー。マイクロデンシトメトリーによる骨塩定量検査。両手（第二中手骨）と標準物質であるアルミニウム製の階段状の棒を同時に撮影し，両者の濃度をミクロデンシトメーター（フィルム上の非常に小さな領域の試料の濃度や透過率を測定する装置）で比較し，骨量を評価する。骨粗鬆症の診断およびその経過観察に用いる。
+MD　Middlebrook-Dubos　ミドルブルック・デュボス結核感作赤血球凝集反応。感染症血清反応
+MD　mild dysplasia　軽度異形成
+MD　mitral disease　僧帽弁疾患
+MD　moderate dysplasia　中等度異形成
+MD　muscular dystrophy　筋ジストロフィー。筋肉の栄養障害により身体，上下肢の筋肉が衰え，歩いたり，手足を動かしたりすることなどができなくなる進行性の遺伝子異常による病気。なかでもデュシェンヌ型筋ジストロフィーが最も重症で患者数も多い。現在はまだ根本的治療法がなく対症療法で行う。四肢機能障害にはリハビリテーションと，薬物療法としてプレドニゾロンを用いる。呼吸障害のある患者には在宅人工呼吸療法を行う。
+MD　myeloproliferative disease　骨髄増殖性疾患
+MD　myotonic dystrophy（＝MyD）　筋強直性ジストロフィー，筋緊張性ジストロフィー。筋の弛緩に時間がかかる筋強直を主症状とする全身性の疾患
+MDA　mento-dextra-anterior　右頤前位（胎児の体位）\u000021e8MDP，MDT
+MDA　metaphyseal-diaphyseal angle　骨幹端−骨幹角
+MDA-7　melanoma differentiation-associated gene 7　メラノーマ分化関連遺伝子７
+MDBA　megadolichobasilar anomaly　巨長脳底動脈異形
+MDC　Major Diagnostic Category　主要診断群。DPC（診断群分類）における大分類で，2008年度改定では，以下の18の診断群に分類された。MDC01：神経系疾患MDC02：眼科系疾患MDC03：耳鼻咽喉科系疾患MDC04：呼吸器系疾患MDC05：循環器系疾患MDC06：消化器系疾患，肝臓・胆道・膵臓疾患MDC07：筋骨格系疾患MDC08：皮膚・皮下組織の疾患MDC09：乳房の疾患MDC10：内分泌・栄養・代謝に関する疾患MDC11：腎・尿路系疾患及び男性生殖器系疾患MDC12：女性生殖器系疾患及び産褥期疾患・異常妊娠分娩MDC13：血液・造血器・免疫臓器の疾患MDC14：新生児疾患，先天性奇形MDC15：小児疾患MDC16：外傷・熱傷・中毒MDC17：精神疾患MDC18：その他
+MD-CT　multi-detector row CT　マルチスライスCT
+MDD　major depressive disorder　定型うつ病
+MDF　macrophage differential factor　マクロファージ分化因子
+MDF　macrophage disappearance factor　マクロファージ消失因子
+MDF　myocardial depressant factor　心筋抑制因子
+MDGF　macrophage derived growth factor　マクロファージ由来増殖因子
+MDH　malate dehydrogenase　リンゴ酸脱水素酵素
+MDH　minimum deviation hepatoma　最小偏倚ヘパトーマ
+MDI　Manisch-depressives Irresein［独］　躁うつ(鬱)病
+MDI　medical date index　健康調査表
+MDI　mental deterioration index　知能減退率。ウェクスラー式知能検査における評価指標の一つ
+MDI　metered dose inhaler　加圧式定量噴霧式吸入器，定量式噴霧器
+MDI　methylenediphenyl diisocyanate　メチレンジフェニルジイソシアネート
+MDIPC　methyl dichlorophenyl isoxazolyl penicillin　ジクロキサシリン（抗ペニシリナーゼの抗生物質）
+MDL　Magendurchleuchtung［独］　胃透視
+MDM　medical decision making　臨床での意思決定
+MDM　middiastolic murmur　弛緩中期雑音
+MDM　midecamycin　ミデカマイシン(メデマイシン\u000000ae)，マクロライド系抗生物質
+MDP　manic-depressive psychosis　躁うつ病。気分障害のうちの双極性障害
+MDP　mento-dextra-posterior　頤右後位（胎児の体位）\u000021e8MDA，MDT
+MDP　methylenediphosphonic acid　メチレンジホスホン酸
+MDP　muramyl dipeptide　ムラミルジペプチド
+MDR　macrophage disappearance reaction　マクロファージ消失現象
+MDR　minimum daily requirement　最少１日必要量
+MDR　multiple drug resistance　多剤耐性
+MDRP　multi-drug resistant Pseudomonas aeruginosa　多剤耐性緑膿菌。多くの抗生物質や抗菌化学療法剤に多剤耐性を示す。
+MDR-TB　multidrug-resistant tuberculosis　多剤耐性結核
+MDS　medical dextran sulfate（＝DS）　医用硫酸デキストラン（抗動脈硬化剤）
+MDS　myelodysplastic syndrome　骨髄異形成症候群
+MDS-Raps　Minimum Data Set and Resident Assessment Protocols　アセスメント表とケアプラン作成上の検討指針
+MDT　maggot debridement therapy　マゴットセラピー，無菌ウジ治療
+MDT　mento-dextra-transverse　右頤横位（胎児の体位）\u000021e8MDA，MDP
+MDT　mirror drawing test　鏡映描写テスト
+MD-TESE　microdissection testicular sperm extraction　顕微鏡下精巣内精子採取術
+MDV　maximum desire to void　最大尿意
+ME　macula edema　浮腫斑
+ME　malic enzyme　リンゴ酸酵素
+ME　measles encephalitis　麻疹脳炎
+ME　median eminence　正中隆起
+ME　medical electronics　医用電子工学(または機器)
+ME　medical engineer　臨床工学技士。medical engineering　医用工学
+ME　mefenamic acid　メフェナム酸
+ME　metencephalon　後脳，小脳
+ME　methazolamide　メタゾラミド（炭酸脱水素酵素抑制剤）
+ME　methenolone enanthate　メテノロンエナント酸エステル（持続性蛋白同化ステロイド）
+ME　midline echo　中央エコー
+M/E　myeloid erythroid ratio　骨髄系細胞・赤芽球系細胞比
+ME　myoclonus epilepsy　ミオクローヌスてんかん
+MEA　mercaptoethylamine　メルカプトエチルアミン
+MEA　monoethanolamine　モノエタノールアミン
+MEA　multiple endocrine adenomatosis　多発性内分泌腺腫
+Mea，meas　measure　測定する
+MeB　methylene blue（＝MB）　メチレンブルー
+MeB12　methylcobalamin　メチルコバラミン
+M・Ebl-o　orthochromatic macroblast　正染性大赤芽球
+MECC　micellar electrokinetic capillary chromatography　ミセル動電毛細管クロマトグラフィー
+MeCyt　methylcytosine　メチルシトシン
+MED　mean erythrocyte diameter　平均赤血球径
+Med　mediastinum　縦隔
+MED　microendoscopic discectomy　内視鏡下ヘルニア摘出術
+MED　minimal effective dose　最小有効量，最小影響量
+MED　minimal erythema dose　最小紅斑量
+MED　multiple epiphyseal dysplasia　多発性骨端異形成症
+MEDINFO　World Conference on Medical Informatics　医療情報科学国際会議
+Medio　mediotorsio cruris［ラ］　下腿内方捻転
+MEDIS　medical information system　医療情報システム
+med ray　medullary ray　髄線
+med ray par　medullary ray parenchyma　髄線実質
+MEDS　myocardial energy deficiency state　心筋エネルギー欠乏状態
+MEF　maximal expiratory flow　最大呼気流量
+MEF　migration enhancement factor　遊走促進因子
+MEFR　maximal expiratory flow rate　最大呼気速度。最大の吸気から思いきり息を吐き出したときの気流速度の最大値
+MEFV　maximal expiratory flow-volume　最大呼気流量
+MEFVC　maximal expiratory flow-volume curve　最大呼気フローボリューム曲線
+MEG　magnetoencephalogram　脳磁図
+MEG　mono-ethylene glycol　モノエチレングリコール
+Meg-CSF　megakaryocyte colony stimulating factor　巨核球コロニー刺激因子
+MEGX　monoethylglycinexylidide　モノエチルグリシンキシリジド
+MEH　melanophore expanding hormone　メラニン保有細胞増量ホルモン
+MEIS　medium energy ion scattering spectroscopy　中速イオン散乱分光法
+mEJP　miniature excitatory junction potential　微小興奮性接合部電位
+MEK　methyl ethyl ketone　メチルエチルケトン
+MEKC　micellar electrokinetic chromatography　ミセル導電クロマトグラフィー
+MELA　mitochondrial encephalomyopathy　ミトコンドリア脳筋症
+MELAS　mitochondrial myopathy, encephalopathy, lactic acidosis and strokelike episodes　ミトコンドリア脳筋症・乳酸アシドーシス・脳卒中様発作症候群。メラス
+memb　membrane　膜
+Men　meningioma　髄膜腫
+men　menses，menstruation　月経
+MEN　multiple endocrine neoplasia　多発性内分泌腫瘍症
+meno　menopausal　更年期の。menopause　更年期，更年期障害
+meno　menorrhea　月経，帯下
+Menst　menstruation　月経
+mensur　mensuration　計量
+ment　mental　精神の，精神病患者
+MEOS　microsomal ethanol oxidase system　ミクロソームエタノール酸化酵素系
+MEP　maximal expiratory position　最大呼気位
+MEP　maximal expiratory pressure　最大呼気圧
+MEP　moth-eaten phenomenon　虫くい現象
+MEP　motor evoked potential　脊髄運動神経誘発電位
+MEPM　meropenem trihydrate　メロペネム三水和物（抗菌薬）
+MEPP　miniature endplate potential　微小終板電位
+MEPs　multimodalitory evoked potential　多様式誘発電位。体性誘発電位
+mEq　milliequivalent　溶液１リットル中の電解質のミリグラム当量
+MERRF　myoclonus epilepsy associated with ragged red fibers　赤色ぼろ線維・ミオクローヌスてんかん症候群。マーフ。福原病
+MES　maximal eye speed　最大眼球速度
+MESA　microscopic epididymal sperm aspiration　精巣上体精子吸引術
+MESS　mangled extremity severity score　切断四肢重症度スコアリングシステム
+MET　metabolic equivalent　代謝率
+Met　methionine　メチオニン。蛋白質を構成する含硫アミノ酸。必須アミノ酸の一つ
+Met　metronidazole　メトロニダゾール（抗生物質）
+MET　minimal electroshock threshold　電撃痙攣閾値
+metab　metabolism　新陳代謝
+metas　metastasis　転移
+met-EK　methionine-enkephalin　メチオニンエンケファリン
+metHb　methemoglobin　メトヘモグロビン
+metMb　metmyoglobin　メトミオグロビン
+Metr　metreurynter　メトロイリンテル。子宮頸管拡張用ゴム嚢
+Metr　metreuryse　メトロイリーゼ。メトロイリンテルで子宮頸管を拡張して陣痛を誘発すること
+METs　metabolic equivalents　メッツ，代謝等量
+Met S　metabolic syndrome　メタボリックシンドローム，メタボリック症候群
+METT　maximum exercise tolerance test　最大負荷試験(法)
+MF　medium frequency　中波
+MF　microfiltration　マイクロフィルター法
+MF　mitochondrial fragments　ミトコンドリア分画
+MF　mitogenic factor　（リンパ球の）分裂促進因子
+MF　mitomycin C＋5-fluorouracil　マイトマイシンC＋5-FU。癌化学療法の組み合わせの一つ
+MF　mycosis fungoides［ラ］　菌状息肉症
+MF　myelofibrosis　骨髄線維症
+MF　myocardial fibrosis　心筋線維症
+MFA　microplate fluorescent antibody method　マイクロプレート蛍光抗体法
+MFB　medial forebrain bundle　内側前脳束
+MFB　metallic foreign body　金属性異物
+MFC　mitomycin C, 5-fluorouracil, cytocine arabinoside　マイトマイシンC＋5-FU＋Ara-C
+MFD　minimum fatal dose　最小致死量
+MFD　multiple fractions per day　１日多分割照射（法）
+MFH　malignant fibrous histiocytoma　悪性線維性組織球腫
+MFICU　maternal fetal intensive care unit　母体・胎児集中治療室
+MFIPC　methyl flucrochlorophenyl isoxazolyl penicillin　メチルフルクロクロロフェニルイソキサゾリルペニシリン　フロクロキサシリン（抗生物質）
+MFLX　moxifloxacin　モキシフロキサシン（広範囲抗菌点眼剤）
+MFM　magnetic force microscope　磁力顕微鏡
+MFM　microfluorometry　微小蛍光測定
+MFO　mixed-function oxidase　混合機能酸化酵素
+MFP　monofluorophosphate　モノフルオロリン酸塩
+MFR　maximum flow rate　最大尿流量(率)
+MFT　mucous membrane function test　粘膜機能検査
+MFT　muscle function test　筋機能試験
+MG　macroglobulin　マクログロブリン
+Mg　magnesium　マグネシウム。酵素の補助因子として，生体の調節に重要な役割をもつ微量金属（ミネラル）。虚血性心疾患，不整脈，高血圧，脳血管障害とMg欠乏との関連が大きい。また，高マグネシウム血症は腎機能低下などの症状が生じる。
+MG　methylglyoxal　メチルグリオキサール
+MG　methylguanidine　メチルグアニジン
+MG☆　Meulengracht-einheit［独］　モイレングラハト単位(黄疸指数)。血液化学検査
+mg　milligram　ミリグラム(10-3g)
+MG　monoacylglycerol　モノアシルグリセロール
+MG　monoclonal gammopathy　モノクローナル免疫グロブリン血症
+MG　monoglyceride　モノグリセライド
+MG　myasthenia gravis［ラ］　重症筋無力症。骨格筋の易疲労性，脱力を基本症状とし，日内変動や溶解・増悪を繰り返す疾病で，神経系の疾患に分類される。具体的症状は，眼瞼下垂・複視・咀嚼障害・嚥下困難・言語障害などで，薬物療法や胸腺摘出などで緩解しうるが，再発も多い。
+MG　myoglobin　ミオグロビン
+MGB　medial geniculate body　内側膝状体
+MGBG　methylglyoxal-bis-guanylhydrazone　メチルグリオキサル-ビス-グアニルヒドラゾン
+MGD　meibomian gland dysfunction　マイボーム腺障害。眼瞼の辺縁にあるマイボーム腺の機能が低下し，分泌異常などが見られる状態
+Mg-G　myeloma globulin G　骨髄腫グロブリンG
+MGH　monoglyceride hydrolase　モノグリセライド水解酵素
+MgK　megakaryocyte　巨核球
+M. gl　multiple myeloma globulin　多発性骨髄腫グロブリン
+M-Gl　multiple myeloma globulin　骨髄腫グロブリン
+MGN　membranous glomerulonephritis　膜性糸球体腎炎
+m-GOT　mitochondrial glutamic oxalo-acetic transaminase　ミトコンドリア・グルタミン酸オキザロ酢酸転換酵素
+MGP　marginal granulocyte pool　辺縁顆粒球プール
+MGP　methyl green pyronin　メチルグリーン・ピロニン染色
+MGS　mucogingival surgery　歯肉歯槽粘膜形成術
+MGUS　monoclonal gammopathy of undetermined significance　良性単クローン性γグロブリン異常症
+MGW　macroglobulinemia Waldenstr\u000000f6m　ワルデンストローム型巨大グロブリン血症
+MH　malignant histiocytosis　悪性組織球症
+MH　malignant hyperpyrexia　悪性高熱症
+MH　mammotrophic hormone　乳腺刺激ホルモン。プロラクチン
+MH　medial habenula　中手綱部
+MH　medical history　病歴
+MH　melanophore hormone　メラニン保有細胞ホルモン。黒色素細胞ホルモン
+MH　melanophore-stimulating hormonme（＝MSH）　メラニン細胞刺激ホルモン
+MH　mental health　精神衛生
+MH　mixed hamartoma　混合性過誤腫。肝細胞性過形成の一種
+MHA　major histocompatibility antigen　主要組織適合抗原
+MHA　methylhippuric acid　メチル馬尿酸
+MHA　microangiopathic hemolytic anemia　細血管障害性溶血性貧血
+MHA　microsome hemagglutinin test　ミクロゾーム血球凝集試験
+MHb　methemoglobin　メトヘモグロビン
+MHb　myohemoglobin　筋ヘモグロビン
+MHbCN　cyan-methemoglobin　シアンメトヘモグロビン
+MHC　major histocompatibility complex　主要組織適合抗原，主要組織適合遺伝子複合体
+MHD　minimal hemagglutinating dose　最小赤血球凝集量
+MHD　minimal hemolytic dose　最小溶血量
+MHN　morbus hemolyticus neonatorum［ラ］　新生児溶血性貧血
+MHPG　3-methoxy-4-hydroxy-phenyl-glycol　3-メトキシ-4-ハイドロキシフェニルグリコール
+MHS　major histocompatibility system　主要組織適合抗原系
+MHV　middle hepatic vein　中肝臓静脈
+MHV　mouse hepatitis virus　マウス肝炎ウイルス
+MI　maturation index　成熟指数
+MI　mechanical index　メカニカルインデックス
+MI　mechanical inflammation　機械的炎症
+MI　menopausal index　更年期指数
+MI　metabolic index　代謝率
+MI　metabolism inhibition test　代謝阻止試験
+MI　migration index　遊走指数
+MI　mitotic index　有糸分裂指数
+mi　mitral　僧帽の
+MI　mitral insufficiency　僧帽弁閉鎖不全(症)
+MI　morphological index　菌形指数
+MI　motility index　運動指数
+MI　myocardial infarction　心筋梗塞。冠動脈からの血流が途絶し，心筋の一部が酸素欠乏により壊死に陥ったもの。冠動脈の粥状硬化による閉塞ないしは狭窄が主要因。症状は，心臓部や胸部の下部に突然痛みが起こるということでは狭心症と共通するが，狭心症よりも程度が強く，持続時間が長い。また，呼吸困難，チアノーゼ，血圧低下，ショック状態，不整脈などの症状を呈する。臨床所見としては，白血球増多，血清酸素値上昇，発熱，血沈亢進などの炎症反応がある。血圧，心電図などを連続的に監視する必要がある。
+MIA　monoiodo acetate　モノヨード酢酸
+MIAA　microaggregated albumin　ミクロ凝集アルブミン
+MIBG　metaiodobenzyl-guanidine　メタヨードベンジルグアニジン
+MIBI　99mTc-Methoxy isobutyl isonitrile　99mTc-メトキシイソブチルイソニトリル
+MIBK　methyl isobutyl ketone　メチルイソブチルケトン
+Mic　microaneurysm　微細動脈瘤
+mic　microscopy　顕微鏡検査
+MIC　minimum inhibitory concentration　最小(発育)阻止濃度。筋の増殖を阻止するのに必要な抗生物質の最小濃度
+MICS　minimary-invasive cardiac surgery　低侵襲心臓手術
+MID　minimal infecting dose　最小感染量
+MID　minimum inhibiting dose　最小阻止量
+MID　multi-infarct dementia　多発梗塞性認知症
+MIDD　monoclonal immunoglobulin deposition disease　単クローン性免疫グロブリン沈着症
+MIF　m\u000000fcllerian inhibiting factor　ミュラー管抑制因子
+MIF　macrophage migration inhibition factor　マクロファージ遊走阻止因子
+MIF　macrophage-inhibiting factor　マクロファージ抑制因子
+MIF　melanocyte-stimulation hormone release inhibiting factor　メラニン素細胞刺激ホルモン放出抑制因子
+MIF　membrane immunofluorescence test　膜免疫蛍光試験
+MIF　migration inhibition factor　遊走阻止因子
+MIF　mixed immunofluorescence　混合免疫蛍光法
+MIG　mumps immunoglobulin　流行性耳下腺炎免疫グロブリン
+MIIT　multiple insulin injection therapy　インスリン頻回注射療法
+MILS　maternally inherited Leigh syndrome　母性遺伝を示すリー脳症
+min.　minimum　最小・最低の。対語：max．最大・最高の
+min　minute　分
+MINI　Mini International Neuropsychiatric Interview　精神疾患簡易構造化面接法
+MinIP　minimum intensity projection　最大値輝度投影法
+MINO　minocycline hydrochloride　塩酸ミノサイクリン（抗菌薬）
+MIP　maximal inspiratory position　最大吸気位
+MIP　maximal inspiratory pressure　最大吸気圧
+MIP　maximum intensity projection　最大値輝度投影法
+MIPM　microprolactinoma　微小プロラクチノーマ
+MIR　main immunogenic region　主免疫原性部位
+MIRD　medium internal radiation dose　中間内部放射線量
+MIS　minimally invasive surgery　最小侵襲手術。内視鏡や特殊な器械を使用し，なるべく患者に負担を与えない手術方法の総称。
+MIS　motor index score　運動指標得点。脊髄損傷の機能の指標
+MIT　macrophage migration inhibition test　マクロファージ遊走阻止試験
+MIT　melodic intonation therapy　抑揚強調療法，メロディック・イントネーション療法
+MIT　metabolic inhibition test　代謝阻止試験
+MIT　minimally invasive therapy　最小侵襲治療法
+mit　mitochondria　ミトコンドリア。真核細胞にみられる細胞小器官
+MIT　mitoxantrone hydrochloride　塩酸ミトキサントロン（抗悪性腫瘍薬）
+MIT　monoiodotyrosine　モノヨードチロシン
+MIT　multiple injection therapy　頻回注射療法（インスリン強化療法）
+mit insuf　mitral insufficiency　僧帽弁閉鎖不全症
+Mittel　［独］　薬剤，薬品
+MJD　Machado-Joseph disease　マシャド-ジョセフ病
+MK　Magenkrebs［独］　胃癌
+MK　megakaryocyte　巨核球
+MK　menaquinone　メナキノン
+MK　midkine　ミッドカイン
+MK　monokine　モノカイン
+MK　myokinase　ミオキナーゼ
+MKB　megakaryoblast　巨核芽細胞
+MKC　megakaryoblast　骨髄巨核芽球
+MK-CSF　megakaryocyte colony stimulating factor　巨核球コロニー刺激因子
+MKDGF　megakaryocyte-derived growth factor　巨核球由来成長因子
+MKHD　Menkes’ kinky hair disease　メンケス病，メンキーズ病，ちぢれ毛病。節状の捻転毛や皮膚の色素減少がみられる常染色体劣性遺伝疾患
+MK-POT　megakaryocyte potentiator　巨核球増幅因子
+MKR　Meinicke Klarungsreaktion［独］　マイニッケ清澄反応（梅毒血清反応）
+ML　macula lutea［ラ］　網膜黄斑
+ML　malignant lymphoma　悪性リンパ腫
+ML　Mamillarlinie［独］　乳頭線
+ML　medial lemniscus　内側毛帯
+ML　metachromatic leukodystrophy（＝MLD）　異染性白質ジストロフィー
+mL　milliliter (＝0.001 L)　ミリリットル
+MLA　mento-laeva-anterior　左頤前位（胎児の体位）\u000021e8MLP，MLT
+MLA　minimal lumen area　最小血管内腔面積
+mLAP　mean left atrial pressure　平均左心房圧
+MLC　middle latency component　中間潜時反応
+MLC　mixed leukocyte culture　混合白血球培養
+MLC　mixed lymphocyte culture　混合リンパ球培養試験
+MLC　multi-leaf collimator　多分割絞り
+MLC　myosin light chain　ミオシン軽鎖
+MLCK　myosin light chain kinase　ミオシン軽鎖キナーゼ
+MLCN　multilocular cystic nephroma　多房性腎嚢胞
+MLD　mean lethal dose　平均致死線量
+MLD　median lethal dose　致死線量中央値
+MLD　metachromatic leukodystrophy　異染性白質ジストロフィー
+MLD　minimum lethal dose　最小致死量
+MLD　minimum lumen diameter　（病変部）最小血管径
+MLF　medial longitudinal fasciculus　内側縦束
+MLL　mixed-lineage leukemia　混合系統白血病
+MLN　membranous lupus erythematosus nephritis　膜型ループス腎炎
+MLN　mesanginal proliferative loops nephritis　脈管膜増殖性ループス腎炎
+MLNS　minimal lesion nephritic syndrome　微小変化型ネフローゼ症候群
+MLNS　mucocutaneous lymph node syndrome（MCLS）　粘膜皮膚リンパ節症候群。川崎病
+MLP　mento-laeva-posterior　左頤後位（胎児の体位）\u000021e8MLA，MLT
+MLP　multiple lymphomatous polyposis　多発性リンパ腫性ポリポーシス
+MLR　mesencephalic locomotor region　中脳歩行誘発野
+MLR　middle latency response　聴性中間反応
+MLR　mixed lymphocyte reaction　リンパ球混合培養反応，混合リンパ球反応
+MLs　macrolides　マクロライド系抗生物質
+MLS　medium life span　平均的生存期間
+MLSB　migrating long spike bursts　腸平滑筋の推進運動
+MLSS　mixed liquor suspended solids concentration　混合液浮遊物質濃度
+MLT　meaningful life therapy　生き甲斐療法
+MLT　mento-laeva-transverse　左頤横位（胎児の体位）\u000021e8MLA，MLP
+MLTC　mixed lymphocyte tumor culture　リンパ球・腫瘍細胞混合培養
+MLTC　tetracycline methylene lysine　テトラサイクリンメチレンリジン
+MLTR　mixed lymphocyte tumor cell reaction　混合リンパ球・腫瘍細胞反応
+MLV　multilamellar vesicles　多重層リポソーム
+MLV　murine leukemia virus　マウス白血病ウイルス
+MLX　miloxacin　ミロキサシン
+MM　Magenmittel［独］　胃薬
+MM　malignant melanoma　悪性黒色腫。メラノサイト（メラニン色素を産生する細胞）が癌化した悪性腫瘍
+MM　masseter muscle　咬筋
+MM　medial meniscus　内側半月
+MM　meningococcal meningitis　髄膜炎菌性髄膜炎
+MM　Menschenmilch［独］　母乳
+MM　mikamycin（＝MKM）　ミカマイシン（抗生物質）
+m.，M.　misce［ラ］　混和せよ（処)
+mm，m.m.　motus manus　手動弁
+M，m　mucosal (cancer)　粘膜内癌
+MM　mucous membrane　粘膜
+MM　multiple myeloma　多発性骨髄腫
+MM　muscularis mucosa　粘膜筋板
+MMA　macroaggregated albumin　凝集アルブミン
+MMA　methyl methacrylate　メチルメタクリレート
+MMA　methylmalonic acid　メチルマロン酸
+MMA　middle meningeal artery　中硬膜動脈
+MMC　meningomyelocele　脊髄髄膜瘤
+MMC　migrating motor complex　空腹期強収縮群
+MMC　mitomycin C　マイトマイシンC（抗腫瘍性抗生物質）
+MMC　mucosal mast cell　粘膜（型）マスト（肥満）細胞
+MME　M-mode echocardiography　M-モード・心エコー法。超音波診断装置の画面表示法の一つで，MはMotion（またはMovement）の頭文字。横軸に時間，縦軸に距離（生体深度）を表示して，反射源の経時的な運動曲線を記録する。心エコー検査の画像診断で用いられ，主に心臓の弁や心筋の動きを検査する。
+MMEF，MMF　maximal mid-expiratory flow　最大中間呼気量，最大呼気中間フロー。フローボリュームカーブから計算したものは算定できない
+MMEFR，MMFR　maximal mid-expiratory flow rate　最大呼気中間流速
+MMF　mean maximum flow　平均最大流量
+MMF　mycophenolate mofetil　ミコフェノール酸モフェチル（免疫抑制剤）
+MMG　mammography　マンモグラフィー
+MMI　mercaptomethylimidazole　メルカプトメチルイミダゾール
+MMI　thiamazole　チアマゾール（甲状腺疾患治療薬）
+MMK　Mammakrebs［独］　乳癌。乳管あるいは腺葉を形成する上皮細胞から発生する悪性腫瘍。40代から50代の女性に多い。症状は乳房部のしこりに始まる。進行すると同じ側の腋の下のリンパ節に転移する。自分自身で異変に気づくことが多く，早期発見には自己診断が勧められている。エックス線検査，超音波検査，生検で診断を確定する。乳房切除，腋窩リンパ郭清といった手術による治癒率は高く，乳房温存療法も行われる。そのほか，化学療法，ホルモン療法などが行われる。
+MMM　myelofibrosis with myeloid metaplasia　骨髄線維症
+MMMT　malignant mixed m\u000000fcllerian tumor　悪性ミュラー管混合腫瘍
+MMN　multifocal motor neuropathy　多巣性運動ニューロパチー
+MMP　matrix metalloproteinase　マトリックスメタロプロテアーゼ。コラーゲンのような細胞外マトリックスの成分を，より小さく分解する蛋白分解酵素の総称
+MMPI☆　Minnesota multiphasic personality inventory　ミネソタ多相(多面的)人格(検査)表。質問紙法で行う人格検査の一つで，1940年代にアメリカ・ミネソタ大学で開発された方法。人間の性格（パーソナリテイー）を，心気症，抑欝，ヒステリー，精神病質的偏倚，男子性・女子性，パラノイア，精神衰弱，統合失調症，軽躁性，社会的内向性の10の尺度で見る。
+MMPs　matrixdegrading metalloproteinase　基質分解金属蛋白分解酵素
+MMQ　Maudsley Medical Questionnaire　モーズレイ健康調査表
+MMR　measles mumpus rubella vaccine　乾燥弱毒性麻疹おたふくかぜ風疹混合ワクチン
+MMS　metabolic monitoring system　代謝監視機構
+MMS　methylmethane sulfonate　メチルメタンスルホン酸
+MMS　myeloma morphology score　骨髄腫形態得点
+MMSC　methylmethionine sulfonium chloride　メチルメチオニンスルホニウムクロライド（消化性潰瘍治療薬）
+MMSE　Mini-Mental-State Examination　ミニメンタルステートテスト
+MMST　mini-mental state test　簡易知能試験
+MMT　manual muscle test　徒手筋力検査
+MMTN　myelinated mechanothermal nociceptor　有髄性機械温熱受容器
+MMTV　mouse mammary tumor virus　マウス乳癌ウイルス
+MMV　mandatory minute ventilation　強制分時換気
+MMV　mice minute virus　マウス微小ウイルス
+MN　malignant nephrosclerosis　悪性腎硬化症
+Mn　manganese　マンガン
+MN　mass neuropediatrics　発達スクリーニングテスト。発達に何らかの問題をもつ小児を集団のなかから選び出すテスト
+MN　membranous nephropathy　膜性腎症
+MN　metanephrine　メタネフリン
+MNC　minocycline　ミノサイクリン（ミノマイシン）。テトラサイクリン系抗生物質
+MNC　mononuclear cell　単核細胞
+MNCV　maximum nerve conduction velocity　最大神経伝達速度
+MNCV　mixed nerve conduction velocity　混合神経伝達速度
+MNCV，MCV　motor nerve conduction velocity　運動神経伝導速度
+MND　minimum necrosing dose　最小壊死量
+MND　motor neuron disease　運動ニューロン疾患
+MNGF　motor neuron growth factor　運動神経成長因子
+MNGIE　mitochondrial neurogastrointestinal encephalomyopathy　メンギー。常染色体劣性遺伝の稀な疾患の一つ
+MNMS　myonephropathic metabolic syndrome　代謝性筋腎症候群，筋・腎障害性代謝異常症候群
+MNSF　monoclonal nonspecific suppressor factor　モノクローナル非特異的抑制因子
+MO　micro Ouchterlony method　マイクロオクタロニー法，二重拡散法
+MO　mineral oil　鉱油
+MO　mitral opening sound　僧帽弁開放音
+Mo　mitral valve opening　僧帽弁開放
+MO2　oxymyoglobin　オキシミオグロビン
+Mo-99　molybdenum-99　モリブデン99
+MoAb，MAb　monoclonal antibody　モノクローナル抗体。単一のクローン抗体で，１つの抗体細胞からは一種類の抗体しか産生されないという性質を利用して作られた抗体。
+mob　mobilization　関節可動（術）
+mobil　mobility　可動性
+MOC　maximum oxgen consumption（＝MVO2）　最大酸素消費量
+MOC　myocardial oxygen consumption (＝MVO2)　心筋酸素消費量
+MOCV　molluscum contagiosum virus　伝染性軟属腫ウイルス
+MOD　maturity onset type diabetes　成人型糖尿病
+MODS　multiple organ dysfunction syndrome　多臓器機能不全症候群
+MODY　maturity-onset diabetes of the young　若年発症成人型糖尿病
+MOF　multiple organ failure　多臓器不全
+MOG　myelin-oligodendrocyte glycoprotein　ミエリンオリゴデンドロサイトグリコプロテイン
+MOI，m.o.i.　multiplicity of infection　細胞１個に対するウイルスの数
+Mole　Blasenmole［独］　胞状奇胎
+MOMA　3-methoxy-4-hydroxy mandelic acid　メトキシマンデル酸，バニリールマンデル酸。副腎髄質機能の指標
+Mo-MLV，Mo-MuLV　Moloney murine leukemia virus　モロニー・マウス白血病ウイルス
+Mongo　mongolism　蒙古症
+mono　mononucleosis　単核球症
+MOP　myeloperoxidase　ミエロ過酸化酵素
+MOPP　nitrogen mustard, oncovin, procarbazine and prednisolone　ナイトロジェンマスタード＋オンコビン＋プロカルバジン＋プレドニゾロン
+Morph. mur　morphine hydrochloride　塩酸モルヒネ。アヘン含有アルカロイド中最も主要なるもので，フェナントレン系化合物に属する。運動中枢や知覚にほとんど影響を及ぼさない量で痛覚を低下させ，嘔吐中枢を刺激して吐気を起こす。さらに増量すると催眠作用，次いで呼吸抑制作用を現す。医療目的には，鎮痛作用が利用されることが多く，癌性疼痛治療の主流である。
+mortal　mortality　死亡率
+mOsm/L　milliosmol/liter　１リットル中に１ミリモル含まれる溶液の示す浸透圧
+MOTNAC　manual of tumor nomenclature and coding　腫瘍の命名とコード用マニュアル
+MP　macrophage　マクロファージ，大食細胞
+MP　medical physics　医用物理学
+MP　medium pressure　平均圧
+MP　medroxy progesterone　メドロキシプロゲステロン（ステロイドホルモン）
+MP　membrane potential　膜電位
+MP　mentum posterior　頤後位の
+MP　metacarpo-phalangeal　中手指（骨）の
+MP　metatarso-phalangeal　中足趾（骨）の
+MP　methyl prednisolone　メチルプレドニゾロン（免疫抑制剤）
+MP　microphonic potential　マイクロホン電位
+MP　mitogenic protein　有糸核分裂蛋白
+MP　monopolar　単極導出。脳波の導出方法の一種
+MP　motor potential　運動電位
+MP　mucoprotein　ムコ蛋白。糖質を含む複合蛋白の総称。糖質部分は六炭糖，シアル酸，ヘキソサミンなどの多糖体で構成されている。正常血清中の総蛋白の約10％を占めている。ムコ蛋白の測定は，炎症性疾患のスクリーニングに有用である。
+MP　multipara　経産婦
+MP　muscle potential　筋電位
+MPA　main pulmonary artery　主肺動脈
+MPA　maximal pepsin activity　最高ペプシン活性
+MPA　medroxyprogesterone acetate　酢酸メドロキシプロゲステロン（抗悪性腫瘍薬・女性ホルモン）
+MPA　microscopic polyarteritis　顕微鏡的多発動脈炎
+MPAP　mean pulmonary arterial pressure　平均肺動脈圧
+MPB　meprobamate　メプロバメート
+MPC　maximum permissible concentration　最大許容濃度
+MPC　mean plasma concentration　平均血漿濃度
+MPC　mecillinam　メシリナム（合成ペニシリン）
+MPC　mesopharyngeal cancer　中咽頭癌
+MPD　maximum permissible dose　最大許容線量
+MPD　muscle phosphorylase deficiency　筋ホスホリラーゼ欠損症
+MPD　myeloproliferative disorder　骨髄増殖性疾患
+MPD　myofascial pain dysfunction syndrome　筋筋膜疼痛症候群。心理的・肉体的繋張が引き起こす筋緊張によって疼痛を発すると考えられる症候群
+MPE　maximum permissible exposure　（放射線）曝射最大許容量
+MPF　maturation promoting factor　M期促進因子，成熟促進因子
+MPGN　membranoproliferative glomerulonephritis　膜性増殖性糸球体腎炎，膜性増殖性腎炎
+MPH　methylphenidate　メチルフェニデート。微細脳障害に用いる
+MPHA　mixed passive hemagglutination　受身混合凝集反応
+M phase　mitotic phase　分裂期，M期
+MPHD　multiple pituitary hormone deficiency　多種下垂体ホルモン欠損症
+MPI　mannose phosphate isomerase　リン酸マンノース異性化酵素
+MPI　Maudsley Personality Inventory　モーズレイ性格検査
+MPI　multiphasic personality inventory　多相性格表（性格テスト）
+MPI　myocardial perfusion imaging　心筋血流像
+MPIPC　methyl-phenyl-isoxazolyl-penicillin　オキサシリン
+MPJ　metacarpophalangeal joint　中手指節関節
+MPJ　metatarsophalangeal joint　中足趾節関節
+MPKU　maternal phenylketonuria　母性フェニルケトン尿症
+MPL　melphalan　メルファラン
+MP，m.p.　melting point　融点，融解温度
+MP，mp　muscularis propria　癌の固有筋層深達
+MPMV　Mason-Pfizer monkey virus　マソン-ファイザー・サルウイルス
+MPn　mycoplasma pneumonia　マイコプラズマ肺炎
+MPNST　malignant peripheral nerve sheath tumor　悪性末梢神経鞘腫瘍
+MPO　maximal pepsin output　最高ペプシン分泌量
+MPO　medial preoptic area　内側二対体前部
+MPO　myeloperoxidase (stain)　ミエロペルオキシダーゼ（染色）
+MPO-ANCA　myeloperoxidase anti-neutrophilcytoplasmic antibody　抗好中球細胞質ミエロペルオキシダーゼ抗体
+MPP　massive periretinal proliferation　高度網膜周囲増殖
+MPP　medial pterygoid processus　内側翼状突起
+MPPV　malignant persistant positional vertigo　悪性持続性頭位めまい症
+M protein　monoclonal protein　モノクローナル蛋白
+M protein　myeloma protein　骨髄腫蛋白。腫瘍化した形質細胞。多発性骨髄腫で増殖する。
+MPS　mononuclear phagocyte system　単核食細胞系
+MPS　mucopolysaccharide　ムコ多糖類
+MPS　mucopolysaccharidosis　ムコ多糖症
+MPS　mucoprotease　粘性蛋白質分解酵素
+MPS　mucosal prolapse syndrome　粘膜脱症候群
+MPS　multi purpose solution　マルチパーパスソリューション
+MPT　maximum phonation time　最長発声時間
+MPT　mixed parotid gland tumor　耳下腺混合腫瘍
+MPT　mucin-producing tumor of pancreas　粘液産生膵腫瘍
+MPTP　1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine　1-メチル-4-フェニル-1, 2, 3, 6-テトラヒドロピリジン
+MPV　mean platelet volume　平均血小板容積
+MPXV　monkeypox virus　サル痘ウイルス
+MP療法　melphalan, predonisolone　メルファラン＋プレドニゾロン（プレドニン）。多発性骨髄腫の治療法の一つ
+MR　Magenresektion［独］　胃切除術。胃潰瘍，胃腫瘍，胃を含む外傷のときに行われる胃の全部または部分的切離。胃全摘術，胃部分切除術に大別される。
+MR　medial rectus muscle　内側直筋，内直筋
+MR　medical representative　医薬情報担当者
+MR　mental retardation　精神遅滞
+MR　metabolic rate　代謝率
+MR　methyl red　メチルレッド
+MR　microelise autoreader　比色定量計
+MR　minor response　やや有効
+MR　mitral regurgitation　僧帽弁閉鎖不全，僧帽弁逆流症
+MR　mixed reality　複合現実感
+MR　multiplicity reactivation　多重再活性化
+MRA　magnetic resonance angiography　核磁気共鳴血管撮影法。MRIを応用して血液の流れを画像化する血管撮影法。動脈穿刺などの観血的処置を要さず，造影剤も必要としない。任意の方向から観察できるため，血管病変のスクリーニングや術前検査として用いられる。
+MRA　malignant rheumatoid arthritis　悪性関節リウマチ
+MRA　middle rectal artery　中直腸動脈
+MRA　mitral regurgitant area　僧帽弁逆流面積
+MRBC　maternal red blood corpuscle　母赤血球
+MRBF　mean renal blood flow　平均腎血流量
+MRC　mechanical restitution curve　機械的復旧曲線
+MRCNS　methicillin resistant coagulase negative Staphylococci　メチシリン耐性コアグラーゼ陰性ブドウ球菌。コアグラーゼを産出しないブドウ球菌で　抗菌薬耐性を獲得したもの
+MRCP　magnetic resonance cholangiopancreatography　磁気共鳴胆管膵管造影法，MR胆管膵管造影
+MR-CT　magnetic resonance computed tomography　磁気共鳴断層撮影
+MRD　minimal residual disease　（白血病の）微小残存病変
+MRD　minimum response dose　最小反応量
+MRDM　malnutrition-related diabetes mellitus　栄養不良関連糖尿病
+MRE　maximal respiratory effectiveness　最大換気有効率
+MRF　melanocyte stimulating hormone releasing factor　メラニン素細胞刺激ホルモン放出因子
+MRF　midbrain reticular formation　中脳網様体
+MRF　mitral regurgitant flow　僧帽弁逆流量
+MRF　monoclonal rheumatoid factor　モノクローナル・リウマチ性因子
+MRFS　multiple risk factor syndrome　危険因子重積症候群
+MRFV　Maize rayado fino virus　メイズリャドフィノウイルス
+mrg　margin　辺縁
+MRH　melanocyte-stimulating hormone releasing hormone　メラニン細胞刺激ホルモン放出ホルモン
+MRI　magnetic resonance imaging　核磁気共鳴画像法，磁気共鳴撮像。人体などを静磁場内に置き一定の周波数の電磁波エネルギーを与えると共鳴現象を起こし，このとき放出されるエネルギーを信号として取り出し，コンピュータを用いて断層像を構成する画像診断法。MRIの利点は，①エックス線被曝がないこと，②コントラスト分解能が高いこと，③撮像方向の多様性が確保できること──など。
+MRI　mitral regurgitation index　僧帽弁逆流指数
+MRIF　medium resolution infrared　平均分解赤外線
+MRIF　melanocyte stimulating hormone releasing inhibiting factor　メラニン細胞刺激ホルモン分泌抑制因子
+MRN　macroregenerative nodule　大再生結節
+mRNA　messenger RNA　メッセンジャーRNA
+MRR　maximum relaxation rate　最大弛緩速度
+mRS　modified Rankin Scale　改変ランキンスケール。脳卒中の状態の評価法の一つ
+MRS　MR spectroscopy　核磁気共鳴分光法
+MRSA　methicillin-resistant Staphylococcus aureus　メチシリン耐性黄色ブドウ球菌。ブドウ球菌は通性嫌気性の陽性球菌である。ヒトの鼻腔，皮膚，腸管などに常在し，化膿性炎症，肺炎，腸炎，食中毒などを起こす。黄色ブドウ球菌のなかで，メチシリンや他の多くの抗菌薬に対して耐性を示すものをメチシリン耐性黄色ブドウ球菌（MRSA）と呼び，難治性の感染症を発生させる。
+MRSE　methicillin-resistant Staphylococcus epidermidis　メチシリン耐性表皮ブドウ球菌
+MRT　mean radiant temperature　平均輻射温度
+MRT　mean residence time　平均滞留時間
+MRT　myorhythmia　ミオリスミア
+MRTK　malignant rhabdoid tumor of the kidney　腎悪性横紋筋肉腫様腫瘍
+MRU　magnetic resonance urography　MR（磁気共鳴）ウログラフィー
+MRU　minimal reproductive units　最小繁殖単位
+MRV　magnetic resonance venography　MR（磁気共鳴）静脈造影
+MS　M\u000000e9ni\u000000e8rer\u000002bcs syndrome　メニエール症候群
+MS　main stream　主流煙
+MS　malignant syndrome　悪性症候群
+MS　margin of safety　安全域
+MS　mass-spectrometry　質量分析法
+MS　maxillary sinus　上顎洞
+MS　maximum stress　最大刺激
+MS　medial sacral artery　正中仙骨動脈
+MS　mediastinal shift　縦隔洞移動
+MS　mitral stenosis　僧帽弁狭窄(症)
+MS　morning stiffness　早朝硬直(こわばり)
+MS　morphine sulfate　硫酸モルヒネ
+MS　motion sensitivity　運動感受性
+MS　multiple sclerosis　多発性硬化症。中枢神経系（脳）の炎症性脱髄疾患（脊髄）の一つで，難病に指定されている。視力障害，複視，小脳失調，四肢の麻痺，感覚障害，膀胱直腸障害，歩行障害等の症状がある。大部分は急性発症し，再発寛解を繰り返して長期にわたり治療を要する。原因は明らかではないが，発病や再発は感染症，過労，ストレス，出産後等に多くみられる。
+MS　muscle strength　筋力
+MSA　membrane stabilizing activity　膜安定化作用
+MSA　membranous septal aneurysm　膜性部中隔瘤，膜性中隔動脈瘤
+MSA　multiple system atrophy　多系統萎縮症。自律神経系，小脳系，錐体外路系など多系統に萎縮が生じた疾患の総称で，難病の一つ。従来，オリーブ橋小脳萎縮症，線条体黒質変性症，シャイ・ドレーガー症候群などと，個別に分類されていた疾患が病理学的に同一疾患であり，オリーブ，橋，小脳，綿条体，黒質，自律神経系での病変分布によって臨床像が異なるものとされ，３つの疾患を「多系統萎縮症」と総称するようになった。
+MSA　multiplication stimulating activity　多様刺激活性
+MS-Ag　membrane soluble antigen　膜可溶化抗原
+mSAP　mean systemic arterial pressure　平均全身動脈圧
+MSBOS　maximum surgical blood order schedule　最大手術血液準備量
+MSBP　munchausen syndrome by proxy　代理によるミュンヒハウゼン症候群。親が子どもの病気を捏造して医療機関にかかるという児童虐待。加害者には母親が多く，子どもの症状や自分のことについて巧みに嘘を語る。周囲には献身的に看護する人に見えるが，医師らの目の届かないところで，薬を飲ませる，肌を傷つけるなど，様々な方法で子どもを病気に仕立てる。
+MSC　midsystolic click　収縮中期クリック
+MSCNS　methicillin-susceptible coagulase negative Staphylococcus　メチシリン感受性コアグラーゼ陰性ブドウ球菌
+MSD　mean survival days　平均生存日数
+MSD　multiple sulfatase deficiency　複合型スルファターゼ欠損症
+msDNA　multi-copy single-stranded DNA　多コピー低分子核酸
+MSER　mean systolic ejection rate　収縮期平均駆出率
+MSF　mean systolic force　平均駆出力
+MSF　muscle shock factor　筋ショック因子
+MSFA　maximum shunt flow area　最大短絡血流面積
+MSG　monosodium glutamate［ラ］　グルタミン酸ナトリウム
+MSH　melanocyte stimulating hormone　メラニン(色素)細胞刺激ホルモン
+MSI　mitral stenoinsufficiency　僧帽弁狭窄兼閉鎖不全(症)
+MSI　mitral stenosis index　僧帽弁狭窄指数
+MSK　medullary sponge kidney　髄質海綿腎
+MSL　midsternal line　胸骨中線
+MSLT　multiple sleep latency test　睡眠潜時反復検査。日中の眠気を客観的に測定するためのポリグラフ検査で，ナルコレプシーの診断等に用いられる。
+MSN　main sensory nucleus　主知覚核
+MSN　medial septal nucleus　内側中隔核
+MSOF　multiple systemic organ failure　多系統臓器失調
+MSR　mitral stenosis and regurgitation　僧帽弁狭窄兼閉鎖不全
+MSR　monosynaptic reflex　単一シナプス反射
+MSRM　mucoid, smooth, rough mutation　粘液，均一性，粗\u00007cd9変異
+MSRPP　multidimensional scale for rating psychiatric patients　多面人格尺度。精神病疾患を評価する尺度
+MSS　Marinesco-Sj\u000000f6gren syndrome　マリネスコ・シェーグレン症候群
+MSSA　methicillin-sensitive (methicillin-susceptible) Staphylococcus aureus　メチシリン感受性黄色ブドウ球菌
+MST　maximal stimulation test　最大刺激検査
+MST　mean survival time　生存平均期間
+MST　median survival time　50％生存期間
+MST　multiple subpial transection　軟膜下（皮質）多切術
+MStF　migration stimulation factor　遊走刺激因子
+MSU　midstream specimen of urine　中間尿。排尿初期ではなく，途中の尿のこと。特に尿路常在菌の混入を防ぐことを目的として，女性の尿検査時に採尿する。
+MSUD　maple syrup urine disease　楓糖尿症
+MSUM　monosodium urate monohydrate　痛風結晶。痛風（gout）とは，血液中の尿酸が多くなる高尿酸疾患を基礎疾患とし，尿酸塩の沈着などによって起こる急性関節炎・痛風結節（痛風結晶）・腎障害などを主な症状とする。
+MSV　Maize streak virus　メイズストリークウイルス
+MSV　measles virus　麻疹ウイルス
+MSVC　maximal sustainable ventilatory capacity　最大耐容換気容量
+MSVR　maximal secretion volume rate　最高胃液分泌量
+MSW　medical social worker　医療ソーシャルワーカー
+MSW　multiple stab wounds　多刺創
+MT　mean transit time computer　平均循環時間測定装置
+MT　medical technician　臨床検査技師
+MT　medical technologist　衛生検査技師
+MT　membrana tympani［ラ］　鼓膜
+MT　metallothionein　メタロチオネイン
+MT　minor tremor　微小振戦
+MT　missing teeth　欠損歯(欠如歯)（歯)
+Mt　mitochondria　ミトコンドリア
+MT　Mund Therapie［独］　ムンテラ
+MTA　medical technology assessment　医療技術評価
+MTAg　mite antigen　ダニ抗原
+MTBA　maximum total bile acids　最高総胆汁酸
+MTBFL　meantime between function loss　機能喪失平均時間
+MTBM　meantime between maintenance　維持平均時間
+MTC　magnetization transfer contrast　磁化移動コントラスト
+MTC　methacycline　メタサイクリン（抗生物質）
+MTC　mitomycin C（＝MC，MMC）　マイトマイシンC。抗腫瘍抗生物質
+MTD　maximum tolerance (tolerated) dose　最大耐用量，極量。日本薬局方で定められた，その量を超えては生命に危険であるという薬の警戒量のこと。
+MTD　Monroe Todal drainage　モンロートダル排液法
+mtDNA　mitochondrial DNA　ミトコンドリアDNA
+MTDT　methylthiadiazole thiol　メチルチアジアゾジオール
+MTFase　methyltransferase　メチル基転移酵素
+MTI　moving target indicator　移動標的指示薬
+MTLP　metabolic toxemia of late pregnancy　晩期妊娠代謝性中毒症
+MTM　minor tooth movement　マイナートゥースムーブメント，部分矯正（歯）
+MTOC　microtubule organizing center　微小管形成中心
+MTP joint　metatarsophalangeal joint　中足趾節関節
+MTR　Meinike Tr\u000000fcbungsreaktion［独］　マイニッケ混濁反応（梅毒血清反応）
+MTS　mesenteric traction syndrome　腸間膜牽引症候群
+MTS　microtubles　微小管
+MTT　3- (4,5-dimethylthyiazol) -2,5-diphenyl-tetrazolium bromide　ジメチルチアゾール・ジフェニル・テトラゾリウム臭酸塩
+MTT　mean tidal time　平均呼吸時間
+MTT　mean transit time　平均循環時間，平均通過時間
+mtTFA　mitochondrial transcription factor A　ミトコンドリア転写因子A
+MTU　methyl-thiouracil　メチルチオウラシル（甲状腺薬）
+M. tuberc　Mycobacterium tuberculosis　結核菌
+MTV　mammary tumor virus　乳癌ウイルス
+MTX　methotrexate　メトトレキサート(メソトレキセート\u000000ae)（抗悪性腫瘍薬・免疫抑制剤）
+MTZ　metronidazole　メトロニダゾール
+MU　Montevideo unit　モンテビデオ単位
+MuA　Morgen und Abend［独］　朝と夕方の意。MuA×２とあれば，朝夕２回に服用の意(処)
+MUA　multiple unit activity　多様活動性
+MUAP，MUP　motor unit (action) potential　運動単位（活動）電位
+muc　mucinous adenocarcinoma　膠様腺癌
+MuLV　murine leukemia virus　マウス白血病ウイルス
+MU，mu　mouse unit　マウス単位
+MuS　musclo-skeletal　筋骨格の
+musc　muscles　筋肉
+mustrgen　mustard nitrogen　ナイトロジェンマスタード（アルキル化系の抗悪性腫瘍薬）
+MV　maximal secretion volume　最高刺激後胃液分泌量
+MV　measles virus　麻疹ウイルス
+MV　mechanical ventilation　機械的換気
+MV　microvesicle　微小嚢胞
+MV　microvibration　マイクロバイブレーション
+MV　microvilli　微小絨毛
+MV　minute ventilation　分時換気量
+MV　minute volume　分時拍出量
+MV　mitral valve　僧帽弁。心臓に４つある弁（右心系の三尖弁，肺動脈弁，左心系の大動脈弁，僧房弁）の一つで，左房室弁，二尖弁ともいう。三尖弁，肺動脈弁，大動脈弁が３つの弁尖から成るのに対して，僧房弁は２つの弁尖から成る。左心房と左心室の間にある左房室口に存在し，左心室から左心房へ血液が逆流しないよう防止する機能がある。具体的には，肺を通じて酸素を大量に含んだ血液が肺静脈を経由して左心房に流れ込み，収縮すると同時に僧房弁が開弁して左心室へと血液を送り込む。左心室は大動脈弁を通じて大動脈に血液を送り込むため収縮すると同時に僧房弁が閉じて，左心房に血液が逆流しないようにしている。
+MV　monochromatic vision　単色視
+MVA　mevalonic acid　メバロン酸
+MVA　mitral valve area　僧帽弁口面積
+M-VAC　MTX＋VLB＋DXR＋CDDP　尿路上皮癌に対する化学療法の一つ
+MVC　maximal voluntary contraction　最大随意収縮
+MVcf　mean velocity of circumferential　円周平均速度
+MVD　microvascular decompression　微小血管減圧術，神経血管減圧術
+MVE　Murray Valley encephalitis　マリー・バレー脳炎
+MVG　mitral valvular gradient　僧帽弁口圧勾配
+MVI　multi-vitamin infusion　混合ビタミン注射液
+MVM　medullary venous malformation　髄質静脈奇形
+MVO2　myocardial oxygen consumption　心筋酸素消費量
+MVOC　microbial valatile organic compounds　微生物由来揮発性有機化合物
+MVP　mitral valve prolapse　僧帽弁逸脱
+MVP，MVPS　mitral valve prolapse syndrome　僧帽弁逸脱症候群
+MVPP　6-mercaptopurine+vinblastine+procarbazine+prednisolone　6-メルカプトプリン＋ビンブラスチン＋プロカルバジン＋プレドニゾロン。悪性リンパ腫の化学療法の組み合わせの一つ
+MVR　maximum voiding rate　最高排尿比
+MVR　mitral valve replacement　僧帽弁置換(術)
+MVV ☆　maximal (maximum) voluntary ventilation　最大換気量。肺機能検査の一つで，最大の努力をした換気量で，できるだけ多く呼吸したときの呼気の総量。通常12秒間行い，１分に換算して表す（L/m）。この測定値と予測値（肺活量測定による１秒量×40）と比較して，呼吸予備力，呼吸筋力，呼吸刺激の強さ，気道閉塞の程度などを調べる。
+MW　medical waste　医療用廃棄物
+MW　micro-wave　マイクロ波
+MW　midwife　助産師
+MW，M.W.　molecular weight　分子量
+MWFT　microwave Fourier transform spectroscopy (or spectrometer)　フーリエ変換型マイクロ波分光（計）
+MWS　Mallory-Weiss syndrome　マロリー・ワイス症候群。激しく嘔吐したときに，食道と胃の接合部の粘膜が裂けて大量の吐血を起こす疾患
+MX　mexiletine　メキシレチン（抗不整脈薬）
+Mx　Minoxidil　ミノキシジル
+My　myopia　近視
+My-Ag　myeloid antigen　骨髄球抗原
+MyaR　myasthenic reaction　筋無力性反応
+Mybl　myeloblast　骨髄芽球
+myc　myelocytomatosis　骨髄細胞腫症
+Myco　Mycobacterium　マイコバクテリウム属
+MyD　myotonic dystrophy（＝MD）　筋強直性ジストロフィー，筋緊張性ジストロフィー。筋の弛緩に時間がかかる筋強直を主症状とする全身性の疾患
+myel　myeloid　骨髄の，骨髄球様の
+myelo　myelocyte　骨髄球
+Myelo　myelography　ミエログラフィー，脊髄造影法（主としてヨード化油）
+MYH11　myosin heavy chain　ミオシン重鎖
+Myl　myeloblast　骨髄芽球
+mylo　mylohyoid　顎舌骨の
+myo inf　myocardial infarction（＝MI，MCI）　心筋梗塞
+myop　myopia　近視
+MyoR　myotonic reaction　筋強直反応
+Myringo　myringoplasty　鼓膜形成手術
+MYXV　myxoma virus　ミクソーマウイルス
+MZL　marginal zone lymphocyte　辺縁領域リンパ球
+MZPC　mezlocillin　メズロシリン
+MZR　mizoribine　ミゾリビン（免疫抑制剤）
+Mφ　macrophage　マクロファージ，大食細胞
+M-チノウ☆　発達及び知能検査
+M-レンソウ☆　人格検査。ある刺激場面に置いたときの情意面の反応を調べ，人格の特性を明らかにしようとする検査。Y-G矢田部ギルフォード性格検査，バウムテスト，ロールシャッハテストなど，さまざまな検査がある。
