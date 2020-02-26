@@ -1,0 +1,691 @@
+Ｅ
+E　edema　浮腫，むくみ。細胞内，組織間隙，体腔内に組織液またはリンパ液が貯留すること。全身に起こる浮腫と，特定の部位だけに起こる局所性浮腫がある。毛細血管内圧の上昇，血漿膠質浸透圧の低下，毛細血管透過性の亢進，組織圧の低下，ナトリウムイオンの貯留などの諸因子によって引き起こされる。うっ血性心不全，ネフローゼ症候群などが浮腫を伴う代表的疾患である。
+3E　effort，eating，emotion　労作，食事，情動
+E　embolia，embolism　塞栓症。embolic　塞栓の
+E　emulsion　乳剤
+E☆　endoscope　内視鏡
+E　enema　浣腸
+E　enzyme　酵素。生体内のほとんどの化学反応に触媒作用をもつ物質（蛋白質）の総称。酵素はそれぞれ特定の反応を触媒する。
+E　eosinophile　好酸球。白血球の一種である顆粒球の一つ。中にある顆粒が酸で染色されることから好酸球と呼ばれる。Ⅰ型アレルギー（アレルギー対象物質に接してから数分で症状が現れる即時型アレルギー）や寄生虫の感染などで増加し，中毒性疾患や悪性貧血，白血病などで減少する。
+E　erythrocyte，erythroid cell（＝Er）　赤血球。骨髄で造られ血液全体の40〜50％を占める無核の細胞。酸素と炭酸ガスの運搬，pH調節を主な機能とする。骨髄機能低下で産生が落ちると再生不良性貧血などになり，反対に骨髄機能亢進では，赤血球増加症，鉄欠乏性貧血になる。
+E　esophageal lead　食道誘導
+E　esophagus　食道
+E　estrogen　エストロゲン。卵胞ホルモン。脳下垂体より分泌される卵胞刺激ホルモン（FSH）によって卵胞が発育しエストロゲンが分泌され，子宮内膜が増殖肥厚し受精準備状態を形成する。
+E　extraction ratio　除去率。腎機能検査の一つで，負荷物質が腎から排泄される率をいう
+E1　estrone　エストロン
+E107　tribromoethanol　トリブロモエタノール。麻酔薬
+E2　estradiol　エストラジオール。エストロン，エストリオールとともに女性ホルモンであるエストロゲンに含まれる。エストラジオールはこれらのうち生理活性が最も高く子宮頸管分泌腺を刺激し，子宮内膜の成長を促し受精準備状態を形成する。不妊あるいは女性ホルモン減少により起こるとされる更年期障害に対し，治療的に使用されることもある。
+E2F　E2F transcription factor　E2F転写因子
+E2精密　estradiol　エストラジオール精密測定
+E3　estriol　エストリオール
+E3精密　estriol　エストリオール精密測定
+E4　estetrol　エステトロール
+Ea　abdominal esophagus　腹部食道
+EA　early antigen　初期抗原
+EA　effort angina　労作性狭心症
+EA　enteric coated aspirin　アスピリン腸溶錠。アスピリンの副作用に胃などの消化性潰瘍があるため，腸内で溶けるよう設計されたもの
+EA　enteroanastomosis　腸吻合術，腸腸吻合
+EA　ethacrynic acid　エタクリン酸。利尿剤
+EAA　essential amino acid　必須アミノ酸
+EAAT　excitatory amino acid transporter　興奮性アミノ酸トランスポーター
+EAC　external auditory canal（＝EAM）　外耳道
+EACA　ε-aminocaproic acid　イプシロン・アミノカプロン酸
+EACC　external auditory canal cholesteatoma　外耳道真珠腫
+EACD　eczematous allergic contact dermatitis　湿疹状アレルギー性接触皮膚炎
+EAD　early afterdepolarization　早期後脱分極
+EA-D　early-antigen diffuse type　早期抗原拡散型
+EADL　extended activity of daily living　拡大日常生活動作
+EAE　evoked acoustic emission　誘発耳音響放射
+EAE　experimental allergic encephalomyelitis　実験的アレルギー性脳脊髄炎
+EAEC　entero adherent Escherichia coli　腸管付着性大腸菌。ヒトに下痢を起こす下痢原性大腸菌の一つ
+EAF　enteropathogenic Escherichia coli adherent factor　腸内病原性大腸菌付着因子
+EAG　electroatriogram　心房電図
+EAggEC　enteroaggregative Escherichia coli　腸管凝集付着性大腸菌
+EAGLE　easy analysis in graphics of long-term ECG system　12誘導連続記録解析心電図装置
+EAM　experimental autoimmune myositis　実験的自己免疫性筋炎
+EAM　external auditory meatus（＝EAC）　外耳道
+EAMG　experimental autoimmune myasthenia gravis　実験的自己免疫性重症筋無力症
+EAN　experimental allergic neuritis　実験的アレルギー性神経炎
+EAO　experimental autoimmune orchitis　実験的自己免疫睾丸炎
+EAP　epiallopregnanolone　エピアロプレグナノロン
+EAP　evoked action potential　誘発活動電位
+EAP　eye artifact potential　眼球人工電位
+EaR　Elektroentartungsreaktion［独］　電気変性反応検査
+EAT　ectopic atrial tachycardia　異所性心房\u0000fa6a拍
+EAT　epidermolysis acuta toxica［ラ］　急性中毒性表皮剥脱
+EAU　experimental allergic uveitus　実験的アレルギー性ぶどう膜炎
+EAU　experimental autoimmune uveoretinitis　実験的自己免疫性ぶどう膜網膜炎
+EB　epidermal burn　表皮熱傷
+EB　epidermolysis bullosa　表皮水疱症
+EB　Epstein-Barr virus　エプスタイン・バー・ウイルス。1964年に熱帯アフリカの小児に多発するバーキットリンパ腫から分離した，世界で最も古いヒトヘルペス属ウイルス。名称は発見者であるEpsteinとBarrに由来してつけられた。EBウイルスの急性感染症として伝染性単核球症がある。
+EB　Erlebnistypus［独］　体験型（ロールシャッハ・テストにおける用語）
+EB　ethambutol　エタンブトール（抗結核薬）
+EB　ethambutol hydrochloride　塩酸エタンブトール（抗菌薬）
+EB　ethidium bromide　臭化エチジウム。リンパ球幼若化試験に用いられる蛍光物質
+EBA　epidermolysis bullosa acquisita［ラ］　後天性表皮水疱症
+EBAS　endogenous brain analgesia system　内在性脳内鎮痛系
+EBC　enuretic bladder capacity　夜尿時膀胱容量
+EBC　ethylbenzyl chloride　塩化エチルベンジル
+EBCT　electron-beam CT　電子ビーム走査型CT
+EBD　endoscopic biliary drainage　内視鏡的胆道ドレナージ
+EBF　erythroblastosis fetalis［ラ］　胎児赤芽球症
+EBH(P)F　estimated hepatic blood (plasma）flow　計測肝血(漿)流量
+EBI　ergosterol biosynthesis inhibitor　エルゴステロールの選択的生合成阻害剤
+Ebl　erythroblast　赤芽細胞，赤芽球
+EBL　estimated blood loss　推定出血量，予測出血量
+EBLM　evidence based laboratory medicine　科学的根拠に基づく実験的医療
+EBM　evidence besed medicine　根拠に基づく医療。生物医学的知識と医師の個人的経験に基づいていた従来の治療に対して，患者集団の診断・治療・予後などに関するデータを疫学的・生物統計学的に解析し，目の前の個々の患者に適した診療を，患者の同意を得て確率論的に決断し治療を行うこと。
+EBNA　EB virus nuclear antigen　EBウイルス核内抗原
+EBP　epidural blood patch　硬膜外自家血注入。脳脊髄液減少症の治療法であるブラッドパッチのこと
+EBRT　external beam radiation therapy　外部放射線照射療法
+EBS　emergency broadcast system　救急放送システム
+EBS　epidermolysis bullosa simplex　単純性表皮水疱症
+EBUS　endobronchial ultrasonography　気管支腔内超音波断層法
+EBUS-TBNA　endobronchial ultrasonography guided TBNA　超音波気管支鏡ガイド下針生検
+EBV，EB virus　Epstein-Barr virus　エプスタイン・バー・ウイルス
+EC　effector-cell　エフェクター細胞
+EC　Ehrlich carcinoma　エールリッヒ癌
+EC　emergency capability　救急対応能力
+EC　endocarditis　心内膜炎
+EC　endothelial cell　血管内皮細胞
+EC　erythrocyte concentration　濃厚赤血球
+EC　esterified cholesterol　エステル型コレステロール\u000021e8Echo
+E/C　estrogen-to-creatinine (ratio)　エストロゲン・クリアチニン比
+EC　expiratory center　呼吸中枢
+ECA　external carotid artery　外頸動脈
+ECBV　effective circulation blood volume　有効循環血液量
+ECC　electrocorticogram　電気脳皮質図
+ECC　emergency cardiac care　救急心疾患治療
+ECC　extracorporeal circulation　体外循環。血液を体外に導いて必要な操作を加え，再び体内に戻す治療法。心臓内部の病変に対して開心術を行う際，心血流遮断を安全に行うために開発された技術（人工心肺装置）。心臓に帰ってくる静脈血を心臓の手前で遮断して，全量をいったん身体の外に誘導し，人工心肺装置（人間の心臓と肺の役目をする）に流し込み，その静脈血の炭酸ガスを除去して酸素を加えて肺のガス交換を人工的に行い動脈血化したのちに，カニューレを使用して動脈系内に再挿入する。体内に入った動脈血は心臓に流れ込む手前で遮断され，内部には流入せずに生体に酸素を供給する。
+ECCE　extracapsular cataract extraction　水晶体嚢外摘出術，白内障嚢外摘出術
+EC cell　enterochromaffine cell　腸クロム親和性細胞，エンテロクロマフィン細胞
+ECD　99mTc-ethyl cysteinate dimmer　テクネシウムエチルシステイン二量体。脳血流シンチグラフィ用薬剤
+ECD　electrochemical detector　電気化学検出器。高速液体クロマトグラフィー(HPLC)の検出器の一つ
+ECD　endocardial cushion defect　心内膜床欠損症
+ECDUS　endoscopic color doppler ultrasonography　内視鏡的超音波カラードプラ法
+ECE　endothelin-converting enzyme　エンドセリン変換酵素
+ECF　eosinophile chemotactic factor　好酸球遊走因子
+ECF　extracellular fluid　細胞外液。細胞外のすべての体液(血液，リンパ，組織液，髄液など)
+ECF-A　eosinophil chemotactic factor of anaphylaxis　アナフィラキシー性好酸球遊走因子
+ECFE　endocardial fibroelastosis　心内膜線維弾性症
+ECFV　extracellular fluid volume　細胞外液量
+ECG　electrocardiograph　心電計
+ECG　electrocardiography　心電図。EKG［独］。心臓の筋肉（心筋）が動くときに発生する微弱な電流を増幅させて記録したもの。心電図を連続監視する装置を心電図モニターといい，記録装置を心電計という。基本的には，心房筋の興奮を表すP波，心室筋の興奮を表すQRS波，心室筋興奮の回復を表すT波の３波から成る。不整脈，心筋梗塞，冠状動脈不全，狭心症，心臓弁膜症，心臓神経症，心不全，高血圧，動脈硬化症，術前検査などに広く用いられる。
+ECGフカ☆　負荷心電図検査(運動負荷，薬剤負荷)
+ECG携(ECGケイタイ）☆　携帯用心電図，長時間連続記録心電図検査，ホルター型心電図検査。携帯型磁気テープ記録装置を用いて，日常生活中の心電図を長時間連続記録し，解析する検査。ホルター心電計で１回に記録される時間は24〜48時間であり，通常の心電図記録と比べ膨大な心電図情報が収集できる。長時間心電図は，各種不整脈発作，狭心症，これらに対する薬物の効果判定，ペースメーカー機能のチェック，突然死の予知，成人病検診への応用など，適応範囲は広い。
+Echo　echography　超音波検査。高い周波数の音波を生体に入射して臓器・組織などから返ってくる反射波で生体内の構造を調べる画像検査法。検査者の技能の差が大きく再現性が低いという欠点があるが，手軽に使えて比較的人体への影響が少ないため，その応用範囲は広い。反射波の分析方法により，Aモード法，Bモード（断層撮影）法，Mモード法，ドップラー法などに分けられる。
+ECHO　enteric cytopathogenic human orphan virus　エコーウイルス(腸管系ウイルス)。腸管系ウイルスの一つ。経口的に感染し，便中に排出されたものが感染源となる。腸管系ウイルスにはほかに，ポリオウイルス，コクサッキーウイルスなどがある。エコーウイルスは感染しても過半は無症状だが，ときに気道疾患，結膜炎，睾丸炎，心筋炎，無菌性髄膜炎，流行性筋痛症などを引き起こす。
+Echo，E-ch　cholesterol ester　エステル型コレステロール(コレステリン）。遊離型と併せて存在，両型併せて総コレステロールという。
+ECI　extra corporeal irradiation　体外照射。電離放射線を用いて悪性腫瘍の治療を放射線で行う治療の一つ。高エネルギー放射線，電子線，ガンマ線を病巣に照射する方法のうちの，リニアック（直線加速器）を用いた照射法である。一定の線量以上照射することで細胞を殺すことができる。別に，コバルト60を大量に腔内照射する体腔内照射療法もある。
+EC-IC　external carotid arteria，internal carotid arteria　外頸-内頸動脈
+EC-IC bypass　extracranial-intracranial bypass　頭蓋外頭蓋内バイパス
+E-C junction　esophagocardial junction　食道噴門接合部(Z line)
+ECL　electrocardiograph logarithm　心電図対数
+ECLA　extracorporeal lung assist　体外式肺補助
+ECL cell　enterochromaffin-like cell　腸クロム親和性細胞様細胞，エンテロクロマフィン様細胞
+ECLE　extracapsular lens extraction　嚢外レンズ摘出。白内障手術の一つ
+ECLHA　extracorporeal lung and heart assist　体外式心肺補助
+ECLIA　electrochemiluminescence immuno assay　電気化学発光免疫測定法
+ECLS　extracorporeal cardiopulmonary support　体外式心肺補助
+ECM　erythema chronicum migrans　慢性遊走性紅斑
+ECM　external cardiac massage　体外心マッサージ
+ECM　extracellular matrix　細胞外マトリックス
+ECMO　extracorporeal membrane oxygenation　体外膜型肺
+E Coch G　electrocochleography　蝸牛電図法
+ECoG　electrocochleogram　蝸電図。聴力検査
+ECOG，ECoG　electrocorticogram　皮質脳波図，皮質電図
+E. coli　Escherichia coli　大腸菌。多くは非病原性だが，病原性のものは溶血性で敗血症を招き，膀胱炎や腎盂炎の原因となることもある。
+ECP　emergency contraception pill　緊急避妊ピル
+ECP　eosinophil cationic protein　好酸球塩基性蛋白
+ECP　erythrocyte coproporphyrin　赤血球コプロポルフィリン
+ECP　Escherichia coli derived protein　大腸菌由来蛋白。大腸菌ポリペプチド
+ECRB　extensor carpi radialis brevis muscle　短橈側手根伸筋
+ECRL　extensor carpi radialis longus muscle　長橈側手根伸筋
+ECS　electroconvulsive shock　電気痙攣ショック
+ECS　extracapsular spread　被膜外拡散
+ECT　elcatonin　エルカトニン。骨粗鬆症に使用
+ECT　electroconvulsive shock therapy　電撃療法，電気痙攣ショック療法
+ECT　emission computed tomography　放射型コンピュータ断層撮影
+ECT　emission CT　エミッションCT
+ECT　enteric coated tablet　腸溶錠
+EC/TC　esterified cholesterol/total cholesterol ratio　エステル型コレステロール比
+ECU　extensor carpi ulnaris muscle　尺側手根伸筋
+ECUM　extracorporeal ultrafiltration method　体外限外濾過法
+ECV　extracellular volume　細胞外体積
+ECW　extracellular water（＝ECF）　細胞外液
+ED　diodrast extraction ratio　ダイオドラスト除去率。尿細管機能の指標
+ED　eating disorder　摂食障害
+ED　effective dose　有効量(薬剤・放射線)
+ED　elemental diet　成分栄養法
+ED　end-distole　拡張期終期
+ED　enteric drainage　腸管ドレナージ。十二指腸を小腸に吻合し膵液を小腸に排出する方法
+ED　enzyme deficiency　酵素欠乏症
+ED　erectile dysfunction　性機能障害（勃起障害）
+ED　erythema dose　紅斑量。放射線照射により紅斑の生ずる量
+ED　extensive disease　進展型
+ED50　50％ effective dose　50％有効量。有効表示用語
+EDA　electrodermal activity　皮膚電位
+EDA　ethylenediamine　エチレンジアミン
+EDAS　encephalo-duro-arterio-synangiosis　脳−硬膜−動脈縫着術
+EDC　enramycin　エンラマイシン
+EDC　expected (or estimated) date of confinement　分\_c07791(出産)予定日
+EDC　extensor digitorum communis muscle　総指伸筋
+EDCF　endothelium-derived constricting factor　内皮由来収縮因子
+EDD　end-diastolic dimension　拡張終期径
+EDD　expected date of delivery　分娩予定日
+ED，Ed　estradiol　エストラジオール
+EDG　electrodermatogram　皮膚電気抵抗図
+EDH　epidural (extradural) hematoma　硬膜外血腫。硬膜とは，脳や脊髄を保護する３種類の膜（硬膜，くも膜，軟膜）のなかで一番外側にある膜。硬膜外血腫とは外傷等によって頭蓋骨と硬膜の間に発生する血腫（血の塊）のこと。なお，硬膜と脳の間に発生する血腫のことを硬膜下血腫という。
+EDL　extensor digitorum longus　長趾伸筋
+EDLF　endogenous digitalis-like factor　内因性ジギタリス様物質
+EDM　early diastolic murmur　早期拡張雑音
+EDM　extensor digiti minimi　小指伸筋
+EDN　eosinophil derived neurotoxin　好酸球由来神経毒。好酸球特異顆粒の一つ
+EDP　end-diastolic pressure　拡張終期圧
+EDP　epidural intracranial pressure　硬膜上頭蓋腔圧
+ED-PCR　enzyme detection of PCR products　ED-PCR法
+EDPS　electronic data processing sysytem　コンピュータデータ処理システム
+EDR　effective direct raditation　有効直接照射
+EDR　electrodermal response　皮膚電気反応
+EDR　ethanol degradation rate　アルコール酸化係数
+EDRF　endothelium-derived relaxing factor　内皮細胞由来弛緩因子
+EDS　Ehlers-Danlos syndrome　エーラース-ダンロス症候群
+EDS　energy dispersive X-ray spectroscopy（＝EDX）　エネルギー分散型X線分光法
+EDS　excessive daytime sleepiness　過剰昼間睡眠
+EDTA　ethylenediaminetetraacetic acid　エチレンジアミン四酢酸(塩），エデト酸(塩），キレート試薬。重金属中毒治療薬，抗凝結剤
+EDV　Ehrlich cell destruction virus　エールリッヒ細胞破壊ウイルス
+EDV　end-diastolic volume　拡張終期容積
+ED virus　Ehrlich cell destruction virus　エールリッヒ細胞破壊ウイルス
+EDX　energy dispersive X-ray spectroscopy（＝EDS）　エネルギー分散型X線分光法
+EE　embryo extract　胎児抽出物，胎盤エキス
+EE　ethynyl estradiol　エチニルエストラジオール。経口避妊薬の主成分
+EE　eye and ear　目と耳
+EEA　end-to-end inverting anastomosis　消化管器械吻合
+EEC　emergency cardiac care　救急心臓病治療
+EED　erythema elevatum diutinum　持久性隆起性紅斑
+EEE　eastern equine encephalitis　東部ウマ脳炎
+EE，EEA　end to end　端々吻合。管腔の端と端を吻合する術式
+EEEV　eastern equine encephalitis virus　東部ウマ脳炎ウイルス
+eEF　elongation factor　伸長因子
+EEG　echoencephalography　頭蓋内超音波検査(法)
+EEG☆　electroencephalography　脳波検査。頭皮上の一定の部位に電極を装着し，脳の神経細胞の電気的活動を脳波計により検査すること。脳波検査が最も有用とされるのは「てんかん」に対してで，賦活検査（過呼吸，光刺激，音刺激，睡眠など）を行って発作波や異常波を誘発させ，てんかんの診断を行う。また，昏睡や意識障害の程度や鑑別をするためにも重要である。
+EEH　elemental enteral hyperalimentation　成分経腸栄養法（成分栄養経管栄養法）。経口摂取が困難な患者に対して，消化態経腸栄養剤（ツインライン，エレンタール，エレンタールＰ，エンテルード）をチューブを介して投与する栄養法。投与ルートには，①経鼻，胃・十二指腸ルート，②胃瘻ルート，③空腸瘻ルートの３つがある。
+E，Eiw　Eiweiss［独］　蛋白質，プロテイン。20種のアミノ酸がペプチド結合により多数連結したもの。一般的には，蛋白質を主成分とするプロテインサプリメントを指す場合が多い。プロテインサプリメントは栄養補助食品として，主に筋肉を維持または増強する目的で摂取される。
+EEM　erythema exudativum multiforme［ラ］　多形滲出性紅斑
+EEMG　evoked electromyography　誘発筋電図
+EEMM　erythema exsudativum multiforme major　重症型多形滲出性紅斑
+EEMR　endoscopic esophageal mucosal resection　内視鏡的食道粘膜切除術
+EEP　end expiratory pressure　呼気終末圧
+EESG　evoked electrospinogram　誘発脊髄電図
+EEV　encircling endocardial ventriculotomy　心室内膜環状切開術
+EF　ejection fraction　駆出分画，駆出率。１回拍出量を心室拡張終末期容積で除したもの。心機能の指標となる。
+EF　elongation factor　伸長因子
+EF　endocardial fibroelastosis　心内膜線維弾性症
+EF　esophagofiberscope　食道内視鏡，食道ファイバースコピー
+EF　extended-field　広範囲照射野
+EF　extrinsic factor　外因子
+EF☆　fiberscope　ファイバースコープ。柔軟な細いグラスファイバー（ガラス繊維）を用いた内視鏡のこと。口や肛門から細い管を挿入して直接体内を観察する。接眼部にカメラを取り付けて撮影することが多い。直視下に病変部の粘膜の生検を行い，組織学的に確認することも重要である。また，ファイバースコープを用いて手術を行うこともある。
+EF　serum Eiweiss Fraktion［独］　血清蛋白分画
+EFA　enhancing factor of allergy　アレルギー増強因子
+EFA　essential fatty acid　必須脂肪酸。体内で合成できない脂肪酸。リノール酸，リノレン酸，アラキドン酸など
+EFAD　essential fatty acid deficiency　必須脂肪酸欠乏
+EFE　endocardial fibroelastosis　心内膜線維弾性症
+EFM　electronic fetal monitoring　電気式胎児監視
+EFNa　excretion of functional sodium　機能ナトリウム分泌
+EFP　effective filtration pressure　有効濾過圧
+EFR　effective filtration rate　有効濾過率
+EFS　event free survival　イベントフリー生存率，無病生存率
+EF-TEM　energy-filtering transmission electron microscopy　エネルギーフィルター型透過電子顕微鏡
+EFVC　expiratory flow-volume curve　呼気フローボリューム曲線
+EFW　estimated fetal weight　推定胎児体重
+E・Fファイル　DPC（診断群分類）対象病院・準備病院が提出する「診療報酬明細書情報」。医科診療報酬点数表に基づく出来高による診療報酬の算定情報。Eファイルの内容は「診療明細情報」，Fファイルの内容は「行為明細情報」。なお，Dファイルもあり，その内容は「包括レセプト情報」で，DPC対象病院のみが提出する。
+EF-ブロンコ☆　気管支ファイバースコピー。咽喉頭，声帯，気管，気管支を直視下に観察，あるいは透視も併用して，病変部の擦過診，生検，洗浄等の検査も行う。診断的検査としては喀血，遷延性咳，局所性喘鳴，肺異常陰影，遷延性肺炎無気肺，癌細胞診陽性，反回神経麻痺，肺膿瘍，特殊な感染症などに実施される。治療的には分泌物の除去，異物の除去，肺胞蛋白症，挿管困難患者の挿管，大量喀血時バルーン止血，気管内レーザー治療などに行われる。
+EF-胃(EF-イ）☆　胃ファイバースコピー
+EF-喉頭(EF-コウトウ）☆　喉頭ファイバースコピー
+EF-十二指腸/球(EF-12シチョウ/キュウ）☆　十二指腸ファイバースコピー，十二指腸球部。十二指腸にファイバースコープを挿入して観察する内視鏡検査。側視が主体でERCP（逆行性膵胆管造影）やEST（内視鏡的乳頭切開術）等の特殊検査・治療に用いられることが多い。
+EF-小腸(EF-ショウチョウ）☆　小腸ファイバースコピー。小腸を観察するために開発された長く細茎のファイバースコープを用いた検査。バルーンを併せもつタイプもある。
+EF-食道(EF-ショクドウ）☆　食道ファイバースコピー。直腸ファイバースコピー
+EF-胆道(EF-タンドウ）☆　胆道ファイバースコピー。胆嚢からつながる胆嚢管のなかを観察する内視鏡検査。適応疾患は胆道癌，胆管結石等であり，開腹して胆管を露出して総胆管を小切開して，そこから胆道ファイバースコープを挿入し，胆管内部に生理食塩水を送水して胆管を拡張すると同時にきれいにして観察しやすくする。また，結石の除去，組織採取や撮影をする。ファイバースコープには鉗子・吸引チャンネル，送気・送水チャンネル，照明用の光を伝送するライトガイド，画像を送る経路等が内蔵されている。
+EF-中耳(EF-チュウジ）　中耳ファイバースコピー。中耳針状鏡ともいわれる針状の内視鏡で，鼓膜に穴を開けて（すでに中耳炎等で開いている場合もある）中耳内に挿入し，内部の観察・撮影をする検査。
+EF-直腸(EF-チョクチョウ）☆　直腸ファイバースコピー
+EF-尿カテ(EF-ニョウカテ）☆　尿管カテーテル法(ファイバースコープによるもの(膀胱尿道ファイバースピーを含む。））。尿管口より尿管に挿入する細管。尿管膀胱鏡を膀胱内に入れて尿管口から腎盂に挿入する。分腎機能，尿管狭窄の有無，結石，腫瘍の検査，腎盂の洗浄，カテーテルの留置，造影剤を注入しての逆行性腎盂撮影などが可能である。
+EF-鼻咽(EF-ビイン）☆　鼻咽腔ファイバースコピー
+EF-副鼻腔(EF-フクビクウ）☆　副鼻腔入口部ファイバースコピー
+EF-腹(EF-ハラ）☆　腹腔ファイバースコピー
+EF-嗅裂(EF-キュウレツ）☆　嗅裂部ファイバースコピー
+EF-膀胱(EF-ボウコウ）☆　膀胱ファイバースコピー
+EG　enteroglucagon　腸管グルカゴン
+EG　esophagogastric mucosal junction　食道胃（粘膜）接合部
+EGC　early gastric cancer　早期胃癌
+EGD　esophagogastroduodenoscopy　食道胃十二指腸内視鏡検査法
+EGF　epidermal growth factor　表皮成長因子，上皮増殖因子
+EGFR　epidermal growth factor receptor　上皮増殖因子レセプター
+eGFR　estimated glomerular filtration rate　糸球体濾過率推測値
+EGG　electrogastrogram　胃電図。腹部に置いた電極から胃が発生する活動電位を計測し，非侵襲的に胃の運動機能を評価する検査法。
+EGGCT　extragonadal germ cell tumor　性腺外胚細胞腫瘍
+EGJ，E-G junction　esophagogastric junction　食道胃（粘膜）接合部
+EGM　extraglomerular mesangium　糸球体外メサンギウム
+EGR　erythrocyte glutathione reductase　赤血球グルタチオン還元酵素
+EGTA　esophageal gastric tube airway　食道胃管エアウェイ
+EGTA　ethyleneglycol bis tetraacetic acid　エチレングリコールビス四酢酸
+EH　enlarged heart　拡張心
+EH　enteral hyperalimentation　経腸高カロリー栄養（成分栄養経管栄養法）\u000021e8EEH
+EH　essential hypertension（＝EHT）　本態性高血圧症（原発性高血圧症，一次性高血圧症）。酵素欠損やアポ蛋白異常など脂質代謝そのものの異常による高血圧症。一方，肥満や糖尿病など何らかの原因によるものを続発性高血圧症（二次性高血圧症）と呼ぶ。
+EH　exercise induced hyperpnea　運動時換気量増加
+EHBF　effective hepatic blood flow　有効肝血流量
+EHBF　estimated hepatic blood flow　推定肝血流量
+EHBF　extrahepatic blood flow　肝外血流量
+EHDP　sodium ethane hydroxydiphosphonate　エタン水酸化二リン酸ナトリウム
+EHEC　enterohemorrhagic Escherichia coli　腸管出血性大腸菌
+EHF　epidemic hemorrhagic fever　流行性出血熱，孫呉熱。腎症候性出血熱ともいう。突然に発熱を生じ，皮膚や粘膜などに小出血斑が現れ，高度の蛋白尿を示す伝染性疾患。
+EHF　exophthalmos-hyperthyroid factor　眼球突出-甲状腺機能亢進因子
+EHG　electrohysterography　子宮筋電法
+EHL　electro-hydraulic (shock wave) lithotripsy　電気水圧衝撃波砕石法
+EHO　extrahepatic portal obstruction(occlusion)　肝外門脈閉塞症
+EHp　エナメル質形成不全（歯)
+EHPF　effective hepatic plasma flow　有効肝血漿流量
+EHPT　Eddy hot plate test　エディ熱板試験
+EHR　electronic health record　電子カルテシステム
+EHT　essential hypertension（＝EH）　本態性高血圧症（原発性高血圧症，一次性高血圧症）
+EI　endolumbar injection　脊髄腔内注入
+EI　eosinophillic index　好エオシン性指数，好酸性指数
+EI　erythema infectiosum　伝染性紅斑，リンゴ病
+Ei　lower intrathoracic esophagus　胸部下部食道
+EIA　early infantile autism　早期幼児自閉症
+EIA　electro-immunoassay　電気免疫定量法
+EIA　environmental impact assessment　環境影響評価
+EIA　enzyme immunoassay　酵素免疫(学的)測定法
+EIA　exercise-induced asthma　運動誘発性喘息
+EIA　external liliac artery　外腸骨動脈
+EIAn　exercise induced anaphylaxis　運動誘発アナフィラキシー。運動によってアナフィラキシー様症状を発現する。
+EIAV　equine infectious anemia virus　ウマ伝染性貧血ウイルス
+EIB　exercise-induced bronchospasm　運動誘発性気管支攣縮
+EIC　extensive intraductal component　乳管内進展
+EIEC　enteroinvasive Escherichia coli　腸管組織侵襲性大腸菌
+eIF　eucaryotic initiation factor　真核生物開始因子
+EIN　inulin extraction ratio　イヌリン除去率。腎の糸球体機能の指標
+EIP　end inspiratory pressure　吸気終末圧
+EIRG　electrointraretinogram　網膜内電図
+EIS　endoscopic injection sclerotherapy　内視鏡的食道静脈瘤硬化療法
+EIT　eccentric intimal thickening　限局性内膜肥厚
+EIT　erythrocyte iron turnover rate　赤血球鉄交代率
+EJ　elbow jerk　肘反射
+EJP　excitatory junction potential　興奮性接合部電位
+EK　enkephalin　エンケファリン
+EKC　electrokinetic chromatography　動電クロマトグラフィー
+EKC　epidemic keratoconjunctivitis　流行性角結膜炎
+EKG　Elektrokardiogramm［独］　心電図。［英］ECG
+EKT　Elektrokrampftherapie［独］　電気ショック療法。［英］ES, EST
+EKY，EKy　electrokymography　電気キモグラフィー，エレクトロキモグラフィー
+El　elliptocytosis　楕円赤血球症，卵形赤血球症
+EL　endolumbar injection　髄腔内注入
+EL　eosinophilic leukemia　好酸球性白血病
+EL　erythroleukemia　赤白血病。FAB分類でM6とされる急性骨髄性白血病
+EL　exudate line　滲出線。滲出性中耳炎による滲出液表面が線状にみえるもの
+ELB　early labelled bilirubin　早期標識ビリルビン
+Elb　elbow　肘
+ELBF　effective liver blood flow　有効肝血流量
+ELBWI　extremely low birth weight infant　超低出生体重児（1000g未満）
+ELC　ear lobe crease　耳介皺
+ELCA　excimer laser coronary angioplasty　エキシマレーザー冠状動脈形成術
+ELG　endoscopic lymphangiography　内視鏡的リンパ管造影法
+ELISA　enzyme linked immuno sorbentassay　酵素免疫測定法。抗体が特定の物質との結合に対し極めて特異的であることを利用して，抗体を酵素で標識し，抗体と結合する物質を検出する方法。代表的な検査項目として，PIVKAⅡ精密測定，サイトケラチン19フラグメント精密測定，抗ガラクトース欠損IgG抗体・精密測定などがある。
+ELM　epiluminescence microscopy　上発光顕微鏡。デルモスコープ
+ELND　elective regional lymph node dissection　選択的領域リンパ節郭清
+ELPS　endoscopic laryngo-pharyngeal surgery　内視鏡的咽喉頭手術
+ELT　euglobulin lysis time　オイグロブリン(ユーグロブリン)溶解時間
+EL-1　elastase-1　エラスターゼ1精密
+EM　eczema marginatum［ラ］　頑癬，頑輪癬，輪郭性湿疹。白癬菌感染症の一つ
+EM　ejection murmur　駆出性雑音
+EM　electron microscope　電子顕微鏡
+EM　emergency　救急
+EM　endometriosis　子宮内膜症，月経困難症
+EM　ergonovine maleate　マレイン酸エルゴノビン。分娩促進剤として使用される。
+EM　erythema multiforme　多型紅斑
+Em　erythroblast mitosis　赤芽球染色体分裂像
+EM　erythromycin　エリスロマイシン，マクロライド系抗菌薬
+EM　estramustine　エストラムスチン。前立腺癌に使用されるホルモン療法薬
+EM　mannitol extraction ratio　マニトール除去率。腎の糸球体機能の指標
+EMA　epithelial membrane antigen　上皮膜抗原
+EMB　Eosin-Methylene Blue (agar medium)　エオジンメチレンブルー(培地），EMB培地
+EMB　ethambutol（＝EB）　エタンブトール。結核治療薬
+EMBP　estramustine binding protein　エストラムスチン結合蛋白
+EMC　encephalomyocarditis　脳心筋炎
+EMC　essential mixed cryoglobulinemia　本態性混合性クリオグロブリン血症
+EMCT　endoscopic microwave coagulation therapy　内視鏡的超短波凝固治療
+EMCV　encephalomyocarditis virus　脳心筋炎ウイルス
+EMD　electromechanical dissociation　電導収縮解離
+EMDR　eye movement desensitization and reprocessing　眼球運動による脱感作と再処理
+EME　early myoclonic encephalopathy　早期ミオクローヌス性脳症
+EM-E　erythromycin estolate　エリスロマイシン・エストレート。マクロライド系抗生物質
+EMF　electromagnetic flowmeter　電磁血流計
+EMF　endomyocardial fibrosis　心内膜心筋線維症
+EMF　erythrocyte maturation factor　赤血球成熟因子
+EMG☆　electromyography　筋電図検査。筋収縮に伴う活動電位を導出し増幅して記録する検査。神経，筋疾患の補助診断などに用いられる。また，電気刺激によって収縮を起こし脊髄機能の検索などを行うものを誘発筋電図という。
+EMG　essential monoclonal gammopathy　本態性単クローン性γグロブリン血症
+EMG syndrome　exomphalos-macroglossia-giantism syndrome　臍へルニア・巨舌症・巨人症症候群
+EMIT　enzyme multiplied immunoassay technique　多元酵素免疫測定法
+EMKS　eye movement recording system　眼球運動記録装置
+EML　endoscopic mucosal ligation　食道静脈瘤直達手術
+EMOS　exophthalmus, praetibial myoedema, osteoarthropathy syndrome　眼球突出・脛骨前粘液水腫・骨関節症（ばち指）症候群。甲状腺機能亢進症の一つ
+Emp　empyema paranasalis［ラ］　副鼻腔炎。慢性的に膿が貯留している状態が蓄膿症
+EMR　educable mentally retarded　教育可能な知能発達遅滞
+EMR　electromagnetic resonance　電磁気共鳴
+EMR　electronic measurement of root canal length　電気的根管長測定検査（歯）
+EMR　endoscopic mucosal resection　内視鏡的粘膜切除術
+E/M ratio　erythroid myeloid ratio　赤芽球・骨髄球比
+EMRC　endoscopic mucosal resection using cap-fitted panendoscope　透明キャップを用いた内視鏡的粘膜切除術
+EMS　elastic metallic stent　弾性金属ステント
+EMS　emergency medical service　救急医療
+EMS　encephalo-myo-synangiosis　側頭筋接着術
+EMS　eosinophilia-myalgia syndrome　好酸球増多筋肉痛症候群
+EMS　ethylmethane sulfonate　エチルメタンスルホン酸
+EMS　expandable metallic stent　伸縮性金属ステント
+EMT　emergency medical technician　救急医療技術員
+En　endothelial　内皮の
+EN　enteral nutrition　経腸栄養法（成分栄養経管栄養法）\u000021e8EEH
+EN　erythema nodosum　結節性紅斑
+ENBD　endoscopic nasobiliary drainage　内視鏡的経鼻胆道(胆管)ドレナージ術
+Encap　encapsulate　カプセルに入れる
+endo　endocrine　内分泌の，内分泌物
+Enem　enema　浣腸。肛門および直腸を経由して腸内に液体を注入する医療行為，もしくはそれに使用する薬剤や器具の総称。主に，便秘の治療，検査・手術前や出産時の腸管内排泄物除去のために行われ，グリセリン液やクエン酸ナトリウムが薬剤として使用される。
+ENG　electronystagmography　電気眼振図検査
+Enk　enkephalin, encephalin　エンケファリン
+ENL　erythema nodosum leprosum　癩性結節性紅斑
+ENM　epidemic neuromyasthenia　流行性神経筋無力症
+ENMG　electroneuromusculography　神経筋電図
+ENO　enolase　エノラーゼ
+ENoG　electroneurography　（顔面筋の）誘発筋電図検査
+ENoG　electroneurography　電気神経検査
+ENR　extrathyroidal neck radioactivity　甲状腺外頸部放射性活動
+ENT　ear, nose and throat　耳鼻咽喉科
+Ent　enterotoxin　腸毒素
+Ent　Entlassen［独］　退院
+ent-vio　entero-vioform　腸溶被ビオホルム。下痢止め薬
+Enur　enuresis　夜尿，遺尿症，寝小便
+ENX　enoxacin　エノキサシン（抗菌薬）
+Eo　eosinophile, eosinophilic leucocyte（＝E，Eos）　好酸球
+EO　estrone　エストロン。活性卵胞ホルモン
+EO　ethanolamine oleate　エタノールアミンオレイト
+E.O.　ethylene oxide　エチレンオキシド，エチレンオキサイド，ガス滅菌用剤
+EO　external otitis　外耳炎。耳の穴（耳介）から鼓膜までの外耳道が炎症する症状
+EOA　esophageal obstructor airway　食道閉鎖性気道
+EOA　esophageal obturator airway　食道閉鎖式エアウェイ
+EOAE　evoked otoacoustic emission　誘発耳音響放射。新生児の聴力検査
+EO-CFC　eosinophil colony-forming cell　好酸球コロニー形成細胞
+EOG　electrooculography　眼球電位図，電気眼球図記録法。眼位の変動による電位変化を記録する検査
+EOG　electrooculomotogram　電気眼球運動図
+EOG　electro-olfactogram　嗅電図
+EOJ　extrahepatic obstructive jaundice　肝外閉塞性黄疸
+EoL　eosinophilic leukemia　好酸球性白血病
+EOM　extraocular muscles　外眼筋
+EOM　eye ocular movement　眼球運動
+EOMI　extraocular muscles intact　外眼筋無傷
+eop　efficiency of plating　平板効率
+EOP値　equivalent oxygen percentage　コンタクトレンズ装着下の角膜表面の酸素濃度
+Eos　eosinophile（＝E，Eo）　好酸球
+Ep　ejection period　駆出期
+EP　endocochlear potential　蝸牛内直流電位
+EP　endogenous pyogen　内因性発熱因子
+EP　endoperoxide　エンドペルオキシド
+EP　endorphin　エンドルフィン
+Ep　epidural anesthesia　硬膜外麻酔
+EP　epiglottis　喉頭蓋
+Ep　epilepsy　てんかん。意識喪失と痙攣の発作を主症状とした慢性の脳障害
+EP　epithelial　上皮性
+EP　epoxyde　エポキシド
+EP　esophoria　内斜位
+EP　evoked potential　誘発電位
+EP　protoporphyrine　プロトポルフィリン
+EPA　eicosapentaenoic acid　エイコサペンタエン酸
+EPA　embryonic prealbumin　胎芽性プレアルブミン
+EPA　ethyl icosapentate　イコサペント酸エチル（抗血\_c07717薬）
+EPA　exophthalmos producing activity　眼球突出惹起作用
+EPAH　sodium paraaminohippurate extraction ratio　パラアミノ馬尿酸ナトリウム除去率。尿細管機能の指標となる
+EPALD　extraperitoneal anterolateral dissectomy　腹膜外前外側椎間板摘出術
+EPAP　expiratory positive airway pressure　呼気陽気道圧
+EPB　endoscopic pancreatic biopsy　内視鏡的膵生検
+EPB　extensor pollicis brevis muscle　短母指伸筋
+EPBD　endscopic papillary balloon dilatation　内視鏡的乳頭バルーン拡張術
+EPBF　effective pulmonary blood flow（＝EPF）　有効肺血流量
+EPC　endothelial progenitor cell　血管内皮前駆細胞
+EPC　epilepsia partialis continua［ラ］　持続性部分てんかん。コジェヴニコフてんかん。限局性のてんかんが持続的・反復的に出現する焦点性てんかんの一型
+EPC　penicillin extraction ratio　ペニシリン除去率。尿細管機能の指標となる。
+Ep cell　epithelial cells　上皮細胞
+EPCG　endoscopic pancreaticocholangiography　内視鏡的膵(管)胆管造影
+EPD　ephedrine　エフェドリン
+EpDRF　epithelial derived−relaxant factor　上皮由来弛緩因子
+EPEC　enteropathogenic Escherichia coli　腸管病原性大腸菌
+EP，Ep，EPO　erythropoietin　エリスロポエチン。赤血球産生を誘導する造血因子。主に腎皮質で動脈血の酸素分圧の低下により産生され，赤血球型前駆細胞を直接刺激して分化誘導する。腎性貧血患者ではエリスロポエチンが十分産生できないため，治療としてエリスロポエチンを投与する。真性多血症では低値を示すが，低酸素血症をとる病態や腫瘍性にエリスロポエチンが産生される病態では高値をとる。
+EPF　effective pulmonary flow（＝EPBF）　有効肺血流量
+EPF　exophthalmos-producing factor　催眼球突出因子
+EPG　electric pupillography　電気瞳孔計
+EPH　essential pulmonary hypertension　特発性肺高血圧症
+EPH-gestosis　edema, proteinuria, hypertension gestosis　浮腫・蛋白尿・高血圧妊娠中毒症
+EPI　echo planar imaging　エコープラナー・イメージング
+epi　epicardium　心外膜
+Epi　epilepsy　てんかん(癲癇)
+EPI　epirubicin hydrochloride　塩酸エピルビシン（抗悪性腫瘍薬）
+EPI　extrinsic pathway inhibitor　外的経路阻害物
+Epi-ADM　epirubicin hydrochloride　エピルビシン塩酸塩
+EPID　electronic portal imaging device　電子ポータル画像装置
+Epidura(H)　epidural hematoma　硬膜外血腫
+epig　epigastrium　心窩部，上腹部
+epig　epiglottal　喉頭蓋の
+Epin　epinephrine　エピネフリン（アドレナリン）。副腎髄質分泌ホルモン
+Epis　episiotomy　会陰側切開術
+epith　epithelium　上皮。epithelial　上皮の
+EPL　essential phospholipid　本質的リン脂質
+EPL　extensor pollicis longus muscle　長母指伸筋
+EPM1　progressive myoclonus epilepsy 1　進行性ミオクローヌスてんかん１型
+EPMA　electron probe X-ray microanalysis　電子プローブ微細X線分析
+EPNL　effective perceived noise level　実効知覚騒音レベル
+EPO　eosinophil peroxidase　好酸球ペルオキシダーゼ
+EPO　erythropoietin　エリスロポエチン
+EPOG　endoscopic pancreato-cholangiography　内視鏡的膵管胆道造影法
+EPP　endplate potential　終板電位
+EPP　equal pressure point　等圧点
+EPP　erythropoietic protoporphyria　骨髄性プロトポルフィリン症
+EPR　electron paramagnetic resonance　電子常磁性共鳴
+EPR　electrophrenic respiration　横隔神経電気刺激呼吸
+EPR　exophthalmos producing reaction　眼球突出反応
+EPR効果　enhanced permeation and retention effect
+EPS　elastosis perforans serpiginosa　蛇行性穿孔性弾性線維症
+EPS　electrophysiological study　（心臓）電気生理学的検査
+EPS　encapsulating peritoneal sclerosis　被嚢性腹膜硬化症
+EPS　exophthalmos-producing substance　眼球突出誘発物質
+EPS　expressed prostatic secretion　前立腺圧出液
+EPS　extrapyramidal symptoms　錐体外路症状
+EPs　sensory evoked potentials　感覚誘発電位
+EPSP　excitatory postsynaptic potential　興奮性シナプス後電位
+EPST　endoscopic pancreatic sphincterotomy　内視鏡的膵管口切開術
+EPT　endoscopic papillotomy　内視鏡的乳頭切開術
+EP test　estrogen-progesterone challenge test　エストロゲン・プロゲステロン負荷試験
+ePTFE人工血管　expanded polytetrafluoroethylene　延伸加工ポリ四フッ化エチレン（テフロン）製の人工血管
+EQA　external quality assessment　外部精度アセスメント（評価）
+ER　emergency room　救急室
+ER　endocardial resection　心内膜切除術
+ER　endoplasmic reticulum　小胞体
+ER　epigastric region　上腹部，心窩部
+Er　erosion　びらん(糜爛)
+Er　erythrocyte（＝E）　赤血球。骨髄で造られ血液全体の40〜50％を占める無核の細胞。酸素と炭酸ガスの運搬，pH調節を主な機能とする。骨髄機能低下で産生が落ちると再生不良性貧血などになり，反対に骨髄機能亢進では，赤血球増加症，鉄欠乏性貧血になる。
+ER　estradiol receptor　エストラジオール受容体
+ER　estrogen receptor　エストロゲン受容体
+ER　extraction rate　除去率
+ERA　electric response audiometer　電気反応聴力検査，誘発反応聴力検査
+ERA　enthesis related arthritis　無機物挿入関連関節炎
+ERA　estrogen receptor assay　エストロゲン受容体試験
+ERA　evoked response audiometry　誘発電位聴力検査
+ERB　essential renal bleeding　本態性腎出血
+ERBD　endoscopic retrograde biliary drainage　内視鏡的逆行性胆道ドレナージ
+ERBF　effective renal blood flow　有効腎血流量
+ERBIM　endoscopic retrograde bowel insertion method　内視鏡的逆行性大腸挿入法
+ERC　endoscopic retrograde cholangiography　内視鏡的逆行性胆管造影
+ERC　erythropoietin responsive cell　エリスロポエチン感受性細胞
+ERCP　endoscopic retrograde cholangiopancreatography　内視鏡的逆行性胆管膵管造影
+ERC-virus　ECHO (enteric cytopathogenic human orphan) virus, rhino-virus, coryzavirus　エコーウイルス，ライノウイルス，感冒ウイルス。感冒の病原ウイルス群
+ERD　evoked response detector　誘発電位検出器
+eRF　eucaryotic release factor　真核生物終結因子
+E-RFC　E rosette-forming cell　Eロゼット形成細胞
+ERG　electroretinogram　網膜電位図。眼に光刺激を与えたときに網膜に起こるわずかな電気反応を記録する検査。検査方法は暗室で10分程度眼を休め，暗い状態に眼を慣らせ，そのあと麻酔の点眼をし，コンタクトレンズ型の電極を装着して行う。
+Erg　erg　エルグ。エネルギーの単位
+ERIBD　endoscopic retrograde internal billiary drainage　内視鏡的逆行性内胆道ドレナージ
+ERIG　endoscopic retrograde ileography　内視鏡的逆行性回腸造影
+ERK cascade　extracellular signal-regulated kinase cascade　細胞外シグナル制御キナーゼカスケード
+ERL　emergency room laparotomy　救急室開腹術
+ERM　epiretinal membrane　網膜上膜
+Ero☆　侵\_c07709症（歯)
+ERO　evoked response olfactometry　誘発脳波嗅覚検査
+Erosion　portioerosion　子宮腟部びらん
+ERP　endoscopic retrograde pancreatography　内視鏡的逆行性膵管造影
+ERP　event-related potential　事象関連電位
+ERPF　effective renal plasma flow　有効腎血漿流量
+ERT　emergency room thoracotomy　救急室開胸術
+ERV　expiratory reserve volume　（肺気量分画測定検査の）予備呼気量
+Ery　Erysipelothrix　エリシペロトリックス属
+Ery　erythrocyte（＝E，Er）　赤血球
+ERβ　estrogen receptor-β　エストロゲン受容体β
+ES　electric stimulation　電気刺激
+ES　electrosyneresis method　向流電気泳動法。IEOP（immunoelectroosmophoresis）ともいう。免疫電気泳動法の一つで，荷電粒子の浮遊する電解質溶液に通電すると，粒子は各粒子の荷電と逆の極側に移動する現象を利用して，移動度から目的の物質を測定する方法である。
+ES　embryonal stem　胚性幹
+ES　end to side　端側吻合。管腔の端と側との吻合術
+ES　end-systole　収縮終期
+ES　enzyme substrate　酵素基質。酵素の作用で化学反応を起こす物質
+ES　esterase　エステル分解酵素
+ES　esterase stain　エステラーゼ染色。エステラーゼはエステルの加水分解をする酵素で，いくつかの種類があり，それらを染め分けることで白血球の種類を見る方法。
+ES　exanthema subitum　突発性発疹症
+Es　extrasystole（＝Extra）　期外収縮，早期収縮。正常に期待されるときでないときに起こる心臓の収縮。心臓のどの部分からも期外収縮は起こりうるが，最も普通のものは心室性の期外収縮である。放置して差し支えない場合から，救急処置を要する場合まで様々である。
+ES-Act　esterase activator　エステル分解酵素賦活剤
+ESB　electrical stimulation of brain　脳の電気刺激
+ESBL産生菌　extended-spectrum β-lactamase　基質特異性拡張型βラクタマーゼ産生菌
+ESC　erythropoietin sensitive cell　エリスロポエチン感受性細胞
+Esch　Escherichia　エシェリキア属。大腸菌など５菌種が含まれる食中毒原因菌
+ESD　emission spectrometric detector　発光スペクトル検出器
+ESD　endoscopic submucosal dissection　内視鏡的粘膜下層剥離術
+ESD　endosystolic diameter　収縮末期径
+ESES　epidural spinal cord electrical stimulation　硬膜外脊髄電気刺激法
+ES，EST　electroshock therapy　電気ショック療法。［独］EKT
+ESF　erythropoiesis stimulating factor　赤血球産生刺激因子
+ESM　ethosuximide　エトスクシミド
+ESN　estrogen stimulated neurophysine　エストロゲン刺激性ニューロフィジン
+Esoph　esophageal　食道の
+ESP　electro-sensory panel　電気感覚計器板
+ESP　eosinophil stimulating promotor　好酸球刺激プロモーター
+ESP　extrasensory perception　超感覚的知覚
+ESPVR　end-systolic pressure-volume relation　収縮終期圧容積関係
+ESR　electric skin resistance　皮膚電気抵抗
+ESR　electron skin resonance　電気皮膚反応
+ESR　electron spin resonance　電子スピン共鳴
+ESR☆　erythrocytes sedimentation rate　赤血球沈降速度。赤沈\u000021e8BSR
+ESRD　end stage renal disease　末期腎疾患
+ESS　empty sella syndrome　トルコ鞍空虚症候群。エンプティセラ症候群。脳脊髄液が下垂体とトルコ鞍の壁を圧迫し，頭痛等の諸症状を呈する。
+ESS　endometrial stromal sarcoma　子宮内膜間質肉腫
+ESS　endoscopic sinus operation　内視鏡的鼻内副鼻腔手術
+ESS　endsystolic stress　収縮末期ストレス
+EST　endodermal sinus tumor　内胚葉洞腫瘍
+EST　endoscopic sphincterotomy　内視鏡的乳頭括約筋切開術
+ESTV　equivalent simple treatment visit　標準治療単位。通常照射１回に要する時間を１単位とする。
+esur　esuriens［ラ］　絶食で
+ESV　endsystolic volume　収縮終期容積
+ESWL　extracorporeal shockwave lithonotripsy　体外衝撃波結石破砕術。体外で発生させた衝撃波を腎臓結石，尿管結石に当てて破壊し，自然に排泄させる治療法。一般には，患者を水中につけて水中を伝わる衝撃波を１つの焦点に向かって当てることで結石を破壊する。また，ウォーターバッグに患者の皮膚を密着させる方法もある。
+ET　educational therapy　訓練療法
+ET　effective temperature　実効温度
+E/T　effector cell versus target cell　エフェクター細胞対標的細胞
+ET　ejection time　駆出時間
+ET　endocrine therapy　ホルモン療法
+ET　endothelin　エンドセリン
+Et　endotracheal　気管内の
+ET　enterostomal therapist　ストーマケア療法士。人工肛門や人工膀胱のストーマ（皮膚瘻）の管理方法を，患者に指示・援助すること。大腸癌などで大腸を摘出した患者には人工的に下腹部に肛門を造設し，また膀胱を摘出した患者には人工的に膀胱を造設する手術を行う。造設されたところは皮膚瘻（皮膚に管ができた状態）となっており，これをストーマという。具体的には，排泄物の適切な処理方法，ストーマ周囲の皮膚管理，ストーマ器具の選定，洗腸の指導などを行う。
+ET　ergotamine tartrate　酒石酸エルゴタミン
+ET　erythrogenic toxin　発赤毒素
+ET　esotropia［ラ］　内斜視
+ET　essential thrombocythemia　本態性血小板血症，原発性血小板血症
+ET　essential thrombocytopenia　本態性血小板減少症（原発性血小板減少症）
+ET　exchange transfusion　交換輸血
+ET　exfoliative toxin　表皮剥脱毒素
+ETA　ethionamide　エチオナミド
+ETAA　disodium ethylenediamine tetraacetic acid　エチレンジアミン四酢酸ナトリウム
+ETCO2　endotidal CO2　終末呼気炭酸ガス分圧
+ETEC　enterotoxigenic Escherichia coli　毒素原性大腸菌
+ETEC poisoning　enterotoxigenic E. coli poisoning　毒素原性大腸菌中毒
+ET，Et　estriol　エストリオール
+ETF　electron transferring flavoprotein　電子伝達フラビン蛋白質
+ETH　ethionamide　エチオナミド(ツベルミン）。抗結核薬
+eth　ethmoid　篩骨，篩骨洞
+ETHIO　sodium thiosulfate extraction ratio　チオ硫酸ナトリウム除去率。腎の糸球体機能の指標となる。
+ETHO　ethylene oxide　酸化エチレン
+ETK　erythrocyte transketolase　赤血球トランスケトラーゼ
+ETR　effective thyroid ratio　有効甲状腺率
+ETT　epinephrine tolerance test　エピネフリン負荷試験
+ETT　eye tracking test　視標追跡検査
+EU　excretory urography　排泄性尿路造影
+EUA　examination under anesthetic　麻酔下の診察
+EUP　equivalent uniform dose　実効均等化線量
+EUP　extrauterine pregnancy　子宮外妊娠
+EUS　endoscopic ultrasonography　超音波内視鏡
+EUS　endoscopic ultrasonography　超音波内視鏡検査。超音波内視鏡は，内視鏡の先端部に超音波を送受信する超音波振動子を兼ね備え，通常の内視鏡では観察がむずかしい潰瘍の粘膜下の病変，膵臓・胆道など深部の臓器に対して，内面から超音波により断層像を詳細に画像化する装置。また，周辺にある臓器を確認しながら，粘膜下にある血流の動きを観察したり，組織の採取（超音波内視鏡ガイド下穿刺）が行える電子走査式超音波内視鏡も開発されている。
+EUS emg　external urethral sphincter electromyogram　外尿道括約筋筋電図測定
+EUS-FNA　endoscopic ultrasound guided fine-needle aspiration　超音波内視鏡下穿刺術，超音波内視鏡ガイド下針生検
+EUV　extreme ultraviolet　超紫外線
+E.U.Z.　E：Eiweiss［独］　蛋白質，U：Urobilinogen ［独］　ウロビリノーゲン，Z：Zucker［独］　糖
+eV　electron volt　電子ボルト。エネルギーの単位
+EV　enterovirus　エンテロウイルス，腸内ウイルス。ポリオウイルス，コクサッキーウイルス，エコーウイルス等からなるウイルス属
+EV　esophageal varices　食道静脈瘤
+EV　ester value　エステル価
+EVA　ethylenevinyl alcohol　エチレンビニル・アルコール。人工腎臓に用いる膜
+evac　evacuate　排泄する
+EVC　expiratory vital capacity　呼気肺活量
+EVD　external vacuum device　陰圧式勃起補助具
+EV-FIA　evanescent wave fluoroimmunoassay　エバネセント波蛍光免疫測定法
+EVG　electrovaginogram　腟電位図
+EVG　electroventriculogram　心室電図
+EVI1　ecotrophic virus integration　外的ウイルス統合。急性骨髄性白血病での遺伝子異常
+EVIS　endoscopic varicealography injection sclerotherapy　透視下静脈瘤造影
+EVL　endoscopic variceal ligation　内視鏡的静脈瘤結紮術
+EVLW　extravascular lung water　血管外肺水分量
+EVM　enviomycin sulfate　硫酸エンビオマイシン（抗菌薬）
+evoked EMG　evoked electromyogram　誘発筋電図
+EVR　early vertex response　中間反応
+EVR　early virological response　早期ウイルス陰性化
+EVR　endocardial viability ratio　心内膜生存比
+EWNP　exsufflation with negative pressure　陰圧強制呼吸。マスク内を陰圧にして咳を発生させ気管内の痰を除去するもので，手術後の喀出力のない患者などに行う。
+EWSCL　extended-wear soft contact lenses　連続装用可能なソフトコンタクトレンズ
+Ex　endotoxin　（菌体の）内毒素
+Ex　endoxan　エンドキサン（抗悪性腫瘍薬）
+Ex　extract　エキス，抽出物
+EXAFS　extended X-ray absorption fine structure　拡張X線吸収微細構造
+Exam　examination　診察，試験
+exc　except (ed)　除外した
+EXIT　ex utero intrapartum treatment　胎児の気道確保等を行い娩出させる手技
+Exit　exitus　死亡，転帰
+exp　expansion　膨脹，拡大
+exp　experiment　試験，実験
+Exp，expir　expiration　呼気
+EXT　exotoxin toxoid　外毒素トキソイド
+Ext　extensor　伸筋
+ext　external　外の
+Ext　extraction　牽引法，遂娩手術
+Ext　extremity　四肢
+ext fl　extract fluid　抽出液
+Ext. Glycyrrh. Pur.　カンゾウ(甘草)エキス
+Ext. Nuc. Vom.　ホミカエキス
+Extra　extrasystole（＝Es）　期外収縮，早期収縮
+Ez　eczema　湿疹
+EZC　アバカビル・ラミブジン配合剤（エプジコム\u000000ae）。抗HIV薬
+E-クルド☆　クルドスコープ検査，クルドスコピー。内視鏡（クルドスコープ）を用いて，骨盤腔，主に卵巣や卵管などを直接観察する方法。不妊症の原因解明や卵巣腫瘍の性状確認などに用いられる。
+E-コルポ☆　コルポスコープ検査，コルポスコピー。腟拡大鏡を用いた子宮腟部を観察する検査。通常頸部細胞診による疑陽性以上（クラスⅢ以上）の症例で観察使用される。子宮頸部（腟部）病変に対しては，コルポスコピー（腟拡大鏡）で病変の質的診断をするとともに，酢酸処理をすることにより病変部と健常部を識別する観察方法がとられる。
+E-ヒステロ☆　ヒステロスコープ検査，ヒステロスコピー。先端にランプのついた管を子宮腔の中に入れ，これを通して内腔を観察して撮影すること。組織診，機能性出血，内膜ポリープなどの検査，または妊娠末期に卵膜と羊水の正常観察をすることが狙いである。
+E-ブロンコ☆　気管支鏡検査
+E-胃(E-イ）☆　胃鏡検査
+E-胃カメラ(E-イカメラ）☆　ガストロカメラによる胃粘膜検査，胃鏡検査
+E-関節(E-カンセツ）☆　関節鏡検査
+E-胸郭(E-キョウカク）☆　胸郭鏡検査
+E-後尿道(E-コウブニョウドウ）☆　尿道鏡検査，後部尿道
+E-喉頭(E-コウトウ）☆　喉頭鏡検査
+E-喉頭直達(E-コウトウチョクタツ）☆　喉頭直達鏡検査
+E-食道(E-ショクドウ）☆　食道鏡検査。食道内部の異常を調べるため食道鏡を用いた検査。食道鏡を口または鼻から食道まで挿入し，食道内部を観察する。生検のために組織採取することもある。ファイバー型の軟性鏡と直線型の硬性鏡があるが，現在はファイバー型が主流である。
+E-前尿道(E-ゼンブニョウドウ）☆　尿道鏡検査，前部尿道
+E-直腸(E-チョクチョウ）☆　直腸鏡検査。直腸鏡を使用して，肛門深部や直腸を観察・撮影し，組織を採取（生検）する検査。肛門と直腸が直角になる姿勢の胸膝位をとって直腸鏡を挿入し，検査をしながらポリープの切除を行い，高周波電流で創面を電気的凝固する。生検と治療が同時にできる。
+E-鼻咽(E-ビイン）☆　鼻咽腔直達鏡検査
+E-腹(E-ハラ）☆　腹腔鏡検査。腹壁を穿刺して腹腔内に内視鏡（腹腔鏡）を挿入し，肝臓や腹腔内臓器を観察する検査。体外からの画像診断ではとらえられない微小な病変や局在病変を確認できるほか，近年では超音波腹腔鏡（腹腔鏡下の超音波検査）の併用によって，肝の深部病変も確認でき，狙撃生検（最も疑わしい部位から細胞を採取する方法）ができる。腹腔鏡自体は，胆石症などの内視鏡的切除術や婦人科領域での処置（卵採取や不妊手術）にも応用される。
+E-膀胱(E-ボウコウ）☆　膀胱鏡検査

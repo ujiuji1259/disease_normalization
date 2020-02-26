@@ -1,0 +1,294 @@
+Ｏ
+O　occipital　後頭部の
+O　oculus［ラ］　眼
+O　opistan　オピスタン。鎮痛剤
+O　oral　口腔の
+O2　oxygen　酸素
+O2Hb　oxygenated hemoglobin　酸素化ヘモグロビン
+O2 Sat　oxygen saturation　酸素飽和度
+O2摂取☆　oxygen　酸素摂取量測定，換気量測定検査
+O3　ozone　オゾン
+OA☆　表面(在)麻酔。局所麻酔剤を粘膜の表面に作用させて神経末端を麻痺させる方法。眼科で用いられる滴下法，鼻咽腔や喉頭に霧状にして吹きつける噴霧法，粘膜面に塗る塗布法，気管内に注入する注入法の４つの方法がある。麻酔剤にはコカイン，リドカイン，メピバカイン，テトラカインなどが用いられる。表面麻酔は高濃度を必要とし，粘膜面からの吸収が速やかであるため，中毒の発生に注意する必要がある。
+OA　occipital artery　後頭動脈
+OA　occiput anterior　後頭前部
+OA　ocular albinism　眼白子症
+OA　oleic acid　オレイン酸
+OA　ophthalmic artery　眼動脈
+OA　oral alimentation　経口栄養
+OA　orotic acid　オロチン酸
+OA　orthostatic albuminuria　起立性アルブミン尿
+OA　osteoarthritis　変形性関節症，骨関節症
+OAA　oxaloacetic acid　オキサロ酢酸
+OAB　overactive bladder　過活動膀胱
+OABSS　overactive bladder symptom score　過活動膀胱症状質問票
+OAD　obstructive airway disease　閉塞性気道疾患
+OAD　occlusive arterial disease　閉塞性動脈疾患
+OAE　otoacoustic emission　耳音響放射
+OAF　osteoclast-activating factor　破骨細胞活性化因子
+OAG　ocular angiography　眼動脈造影
+OAG　open angle glaucoma　開放隅角緑内障。房水の流出口である隅角は広いが、排水口の線維柱帯が詰まって房水が流れにくくなり眼圧が上がる緑内障。
+OALL　ossification of anterior longitudinal ligament　前縦靱帯骨化症
+O antigen　body antigen　O抗原（菌体抗原，体細胞抗原）
+OAP　occlusion d’artere pulmonaire［仏］　肺動脈閉鎖
+OAP　oedeme algu pulmonaire［ラ］　急性肺浮腫
+OAP　ophthalmic artery pressure　眼動脈圧
+OAP　oscillatory afterpotential　振動性後電位
+OAP　osteoarthropathy（＝AD）　骨関節症
+OAR　off-axis ratio　軸外線量比
+OAR　organ at risk　リスク臓器（要注意臓器）
+OAS　oral allergy syndrome　口腔粘膜アレルギー症候群
+OAV dysplasia　oculoauriculovertebral dysplasia　眼球耳介椎骨形成異常症
+Ob　oblique　斜位
+ob　obstetric　産科の。obstetrician　産科医。obstetrics　産科
+OB　obstetrics　産科学
+OB　occult blood　潜血
+OB　ohne Befund［独］　異常なし
+OB　olfactory bulb　嗅球
+OB　osteoblast　骨芽細胞
+OBG　obstetrician and gynecologist　産婦人科医
+ob-gy　obstetrical-gynecological　産科・婦人科学の。obstetrician-gynecologist　産科・婦人科医
+ob-gyn　obstetrics and gynecology　産婦人科
+OBP　objective blood pressure　診察時血圧
+Ob-R　ob receptor　ob遺伝子（レプチン）受容体
+OBS　organic brain syndrome　器質性脳症候群，器質性精神病，脳性精神病。頭部外傷や腫瘍，血管障害，炎症，変性疾患などに基づいた脳疾患
+OC　occipital cortex　後頭葉
+OC　optic chiasm　視神経交叉，視交叉
+OC　oral contraceptive　経口避妊薬
+OC　osteocyte　骨細胞
+OC　ovarian cancer　卵巣癌。卵巣に生じる悪性上皮性腫瘍
+OC　oxitocin　オキシトシン（後葉ホルモン）
+OC　oxygen consumed　酸素消費量
+OCA　oculocutaneous albinism　眼皮膚白皮症
+OCA　oral contraceptive agent　経口避妊薬
+OCB　olivo-cochlear bundle　オリーブ蝸牛神経束
+OCC in UTJ　occlusion in utero tubal junction　子宮卵管結合部閉塞
+occip　occiput　後頭
+OCD　obsessive-compulsive disorder　強迫性障害
+OCD　ovarian cholesterol depletion　卵巣コレステロール消耗
+OCG　omnicardiogram　全心電図
+OCG　oral cholecystogram　経口胆嚢撮影像
+OCL　osteoclast　破骨細胞
+OCR　off-center ratio　軸外線量比
+OCS　ocular conversion symptom　眼転換症状
+OCS　open canalicular system　開放管系
+OCT　optical coherence tomography　光干渉断層法
+OCT　ornithine carbamyl transferase　オルニチンカルバミルトランスフェラーゼ
+OCT　oxytocin challenge test　オキシトシン負荷試験
+OCTT　oro-caecal transit time　盲腸通過時間
+oct. th　occupational therapy（＝OT）　作業療法。作業療法士が行うリハビリテーション。身体や精神に障害をもつ患者に対して，仕事，日常生活動作，遊びなど人間の生活全般に関係する作業活動（動作）を用いて，訓練や治療，指導などを行い，身体や精神の機能を回復させる治療。陶芸，編み物，トランプ，ダンス，読書，調理など様々な種類がある。
+ocular EMG　ocular electromyogram　眼筋電図
+OCV　opacitas corporis vitrei［ラ］　硝子体混濁
+OCVM　ocular cerebral vascular monitor　眼脳血管測定装置
+OD　oculus dexter　右眼
+OD　officer of day　日直医
+OD　open drop　開放性点滴
+OD　optical density　吸光度
+OD　ornithine decarboxylase（＝ODC）　オルニチン脱炭酸酵素
+OD　orolingual dyskinesia　口舌運動不全
+OD　orthostatic disturbance (dysregulation)　起立性調節障害
+OD　over dose　過量
+ODA　occipito-dextra-anterior　右後頭腹側位（胎児の体位）\u000021e8ODP，ODT
+ODC　ornithine decarboxylase（＝OD）　オルニチン脱炭酸酵素
+ODC　oxygen dissociation curve　酸素解離曲線
+ODD　oppositional defiant disorder　反抗挑戦性障害
+ODDD　oculo-dento-digital dysplasia　眼歯指異形成
+ODDS　oculodentodigital syndrome　眼歯指症候群
+ODG　ophthalmo-dynamography　眼血管圧検査法
+ODGF　osteosarcoma derived growth factor　骨肉腫細胞由来増殖因子
+ODM　opponens digiti minimi　小指対立筋
+ODN　ophthalmodynamometer　眼底血圧計
+O.D，Od　oculus dexter［ラ］　右眼
+od，o.d.　once a day　１日１回（処)
+odom　odometer　嗅覚計
+ODP　occipito-dextra-posterior　右後頭背側位（胎児の体位）\u000021e8ODA，ODT
+ODP　one dose package　１回量包装
+ODST　over drive suppression test　オーバー・ドライブ抑制試験
+ODT　occipito-dextra-transversa　右後頭真横側位（胎児の体位）\u000021e8ODA，ODP
+ODT　occlusive dressing technique　密封法
+ODT　occlusive dressing technique (therapy)　閉鎖密封療法，閉鎖性ドレッシング療法
+OD錠　oral disintegrant　口腔内崩壊錠
+OE　olfactory epithelium　嗅上皮
+OE　oroesophageal tube feeding　口腔食道経管栄養
+OEF　oxygen extraction fraction　脳酸素摂取率
+OEP　original endotoxin protein　菌体内毒素蛋白
+OER　oxygen enhancement ratio　酸素増感比
+OF　occipitofrontal diameter　前後径
+OF　orbitofrontal cortex　眼窩前頭皮質
+OF　osmotic fragility test　浸透圧脆弱性試験
+OFD，OFDS　oro-facio-digital syndrome　口顔面指症候群
+OFLX　ofloxacin　オフロキサシン（抗菌薬・耳鼻咽喉科用剤）
+OGF　oxygen gain factor　酸素利得係数
+OGTT　oral glucose tolerance test　経口(的)ブドウ糖負荷試験
+OH　occupational history　職業歴
+OH　ocular hypertension　高眼圧症
+Oh　omni hora［ラ］　１時間ごと
+OH　orthostatic hypotension　起立性低血圧。立つときにめまいや立ちくらみ，失神する疾患
+OH　oval head　卵型頭
+OHA　oral hypoglycemic agent　経口血糖降下薬
+OHCPA　out-of-hospital cardiopulmonary arrest　院外心拍停止例
+OHD　organic hearing disease　器質的聴覚疾患
+OHD　organic heart disease　器質的心疾患
+OHF　Omsk hemorrhagic fever　オムスク出血熱
+OHFV　Omsk hemorrhagic fever virus　オムスク出血熱ウイルス
+OHI　ocular hypertension indicator　眼球高血圧指標
+OHlase　hydroxylase　水酸化酵素
+OHN　occupational health nurse　産業看護師
+OH nursing　occupational health nursing　産業看護
+OHP　hydroxyprogesterone　ヒドロキシプロゲステロン。ステロイド系ホルモンの一種
+OHP　occult hyperprolactinemia　潜在性高プロラクチン血症
+OHP　overhead projector　オーバーヘッド投影器
+OHP　oxygen hyperbaric pressure　高圧酸素療法。気圧を上げ，血液中に溶解している酸素濃度を上昇させる治療法。純酸素や空気で加圧できるよう設計された高圧酸素室にて，大気圧より高い気圧（２〜５気圧）で高濃度の酸素を患者体内に吸入させる。一酸化炭素中毒，動脈閉塞による局所低酸素症，空気塞栓，減圧症，嫌気性菌感染症，悪性腫瘍治療（放射線療法や化学療法との併用）などが適応。
+OHPAA　orthohydroxyphenylacetic acid　オルトヒドロキシフェニル酢酸
+OHPP　occluded hepatic portal pressure　遮断時肝門脈圧
+OHSS　ovarian hyperstimulation syndrome　卵巣過剰刺激症候群
+OHT　over head traction　オーバー・ヘッド牽引
+OI　obesity index　肥満指数
+OI　opportunistic infection　日和見感染。健康なヒトでは感染症を起こさないような病原体が原因で発症する感染症。
+OI　opsonic index　オプソニン指数。オプソニンとは食細胞の貪食を受けやすくする血清抗体で，感染の防御反応物質。オプソニン指数とは血清中のオプソニンの強弱（免疫力）を表す指数。
+OI　osteogenesis imperfecta　骨形成不全（症）
+OI　oxygen inspired　吸入酸素
+OI　oxytocin induction　オキシトシン分娩誘発
+OIA　optical immunoassay　光学的免疫測定法
+OICU　obstetric intensive care unit　産科集中監視室
+oid-oid disease　exudative discoid and lichenoid dermatitis of Sulzberger-Garbe　滲出性円板状苔癬状皮膚炎
+OIH　ovulation-inducing hormone　排卵誘発ホルモン
+oint　ointment　軟膏。容易に皮膚に塗布できる適当な粘度の半固形の外用薬。脂肪，ワセリン，グリセリン，乳化剤，懸濁化剤などを原料または基剤として用い，他の薬剤を均等に混合する。基剤により油脂性，乳剤性，水溶性，懸濁性軟膏に分かれる。
+OKAN　optokinetic afternystagmus　視運動性後眼振
+OKK　Oberkieferkrebs［独］　上顎癌
+OKN　optokinetic nystagmus　視運動性眼振
+OKP test　optokinetic pattern test　視運動性眼振パターンテスト
+O.L.　oculus laevus［ラ］　左眼。同義語：O.S.
+OL　oleandomycin　オレアンドマイシン（マクロライド系抗生物質）
+OL　overlap syndrome　関節リウマチの重複症候群
+OLA　occipito-laeva-anterior　後頭左前位（胎児の体位）\u000021e8OLP，OLT
+olf　olfactory　嗅覚の
+OLF　ossification of ligamentum flavum　黄色靱帯骨化症
+OLM　ocular larva migrans　眼幼虫移行症
+OLP　occipito-laeva-posterior　後頭左後位（胎児の体位）\u000021e8OLA，OLT
+OLT　occipito-laeva-transverse　左後頭横側位（胎児の体位）\u000021e8OLA，OLP
+OLT　orthotopic liver transplantation　正常位肝移植
+OM　obtuse marginal branch　鈍角枝
+OM　occipitomental　後頭頤の
+OM　occipitomental diameter　大斜径
+OM　oleandomycin（＝OL）　オレアンドマイシン（マクロライド系抗生物質）
+o. m.　omni mane［ラ］　毎朝（処）
+om　omni［ラ］　ごとに（処）
+OM　orbitomeatal（line）　眼窩外耳口線
+OM　otitis media［ラ］　中耳炎
+OM　outer membrane　外膜
+OMC　open mitral commissurotomy　直視下僧帽弁交連切開術
+OMCD　outer medullary collecting duct　髄質外層集合管。髄質部外層集合尿細管
+OME　otitis media with effusion　滲出性中耳炎
+OMI　old myocardial infarction　陳旧性心筋梗塞
+OMI　oocyte maturation inhibitor　卵子成熟抑制因子
+omn. man.　omni mane［ラ］（＝o. m.）　毎朝（処）
+omn. noct.　omni nocte［ラ］（＝o. n.）　毎夜（処）
+OMP　outermembrane protein　外膜蛋白
+OMP　oxymethylpyrimidine　オキシメチルピリミジン
+OMPA　octamethylpyrophosphoramide　オクタメチルピロホスホラミド
+OMPA　otitis media purulenta acuta［ラ］　急性化膿性中耳炎
+OMPC　otitis media purulenta chronica［ラ］　慢性化膿性中耳炎
+OMSC　otitis media supprativa chronic　慢性化膿性中耳炎
+o. n.　omni nocte［ラ］　毎夜（処）
+ON　optic nerve　視神経
+ONA　osteonecrosis aseptique［ラ］　無菌性骨壊死症
+ONNV　O\u000002bcnyong-nyong virus　オニョンニョンウイルス
+OP　occipital protuberance　後頭部結節
+OP　occiput posterior　後頭骨後方
+Op.　Operation［独］　オペ，手術
+OP　osmotic pressure　浸透圧
+OP　outpatient　外来患者
+OPA　ovarian papillary adenocarcinoma　卵巣乳頭腺癌
+OPC　outpatient clinic　外来診療所
+OPCA　olivopontocerebellar atrophy　オリーブ橋小脳萎縮症
+OPCAB　off-pump coronary artery bypass grafting　非体外循環下冠状動脈バイパス術
+OPD　ocular psychosomatic disease　眼・精神身体症
+OPD　outpatient department　外来(診療部門)
+OPD　outpatient dispensary　外来用薬局
+OPDM　oculo-pharyngo-distal myopathy　眼咽頭遠位型ミオパチー
+OPD syndrome　otopalatodigital syndrome　耳・口蓋・指趾症候群
+Ope　operation　オペ，手術
+Open WT　open wet-dressing therapy　開放性ウェットドレッシング療法
+OPG　oculoplethysmography　眼球容積脈波
+Oph　ophthalmologist　眼科医
+Oph　ophthalmoscope　検眼鏡
+OPL　operant preferential looking　有効選択的注視
+OPLL　ossification of posterior longitudinal ligament of cervical spine　後縦靱帯骨化症，頸椎後縦靱帯骨化症
+OPM　occult primary malignancy　潜在性原発性悪性腫瘍
+OP/MC　opsoclonus/myoclonus　オプソクローヌス／ミオクローヌス症候群
+OPMD　oculopharyngeal muscular dystrophy　眼咽頭筋ジストロフィー
+OPN　optokinetic nystagmus　視運動性眼振
+OPO　optical parametric oscillator　光学パラメトリック発振器
+OPRT　orotic acid phosphoribosyltransferase　オロチン酸（リン酸リボシル変換酵素）
+OPS　opsoclonus-polymyoclonus syndrome　眼球クローヌス多発ミオクローヌス症候群
+OPSI　overwhelming postsplenectomy infection syndrome　脾摘後重症感染症。脾臓摘出後に免疫力が低下，重篤な感染症に罹患した状態
+OPSS　overwhelming postsplenectomy sepsis　脾摘後重症敗血症
+opthal　ophthalmic　眼科の。ophthalmologist　眼科医
+OPV　oral polio (virus) vaccine　経口ポリオワクチン
+OPV　oral polio virus　経口感染ポリオウイルス
+OQ　open quotient　開放時間率
+OR　olfactory receptor cell　嗅受容細胞
+OR　operating room　手術室
+ORA　older age onset rheumatoid arthritis　高齢発症関節リウマチ
+ORCA　online receipt computer advantage　進化型オンラインレセプトコンピュータシステム
+ORF　open reading frame　読み取り枠
+ORIF　open reduction and internal fixation　観血的整復固定。手術によって骨折または脱臼などの整復固定を行うこと。徒手または牽引によって整復する非観血整復と対になる整復法。非観血整復では整復できない場合，関節など正確な整復が必要とされる場合に行われる。観血的整復では，骨折の場合，多くは整復とともに金属材料によって固定する。
+Orn　ornithine　オルニチン
+ORP　odorant receptor protein　嗅受容蛋白質
+ORS　oral rehydration solution　経口輸液剤
+ORT　oral rehydration therapy　経口補液療法
+ORT　orthoptist　視能訓練士
+Ortho　orthopedics　整形外科
+OS　Ohrensausen［独］　耳鳴
+OS　opening snap　開放音，僧帽弁開放音
+OS　osteosarcoma　骨肉腫
+OS　overall survival　全生存率
+OS　oxalosuccinic acid　オキサロコハク酸
+OSAS　obstructive sleep apnea syndrome　閉塞型睡眠時無呼吸症候群
+OSCE　objective structured clinical examination　客観的臨床能力試験
+OSF　osteoclast stimulating factor　破骨細胞刺激因子
+OSFM　optical scanning fluorescence microscopy　走査蛍光顕微鏡
+osm　osmol　オスモル。浸透圧の単位
+OSM　osmotic pressure　浸透圧
+OS-MS　optic-spinal multiple sclerosis　視神経脊髄型
+O.S，Os　oculus sinistera (sinister)［ラ］　左眼
+OSPS　oral sodium phosphate solution　経口リン酸ナトリウム配合剤。内視鏡検査の前処置などで腸管洗浄に使う。
+OSS　oseous　骨の
+OST　oxytocin sensitivity test　オキシトシン感受性テスト
+osteo　osteopathy　骨疾患
+Osteo，osteomy　osteomyelitis　骨髄炎。骨髄内で細菌が増殖して炎症を起こす疾患
+OT　occupational therapy　作業療法，occupational therapist　作業療法士。作業療法は，作業療法士が行うリハビリテーション。身体や精神に障害をもつ（あるいは予測される）患者に対して，仕事，日常生活動作，遊びなど人間の生活全般に関係する作業活動（動作）を用いて，訓練や治療，指導などを行い，身体や精神の機能を回復させる治療である。作業活動には陶芸，編み物，トランプ，ダンス，読書，調理などさまざまな種類がある。
+OT　old tuberculin　旧ツベルクリン
+OT　olfactory tubercle　嗅覚結節
+OT　orotracheal　口腔気管の
+ot　otitis　耳炎
+OTA　orthotoluidine arsenite (test)　オルトトルイジン亜ヒ(砒)酸塩(試験)
+OTAP　occulsive thromboaortopathy　閉塞性凝血性大動脈症。高安病
+OTB　orthotoluidine boracic acid (test)　オルトトルイジンホウ(\_c07845)酸(試験)
+OTC　ornithine transcarbamylase　オルニチントランスカルバミラーゼ
+OTC　over the counter drags　非処方箋薬，一般用医薬品
+OTC　oxytetracycline hydrochloride　塩酸オキシテトラサイクリン（テトラサイクリン系抗生物質）
+OTCA　operative transluminal coronary angiography　術中経管冠状動脈造影
+OTCD　ornithine transcarbamoylase deficiency　オルニチントランスカルバミラーゼ欠乏
+OTE　optically transparent electrode　光透過性電極
+O Ther　oxygen therapy　酸素療法
+OTTLE　optically transparent thin-layer electrode　光透過性薄層電極
+OUR　orthotopic urinary reservoir　正常位尿リザボア
+OUR　oxygen uptake rate　酸素吸収速度
+OVAR　off vertical axis rotation　オフ・バーティカル・アクシス・ローテーション
+OVLT　organum vasculosum lamina terminalis［ラ］　終末器官
+OVN　ocular vegetative neurosis　眼自律神経症
+OVR　oculovestibular reflex　眼前庭反射
+OVX　ovariectomy　卵巣摘出術
+OW　oval window　卵円窓
+O/W，o/w　oil in water　水中油型(親水軟膏など)
+Ox　oxidant　オキシダント
+ox　oxide　酸化された
+Ox　oxymel　薬用シロップ
+OX，OXT　oxytocin　オキシトシン。下垂体後葉ホルモン(オクタペプチド)
+OX，oxy　oxygen　酸素
+OXP　oxaprozin　オキサプロジン（非ステロイド性抗炎症薬）
+oxycephs　oxycephalics　尖頭症
+OYL　ossification of yellow ligament　黄色靱帯骨化症
+OZ　optical zone　オプティカルゾーン
+Oz.　ounce　オンス(28.35g)

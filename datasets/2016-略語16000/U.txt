@@ -1,0 +1,218 @@
+Ｕ
+U　acidum uricum［ラ］　尿酸。プリン体（核酸の成分の一つ）が分解してできる，細胞の最終代謝産物。血液中に尿酸が増えて発症する病気が痛風である。尿酸が関節に沈着して激しい痛みを引き起こしたり，腎臓障害などが現れる。血液に溶け込んでいる尿酸の量が尿酸値で，高値の場合，高尿酸血症と呼ばれる。
+U　unit　単位
+U　uracil　ウラシル。核酸（主にRNA）の構成成分
+U　urea　尿素
+U☆　urine　尿，尿検査
+U　urobilinogen　ウロビリノーゲン。肝臓から分泌されるビリルビンが腸内で腸内細菌により還元されて生じる最終代謝産物。ビリルビンはヘモグロビンの代謝物であるが，肝臓から胆道を通って十二指腸に排出され消化機能をはたした後，一部は腸管から吸収されて再度肝臓に戻る（腸肝循環）。したがって，肝機能が落ちたときや溶血が起こったとき，通常便から排泄されるウロビリノーゲンが血液中に貯留し尿に排出される。
+U-17 OHCS☆　urine 17-hydroxycorticosteroid　尿中17-OHCS，17-ヒドロキシコルチコイド
+UA　undifferentiated arthritis　診断未確定関節炎
+UA　unstable angina　不安定狭心症
+UA　uric acid　尿酸，尿酸測定
+UA　urinalysis　検尿，尿検査
+UA　urine aliquot　尿部分標本
+UA　urocanic acid　ウロカニン酸
+UACR　urinary albumin/creatinine ratio　尿中アルブミン／クレアチニン比
+UAE　urine albumin excrete　尿中アルブミン排泄量
+UAE　uterine artery embolism　子宮動脈塞栓術
+u-AER　urine albumin excretion rate　尿中アルブミン排泄率
+U-Amy (U-アミラーゼ）☆　urine amylase　尿中アミラーゼ定量
+UAN　uric acid nitrogen　尿酸窒素
+UAP　unstable angina pectoris　不安定狭心症
+UAP　urinary alkaline phosphatase　尿アルカリホスファターゼ
+UARS　upper airway resistance syndrome　上気道抵抗症候群
+UB　umbound bilirubin　非抱合型ビリルビン
+UB12BC　unsaturated B12 binding capacity　不飽和B12結合能
+UBA　undenatured bacterial antigen　非変質性細菌性抗原
+Ubg　urobilinogen（＝U）　ウロビリノーゲン
+UBI　ultraviolet blood irradiation　紫外線血液照射法。輸血後GVHD予防を目的として行う。
+U-BIL☆　urine bilirubin　尿ビリルビン定量
+UBM　ultrasound bio microscope　生体超音波顕微鏡
+Ubn　urobilin　ウロビリン
+UBT　urea breath test　尿素呼気試験
+UBX　ubenimex　ウベニメクス（抗悪性腫瘍薬）
+UC　ulcerative colitis　潰瘍性大腸炎
+UC　undifferentiated carcinoma　未分化癌
+UC　unesterified cholesterol　非エステル化コレステロール
+UCB　unconjugated bilirubin　非抱合(結合)型ビリルビン
+UCF　unsatisfactory colposcopic findings　コルポスコピー所見における不適例
+UCG　ultrasonic cardiogram, ultrasonic cardiography　心エコー図，心臓超音波検査。心臓に超音波を当て，その反射像を画面に映し出して，心臓の形や大きさ，弁の動きや形，異常血流の有無などを調べ，心機能を評価する検査。心臓弁膜症や心筋梗塞などの診断や治療効果判定に用いられている。
+UCG　urethrocystography　尿道膀胱撮影(造影)法
+UCG　urinary chorionic gonadotropins　尿由来絨毛性ゴナドトロピン
+UCL　urea clearance　尿素クリアランス
+U-Cl☆　urine chlorine　塩素定量
+UCLL　uncomfortable loudness level（＝ULL）　不快音レベル
+UCL test　uncomfortable level test　不快閾値検査
+ucOC　undercarboxylated osteocalcin　低カルボキシル化オステオカルシン
+UCPP　urethral closure pressure profile　尿道閉鎖圧曲線
+UCR　unconditioned reflex　無条件反射
+UCS　unconditioned stimulation（＝US）　無条件刺激
+UCT　ultrasonic cardiotomogram　心断層エコー図
+UD　ulcus duodeni［ラ］　十二指腸潰瘍
+UD　ulnar deviation　尺骨偏位
+UD　undifferentiated　未分化の
+ud　undifferentiated carcinoma　未分化癌
+UD　urethral discharge　尿道排泄物
+u.d.　ut dictum［ラ］　用法口授
+UDCA　ursodeoxycholic acid　ウルソデオキシコール酸
+UDN　ulcerated dermal necrosis　潰瘍性皮膚壊死
+UDP　uridine diphosphate　ウリジン二リン酸
+UDPG　uridine diphosphate galactose　ウリジン二リン酸ガラクトース
+UDPG　uridine diphosphate glucose　ウリジン二リン酸グルコース
+UDPGA　uridine diphosphoglucuronic acid　ウリジン二リン酸グルクロン酸
+UDPGT　uridine diphosphate glucuronyl transferase　ウリジン二リン酸グルクロン酸転移酵素
+UDS　unscheduled DNA synthesis　不定期DNA合成。色素性乾皮症の検査法の一つ
+UDS　urodynamic study　尿流動態検査，排尿機能検査
+UEC　unequal crossing-over　不等乗換え
+UES　upper esophageal sphincter　上部食道括約筋
+UF　ultrafiltration　限外濾過
+UF　urea formaldehyde　ホルムアルデヒド尿素
+UF　urinary formaldehyde　尿ホルムアルデヒド
+UFA　unesterified fatty acid　遊離脂肪酸，非エステル化脂肪酸
+UFCT　ultra-fast CT　超高速CT
+UFM　uroflo(w) metry　尿流量検査，尿流測定法
+UFR　ultrafiltration rate　限外濾過量
+UFT　uracil & futraful　ユーエフティー（ウラシルとフトラフール）。配合抗癌剤
+UG　urethrography　尿道造影法
+UGAA　urethritis gonorrhoica anterioracuta［ラ］　急性淋菌性前部尿道炎
+UGF　unidentified growth factor　未確認成長因子
+UGI series　upper gastrointestinal series　上部消化管X線検査
+UGI，UGIT　upper gastrointestinal tract　上部消化管（食道，胃，十二指腸）
+UGPA　urethritis gonorrhoica posterior acuta［ラ］　急性淋菌性後部尿道炎
+UGPP　uridyldiphosphate glucose pyrophosphorylase　ウリジル二リン酸ブドウ糖ピロリン酸分解酵素
+UGT　uridine diphosphate glucuronosyl transferase　UDP-グルクロン酸転移酵素
+UGT　urogenital tuberculose　尿路性器結核
+UH　umbilical hernia　臍ヘルニア。生後へその緒が縮んでゆく過程で，筋膜がくっつかずに穴ができて腸が飛び出した状態
+UHD　unstable hemoglobin disease　不安定ヘモグロビン症
+UHF　ultrahighfrequency　超音波
+UHT　ultra-high temperature pasteurization　超高温瞬間殺菌法
+UI　ultrasound imaging　超音波画像
+UIBC　unsaturated iron binding capacity　不飽和鉄結合能。トランスフェリン（肝臓で産生され，鉄と結合して運搬する血漿蛋白）が血清中の鉄と結合し，なお鉄と結合しうる残りのトランスフェリン量のこと。血清中の鉄は，正常ではトランスフェリンの約３分の１に結合しており，残りの約３分の２が不飽和鉄結合能となる。これを鉄と併せて測定することにより，貧血や鉄欠乏状態，肝細胞障害，造血能亢進などを診断する指標となる。なお，一般に，総鉄結合能＝血清鉄＋不飽和鉄結合能（mg/dL）である。
+UIC　uninhibited contraction　（膀胱の）無抑制性収縮
+UICC　Union Internationale Contre le Cancer　国際対がん連合
+u.i.d.　uni in die［ラ］　１日１回（処)
+UIF　ultra-loｗ frequency　超低周波
+UIP　usual interstitial pneumonia　通常型間質性肺炎
+UK　urokinase　ウロキナーゼ
+Ul　ulcer　潰瘍。皮膚や粘膜などに見られる組織欠損。皮膚では真皮に達し，消化管粘膜では粘膜下筋板の欠損を伴う。これより浅いものは「びらん」と呼ぶ
+UL　upper lid　上眼瞼
+UL　upper limit　上限
+ULDH　urinary lactic acid dehydrogenase　尿乳酸脱水素酵素\u000021e8LDH
+ULL　uncomfortable loudness level　不快音レベル
+ULLE　upper lid of left eye　左上眼瞼
+ULN　upper limits of normal　正常値の最高
+ULP　ulcer-like projection　潰瘍性突起
+ULRE　upper lid of right eye　右上眼瞼
+ULV　ultra low volume spray　微量散布
+Ul. vent　ulcus ventriculi［ラ］　胃潰瘍
+UM　uracil mustard　ウラシルマスタード（抗悪性腫瘍薬）
+umb　umbilical　臍の
+UMG　uretero-manometrography　尿管内圧検査法
+UMN　upper motor neuron　上位運動ニューロン
+UMNL　upper motor neuron lesion　上位運動ニューロン障害
+UMP　uridine monophosphate　ウリジン一リン酸
+UN　urea nitrogen　尿素窒素，血液尿素窒素(BUN)
+UNA　uterosacral nerve ablation　仙骨子宮靱帯部切断術
+unclas　unclassified　分類不能の
+ung　unguentum［ラ］　軟膏
+UO　urate oxidase　尿酸酸化酵素
+U/O　urinary output　尿量
+UOD　ultimate oxygen demand　最終酸素需要
+UP　umbical portion　臍部
+UP　urine gonadotropin　尿中ゴナドトロピン
+U/P　urine plasma concentration　尿血漿濃度比
+UP　urine protein　尿蛋白
+UP　uroporphyrin　ウロポルフィリン。ヘモグロビン合成系の異常の際に尿中に認められる。ヘモグロビン合成の前駆物質であるヘム体は，ポルフィリンから産生される。ポルフィリアや鉛中毒でヘム合成の異常が起きると，ポルフィリンの中間代謝物がウロポルフィリンやδアミノレブリン酸として血中に増加し，尿中に排出される。
+UP　uvulopalatopharyngoplasty（＝UPPP）　口蓋垂口蓋咽頭形成術
+uPA　urinary plasminogen activator　尿型プラスミノーゲン活性化酵素
+uPAR　urokinase-type plasminogen activator recepter　GPI結合型血球膜蛋白質。→CD87
+UPD　uniparental disomy　片親性ダイソミー
+UPDRS　unified Parkinson's disease rating scale　統合パーキンソン病評価尺度
+UPG　uroporphyrinogen decarboxylase　ウロポルフィリノーゲン脱炭酸酵素
+UPI　uteroplacental insufficiency　子宮胎盤機能不全
+UPJ　ureteropelvic junction　腎盂尿管移行部
+UPJ stenosis　ureteropelvic junction stenosis　腎盂尿管移行部狭窄症
+UPL　upper leg　大腿
+UPP　urethral pressure profile　尿道内圧測定，尿道内圧曲線
+upper GI series　upper gastrointestinal series　上部消化管X線造影検査
+UPPP　uvulopalatopharyngoplasty　口蓋垂口蓋咽頭形成術
+u/p ratio　urine/plasma ratio　尿血漿比
+upt.　uptake　摂取(率)
+UPTD　unit pulmonary toxic dose　肺毒性単位
+UQ　urine quantity　尿量
+UR　unconditioned response（＝UCR）　無条件反応
+Ura　uracil　ウラシル
+ura　urethral　尿道の
+uranog　uranographer　口蓋図
+UrA，UrAc　uric acid　尿酸
+UR-BMT　unrelated bone marrow transplantation　非血縁者間骨髄移植
+Urd　uridine　ウリジン
+ure　ureteral　尿管の
+Urea-N　urea nitrogen　尿素窒素
+ureth　urethra　尿道
+URF　uterine-relaxing factor　子宮弛緩因子
+urg　urgent　緊急の
+URI　upper respiratory infection　上気道炎，上気道感染
+Uro　urology　泌尿器科
+urogen　urogenital　泌尿生殖器の，尿性器の
+UROgen　uro-porphyrinogen　ウロポルフィリノーゲン
+urol　urologist　泌尿器科医
+URT　upper respiratory tract　上気道
+URTI　upper respiratory tract infection（＝URI）　上気道感染（感冒やインフルエンザなど）
+Ur.，ur.　urine　尿
+US　ultrasonography　超音波診断。高い周波数の音波を生体に入射して臓器・組織などから返ってくる反射波で生体内の構造を調べる画像検査法。検査者の技能の差が大きく再現性が低いという欠点があるが，手軽に使えて比較的人体への影響が少ないため，その応用範囲は広い。反射波の分析方法により，Aモード法，Bモード（断層撮影）法，Mモード法，ドップラー法などに分けられる。
+US　ultrasound　超音波。ultrasonic scanning　超音波走査
+US　ultrasound imaging　超音波画像
+US　unconditioned stimulation（＝UCS）　無条件刺激
+US　unconditioned structure　無条件構造，絶対構造
+US　urine sugar　尿糖
+USB　upper sternal border　上部胸骨縁
+USBA　urinary sulfated bile acids　尿中硫酸抱合型胆汁酸
+USE system　Universal Subcutaneous Endoscope system　（透明な外套管と内視鏡からなる）関節外鏡視手術システム
+us ext　usus externus　外用
+USG　ultrasonogram　超音波検査図
+us int　usus internus　内用
+USN　ultrasonic nebulizer　超音波ネブライザー。水に超音波振動を加えエアロゾルを発生させる装置。気管支拡張薬や喀痰溶解剤などの薬物を気道に投与するため，または気道を加湿するためのもの
+USPA　undifferentiated spondylarthritis　未分化型脊椎関節炎
+USR　unheated serum reagin　非加熱血清レアギン
+UST　ultrasound tomography　超音波断層法
+USW　ultrasonic wave　超音波
+UT　urinary tract　尿路
+UTI　urinary tract infection　尿路感染症。一般的には非特異性細菌（大腸菌，変形菌，緑膿菌などのグラム陰性菌群およびブドウ球菌などのグラム陽性菌群など）によって，尿路（腎，膀胱，前立腺，尿道，精巣上体，精巣など）に発症した感染性炎症のこと。感染経路には臓器や組織からのリンパ行性，血行性もあるが，主として尿路管腔を逆行性に侵入するものと考えられている。治療は原因菌を同定し，抗生物質を投与する抗菌化学療法が主体である。
+UTI　urinary trypsin inhibitor　尿トリプシン阻害剤
+UTJ　uterotubal junction　子宮卵管境界
+UTP　uridine triphosphate　ウリジン三リン酸
+UTR　untranslated region　非翻訳領域
+U-UA☆　urine acidum uricum［英・ラ］　尿酸定量
+UUN　urinary urea nitrogen　尿中尿素窒素
+UU，U-U☆　urine urobilinogen　尿ウロビリノーゲン，ウロビリノーゲン定量。尿中一般物質定性半定量検査
+UV　ulcus ventriculi［ラ］　胃潰瘍
+UV　ultraviolet ray　紫外線
+UV　umbilical vein　臍静脈
+UV　urine volume　尿量
+UVA　ultraviolet A　長波長紫外線(315-400 nm)
+UVASER　ultraviolet amplification by stimulated emission of radiation　照射放出刺激による紫外線増幅
+UVB　ultraviolet B　中波長紫外線(280-315 nm)
+UVC　ultraviolet C　短波長紫外線(100-280 nm)
+UVG　urethrovesicography　尿道膀胱撮影
+UVJ　ureterovesical junction　尿管膀胱移行部
+UVJ-stenosis　ureterovesical junction stenosis　尿管膀胱移行部狭窄症
+UV/P　concentration of solute urine　尿中溶質濃度。V：volume of urine excreted in a unit of time，単位時間内の排泄尿量，P：concentration of substance in plasma，血漿中の物質濃度
+UVR　ultraviolet radiation　紫外線照射
+UWT　urea wash out test　尿素流失試験
+U-イッパン☆　尿中一般物質定性半定量検査
+U-インジカン☆　インジカン反応，Obemayer法，Jolles法など，尿検査
+U-クレアチニン☆　クレアチニン定量
+U-クレアチン☆　クレアチン定量
+U-クロール☆　尿中塩素定量
+U-コプロポルフィリン☆　コプロポルフィリン定性
+U-ジアゾ☆　ジアゾ反応。尿検査
+U-タン☆　尿蛋白質定量
+U-トウ☆　尿中糖定量
+U-ニョウサン☆　尿酸定量
+U-ヘマトポルフィリン☆　ヘマトポルフィリン定性
+U-ミロン☆　ミロン反応
+U-メラニン☆　メラニン定性
+U-潜 (U-センケツ）☆　尿潜血反応。尿中一般物質定性半定量検査。一般的な尿検査。試験紙，アンプルもしくは錠剤を用いて検査するもの，または試験紙等を比色計等の機器を用いて判定するものをいう。検査項目には，比重，pH，蛋白，糖，ウロビリノーゲン，ウロビリン，ビリルビン，アセトン体（ケトン体），アルブミンなどがある。
+U-沈 (U-チンサ）☆　尿沈渣顕微鏡検査。尿を遠心分離し，沈殿物を顕微鏡で検査する検査。尿沈渣とは沈殿した成分（血球，細胞，円柱，結晶，細菌）の総称であり，尿路疾患，全身性疾患，悪性腫瘍などの診断情報が得られる。
+U-沈／染色　尿沈渣顕微鏡検査(染色)

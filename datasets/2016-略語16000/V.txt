@@ -1,0 +1,416 @@
+Ｖ
+v　vaccerine　ワセリン
+V　vaccin（＝vacc）　ワクチン。各種の伝染病病原菌から製造した抗原。生体に接種して抗体を生じさせることによって伝染病の感染・伝播・流行を阻止する。殺した病原体を用いた死菌ワクチン，弱毒化した生きた病原体を用いた生ワクチン，細菌の産物である毒素の不活性化物であるトキソイドの３種に分類される。
+v　vaccum　吸引する
+v　vaccum tube　吸引管
+v　valve　弁
+V　Vanadin［独］，vanadium　バナジウム
+V　varicella　水痘。水ぼうそう。水痘ウイルスによって，発熱とともに全身の皮膚や口内に水疱ができる急性発疹性疾患。小児に多いが成人も罹患する。伝染力が強く，接触，飛沫感染するが，１度かかれば長い年月にわたる免疫が得られる。健康小児が罹患した場合，予後は一般に良好で，１〜２週間の経過で全治する。
+V　vena，vein　静脈。心臓から送り出された血液が身体の末端に至り，それが毛細血管を通じ，再び心臓に送り返される帰りの経路となる血管。静脈血は炭酸ガスをはじめ多くの排泄物を含み暗赤色を呈しているため，静脈は外部からは青く見える。
+v　venous admixture　混合静脈血
+V　vertical (position)　垂直(位)(心電図)
+v　vessel　血管
+V　Vibrio　ビブリオ
+V　virus　ウイルス
+V　vision　視力
+V　volume　容積・体積；L(リットル)；m3(立方メートル)
+V　vomiting　嘔吐
+V　vor Essen［独］　食前
+V0　void volume　空隙容量
+V1　visual area 1　一次視覚野
+V2　visual area 2　二次視覚野
+V3　visual area 3　三次視覚野
+VA　alveolar ventilation（＝VE）　肺胞換気量
+VA　valve area　弁口面積
+VA　ventroanterior thalamic nucleus　視床前腹側核
+V.a.　Verdacht auf〜［独］　〜の疑い
+VA　vertebral artery　椎骨動脈
+VA　vestibular asymmetry　前庭左右不均衡
+VA　vinca alkaloide　アルカロイド
+VA　visual acuity　視力
+VAB　veno-arterial bypass　静動脈バイパス。人工心肺装置を用いた流量循環補助法で，心臓に戻る静脈血を人工肺によって酸素化し，ポンプで動脈系に送血する
+V-A，-B，-C　vitamin A, B, C　ビタミンA，B，C
+VAC　vacuum assisted closure therapy　陰圧閉鎖療法
+VAC　vincristine+actinomycin D+cyclophosphamide　ビンクリスチン＋アクチノマイシンD＋シクロホスファミド。癌化学療法の組み合わせの一つ
+vacc　vaccination　（狭義には）種痘（天然痘ワクチンによる予防接種），（広義には）ワクチン注射
+vacc　vaccine（＝V）　ワクチン
+VACV　vaccinia virus　ワクシニアウイルス
+VAD　vascular access device　血管接近装置
+VAD　ventricular assist device　心室補助人工心臓
+VAD療法　doxorubicin, vincristine, dexamethazone　ビンクリスチン＋ドキソルビシン＋デキサメタゾン
+vag　vagina　腟，莢膜。vaginal　腟の。vaginitis　腟炎
+VAG　vertebral arteriography　椎骨動脈撮影(造影)
+Vag hyst　vaginal hysterectomy　腟式子宮切除術
+VAH　volatile aromatic hydrocarbons　揮発性芳香族炭化水素
+VAHS　virus associated hemophagocytic syndrome　ウイルス関連血球貪食症候群
+Val　valine　バリン
+val　valve　弁
+VAMP　vesicle-associated membrane protein　小胞関連膜蛋白質
+VAMP　vincristine+adriacin+6-mercaptopurine+prednisolone　ビンクリスチン＋アドリアシン＋メルカプトプリン＋プレドニゾロン。癌化学療法の組み合わせの一つ
+VAN　value added network　付加価値通信網
+VAN　vincristine+adriamycin+nidran　ビンクリスチン＋アドリアマイシン＋ニドラン。癌化学療法の組み合わせの一つ
+VAP　variant angina pectoris　異型狭心症
+VAP　ventilator-associated pneumonia　人工呼吸器関連肺炎。レスピレーター使用患者における肺炎
+VAPP　vaccine associated paralytic polio　ワクチン関連麻痺
+VARV　Variola virus　痘瘡ウイルス
+VAS　visual analogue scale　視覚アナログ尺度
+vas bund　vascular bundle　血管束
+vasc　vascular　血管の，脈管の
+vasec　vasectomy　血管切除術
+V-A shunt (シャント)　ventriculoatrial shunt　脳室心房短絡術，脳室心房吻合術。水頭症に対する手術法
+VAST　vibroacoustic stimulation test　振動・音刺激試験
+VAS，VaS　ventricular assist system　補助人工心臓。人工心臓の一種。一般に補助人工心臓と完全人工心臓に大別される。補助人工心臓は心臓の手術等の心不全に対して一時的に用いられ，心機能の回復の後に取り外される。完全人工心臓は心臓の全ポンプ機能を代行するもので，外科的に心臓を切除した後に埋め込まれる。
+VAT　ventricular activation time　心室興奮時間，心室内興奮到達時間
+VATS　video-assisted thoracic (thoracoscopic) surgery　ビデオ補助胸腔鏡下手術。胸腔鏡とは，先端に小型カメラを装着した棒状の器械。胸腔鏡を直径15mmほどの穴を通じて胸に入れる。このカメラは拡大した視野が得られるので，中を詳しく観察することができる。穴をさらに２個開けて，電気メスやハサミを使用して手術を行う。胸腔鏡下手術の利点は，手術の傷が従来の方法と較べると小さく，手術後の痛みが少なく早期に退院が可能となること。
+VAZ　vena azygos　奇静脈
+VB　venous blood　静脈血
+V-B11　vitamin B11　ビタミンB11，葉酸\u000021e8PGA
+V-B12　vitamin B12　ビタミンB12，シアノコバラミン
+V-B2　vitamin B2　ビタミンB2，リボフラビン
+V-B3　vitamin B3　ビタミンB3，ニコチン酸アミド
+V-B4　vitamin B4　ビタミンB4，アデノシン三リン酸ナトリウム，ATP
+V-B5　vitamin B5　ビタミンB5，パントテン酸カルシウム
+V-B6　vitamin B6　ビタミンB6，塩酸ピリドキシン
+VBAC　vaginal birth after cesarean section　帝王切開後経腟分\_c07791
+V-Bc　vitamin Bc　葉酸\u000021e8PGA（プテロイルグルタミン酸）
+VBDS　vanishing bile duct syndrome　胆管消失症候群
+VBI　vertebrobasilar insufficiency　椎骨脳底動脈循環不全
+VBL　vinblastine（＝Vbt，VLB）　硫酸ビンブラスチン（抗悪性腫瘍薬）
+VBOS　veronal buffered oxalated saline　ベロナール緩衝蓚酸塩加塩
+VBP　vagal body paraganglioma　迷走神経傍神経節腫
+VBS　veronal buffered saline　ベロナール緩衝食塩液
+Vbt　vinblastine（＝VBL，VLB）　硫酸ビンブラスチン（抗悪性腫瘍薬）
+VC　vena cava［ラ］　大静脈
+VC　venereal case　性病症例
+VC　villous capillary　絨毛毛細管
+VC　vital capacity　肺活量
+VC　vocal cord　声帯
+VC　vomiting center　嘔吐中枢
+VC%　vital capacity percentage　パーセント肺活量
+VCA　viral capsid antigen　ウイルス粒子抗原
+VCAM　vascular cell adhesion molecule　血管細胞接着分子
+VCC　vasoconstrictor center　血管収縮中枢
+VCD　vena colica dextra［ラ］　右結腸静脈
+VCD　vocal cord dysfunction　声帯機能異常。声帯の機能異常によって喘鳴発作を起こす疾患
+Vcf　circumferential fiber shortening velocity　円周方向短縮速度
+Vcf　velocity of circumferential fiber shortening　心筋円周短縮速度
+VCG☆　vectorcardiography　ベクトル心電図検査。心起電力の変化を３次元（立体的）でとらえ，大きさと方向の変化する起電力のベクトルを診断に用いる検査法。通常の心電図より心腔内刺激伝導障害や心筋梗塞の部位と程度がより精密に判定される。標準12誘導心電図では検出しにくい右室肥大・非定型的な心筋梗塞などの検出に有用である。
+VCG　voiding cystourethrography　排尿時膀胱尿道造影
+VCM　vancomycin　バンコマイシン
+VCM　vena colica media［ラ］　中結腸静脈
+VCMP　vincristine+cytosine arabinoside+6-MP+prednisolone　ビンクリスチン＋シトシンアラビノシド＋メルカプトプリン＋プレドニゾロン。癌化学療法の組み合わせの一つ
+VCO2　carbon dioxide output　二酸化炭素(炭酸ガス)排出量
+VCPG　venous congested plethysmography　静脈閉塞プレチスモグラフィ法
+VCR　vasoconstriction rate　血管収縮率
+VCR　vincristine sulfate　硫酸ビンクリスチン（抗悪性腫瘍薬）
+VCS　vasoconstrictor substance　血管収縮物質
+VCS　vena cava superior［ラ］　上大静脈
+VCT　venous clotting time　静脈血凝固時間
+VCU　voiding cystourethrography（＝VCG）　排尿時膀胱尿道造影
+VCV　volume control ventilation　ボリュームコントロール換気
+V-C，VC　vitamin C　ビタミンC，ascorbic acid　アスコルビン酸
+VD　dead space volume　死腔量
+VD　vascular dementia　脳血管性認知症
+VD　vascular depression　脳血管性うつ状態
+VD　venereal disease　性病。性行為，特に性交より感染する疾患の総称。梅毒，淋疾，軟性下疳，鼠径リンパ肉芽腫がこれにあたるが，近年は上記に加えて皮膚カンジダ症，トリコモナス，疥癬，陰部しらみ，陰部ヘルペス，後天性免疫不全症候群（AIDS）の一部，真菌・原虫・寄生虫性疾患，さらにウイルス感染を含め，広く性行為により感染する疾患はSTD（sexually transmitted diseases性感染症）と呼ばれている。
+VD　ventrodorsal　前後
+VD　vessel disease　枝病変
+VD　virus diarrhoea　ウイルス性下痢症
+v.d.　visus dexter［ラ］　右眼視力
+VD　volume of dead space gas　死腔換気量
+Vd　volume of distribution　分布容量，体内の分布容積
+Vd　volume of distribution　分布容積
+V-D2　vitamin D2　ビタミンD2，ergocalciferol　エルゴカルシフェロール
+VDA　visual discriminatory acuity　視覚識別正確度
+VDB　voltage dependent block　膜電位依存性抑制
+VDBT　vasucular demetia of Binswanger type　ビンスワグナー型血管性認知症
+VDC　vasodilator center　血管拡張中枢
+VDCC　voltage-dependent calcium channel　電位依存性カルシウムチャネル
+VDDR　vitamin D dependent rickets　ビタミンD依存性くる病
+v.d.E.　vor dem Essen［独］　食前に（処)。同義語：a.c.
+VDEM　vasodepressor material　血管抑圧物質
+VDG　venereal disease-gonorrhea　性病・淋疾
+VDH　valvular disease of heart　心臓弁膜症。心臓の膜でできた弁に狭窄や閉鎖不全などが生じた疾患の総称
+VDM　vasodilator material　血管拡張因子
+VDN　vindesine　ビンデシン（抗悪性腫瘍薬）
+VDPV　vaccine-derived polioviruses　ワクチン由来ポリオウイルス
+VDR　1,25-dihydroxyvitamin D3 receptor　1,25-ジヒドロキシビタミンD3受容体
+VDRL　venereal disease research laboratory　性病研究所梅毒血清反応
+VDRR　vitamin D-resistant rickets　ビタミンD抵抗性くる病
+VDRT　venereal disease reference test　性病の標準試験
+VDS　vasodilator substance　血管拡張物質
+VDS　venereal disease-syphilis　性病・梅毒
+VDS　vindesine sulfate　硫酸ビンデシン（抗悪性腫瘍薬）
+v.d.S.　vor dem Schlafen［独］　就寝前に（処)
+VDT　visual distortion test　視覚歪像テスト
+VDT障害　video display terminal　ビデオ・ディスプレイ・ターミナル障害
+VDU　visual disply unit　視覚表示装置
+VDV　ventricular diastolic volume　心室拡張期容積
+VD/VT　volume of dead space/tidal volume　死腔率
+VE　minute ventilation　分時換気量
+VE　minute volume of ventilation　分時換気量
+VE　vacuum extraction　吸引分\_c07791
+VE　vascular ectasia　血管拡張症
+VE　ventricular extrasystole　心室性期外収縮
+VE　vesicular exanthema　小水疱疹
+VE　videoendoscopy, videoendoscopic evaluation of swallowing　嚥下内視鏡検査
+V-E　vitamin E　ビタミンE，tocopherol acetate　酢酸トコフェロール
+VEB　ventricular ectopic beat　心室性期外収縮
+VECP　visually evoked cortical potential　視覚誘発皮質電位
+VEDP　ventricular end-diastolic pressure　心室拡張終期圧
+VEDV　ventricular end-diastolic volume　心室拡張終期容積
+VEEV　Venezuelan equine encephalitis virus　ベネズエラウマ脳炎ウイルス
+VEGF　vascular endothelial growth factor　血管内皮細胞増殖因子
+Velcro　velcro rale　ベルクロラ音。間質性肺炎で聴取される。
+VEM　vasoexcitor material　血管収縮物質
+VEM　vincristine+endoxan+mitomycin C　ビンクリスチン＋エンドキサン＋マイトマイシンC。癌化学療法の組み合わせの一つ
+VEMP　vincristine, endoxan, mercaptopurine, predonine　ビンクリスチン＋エンドキサン＋メルカプトプリン＋プレドニン。悪性リンパ腫治療に用いる多剤併用化学療法の組み合わせの１つ。
+ven　venereal　性病の
+Ven　venomous　毒の
+Vend　van den Bergh's test　ファンデンベルヒ検査。尿，血清ビリルビンの検出反応の一つ
+VENP　vincristine+endoxan+natulan+prednisolone　ビンクリスチン＋エンドキサン＋ナツラン＋プレドニゾロン。癌化学療法の組み合わせの一つ
+VE(N)P　vincristine+endoxan+prednisolone　ビンクリスチン＋エンドキサン＋プレドニゾロン。癌化学療法の組み合わせの一つ
+vent fib　ventricular fibrillation（＝VF）　心室細動
+ven，vent　ventral　腹側の
+VEOG　vector electrooculography　ベクトル眼電図記録(法)
+VEP　visual evoked potential　視覚誘発電位(脳波)
+VEPA　vincristine+endoxan+prednisolone+adriacin　ビンクリスチン＋エンドキサン＋プレドニゾロン＋アドリアシン。癌化学療法の組み合わせの一つ
+VER　visual evoked response　視覚誘発反応
+vert　vertebra　脊椎
+vert　vertigo　めまい
+VES　ventricular extrasystole　心室性期外収縮
+ves　vesical (bladder)　膀胱の。膀胱は，左右の腎臓から尿管を通り集められた尿を一時的に貯留する臓器。内圧がある限度になると尿意をもよおす。排尿のための排尿反射は，膀胱壁の伸展刺激や尿道からの刺激に対するもので，尿道括約筋をゆるめ，膀胱筋を収縮させて尿を押し出す。
+VESV　ventricular end-systolic volume　心室収縮終期容積
+VF　ventricular flutter　心室粗動
+VF　vestibular function　前庭機能
+VF　videofluoroscopic examination of swallowing　嚥下造影検査
+VF，v.f.　visual field　視野
+V. F　vitamin F　ビタミンF（必須脂肪酸）。生体内では合成できず，食事等により摂取しなければならない脂肪酸の総称
+VF　vocal fremitus　声音振戦
+V factor　verbal comprehension factor　言語理解力因子
+VFC　ventricular function curve　心室機能曲線
+VFP　vitreous fluorophotometry　硝子体蛍光測定
+VF，Vf　ventricular fibrillation　心室細動。心臓の心室が小刻みに震え（細動），脳や体に血液を送ることができなくなる疾患。意識消失，呼吸停止，脈拍停止などの症状があり，放置すると死に至る。心室細動が起こって３〜５秒程度で意識消失や呼吸停止の状態になるので，治療は緊急的に行わなければならない（死亡率は症状発生後３分で50％程度といわれている）。治療は非開胸的心マッサージを行い，その後カウンターショックによって正常な心臓の動きに戻す処置を行う。また，再発防止のために体内に埋込型除細動器（カウンターショックと同じ役目をする器械）の移植を行うこともある。
+VG　ventricular gallop　心室性奔馬調律
+VG　ventricular gradient　心室勾配，QRS-T角(ベクトル心電図)
+VG　ventriculography　脳室撮影
+V. G　vitamin G　ビタミンG（リボフラビン）
+VGCC　voltage-gated calcium channel　電位依存型カルシウムチャネル複合体
+V.G.n.b.　Vorgeschichte nichts besonders［独］　特別の既往症なし
+VH　viral hepatitis　ウイルス肝炎。肝炎ウイルス感染による炎症性疾患。肝炎を起こすウイルスはA型（HAV），B型（HBV），C型（HCV）の３種類が主なものとされている。
+V. H　vitamin H　ビタミンH（ビオチン）
+VHD　valvular heart disease　心臓弁疾患
+VHDA　very high density area　超高濃度陰影部分
+VHDL　very high density lipoprotein　超高比重リポ蛋白，超高密度リポ蛋白質
+VHF　very high frequency　超高周波
+VHF　viral haemorrhagic fever　ウイルス性出血熱
+VHL症候群　von Hippel-Lindau syndrome　フォン・ヒッペル・リンドウ症候群
+VI　inspired volume　吸気量
+VI　ventilation index　換気指数
+VI　viscosity index　粘稠度指数
+VI　volume index　容積指数，赤血球容積指数
+VIA　virus inactivating agent　ウイルス不活性剤
+VIC　vaporizer inside circuit　回路内気化器。閉鎖循環式全身麻酔器の呼吸回路内の麻酔剤気化器
+VIC　vasoinhibitory center　血管抑制中枢
+VIG　vaccinia immune globulin　ワクシニア免疫グロブリン。天然痘の治療に用いる。
+VIN　vulvar intraepithelial neoplasia　外陰上皮内腫瘍
+VIP　vasoactive intestinal polypeptide　血管作動性腸管ポリペプチド，腸管由来血管作動性ポリペプチド
+VIP　voluntary interruption of pregnancy　自発的妊娠中絶
+VIPoma　VIP産生腫瘍。悪性膵内分泌腫瘍の一つ
+visc　visceral　内臓の
+visc　viscosity　粘稠度
+VISC　vitreous infusion suction cutter　硝子体灌流切除装置
+VISI　volar intercalated segment instability　近位手根列掌側回転型手根不安定症
+vit.　vital　生命の
+V(it)　vitamin　ビタミン。体内では合成できない，あるいは合成されても十分でない栄養素の一つで，生物の活動に不可欠な有機化合物。大きく分けて水溶性ビタミンと脂溶性ビタミンがあり，ビタミンA，B1，B2，C，D，E，F，Kなど多くの種類をもつ。生体に必要な量は微量であるが，不足すると様々な欠乏症を引き起こす。またビタミンA，D，Kには過剰症がある。ビタミン剤は，患者の疾患・症状の原因がビタミンの欠乏または代謝異常である場合であり，かつ必要なビタミンの食事による摂取が困難な場合等において，医師がビタミン剤の投与が有効であると判断した場合に限り，保険適用となる。
+vit A　vitamin A（＝VA）　ビタミンA
+vit A1　vitaminA1（＝VA1）　ビタミンA1
+vit B　vitamin B（＝VB）　ビタミンB
+vit B1　vitamin B1（＝VB1）　ビタミンB1（チアミン）
+vit B12　vitamin B12（＝VB12）　ビタミンB12（コバラミン）
+vit B12b　vitamin B12b（＝VB12b）　ビタミンB12b（アクオコバラミン）
+vit B2　vitamin B2（＝VB2）　ビタミンB2（リボフラビン）
+vit B3　vitamin B3（＝VB3）　ビタミンB3（ニコチンアミド）
+vit B6　vitamin B6（＝VB6）　ビタミンB6（ピリドキシン）
+vit Bc　folic acid vitamin　葉酸。水溶性のビタミンB群の一種
+vit Bcx　vitamin B complex　ビタミンB群
+vit C　vitamin C（＝VC）　ビタミンC（アスコルビン酸）
+vit D　vitamin D（＝VD）　ビタミンD
+vit D1　vitamin D1（＝VD1）　ビタミンD1（カルシフェロール，ルミステロール）
+vit D2　vitamin D2（＝VD2）　ビタミンD2（エルゴカルシフェロール）
+vit D3　vitamin D3（＝VD3）　ビタミンD3（コレカルシフェロール）
+vit E　vitamin E（＝VE）　ビタミンE（トコフェロール）
+vit G　vitamin G（＝VG）　ビタミンG（リボフラビン）
+vit H　vitamin H（＝VH）　ビタミンH（ビオチン）
+vit K　vitamin K（＝VK）　ビタミンK
+vit L　vitamin L（＝VL）　ビタミンL
+vit M　vitamin M（＝VM）　ビタミンM（葉酸）
+V. K　vitamin K（＝vit K）　ビタミンK
+VK　Vorderekammer［独］　前眼房，前房
+V-K1　vitamin K1　ビタミンK1，phytonadione　フィトナジオン
+V-K2　vitamin K2　ビタミンK2，menatetrenone　メナテトレノン(ケイツー\u000000ae)。止血機構賦活ビタミン
+VKC　vernal keratoconjunctivitis　春季カタル
+VL　variable light chain domains　可変軽鎖領域
+VL　vena lienalis［ラ］　脾静脈
+VL　venerische Leiden［独］　性病
+VL　ventrolateral thalamic nucleus　視床外側腹側核
+VL　vision left　左眼視力
+V. L　vitamin L　ビタミンL
+VLAP　visual laser ablation of prostate　経尿道的直視下レーザー前立腺切除術。前立腺肥大症に対する治療法の一つ。内視鏡を用いて直視下にレーザーを照射する。
+VLB　vinblastine sulfate　硫酸ビンブラスチン（抗悪性腫瘍薬）
+VLBWI　very low birth weight infant　極低出生体重児（1500g未満）
+VLCD　very low calorie diet　超低カロリー食
+VLCFA　very long chain fatty acid　極長鎖脂肪酸
+VLDL　very low density lipoprotein　超低比重リポ蛋白，超低密度リポ蛋白質
+VLDS　verbal language developmental scale　言語発達基準
+VLED　very low energy diet　超低カロリー食
+VLF　very low frequency　超低周波
+VLFA　very long chain saturated fatty acid　極長鎖飽和脂肪酸
+VLH　ventrolateral nucleus of hypoth-alamus　視床下部腹側核
+VLIA　virus-１ike infections agent　ウイルス様感染因子
+VLM　visceral larva migrans　内臓幼虫移行症
+VLN　very low nitrogen　超低窒素
+VLP　virus like particle　ウイルス様粒子
+VLPP　valsalva leak point pressure　ヴァルサルヴァ漏出時圧
+VLR　very low range　超低域
+VLS　vascular leak syndrome　血管漏出症候群
+vlv　valve　弁
+Vm　maximal uptake velocity　最大取り込み速度
+VM　vasomotor nerve　血管運動神経
+vm　ventralis medialis［ラ］　腹側正中
+VM　ventricular mass　心室筋量
+VM　ventromedian nucleus　腹内側核
+VM　vestibular membrane　前庭膜
+VM　viomycin　バイオマイシン
+V. M　vitamin M（＝vit M）　ビタミンM（葉酸）
+Vmax　maximal expiratory flow　最大呼気速度
+Vmax　maximum velocity of shortening　最大収縮速度，最大呼気速度（Vマックス）
+Vmax　maximum velocity of shortening　最大短縮速度
+VMA精密　vanillylmandelic acid　バニリルマンデル酸精密測定
+VMC　vasomotor center　血管運動神経中枢
+VMetP　vincristine+methotrexate+prednisolone　ビンクリスチン＋メトトレキサート＋プレドニゾロン。癌化学療法の組み合わせの一つ
+VMH　ventromedial hypothalamic nucleus　視床下部腹内側核
+VMH　ventromedial nuclei　腹側正中核
+VMP　vincristine+6-MP+prednisolone　ビンクリスチン＋6-メルカプトプリン＋プレドニゾロン。癌化学療法の組み合わせの一つ
+VMR　vasomotor rhinitis　血管運動性鼻炎
+VMS　vena mesenterica superior　上腸間膜静脈
+VMS　visual memory span　視覚記憶期間
+VN　vestibular nucleus　前庭核
+VN　vitronectin　ビトロネクチン
+VNS　vegetative nervous system　植物神経系（自律神経系，不随意神経系）
+VNS　vomeronasal system　副嗅覚系
+VNTR　variable number of tandem repeats　高変異反復列
+Vo　void volume　排出量
+VO2　oxygen consumption (per minute)　酸素消費量
+Voa　nucleus ventrooralis anterior thalami　視床前吻側腹側核
+VOC　vaporizer outside circuit　回路外気化器
+VOCC　voltage-operated calcium channel　電位作動型カルシウムチャネル
+VOD　veno-occlusive disease　静脈閉塞性疾患
+Vol (%)　volume percent　容量百分率
+vom　vomitus［ラ］　嘔吐
+Vop　posterior ventrooral nucleus of thalamus　視床後吻側腹側核
+VOR　vestibulo-ocular reflex　前庭眼反射
+VOR　vestibuloocular response (reflex)　前庭動眼反応（反射）
+VP　variegate porphyria　異型ポルフィリン症，多様性ポルフィリン症
+VP　vasopressin　バソプレシン(ピトレシン\u000000ae)。抗利尿ホルモン
+VP　venous pressure　静脈圧
+VP　ventral posterior nucleus of thalamus　視床後腹側核
+VP　ventricular pacing　心室ぺーシング
+Vp　Versuchsperson［独］　被検者・被験者
+VP　Vibrio parahaemolyticus　腸炎ビブリオ。病原大腸菌，サルモネラとともに，日本で発生する食中毒の30％を占める三大食中毒原因物質の一つ。ビブリオ科の菌はビブリオ属，エロモナス属，プレジオモナス属，フォトバクテリウム属があり，ビブリオ属は二類感染症のコレラ菌や食中毒の起因菌である腸炎ビブリオなどを含む属種。世界各地の沿岸海水や海泥の中に生息する海水性細菌で夏季に発生し魚介類に付着し，魚介類の生食によって感染する。食中毒になると，発熱，嘔吐，上腹部痛，下痢で急性胃腸炎症状がある。
+VP　Vincristine-prednisolone　ビンクリスチン＋プレドニゾロン
+V. P　vitamin P（＝vit P）　ビタミンP
+VP-16　etoposide　エトポシド（抗悪性腫瘍薬）
+VPA　sodium valproate　バルプロ酸ナトリウム
+VPA　valproic acid　バルプロ酸
+VPA　vascular plasminogen activator　血管性プラスミノーゲン活性化物質
+VPB　ventricular premature beat　心室性期外収縮
+VPC　packed cell volume　赤血球沈層容積
+VPC　vapor phase chromatography　蒸気相クロマトグラフィー
+VPC　ventricular premature contraction　心室性期外収縮
+VPDIA　vena pancreaticoduodenalis inferior anterior［ラ］　下前膵十二指腸静脈
+VPF　vascular permeability factor　血管透過性亢進因子
+VPI　vapor phase inhibitor　気相抑制因子
+VPI　velopharyngeal insufficient (imcompetence)　口蓋咽頭機能不全（形成不全）
+VPJ　verrucae planae juveniles［ラ］　青年性扁平疣贅
+VPL　ventral posterolateral nucleus of thalamus　視床後外側腹側核
+VPM　vasopressor material　腎昇圧物質
+VPM　ventral posteromedial nucleus of thalamus　視床後内側腹側核
+V-PP　vitamin PP　ビタミンPP，pellagra-preventing factor　ペラグラ予防因子，nicotinic acid　ニコチン酸
+VPR　Voges-Proskauer reaction　フォーゲス・プロスカウエル反応。大腸菌群を分類する反応
+VPR　volume-pressure response　容積圧反応
+VPRC　volume of packed red cell　赤血球容積率
+VPS　ventricular premature systole　心室性早期収縮
+V-P shunt　ventriculoperitoneal shunt　脳室腹腔短絡術
+VPW　ventricular pressure wave　心室圧波
+VQ　voice quality　声質
+VQFP　vincristine+esquinon+5-FU+prednisolone　ビンクリスチン＋エスキノン＋5-FU＋プレドニゾロン。癌化学療法の組み合わせの一つ
+V/Q mismatch　ventilation/perfusion mismatch　換気血流不一致
+V/Q，VA/Q　ventilation quotient　換気血流比。肺循環血流量に対する肺胞換気量の割合
+VR　variable response　可変反応
+VR　vascular resistance　血管抵抗
+VR　venous return　静脈還流
+VR　ventilation rate　換気率
+VR　ventilation reserve　換気予備率
+vr　ventral root (of a spinal nerve)　脊髄神経根
+VR　vestibular recruitment　前提補充，迷路補充現象
+VR　vision right　右眼視力
+VR　volume residue　残気量
+VR1　vanilloid receptor-1　バニロイド受容体1
+VRAD　virus removal and eradication by DFPP　（C型肝炎の）ウイルス除去療法
+VRD　viral respiratory disease　ウイルス性呼吸器疾患
+VRE　vancomycin-resistant Enterococcus　バンコマイシン耐性腸球菌。メチシリン耐性黄色ブドウ球菌（MRSA）の治療に用いられる抗生物質に耐性を獲得した腸球菌。
+V region　variable region　可変部領域
+VRG　ventral respiratory group　腹側呼吸群
+VRI　viral respiratory infection　ウイルス性呼吸器感染症
+VRMS　van Riper auditory memory span　ヴァンライパー聴覚記録期間
+VRR　ventral root response　前根応答
+VRS　volume reduction surgery　肺容量減少術
+VRT　visual recognition threshold　視認識閾値
+VRV　ventricular residual volume　心室残気量
+VS　ventricles　胃
+VS　vertical subluxation　垂直性亜脱臼
+VS　vesicular sound　小水泡音
+VS　vesicular stomatitis　小水疱性口内炎
+v.s.　visus sinister［ラ］　左眼視力
+VS　vital signs　生命徴候，バイタルサイン。人間が生きている証としての各臓器の動き。一般には，血圧，脈拍，呼吸，体温の測定をバイタルサインチェックという。特に救急医療ではショック状態に陥っているかどうかを知るために，バイタルサインチェックはきわめて重要である。
+VSA　vasospastic angina　血管攣縮性狭心症
+VSD　ventricular septal defect　心室中隔欠損(症)
+VSI　very seriously ill　重篤疾患
+VSM　vistamycin　ビスタマイシン（抗生物質）
+VSP　ventricular septal perforation　心室中隔穿孔
+VSRAD　The Voxel-Based Specific Regional Analysis System for Alzheimer Disease　早期アルツハイマー型認知症診断支援システム
+VSS　vital signs stable　生命徴候安定
+VSSA　virus specific surface antigen　ウイルス特異的細胞表面抗原
+VSTA　virus specific transplantation antigen　ウイルス特異的移植抗原
+VSV　vesicular stomatitis virus　水疱性口内炎ウイルス
+VSV　volume support ventilation　量補助換気
+VT　tetrazolium violet　テトラゾリウム紫
+VT，VT　tidal volume　１回換気量
+VT　vacuolating toxin　空胞化毒素
+VT　vacuum tuberculin　真空ツベルクリン
+VT　vasotocin　バソトシン
+VT　ventricular tachycardia　心室性\u0000fa6a拍。心室に頻脈の原因がある疾患。場合によっては心室細動に移行することもあり，非常に危険な状態になる。心電図上はQRS幅が広いのが特徴である。冷汗やめまいなどの症状が発生する。治療法には不整脈用剤の投与，ペースメーカーの植え込み，カテーテル焼灼術などがある。
+VT　verotoxin　ベロ毒素。出血性大腸炎や溶血性尿毒症の病原
+V. T　vitamin T　ビタミンT
+VTEC　verotoxin producing E.coli　ベロ毒素産生大腸菌。腸管出血性大腸菌と同義
+VTH　vaginal total hysterectomy　膣式子宮全摘出術
+VTI　volume thickness index　容積肥大指数
+Vtr　volume trigger　吸気トリガー流量
+Vtx　vertex　頭頂
+V. U　vitaminU　ビタミンU
+VUE　villitis of unknown etiology　原因不明の絨毛炎
+VUJ　vesiculoureteral junction　膀胱尿管移行部
+VUR　vesicoureteral reflux　膀胱尿管逆流
+VV　varicose veins　拡張蛇行静脈，静脈瘤
+VV　venovenous bypass　静脈静脈短絡路
+VV　ventricular volume　心室容積
+VV　verruca vulgaris［ラ］　尋常性疣贅
+VV　voided volume　排尿量
+VVR　vasovagal reflex　血管迷走神経反射。自律神経のバランスが崩れることで血圧や心拍数が下がり，脳に行く血液循環量を確保できないため失神やめまいなどの症状が起きる。
+VW　vessel wall　血管壁
+vWF　von Willebrand factor　フォン・ヴィルブランド因子
+VW，VWD　von Willebrand\u000002bcs disease　フォン・ヴィルブランド病
+VX 　varix　静脈瘤
+VZIG　varicella-zoster immunoglobulin　水痘-帯状疱疹免疫グロブリン
+VZV　varicella-zoster virus　水痘・帯状疱疹ウイルス

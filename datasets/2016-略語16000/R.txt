@@ -1,0 +1,625 @@
+Ｒ
+R　radiology（＝Radiol）　放射線医学
+R　Rasselgerausch［独］　ラ音，ラッセル音
+R　recipe　処方せん
+R　rectal　直腸の
+R　recurrence　再発
+R　red blood cell，rotes Blutk\u000000f6rperchen［独］　赤血球
+R　reductase　レダクターゼ。還元酵素
+R　reserpine　レセルピン
+R　resistance　耐性
+R☆　respiration　呼吸，呼吸機能
+R　right　右の
+R☆　Ringer's solution　リンゲル液
+R　Rinne test　リンネ・テスト。聴力検査の一種
+R☆　rotes［独］，red blood cell　赤血球数計算，血球計算の一つ
+R5P　ribose-5-phosphate　リボース五リン酸
+RA　radioassay　ラジオアッセイ(放射定量法)
+Ra　radium　ラジウム
+RA　rate of absorption　吸収速度
+Ra　rectum (above the peritoneal reflection)　上部直腸
+RA　refractory anemia　不応性貧血
+RA　renal artery　腎動脈
+RA　renin activity　レニン活性。レニンは腎の傍糸球体で産生され，血圧上昇に関与する蛋白質。レニン活性検査は，レニンが生成するアンギオテンシンⅠの量を測定することで，レニンの動態把握を行う。高値を示す疾患として腎血管性高血圧や褐色細胞腫など，低値を示す疾患として原発性アルドステロン症などがある。
+RA　reperfusion arrhythmia　再灌流性不整脈
+RA　residual air　残気
+RA　retinoid acid　レチノイン酸
+RA　rheumatoid arthritis　関節リウマチ
+RA　right atrium　右心房
+Ra-226　radium 226　ラジウム226
+RAA　renal artery aneurysm　腎動脈瘤
+RAA　right acromion anterior position　第２横位第１分類（胎向）\u000021e8RAP
+RAA　right aortic arch　右大動脈弓
+RAA(S)　renin-angiotensin-aldosterone system　レニン・アンギオテンシン・アルドステロン系
+Rab GDI　Rab GDP dissociation inhibitor　Rab GDP解離抑制蛋白質
+RAC　radial alveolar count　肺組織の成熟度を推定する方法
+RAC　regular arrangement of collecting venules　内視鏡でH.pylori非感染者の正常胃粘膜に観察される微細発赤点所見
+RAC　right atrial contraction　右心房収縮
+rad　radius［ラ］　橈骨
+Rad　right atrial dimension　右心房径
+RAD　right axis deviation　右軸偏位(心電図)
+Rad Dx　radiological diagnosis　放射線学的診断
+Radiol　radiology（＝R）　放射線医学
+rad op　radical operation　根治手術。疾病に対して根本的な治療として行う手術。機能的または解剖学的に病巣を取り除き，あるいは修復して，疾患から解放することをめざす。
+Rad，rad　Roentgen absorbed dose　エックス線吸収量。１g中100エルグのエネルギーを消費するときの線量を１ラドという。
+RADS　reactive airways dysfunction syndrome　反応性気道機能不全症候群
+Rad Ther　radiotherapy　放射線治療。電離放射線を用いて行う局所療法。放射線を人体に一定量以上照射すると，体内の細胞の運動を停止させ死滅させることができるので，主に悪性腫瘍の治療に用いられる。病巣摘出が不可能なときや手術と同程度の効果があるときは単独で放射線治療を行うが，手術と併用される場合もある。
+RAEB　refractory anemia with excess of blasts　芽球増加性不応性貧血
+RAEM　refractory anemia with an excess of myeloblasts　赤芽球増加型不応性貧血
+RAG　radioautogram　ラジオオートグラム
+RAG　recombination activating gene　組換え活性化遺伝子
+RAHAテスト　rheumatoid arthritis hemagglutination test　リウマチ因子測定検査，リウマチ血球凝集試験。リウマチ因子スクリーニングとほぼ同じ。凝集反応を用いて半定量値を得るRAHA法（ワーラーローズ反応），RAPA法，定量法である免疫比濁（TIA）法，ラテックス比濁・比ろう（LA）法が用いられる。関節リウマチのほか，全身性エリトマトーデスなどの膠原病，慢性肝疾患，亜急性細菌性心内膜炎などでも陽性率が高い。
+RAHSA　radioactive human serum albumin　放射性ヒト血清アルブミン
+RAI　radioactive interference　放射線活性干渉
+RAI　radioactive iodine　放射性ヨード
+RAID　radioimmunodetection　免疫シンチグラム
+RAIU　radioactive iodine uptake　放射性ヨードの摂取率
+RALS　remote control after loading radiotherapy unit　遠隔制御方式密封小線源治療装置
+RALS　remotely controlled after-loading system　遠隔操作式後装\u00005861法
+RAMF　rectus abdominis musculocutaneous flap　腹直筋皮弁
+RAMIA　particle mediated immunoassay　微粒子計数免疫凝集測定法
+RAMP　rifampicin（＝RFM，RMP）　リファンピシン（抗結核性抗生物質）
+RAMP　right atrial mean pressure　右房平均圧
+RaMS　radical multiple synovectomy　根治的多関節滑膜切除術
+RANA　rheumatoid arthritis nuclear antigen　関節リウマチ核抗原
+R-ANP　rat-atrial natriuretic peptide　ラット心房性ナトリウム利尿ペプチド
+RAO　right anterior oblique　右前斜位，第Ⅰ斜位
+RAP　retinal artery pressure　網膜動脈圧
+RAP　rheumatoid arthritis precipitate　関節リウマチ沈降素
+RAP　right acromion posterior position　第２横位第２分類（胎向）\u000021e8RAA
+RAP　right atrial pressure　右房圧
+RAPD　random amplified polymorphic DNA　無作為増幅多形DNA
+RAPD　relative afferent pupillary defect　相対性求心性瞳孔障害
+RAR　rapidly adapting receptor　速順応受容器
+RAR　retinoid acid receptor　レチノイン酸受容体
+RARS　refractory anemia with ring sideroblast　鉄芽球性貧血
+RAS　renal artery stenosis　腎動脈狭窄
+RAS　renin-angiotensin system　レニン・アンギオテンシン系
+RAS　rheumatoid arthritis serum　関節リウマチ血清
+RAS　rhythmic auditory stimulation　リズム聴覚刺激
+RAS　Rokitansky-Aschoff sinus　ロキタンスキー-アショフ洞。胆嚢の粘膜が漿膜側に袋状に突き出たもの
+RAST　radioallergosorbent test　放射性アレルギー吸着試験(ラスト法)，ラジオイムノアッセイ(Ⅰ型アレルギー試験)
+RAv　right atrial volume　右心房容積
+Raw　airway resistance　気道抵抗
+RAテスト，RA-T　rheumatoid arthritis test　リウマチ因子スクリーニング検査。関節リウマチの診断のために行う定性検査。患者の血清中の70〜80％に認められるIgGに対する自己抗体で，病態と密接な関わりがある。
+Rb　rectum (below the peritoneal reflection)　下部直腸
+RB　restiform body　索状体
+RB　reticulate body　網様体
+RB　retinoblastoma　網膜芽腫，網膜芽細胞腫。網膜から発生する悪性腫瘍で乳幼児に多い。
+rb　ribosome　リボソーム
+RB　Riemenbugel　リーメンビューゲル。股関節脱臼の整復器具
+RB　Rio Bravo virus　リオブラボウイルス
+RBA　relative binding affinity　相対的結合能
+RBA　right brow anterior position　右額前位。第２額位（胎向）\u000021e8RBP，RBT
+RBBB　right bundle branch block　右脚ブロック，対語：LBBB
+RBBsB　right bundle branch system block（＝RBBB）　右脚ブロック
+RBC　red blood cell　赤血球。骨髄で造られ血液全体の40〜50％を占める無核の細胞。正染性赤芽球が脱核して赤血球となる。正常値は，男性で約500万/mm3，女性で約450万/mm3で，新生児はこれより多い。酸素と炭酸ガスの運搬，pH調節を主な機能とする。骨髄機能低下で産生が落ちると再生不良性貧血などになり，反対に骨髄機能亢進では，赤血球増加症，鉄欠乏性貧血になる。
+RBC　red blood cell count　赤血球数
+RBCD　right border of cardiac dullness　心濁音域右縁
+RBD　rapid eye movement (REM) sleep behavior disorder　レム睡眠行動障害
+RBD　right border of dullness　右濁音界
+RBDV　Raspberry bushy dwarf virus　ラズベリーブッシー萎縮ウイルス
+RBE　relative biological effectiveness　生物学的効果比
+RBF　renal blood flow　腎血流量。負荷後に検体採取と検体分析を経時的もしくは連続的に行う腎血流量検査。
+RBI　根管内異物除去（歯)
+RB-ILD　respiratory bronchiolitis-causing/associated interstitial lung disease　呼吸細気管支炎関連間質性肺疾患
+RBP　retinol binding protein　レチノール結合蛋白測定
+RBP　right brow posterior position　右額後位。第２額位（胎向）\u000021e8RBA，RBT
+RBS　Rutherford backscattering spectroscopy　ラザフォード後方散乱分光法
+RBT　right brow transverse position　右額横位。第２額位（胎向）\u000021e8RBA，RBP
+RC　recipient\u000002bcs cells　受血者血球浮遊液
+RC　red cell　赤血球。red corpuscle　赤血球
+RC　respiration ceases　呼吸停止
+RC　respiratory center　呼吸中枢
+RC　reticulocyte count　網赤血球数
+RCA　right colic artery　右結腸動脈
+RCA　right common carotid artery　右総頸動脈
+RCA　right coronary artery　右冠状動脈
+RCBF　regional cerebral blood flow　局所脳血流量
+rCBF study　regional cerebral blood flow study　局所脳血流量測定
+RCC　Rathke\u000002bcs cleft cyst　ラトケ嚢。頭蓋頬嚢
+RCC　red cell concentrate　赤血球濃厚液。赤血球を補充し，末梢循環器系に十分な酸素を供給するために投与する血液製剤。ヒト血液から大部分の血漿を除去して赤血球保存用添加液と混合しない場合の濃厚赤血球，ヒト血液から大部分の血漿と白血球層を除去したあとに赤血球保存用添加液と混合した濃赤色の液剤である赤血球MAPに分かれる。放射線を照射した照射製剤は，輸血による移植片対宿主病（GVHD）を予防する目的で使用される。適応疾患は内科的には慢性的造血器疾患の慢性貧血，消化管出血，子宮出血，外科的には術前，術中，術後等など。
+RCC　renal cell carcinoma　腎細胞癌
+RCC　right coronary cusp　右冠尖
+RCFS　red cell fragmentation syndrome　赤血球破砕症候群
+RCG　radioelectrocardiogram　無線心電図
+RCG　rheocardiogram　レオカルジオグラム，心電気図
+RCI　radionuclide cerebral imaging　放射線同位元素大脳画像法
+RCIT(R)　red cell iron turnover (rate)　赤血球鉄交代率
+RCIU　red cell iron utilization　赤血球鉄利用(率)
+RCJ　radiocarpal joint　橈骨手根関節
+RCLAAT　red cell linked-antigen antiglobulin test　赤血球結合抗原抗グロブリン試験
+RCM　restrictive cardiomyopathy　拘束型心筋症。心筋の線維化等で心室が硬くなり，心室の拡張不全が起こる。
+RCM　right costal margin　右肋骨縁
+RC-MAP　Red Cell M・A・P　赤血球M・A・P
+RCMRGl　regional cerebral metabolic rate of glucose　局所大脳ブドウ糖代謝率
+RCMRO2　regional cerebral metabolic rate of oxygen　局所大脳酸素代謝率
+R-CO2ハイセツ☆　炭酸ガス排泄量測定
+RCP☆　根管形成（歯)
+RCR　respiratory control ratio　呼吸調節率
+RCR　retrocardial-room　心臓後間腔
+RC sign　red color sign　レッドカラーサイン。内視鏡での発赤所見
+RCT　randomized clinical trial　無作為化臨床試験
+RCT　recirculation time　再循環時間
+RCT　reflex cough test　喉頭咳嗽反射
+RCT　ristocetin　リストセチン
+RCU　red cell iron utilization　赤血球鉄利用率
+RCU　respiratory care unit　呼吸管理室，呼吸集中治療部，重症呼吸障害者集中治療部門
+RCV　red cell volume　赤血球容積
+RD　nucleus reticularis dorsalis［ラ］　背側網様核
+RD　Raynaud\u000002bcs disease　レイノー病，腎疾患
+RD　reacting dose　反応量
+RD　renal disease　腎疾患
+RD　response decline　RD現象
+RD　retinal detachment　網膜剥離
+RD　retinl dysplasia　網膜異常形成
+RD　rheumatic disease　リウマチ性疾患
+RDA　right dorso-anterior position　右背前位（胎向）\u000021e8RDP
+RDE　receptor destroying enzyme　受容体失活酵素
+RDGF　retina-derived growth factor　網膜由来成長因子
+RDI　relative dose intensity　相対投与薬剤量強度
+RDP　right dorso-posterior position　右背後位（胎向）\u000021e8RDA
+RDS　respiratory distress syndrome　呼吸障害(窮迫)症候群
+RDS　reticulo endothelial depressing substance　細網内皮系抑制物質
+RDW　red cell distribution width　赤血球分布幅
+RDZ　radiation danger zone　照射危険域
+RE　efferent arteriolar resistance　輸出血管抵抗
+RE　nucleus reuniens［ラ］　再結合核
+RE　reflux esophagitis　逆流性食道炎
+RE　reticuloendothelium　細網内皮組織
+Re　Reynolds number　レイノルズ数
+RE　right eye　右眼
+REA　radio enzymatic assay　酵素アイソトープ法
+Rec　recipe　服用，処方（処）
+REC　record　記録する
+recg　radioelectrocardiograph　放射線心電図
+RECIST (Guidelines)　Response Evaluation Criteria in Solid Tumors (Guidelines)　固形癌臨床効果判定基準
+rect　rectified　矯正
+recur　reccurence　再発
+REDOR　rotational echo double resonance　回転エコー二重共鳴
+REE　resting energy expenditure　安静時エネルギー消費量，安静時エネルギー代謝量
+reeg　radioelectroencephalography　放射線脳波
+Ref　reference　参考文献
+ref　reflex　反射
+REF　renal erythropoietic factor　腎赤血球生成因子
+REGAP　ramus esophago-gastricus ascendens posterior　食道胃上向後枝
+Rehabili　rehabilitation　リハビリテーション
+REI　rifampicin，ethambutol，isonicotinic hydrazine　リファンピシン，エタンブトール，イソニアシド併用療法。結核治療の併用療法
+RELP　restriction fragment length polymorphism　制限酵素断片長多型
+REM　rapid eye movement　急速眼球運動，レム睡眠
+REMD　rapid eye movement (sleep) deprivation　レム睡眠欠損
+Rem，rem　Roentgen equivalent man (mammal)　レム。放射性粒子の総量効果を含めた吸収線量当量の単位
+re-ope　re-operation　再手術
+REO virus　respiratory enteric orphan virus　レオウイルス
+REP　retrograde pyelogram　逆行性腎盂像
+REPE　reexpansion pulmonary edema　再膨張性肺水腫
+RER，rER　rough-surfaced endoplasmic reticulum　粗面小胞体
+Res　reserpine　レセルピン。選択的交感神経遮断薬（降圧剤）
+Res　resident　専門医学研修医，レジデント
+RES　reticuloendothelial system　細網内皮系
+Res-N　residual nitrogen（＝RN）　残余窒素。非蛋白性窒素
+resp　respiration　呼吸
+REST　regressive electric shock therapy　逆行性電気ショック治療
+Rest-N，RN　Reststickstoff［独］　残余窒素
+Ret　reticulocyte　レト，網赤血球。生の血液を塩基性色素と混合する超生体染色により，青色に染まる網状または顆粒状構造を有する赤血球。赤血球のなかで一番若い。溶血性貧血，急性出血後などでは高値を示し，再生不良性貧血などでは低値を示す。
+Ret Diabe　retinosis diabetes　糖尿病性網膜症
+retic count　reticulocyte count　網赤血球算定
+retics　reticulocytes　網赤血球
+RETRO　reverse transcriptase containing oncogenic virus　逆転写酵素をもつ癌ウイルス。レトロウイルス
+REV　reticuloendotheliosis virus　細網内皮症ウイルス
+rev/min　revolutions (rotations）per minute　毎分回転数
+rev of sym　review of symptoms　病状要約
+RF　radiofrequency　放射周波数高周波
+RF　rapid filling　急速充満期
+Rf　rate of flow　移動率
+RF　regurgitant fraction　逆流率
+RF　Reitman-Frankel method　ライトマン・フランケル法
+RF　relative flow rate　比較的流量率
+RF　releasing factor　放出因子。下垂体前葉ホルモンの放出を促すポリペプチド
+RF　renal failure　腎不全
+RF　replacement factor　置換因子
+RF　replication factor　複製因子
+RF　resistance factor　薬剤耐性因子。R因子
+RF　respiratory failure　呼吸不全
+RF　reticular formation　網様体
+RF　reversing factor　逆因子
+RF　rheumatic fever　リウマチ熱
+RF　rheumatoid factor　リウマチ因子，リウマトイド因子
+R-F　right frontal　右前頭部
+RF　risk factor　危険因子
+RFA　radiofrequency ablation therapy　ラジオ波熱凝固療法，ラジオ波焼灼療法。体外より電極を挿入してラジオ波を放出し，その熱により肝腫瘍（肝癌）を焼却する方法。マイクロ波凝固療法より治療範囲が広く，焼却の程度も高いため，治療回数が少なくてすむというメリットがある。
+RFA　right fronto-anterior position　右前頭前位（胎向）
+RFC　rosette-forming cell　ロゼット形成細胞
+RFCA　radiofrequency catheter ablation　高周波カテーテルアブレーション
+RFF　renal plasma flow　腎血漿流量
+RFFIT　rapid fluorescent focus inhibition test　急速蛍光フォーカス抑制検査
+RFLP　restriction fragment length polymorphism　制限酵素断片長多型
+RFLS　rheumatoid factor like substance　リウマチ因子様物質
+RFP　rifampicin　リファンピシン(リファジン\u000000ae，リマクタン\u000000ae)。抗結核剤
+RFT　rosette formation test　ロゼット形成試験
+RFW　rapid filling wave　急速充満期波
+RF wave　radiofrequency wave　RF波，高周波
+RG　nucleus reticularis gigantocellurare［ラ］　巨細胞網様核
+RGC　retrograde giant contraction　逆行性強収縮
+RGE，RGEA　right gastroepiploic artery　右胃大網動脈
+RGMV　Ryegrass mosaic virus　ライグラスモザイクウイルス
+RGO　reciprocating gait orthosis　交互歩行装具
+RGPCL　rigid gas permeable contact lens　ガス透過性ハードコンタクトレンズ
+RG，RGA　right gastric (artery)　右胃動脈
+RH　reactive hyperemia　反応性充血。内皮細胞から血管拡張性物質が分泌されて血流が増加した状態
+RH　redoxpotential　酸化還元単位
+RH　regional heparinization　局所ヘパリン化
+RH　releasing hormone　放出ホルモン
+RH　retinal hemorrhage　網膜出血
+Rh　rheumatism　リウマチ。関節や筋肉などの運動器疾患を広く包含する概念で，共通する症状は運動器の疼痛。関節リウマチや全身性エリトマトーデス（SLE）などの炎症性結合組織疾患，変形性関節症などの変形性疾患，痛風などの代謝性疾患まで，多くの疾患が含まれている。
+Rh　rhinitis　鼻炎
+RhA　rhinitis acuta［ラ］　急性鼻炎
+rhAPC　recombinant human activated protein C　活性化プロテインC
+Rh. atr.　rhinitis atrophicans［ラ］　萎縮性鼻炎
+RHC　respiration has ceased　呼吸停止
+RHC　right heart catheterization　右心カテーテル法
+Rh classes　Rh血液型の分類
+RHD　rel homology domain　relホモロジードメイン
+RHD　relative hepatic dullness　相対的肝濁音界
+RHD　rheumatic heart disease　リウマチ性心疾患
+Rh. DH　rheumatic disease of heart　リウマチ性心疾患
+RHDV　rabbit hemorrhagic disease virus　ウサギ出血性疾患ウイルス
+rheu　rheumatic　リウマチの。rheumatism　リウマチ。rheumatoid　リウマチ様の
+Rh. F　rheumatic fever（＝RF）　リウマチ熱
+RHF　right heart failure　右心不全
+Rh. gang.　rhinitis gangrenosa［ラ］　壊疽性鼻炎。鼻粘膜が壊死する疾患の総称で，悪性リンパ腫，悪性肉芽腫，ウェゲナー肉芽腫が該当
+Rh. hyper.　rhinitis hypertrophica［ラ］　肥厚性鼻炎
+RH，RHA　right hepatic (artery)　右肝動脈
+Rh(RHインシ)☆　Rhesus factor　抗Rh因子(血液型)検査。血液中にあるD抗原の有無を調べる血液型検査。日本人の99.5％はD抗原陽性（Rh＋）。輸血時のトラブルを避けるために行われる。
+RHS　reticulo histiocytary system　細網組織球系
+Rh. s.　rhinitis simplex［ラ］　単純性鼻炎
+Rh. s. a.　rhinitis sicca anterior［ラ］　乾性前鼻炎
+RH syndrome　Ramsay Hunt syndrome　ラムゼイ・ハント症候群，ハント症候群。神経節へのヘルペスウイルス感染が病因
+RHv　right hepatic vein　右肝静脈
+Rh. vas.　rhinitis vasomotorica［ラ］　血管運動神経性鼻炎
+RI　radioimmunoassay　ラジオイムノアッセイ，放射免疫測定法。131I，125Iなどの放射性同位元素を用い，抗原抗体反応または特異物質との結合を利用した微量測定法。感度，特異性の点で優れており，一度に多数のサンプルを測定できるという利点がある。甲状線ホルモン，ガストリン，下垂体ホルモン，ステロイドホルモンなどの各種ホルモンと，HB抗原，癌胎児芽抗原CEA，IgEなどが測定される。
+RI　radioisotope　放射性同位元素。ラジオアイソトープ（RI）。同位元素（アイソトープ）のうちの放射性元素のこと。原子の原子核は陽子と中性子からできているが，陽子数（原子番号）は同じだが中性子数が異なる原子を互いに同位元素と呼ぶ。この放射性同位元素を使用して行う検査をシンチグラフィーという。
+RI　radioisotope examination　核医学検査。放射性医薬品（ラジオアイソトープを含んだ薬）を使用する検査。RI検査または核医学検査と呼ばれる。薬が特定の臓器や骨，腫瘍に集まる習性を利用して，その薬に放射線を帯びさせて注射または服薬させ，一定時間経過後に専用のカメラ（シンチレーションカメラ）で撮影することで，臓器の形態・臓器の機能・物質の代謝のされ方などを調べる。
+RI　regular insulin　普通インスリン
+RI　resistance index　抵抗係数
+RI　respiratory illness　呼吸器病
+RI　respiratory index　呼吸指数
+RIA　radioimmunoassay　ラジオイムノアッセイ
+rib　ribose　リボース
+RIB　right intermediate bronchus　右中間気管支幹（中幹）
+RICE therapy　rest ice compression elevation therapy　RICE療法。安静，冷却，圧迫，挙上療法。運動器外傷の救急処置の基本原則
+RICM　right intercostal margin　右肋骨間縁
+RICU　respiratory intensive care unit　呼吸器疾患集中治療室
+RID　radioimmunodiffusion　放射免疫拡散法
+RIE(P)　radioimmunoelectrophoresis　同位元素標識免疫電気泳動
+RIF　resistance inducing factor　抵抗誘発因子
+RIF　rifampin　リファンピン
+RIF　right iliac fossa　右腸骨窩
+RIFA　radioiodinated fatty acid　放射性ヨウ素標識脂肪酸
+RIH　right inguinal hernia　右鼠径ヘルニア
+RIHSA　radioiodinated human serum albumin（＝RISA）　放射性ヨウ素標識ヒト血清アルブミン
+riMLF　rostral interstitial nucleus of MLF　内側縦束吻側間質核
+RIND　reversible ischemic neurological deficits　回復性虚血性神経障害，リンド，可逆性貧血性神経欠損症
+RIP　radio-immunoprecipitation　同位元素標識免疫沈降反応
+RIP　reflex inhibiting posture　反射抑制肢位
+RIP　renin-inhibitory peptide　レニン阻害ペプチド
+RIPA　ristocetin-induced platelet agglutination　リストセチン性血小板凝集
+RIR(G)　radioisotope renogram　放射性同位元素レノグラム，レノグラム。腎尿路疾患に対する核医学的検査方法の一つ。腎臓へのRIの集積と排泄の時間変化を動態画像収集によって計測するもので，その時間放射能曲線の形から診断を行う。他の検査では困難な左右の腎機能を別々に測ることができるため，腎血管性高血圧などの患者では，左右どちらの腎臓がどの程度悪いのかがわかる。
+RIS　radiology information system　放射線情報システム
+RIS　radiommunoscintigraphy　放射免疫シンチグラフィー
+RIS　resonance ionization spectroscopy　共鳴イオン化分光法
+RISA　radio-immunosorbent assay　放射性免疫吸着分析
+RISA，RI(H)SA　radioiodinated human serum albumin　放射性ヨード標識ヒト血清アルブミン，リサ，放射性ヨウ(沃)素標識ヒト血清アルブミン(131I-HSA)
+RIST　radioimmunosorbent test　放射性免疫吸着試験
+RIST　reduced-intensity stem cell transplantation　骨髄非破壊的前処置による造血幹細胞移植
+RIT　radioimmunotherapy　放射免疫療法
+RIT　radioiodinated triolein　放射性ヨウ素標識トリオレイン
+RITA　right internal thoracic artery　右内胸動脈
+RIT(R)　red cell iron turnover (rate)　赤血球鉄交替(率)
+RI virus　respiratory-illness-virus　呼吸器疾患起因ウイルス
+RK　radial keratotomy　角膜放射状切開術
+RK　Rektumkrebs［独］　直腸癌
+RKM　Rokitamycin　ロキタマイシン（抗菌薬）
+RKY　roentgen kymography　レントゲン動態撮影
+RL　coarse rale　粗大水\_c07793性ラ音
+RL　lateral reticular nucleus　外側網様核
+RL　reduction level　還元値，減衰水準
+RL　Rekurrensl\u000000e4hmung［独］　反回神経麻痺
+RL　right lateral　右側方
+RLD　retrolabyrinthine deafness　後迷路性難聴
+RLE　right lower extremity　右下肢
+RLF　retrolental fibroplasia　後水晶体線維増殖症
+RLGS　restriction landmark genomic scanning　制限目標遺伝子解析法
+RLH　reactive lymphoreticular hyperplasia　反応性細網細胞増生，反応性リンパ細網細胞増生，反応性リンパ増殖症
+RLL　right lower limb　右下肢
+RLL　right lower lobe　右肺下葉
+RLLB　right long leg brace　右長脚副木
+RLN　recurrent laryngeal nerve　喉頭反回神経
+RLN　regional lymph node　所属リンパ節。悪性腫瘍の原発巣から転移を起こしやすいリンパ節
+RLND　retroperitoneal lymphnode dissection　後腹膜リンパ節摘除
+RLP　remnant like particle　レムナント様リポ蛋白
+RLQ　right lower quadrant　右下腹部
+RLR　right lateral rectus muscle　右側直筋
+RLS　restless legs syndrome　レストレスレッグス症候群（むずむず脚症候群）
+RM　reference material　標準物質
+RM　respiratory movement　呼吸運動
+RMA　right mental anterior　右頤前位（胎向）\u000021e8RMP，RMT
+RMAG　rhino-maxillo-aerodynamic gram　鼻腔・上顎洞気流動態図
+RMCA　right middle cerebral artery　右中大脳動脈
+RMD　retromanubrial dullness　後胸骨柄部濁音
+r meter　rate meter　線量率計。放射性同位元素の測定装置
+RMI　recent myocardial infarction　亜急性心筋梗塞
+RML　right middle lobe　右肺中葉
+RMP　resting membrane potential　静止膜電位
+RMP　rifampicin（＝RAMP，RFM）　リファンピシン（抗結核性抗生物質）
+RMP　right mento-posterior　第１額位（胎向）\u000021e8RMA，RMT
+RMR　relative metabolic rate　エネルギー代謝率
+RMR　resting metabolic rate　安静時代謝率
+RMR　right medial rectus　右内側腹直筋
+RMT　right mento-transverse position　右頤横位（胎向）\u000021e8RMA，RMP
+RMv　respiratory minute volume　毎分呼吸量
+R-MVV☆　respiration-maximum voluntary ventilation　最大努力呼吸，最大(自発的)換気量測定(１分間換気量)
+RN　radionuclide　放射性核種
+Rn　radon　ラドン，ラジウム系列の天然放射性壊変元素
+RN　red nucleus　赤核
+RN　reflux nephropathy　逆流性腎症
+RN　residual nitrogen, Reststickstoff［独］　残余窒素
+RNA　ribonucleic acid　リボ核酸，核酸の一種
+RNAA　radiochemical neutron activation an alysis　中性子放射化学分析法
+RNase　ribonuclease　リボヌクレアーゼ
+RNAV　RNA virus　RNAウイルス
+RND　radical neck dissection　根治的頸部郭清術
+RND　retroperitoneal node dissection　後腹膜リンパ節郭清
+RNP　reccurent nerve paralysis　反回神経麻痺
+RNP　ribonucleoprotein　リボ核蛋白質
+RNS　radionuclide scintigraphy　放射核シンチグラフィー（骨シンチグラフィー）
+RO　reality orientation　リアリティ・オリエンテーション，見当識訓練，現実見当識
+RO　reverse osmosis　逆浸透
+R-O　right occipital　右後頭部
+R/O　rule out　除外する
+R-O2セッシュ☆　酸素摂取量測定
+ROA　right occiput anterior　後頭骨右前方
+ROC　receiver operating characteristic　受信者動作特性
+ROC　receptor operated channel　受容体作用チャンネル
+ROC　Rocio virus　ロシオウイルス
+ROCFT　Rey-Osterrieth complex figure test　Rey-Osterrieth複雑図形検査
+ROD　renal osteodystrophy　腎性骨異栄養症
+ROI　region of interest　関心領域
+ROM　range of motion　関節可動域。関節の動く範囲
+ROM　read only memory　読み取り専用メモリ，ロム，OA機器の固定記憶装置
+ROME　range of motion exercise　関節可動域訓練
+ROMT　range of motion test　関節可動域テスト
+ROP　retinopathy of prematurity　未熟児網膜症
+ROP　right occipito-posterior　右後後頭位（胎向）\u000021e8ROT
+ROS　reactive oxygen species　活性酸素
+ROS，RofS　review of systems　病歴要約
+ROT　reality orientation therapy　現実見当識訓練
+ROT　remedial occupational therapy　矯正的職業療法
+ROT　right occipito-transverse position　右後頭横位（胎向）\u000021e8ROP
+RP　readiness potential　準備電位
+RP　received pronunciation　容認発音
+Rp　recipe［ラ］　以下を処方せよ\u000021e8Px（処)
+RP　recurrent polyserositis　再発性多発漿膜炎
+RP　refractory period　不応期
+RP　relapsing polychondritis　再発性多発軟骨炎
+RP　reserpine　レセルピン
+RP　respiration　呼吸
+RP　resting potential　静止電位
+RP　retinitis pigmentosa（＝RPD）　網膜色素変性
+RP　retrograde pyelography　逆行性腎盂造影（法)
+R-P　right parietal　右頭頂部
+RPA　reverse passive Arthus　逆受動アルツス反応。局所的炎症反応
+RPA　right pulmonary artery　右肺動脈
+RPC　radial peripapillary capillaries　放射状乳頭周囲毛細血管
+RPCA　reverse passive cutaneous anaphylaxis　逆受身皮膚アナフィラキシー
+RPCF　Reiter protein complement fixation test　ライター株蛋白質補体結合試験
+RPD　retinal pigmentary degeneration（＝RP）　網膜色素変性症。網膜に異常な色素沈着が起こる一連の疾患
+RPD　right posterior descending　右後下行枝
+RPE　rating of perceived exertion　自覚的運動強度，主観的運動強度
+RPE　retinal pigment epithelium　網膜色素上皮
+RPF　relaxed pelvic floor　弛緩骨盤底部
+RPF　renal plasma flow　腎血漿流量
+RPGN　rapidly progressive glomerulonephritis　急速進行性糸球体腎炎
+RPHA(test)　reversed passive hemagglutination (test)　逆受身血球凝集反応(試験)。ヒトヘモグロビンを特異的に検出する便中ヘモグロビン検査の検査方法の一つ。特定の動物の赤血球に検出しようとする抗原に対する抗体を吸着させ，検体と反応させたとき，抗原が陽性の場合に凝集を起こす性質を利用したもの。消化管出血の検査に用いられる。
+RPI　reticulocyte production index　網赤血球産生指数
+RP index　respiratory pulse index　呼吸脈拍比
+RPL　retropharyngeal lymph node　咽頭後壁リンパ節
+RPLA(test)　reversed passive latex hemagglutination (test)　逆受身ラテックス血球凝集反応(試験)
+RPLN　rapidly progressive lupus nephritis　急性進行性ループス腎炎
+RPLND　retroperitoneal lymph node dissection　後腹膜リンパ節郭清
+RPM　rapamycin　ラパマイシン（マクロライド系抗生物質）
+RPM　retropulsive-petit-mal　後方突進小発作，背屈小発作
+RPN1　ribophorin 1　リボホリン１
+RPO　right posterior oblique　右後方斜位（X線撮影）
+RPP　rate pressure product　圧産出率（心拍数×収縮期血圧）
+RPP　reflection photoelectric plethysmograph　反射光電式プレチスモグラフ
+RPP　retrograde pneumopyelography　逆行性気体腎盂造影法
+RPP　retropubic prostatectomy　恥骨後前立腺摘除術
+RPRCCT　rapid plasma reagin circle card test　RPRサークルカード試験
+RPRCT　rapid plasma reagin card test　RPRカード試験
+R-protein　rapid protein　R-蛋白
+RPR，RPRCT　rapid plasma reagin test　迅速血漿レアギン試験。梅毒脂質抗原使用検査の検査方法の一つで，スクリーニング検査として用いられている。脂質抗原を吸着させた炭素粒子と患者の血清を混ぜ，凝集するかどうか観察する。その他，ガラス板法などがある。
+Rp/RS　resistance of PA resistance of systemic　体肺抵抗比
+RPS　renal pressor substance　腎昇圧物質
+RPT　rotatory pattern test　回転パターン・テスト
+RPv　right portal vein　右門脈
+RQ　respiratory quotient　呼吸商(CO2/O2)
+RR　radiation response　放射線効果
+RR　recovery room　回復室
+RR　relative risk　相対危険度
+RR　respiratory rate　呼吸数
+RR　Riva-Rocci (sphygmomanometer)　リバ・ロッチ血圧計
+R，r　Roentgen unit　レントゲン単位(X線量の単位)
+RR　RR interval　RR時間(心電図)
+RRA　radioreceptor assay　放射レセプター測定法，放射受容体測定法
+RR cells　radiation reaction cells　放射反応細胞
+rRNA　ribosomal ribonucleic acid　リボソーム・リボ核酸
+rRNA　ribosomal RNA　リボソームRNA
+RRR　regular rhythm and rate　正常リズムと心拍数
+Rrs　respiratory resistance　呼吸抵抗
+RRSV　Rice ragged stunt virus　ライスラギッドスタントウイルス
+RRT　restamin response test　レスタミン反応テスト
+RRV　Ross River virus　ロスリバーウイルス
+RS　Rauwolfia serpentina　ラウオルフィア。降圧剤として用いられる。
+RS　Raynaud\u000002bcs syndrome　レイノー症候群
+RS　recipient\u000002bcs serum　受血者血清
+Rs　rectosigmoid　直腸S状部
+RS　red softening　赤色軟化
+RS　Reiter syndrome　ライター症候群
+RS　respiratory sound　呼吸音
+RS　reticulum cell sarcoma　細網細胞肉腫
+RS　Reye syndrome　ライ症候群。全身の臓器の脂肪変性や脳浮腫をきたす急性脳症の一つ。乳幼児期に発症
+RS　Ringer\u000002bcs solution　リンゲル液。代用血液として用いられる生理的塩類溶液。
+RS　Rotor syndrome　ローター症候群
+RSA　refractory sideroblastic anemia　難治性鉄芽球性貧血
+RSA　right sacrum anterior　仙骨右前方
+RSA　right subclavian artery　右鎖骨下動脈
+RSBT　rhythmic sensory bombardment therapy　律動的感覚衝撃療法
+RScA　right scapulo-anterior position　右肩甲骨前位（胎向）\u000021e8RScP
+RScP　right scapulo-posterior position　右肩甲骨後後位（胎向）\u000021e8RScA
+RSD　reflex sympathetic dystrophy　反射性交感神経性ジストロフィー，反射性交感神経性異栄養症
+RSI　rapid sequence intubation　迅速気管挿管
+RSIvP　rapid sequence intravenous pyelography（＝RSP）　急速連続静注腎盂造影法
+RSK　ribosomal protein S6 kinase　リボソーム蛋白質S６キナーゼ
+RSL　right sacro-lateral position　右仙骨側位（胎向）\u000021e8RSP，RST
+RSM　regurgitant systolic murmur　逆流性収縮期雑音
+RSM　ribostamycin (sulfate)　(硫酸)リボスタマイシン(ビスタマイシン)，アミノグリコシド系抗生物質
+RSMP　rapid sequence mannitol pyelography　急速静注式マンニトール腎盂造影法
+RSNA　renal sympathetic nerve activity　腎臓交感神経活動
+RSP　rapid sequence pyelography　急速連続腎孟造影法
+RSP　right sacro-posterior position　右仙骨後位（胎向）\u000021e8RSL，RST
+RSPP　relative spinal perfusion pressure　相対的脊髄灌流圧
+RSR　regular sinus rhythm　正常洞調律
+RSS　recombination signal sequence　再構成シグナル配列
+RSS　Russell-Silver syndrome　ラッセル-シルヴァー症候群
+RSSE　Russian spring-summer encephalitis virus　ロシア春夏脳炎ウイルス
+RSST　repetitive saliva swallowing test　反復唾液嚥下テスト
+RST　radiosensitivity test　放射線感受性試験。同一の放射線線量でも個体によって異なる感受性を調べる試験
+RST　right sacro-transverse position　右仙骨横位（胎向）\u000021e8RSL，RSP
+RS(V)　respiratory syncytial (virus)　RSウイルス。急性呼吸器感染症の原因ウイルス。飛沫感染や接触感染などで感染し，乳幼児に発症しやすく，細気管支炎や肺炎などの下気道症状が現れる。５類定点把握感染症に指定されている。検査は鼻咽頭拭い液などを検体に，抗原に特異的に反応するモノクローナル抗体を用いてRSウイルス抗原を検出するイムノクロマト法で行う。
+RSV　Rice stripe virus　イネ縞葉枯ウイルス
+RSV　right sinus of Valsalva　右バルサルバ洞
+RSV　Rous sarcoma virus　ラウス肉腫ウイルス
+RT　radiological technologist　放射線技師
+RT　radiotherapy　放射線治療。電離放射線を用いて行う局所療法。放射線を人体に一定量以上照射すると，体内の細胞の運動を停止させ死滅させることができるので，主に悪性腫瘍の治療に用いられる。
+RT　radium therapy　ラジウム療法
+RT　reaction time　反応時間
+RT　recreational therapist　レクリエーション療法士
+RT　recreational therapy　レクリエーション療法。精神療法の一つで，音楽療法や体育療法などがある。
+RT　rectal temperature　直腸温
+RT　reentrant tachycardia　再入頻脈
+RT　renal transplantation　腎移植。ドナーより提供された腎臓を移植し，腎臓の機能回復を図る治療法
+RT　respiratory tachycardia　呼吸性頻脈
+Rt　retention time　停滞時間。ガスクロマトグラフィーにおいて検出までに要する時間
+RT　reverse transcriptase　逆転写酵素
+RT　reverse transcription　逆転写
+rt　right lateral position　右側臥位
+R-T　right temporal　右側頭部
+RT　rising test　起立テスト
+rT3　reverse triiodothyronine　逆位トリヨードサイロニン
+RT3U　resin T3 uptake　レジンT3摂取率
+RT3UR　resin triinodothyronine uptake ratio　レジントリヨードサイロニン摂取率
+RTA　renal tubular acidosis　腎(尿細管)性酸血症，腎尿細管性アシドーシス
+RTBD　retrograded transhepatic biliary drainage　逆行性経肝胆道ドレナージ
+RTC　round-the-clock therapy　RTC療法。一般的には喘息に対するキサンチン製剤の血中濃度維持療法のこと
+RTF　resistance transfer factor　耐性伝達因子
+RTH　resistance to thyroid hormone　甲状腺ホルモン不応症
+RTI　respiratory tract infection　呼吸器感染症
+RTP　radiotherapy treatment planning　放射線治療計画
+RTP　rapid turnover protein　急速代謝回転蛋白
+RTP　room-temperature phosphorescence　室温リン光法
+RT-PCR　reverse transcription PCR　逆転写PCR
+RTS　revised trauma score　改訂外傷スコア
+RTS　Rothmund-Thomson syndrome　ロートムント-トムソン症候群
+RTS　Rubinstein-Taybi syndrome　ルービンスタイン-テイビ症候群
+RTSV　Rice tungro spherical virus　ライスツングロスフェリカルウイルス
+RTU　resin sponge uptake, triiodothyronine　レジン・スポンジ摂取量トリヨードチロニン試験\u000021e8T3 test
+RTV　ritonavir　リトナビル（抗HIV薬）
+RTV　Roentgen television　レントゲンテレビジョン
+RU　rat unit　ラット単位
+RU　Roentgen unit　レントゲン単位(X線量の単位)
+RUB　right upper lobe bronchus　右上葉気管枝
+RUE　right upper extremity　右上肢
+RUG　retrograde urethrography　逆行性尿道造影法
+RUG-Ⅲ　resource utilization groups-Ⅲ　アメリカのナーシングホームにおける患者分類と評価技術の方式。亜急性期から長期ケアの患者を対象に，臨床・コスト面から妥当なグループに分類し，各グループに応じた支払額を設定する手法
+RUL　right upper lobe　右肺上葉
+rupt　rupture　破裂
+RUQ　right upper quadrant　右上腹部
+RUS　radius ulna and short finger bones　橈骨，尺骨，短指骨
+RUSB　right upper sternal border　右上胸骨縁
+RUT　rapid urease test　迅速ウレアーゼ試験
+RV　nucleus reticularis ventralis［ラ］　腹側網様核
+RV　recombinant virus　組み換えウイルス
+RV　regurgitant volume　逆流量
+RV　renal vein　腎静脈
+RV　residual volume　残気量(測定)
+RV　respiratory virus　呼吸器ウイルス
+RV　respiratory volume　呼吸量
+RV　rhinitis vasomotor（＝VMR）　血管運動性鼻炎
+RV　right ventricle　右(心)室。対語：LV(左心室)
+RV　right visus　右眼視力
+RV　Rotavirus　ロタウイルス。感染性胃腸炎の代表的な起因ウイルス。乳幼児の下痢の原因となる。
+RV　rubella virus　風疹ウイルス
+RVAD　right ventricular assist device　右心補助具
+RVAW　right ventricular anterior wall　右室前壁
+RVD　respiratory viral disease　呼吸器ウイルス疾患
+RVD　right ventricular dimension　右室径
+RVEDP　right ventricular enddiastolic pressure　右室拡張末期圧
+RVEDV　right ventricular enddiastolic volume　右室拡張末期量
+RVEDVI　right ventricular end-diastolic volume index　右室拡張末期容量係数
+RVEF　right ventricular ejection fraction　右室駆出率
+RVET　right ventricular ejection time　右室駆出時間
+RVF　renal arteriovenous fistula　腎動静脈瘻
+RVF　Rift Valley fever virus　リフトバレー熱ウイルス
+RVF　right ventricular failure　右心室不全
+RVG　radionuclide ventriculography　放射性核種心室造影法
+RVH　renovascular hypertension　腎血管(動脈)性高血圧
+RVH　right ventricular hypertrophy　右室肥大
+RVI　right ventricular infarction　右室梗塞
+RVID　right ventricular internal dimension　右室内径
+RVIT　right ventricular inflow tract　右室流入路
+RVLA　Reovirus like antigen　レオウイルス様病原体
+RVO　relaxed vaginal outlet　弛緩した腟口
+RVOT　right ventricular outflow tract　右室流出路
+RVOTD　right ventricular outflow tract dimension　右室流出路径
+RVout　right ventricular outflow tract　右室流出路
+RVP　renal venous pressure　腎静脈圧
+RVP　right ventricular pressure　右心室圧
+RVR　renal vascular resistance　腎血管抵抗
+RVRR　renal vein renin ratio　腎静脈レニン活性比
+RVSP　right ventricle systolic pressure　右室収縮期圧
+RVT　renal vein thrombosis　腎静脈血栓症
+RV/TLC%　residual volume/total lung capacity (%)　残気率
+RVV　right ventricular volume　右心室容積
+RVVT　Russell viper venom time　ラッセル蛇毒時間。抗リン脂質抗体の測定法の一つ
+RW　reaction of Wassermann　ワッセルマン反応。梅毒血清反応
+RW　round window　正円窓
+RWM　round window membrane　正円窓膜
+RXM　roxithromycin　ロキシスロマイシン（抗菌薬）
+Rx，Rp，RZ　recipe［ラ］　投薬・処方（処)
+R-Y　Roux-en-Y anastomosis　ルー・Y吻合（胃腸吻合法）
+R-アライダシ☆　指標ガス洗い出し検査
+R-アンセイカンキ☆　安静換気量測定
+R-キドウテイコウ☆　気道抵抗測定
+R-キョウセイコシュツ☆　強制呼出曲線
+R-クロージングボリューム☆　クロージングボリューム測定
+R-ケツエキガス☆　血液ガス分析。血液中に溶け込んでいる酸素（O2）と炭酸ガス（CO2）の濃度を測定すること。動脈血における濃度を圧として表し，動脈血酸素分圧（PO2），動脈血二酸化炭素分圧（PCO2）と略す。
+R-ケツエキガスCCO2☆　血液ガス分析CO2含量
+R-ケツエキガスCO2☆　血液ガス分析O2含量
+R-ケツエキガスHCO3☆　血液ガス分析重炭酸イオン
+R-ケツエキガスPCO2☆　血液ガス分析CO2分圧
+R-ケツエキガスPH☆　血液ガス分析pH
+R-ケツエキガスPO2☆　血液ガス分析O2分圧
+R-ケツエキガスSO2☆　血液ガス分析O2飽和度
+R-コキュウテイコウ☆　呼吸抵抗測定
+R-コンプライアンス☆　コンプライアンス測定
+R-サユウハイキノウ☆　左右別肺機能検査
+R-ザンキリョウ☆　残気量測定。呼吸機能検査の一つ。残気量とは，息を吐ききったあとに肺の中に残っている空気の量のこと。残気量そのものは機械で直接測ることができない。検査方法は被験者にマウスピースをくわえさせて深呼吸させたのち，ヘリウムを加えた空気を吸入させ，吐き出させた際に，吐き出した空気のヘリウム濃度を測定し，計算によって残気量の値を求める。肺気腫などの診断に用いられる。
+R-シクウリョウ☆　死腔量測定
+R-ショクドウナイアツ☆　食道内圧測定検査
+R-タイプレチスモ☆　体プレチスモグラフ
+R-ハイカクサン☆　肺拡散能力検査
+R-ハイキブンカク☆　肺気量分画測定
+R-ハイシャント☆　肺内シャント検査
+R-ハイネンセイテイコウ☆　肺粘性抵抗測定
+R-フローボリューム・カーブ☆　フローボリュームカーブ

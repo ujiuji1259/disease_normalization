@@ -1,0 +1,64 @@
+数　字
+123I-BMIPP　123I-beta-methyl-iodophenyl pentadecanoic acid　15-(4-ヨードフェニル) -3(R,S)-メチルペンタデカン酸（カルディオダイン）。心筋脂肪酸代謝シンチグラフィー用注射剤
+1,25 (OH)2D3　1,25-ジヒドロキシビタミンD3
+1,25(OH)2D3　1,25-ジヒドロキシビタミンD3
+1314TH　ethionamide（＝ETH）　エチオナミド（抗結核薬）
+131I　radioactive iodine　放射性ヨウ素131
+131I-AA　131I-aggregated albumin　131I標識凝集アルブミン
+131IHSA　iodinated human serum albumin　放射性ヨウ素標識ヒト血清アルブミン
+131I-MAA　131I-macroaggregated albumin　131I-標識大凝集アルブミン
+131I-PVP test　131I-polyvinylpyrrolidone test　131I-標識ポリビニルピロリドン試験
+131I-RB　131I-Rose Bengal　131I-ローズベンガル
+131I-T3RSU test　131I-triiodothyronine resin sponge uptake test (trisorb test)　131I-トリヨードサイロニンレジン摂取率テスト
+1321TH　prothionamide　プロチオナミド（抗結核薬）
+133Xe　xenon-133　キセノン133。脳・肺スキャン剤。キセノン133使用動態シンチグラフィー
+1,5-AG　1,5-anhydroglucitol　1,5-アンヒドログルシトール測定。HbAlcやフルイトサミンよりさらに短期間の血糖コントロールの指標
+16PF　sixteen personality factor questionnaire　人格要素テスト
+17(11)-OHCS　17(11)-hydroxy corticosteroid　17(11)-ヒドロキシコルチコステロイド
+17-KGS　17-ketogenic steroid　17-ケトジェニックステロイド\u000021e817-OHCS
+17-KS　17-ketosteroid　17-ケトステロイド
+17α-OHP精密　17α-ヒドロキシプロジェステロン精密測定
+198Au　gold-198 (colloid)　金-198（放射性）コロイド
+19-NTPP　19-nortestosterone phenylpropionate　19-ノルテストステロン・フェニルプロピオネイト
+1H　protium　プロチウム，軽水素。質量１の普通の水素
+2,3-DPG　2,3-diphosphoglycerate　2,3-ジホスフォグリセリン酸
+25-OHD　25-hydroxy vitamin D3　25-水酸化ビタミンD3
+2DE　two-dimensional echocardiography　断層心エコー法，二次元心エコー法
+2DF　2-deoxy-L-fucose　2-デオキシ-L-フコース
+2H　deuterium　重水素（＝D）。質量２の水素の同位元素
+2-ME　2-mercaptoethanol　2-メルカプトエタノール（抗酸化剤）
+2PG　2-phosphoglycerate　2-ホスフォグリセリン酸，グリセリン酸2-リン酸
+2-PGA　2-phosphoglyceric acid　2-グリセロリン酸
+2R　second intercostal space right sternal border　第２肋間胸骨右縁
+32P　radioactive phosphorus 32　放射性リン(燐)
+3D CRT　three-dimensional conformal radiation therapy　三次元原体放射線治療
+3D-CTA　three-dimensional CT angiography　三次元脳血管造影
+3E　effort，eating，emotion　労作，食事，情動
+3H　tritium　トリチウム（＝T）。質量３の水素の同位元素
+3H-TdR　tritiated thymidine　トリチウム化チミジン
+3-PAA　3-pyridine-acetic acid　3ピリジン酢酸
+3TC　lamivudine　ラミブジン（ゼフィックス\u000000ae）
+4-CLTA　4-chlorotestosterone acetate　4-クロロテストステロン酢酸
+4-CLTC　4-chlorotestosterone capronate　4-クロロテストステロン・カプロン酸
+4-CLTP　4-chlorotestosterone propionate　4-クロロテストステロン・プロピオン酸
+5'DFUR　5'-deoxy-5-fluorouridine　5'-デオキシ・5-フルオロウリジン。5-FU系の抗癌剤
+5-FC　5-flucytosine　フルシトシン
+5-FU　fluorouracil　フルオロウラシル（抗悪性腫瘍薬）
+5H　hypertension・hypermetabolism・hyperglycemia・headache・hyperhidrosis　高血圧・代謝亢進・高血糖・頭痛・多汗
+5-HIAA　5-hydroxyindoleacetic acid　5-ヒドロキシインドール酢酸
+5HmCyt　5-hydroxymethyl cytosine（＝HMC）　5-ヒドロキシメチルシトシン
+5HOT　5-hydroxytryptamine　5-ヒドロキシトリプタミン
+5-HT　5-hydroxytryptamine　5-ヒドロキシトリプタミン。セロトニン
+5HT，5-HTP　5-hydroxytryptophan　5-ヒドロキシトリプトファン
+5'-NT　purine-5'-nucleotidase　プリン5'-ヌクレオチダーゼ
+60Co　radioactive cobalt　放射性コバルト。放射線治療に使用される。
+6-APA　6-aminopenicilanic acid　6-アミノペニシラン酸
+6-HD　6-hydroxydopamine　6-ヒドロキシドパミン
+6-MP　6-mercaptopurine　6メルカプトプリン（免疫抑制剤）
+6-MPR　6-mercaptopurine ribonucleoside　6メルカプトプリン・リボヌクレオシド（抗悪性腫瘍薬）
+6-MTI　6-methylthioinosine　6-メチルチオイノシン
+6-OHDA　6-hydroxydopamine　6-水酸化ドパミン
+6-PG　6-phosphogluconate　6-ホスフォグルコン酸
+6-PGD，PGDH　6 phosphogluconic acid dehydrogenase　6-ホスフォグルコン酸脱水素酵素
+8-MOP　8-methoxypsoralen　メトキサレン
+99mTc，99mTC　99m-technetium　放射性テクネチウム99m

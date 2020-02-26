@@ -1,0 +1,634 @@
+Ｂ
+B　Bacillus［ラ］　桿菌
+B　base　塩基
+B　basophilic leucocyte（＝bas）　好塩基球
+B　Bel　ベル単位
+B☆　blood　血液。血管の種類によって動脈血と静脈血に二分され，成分は赤血球や白血球，血小板といった血球成分と，これらを除いた血漿成分とに大別される。主な機能は，①酸素・二酸化炭素の運搬（呼吸），②グルコース・アミノ酸・脂質などの運搬（栄養），③代謝産物，尿素，クレアチニンなどの運搬（排出），④体内の酸性度を一定に保つ緩衝作用，⑤熱の運搬による体温調節──など。
+B　blood type　血液型
+B　body　身体
+B　boron　ホウ(\_c07845)素
+B　Borrelia　ボレリア属。トレポネーマ科細菌属の一つで，様々な動物に寄生する。
+B　Borrmann　ボールマン。胃癌病型の肉眼的分類法。１〜４型に分類
+B　bowel　腸
+B　breath　呼吸
+B　breathy　気息性。声門の息もれで嗄声が生じること
+B　bronchial　気管支の。bronchiole　気管支枝
+B　whole blood　全血
+B　β-globulin　βグロブリン。血清蛋白分画の一種
+B & B pericarditis　bread and butter pericarditis　パン・バター心膜炎
+B & C　biopsy and curettage　生検掻爬
+B・PC-G　benzyl penicillin benzathine　ベンジルペニシリン・ベンザチン
+B1　vitamin B1　ビタミンB1，thiamin　チアミン
+B12　vitamin B12　ビタミンB12，lamin　シアノコバラミン
+B13　vitamin B13　ビタミンB13，orotic acid　オロチン酸（オロト酸）
+B-17OHCS☆　blood 17-hydroxycorticosteroid　17-OHCS定量
+BⅠ　Billroth Ⅰ type　ビルロート第１法。幽門側胃切除後に残胃と十二指腸との間で端端吻合する再建法
+B2　vitamin B2　ビタミンB2，riboflavin　リボフラビン
+BⅡ　Billroth Ⅱ type　ビルロート第２法。幽門側胃切除後に残胃断端と十二指腸断端を縫合閉鎖し，残胃と空腸との間で吻合する再建法
+B3　vitamin B3　ビタミンB3，nicotinamide　ニコチン酸アミド。抗ペラグラ因子ビタミン
+B6　vitamin B6　ビタミンB6，ピリドキサール，ピリドキサミン，ピリドキシン
+B-A☆　動脈血採取
+ba　backache　背痛
+Ba　barium　バリウム。甘味をつけた硫酸バリウムの溶液で，胃部エックス線撮影時の造影剤に用いる。胃はエックス線を透過するので，透過しないバリウムが胃に入るとその部分が白くなる。撮影時には，エックス線吸収の小さい炭酸ガス（発泡剤）で胃をふくらませて（黒くなる），バリウムによる白との対照で細かな病変を映し出す（二重造影法）。
+BA　basilar artery　脳底動脈
+BA　bile acid　胆汁酸。胆汁の主成分で，肝臓で合成され，脂肪分の消化・吸収を助ける物質。胆汁は食間に分泌され，半分が胆嚢管を通じて胆嚢の中に蓄えられる。血液中の胆汁酸を測定することで疾患を予測できる。胆汁酸の値が高い場合は，肝細胞による胆汁酸の吸収が低下しており，肝細胞障害（肝炎等）や肝内外シャントなどが考えられる。胆汁酸の値が低い場合は，腸壁での吸収障害が考えられる。
+BA　blocking antibody　遮断抗体，阻止抗体
+BA　boric acid　ホウ酸
+BA　bronchial asthma　気管支喘息。気管支の攣縮，浮腫，分泌亢進により生ずる可逆性の呼気性呼吸困難のこと。喘鳴を伴う。誘因としては，①外来性アレルゲン，②感染，③心因反応，④物理的・身体的要因（運動時），⑤その他（大気汚染）——が挙げられる。発作時には誘因を除くこと。そして薬物療法としては気管支拡張剤やステロイド剤，感染には抗生物質を用いる。重症型（発作重積状態）には点滴，酸素吸入，上記薬物を使用する。ほかに減感作療法や非特異的変調療法も用いる。
+BA　bronchoalveolar　気管支肺胞の
+BAA　benzoyl arginine amide　ベンゾイルアルギニンアミド
+BAA　bronchioloalveolar adenoma　細気管支肺胞腺腫
+bac　bacillus［ラ］，bacteria　バシラス，バチルス，細菌
+BAC　bacterial antigen complex　細菌性抗原複合体
+BAC　basal acid concentration　基礎分泌最高酸濃度
+BAC　blood alcohol concentration　血中アルコール濃度
+BAC　bronchioloalveolar carcinoma　細気管支肺胞上皮癌
+BAC　bronchus alveolar cell　気管肺胞細胞
+BACOP　bleomycin, adriamycin, cyclophosphamide, oncobin (vincristine), prednisolone　ブレオマイシン，アドリアマイシン，シクロホスファミド，オンコビン〔ビンクリスチン〕，プレドニゾロン。癌化学療法の組み合わせの一つ
+BACT　bacteria　バクテリア，細菌
+BACTEc　bacterial growth detector　細菌増殖検出器
+BADL　basic activities of daily living　基本的日常生活動作
+BADS　behavioural assessment of the dysexecutive syndrome　遂行機能障害症候群の行動評価
+BAE　barium enema　バリウム注腸造影
+BAE　bronchial artery embolization　気管支動脈塞\_c07717術
+BAEE　benzoylarginine ethyl ester　ベンゾイルアルギニン・エチルエステル
+Ba-enema　barium enema　注腸検査
+BAEP　brainstem auditory evoked potential　聴性脳幹誘発電位
+BAER　brainstem auditory evoked response　聴性脳幹反応
+BAF　B cell activating factor　B細胞活性化因子
+BAFME　benign adult familial myoclonic epilepsy　良性成人型家族性ミオクローヌスてんかん
+BAG　brachial arteriography　上腕動脈造影(法）
+BAG　bronchial arteriography　気管支動脈造影。癌や喀血の診断等のため，カテーテルによって気管支動脈に造影剤を注入しX線撮影を行う。
+BAI　bronchial aerozol inhalation　気管支噴霧吸入
+BAI　bronchial arterial infusion　気管支動脈内（抗癌剤）注入療法。肺癌患者へ抗癌剤を気管支動脈から注入する療法
+BAIT　bacterial automated identification technique　細菌自動同定技術
+BAK　benzalkonium chloride　塩化ベンザルコニウム
+bal　balance　平衡
+BAL　British anti-lewisite　ジメルカプロール
+BAL　bronchoalveolar lavage　気管支肺胞洗浄法
+BALF　bronchoalveolar lavage fluid　気管支肺胞洗浄液
+B-ALL　B-cell acute lymphoblastic leukemia　B細胞性急性リンパ球性白血病
+B-ALP，bs-ALP　bone specific alkaline phosphatase　骨型アルカリホスファターゼ
+BALT　bronchus associated lymphoid tissue　気管支関連リンパ組織
+BAM　basilar artery migraine　脳底動脈型片頭痛
+BAM　broncho-alveolar macrophage　気管支肺胞マクロファージ
+BAME　benzoylarginine methyl ester　ベンゾイルアルギニンメチルエステル
+B-Amy（B-アミラーゼ）☆　blood amylase　アミラーゼ定量（血液）
+BAO　basal acid output　基礎酸分泌量
+BAOMP　behenoyl, Ara-C, aclacinon, oncovin, 6-mercaptopurine, predonine　ベヘノイール，Ara-C，アクラシノン，オンコビン，6メルカプトプリン，プレドニン。癌化学療法の組み合わせの一つ
+BAP　balloon angioplasty　経皮的冠動脈形成術
+BAp.　blood agar plate　血液寒天平板
+BAP　bone specific alkaline phosphatase　骨型アルカリホスファターゼ
+BAP　bronchial arterial pressure　気管支動脈圧
+BAPC　bacampicillin hydrochloride　塩酸バカンピシリン（抗菌薬）
+barb　barbiturate　バルビツール酸塩，バルビツール酸誘導体
+BART　bypass angioplasty revascularization trial　バイパス・血管形成血行再建試験
+BAR-therapy　5-bromouridine-2'-deoxyribose-antimetabolite-continuous intraarterial infusion radiation therapy　バー療法。癌の放射線療法の一種
+BAS　balloon atrial septostomy　バルーン心房中隔裂開術
+BAS　Barnes akathisia scale　薬原性アカシジア評価尺度
+bas　basphile leucocyte（＝B）　好塩基球
+baso　basophile　好塩基性リンパ球。慢性骨髄性白血病，赤血球増多症などで増加
+BAT　botulinum type A toxin　ボツリヌスA型毒素
+BAT　brain associated T-cell antigen　脳関連T細胞抗原
+BAT　brown adipose tissue　褐色脂肪細胞組織
+BAW　broncho-alveolar washing　気管支肺胞洗浄
+BB　bank blood　保存血
+BB　bed bath　全身清拭
+BB　beta blocker　ベータ遮断薬，β遮断薬，βブロッカー
+BB　Blutbild［独］　血液像検査。末梢血液の各血球（白血球，赤血球，血小板）の形態をスライドグラスに塗抹標本をして，ギムザ染色またはライト染色を施して，血球形態の変化，形態を顕微鏡で観察する検査。赤血球は形を，白血球は好中球，好酸球，好塩基球，リンパ球，単球等に分けられる分類異常を，血小板は数を調べ，異常細胞の出現等の有無を見る。
+BB　both bones　両方の骨
+BB　brachial plexus block　腕神経叢ブロック
+BB　break through bleeding　出血開放
+BB　breast biopsy　乳房生検
+BB　bronchial blocker　気管支ブロッカー
+BB　buffer base　緩衝塩基
+BBB　blood buffer base　血液緩衝塩基
+BBB　blood-brain barrier　血液脳関門
+BBB　bundle branch block　脚ブロック
+BBBB　bilateral bundle branch block　両脚ブロック
+BBE agar　Bacteroides bile esculin agar　BBE寒天培地
+BBF　bronchial blood flow　気管支血流
+B-bile　bladder bile，cystic bile　胆嚢胆汁，B胆汁
+B-BIL/総（B-BIL/ソウ）☆　blood bilirubin　血清ビリルビン定量
+B-BIL/直（B-BIL/チョク）☆　blood bilirubin　血清ビリルビン定量
+BBM　Bernheim basal medium　ベルンハイム基礎培地
+BBO　broncho-bronchiolitis obliterans　閉塞性気管支細気管支炎
+BBP　basal blood pressure　基礎血圧
+BBT　basal body temperature　基礎体温
+BBW　birth body weight　出生時体重
+BC　ベンジルペニシリンカリウム（ペニシリンG）
+B-C☆　血液採取
+BC　bacitracin　バシトラシン・硫酸フラジオマイシン配合剤（抗菌薬）
+BC　benign chondroblastoma　良性軟骨芽細胞腫
+BC　bioclean　バイオクリーン
+BC　blastic crisis　急性転化
+BC　blood center　血液センター
+BC　bone conduction　骨伝導，骨導（聴力）
+BC　bone connection　骨接合
+BC　breast cancer　乳癌
+BC　breathing capacity　呼吸容量
+BC　bromocriptine　ブロモクリプチン
+BC　bronchial cancer　気管支癌
+BC　bronchitis chronica［ラ］　慢性気管支炎
+BCA　breast carcinoma associated antigen　胸部癌関連抗原
+BCAA　branched-chain amino acid　分枝鎖アミノ酸
+BCB　brilliant cresyl blue　ブリリアントクレジルブルー。色素
+BCC　basal cell carcinoma　基底細胞癌
+BCDF　B cell differentiation factor　B細胞分化因子
+BCE　B cell clonal excess　B細胞クローン過多
+BCE　basal cell epithelioma　基底細胞上皮腫
+BCE　bone collagen equivalents　コラーゲン相当量
+BCECTS，BECTS　benign childhood epilepsy with centrotemporal spike　中心・側頭部に棘波をもつ良性小児てんかん
+B-cell　bone marrow derived cell　B細胞
+B cell　bone marrow derived cell, bursa equivalent organ derived cell　骨髄由来リンパ球，B細胞，Bリンパ球
+BCF　bacterial culture filtrate　細胞培養濾液
+BCF　basophil chemotactic factor　好塩基球走化性因子
+BCFS　breast cancer frozen section　乳癌凍結切片
+BCG　Bacillus de Calmette Gu\u000000e9rin［仏］　カルメット・ゲラン菌。結核予防ワクチン
+BCG　ballistocardiogram　心弾動図
+BCG　bromcresol green　ブロムクレゾールグリーン（臭素クレゾール緑）。溶液のPH試薬として用いられる色素
+BCG-CWS　BCG-cell wall skeleton　BCG細胞壁基幹
+BCGF　B cell growth factor　B細胞増殖因子
+BCG test　bicolour guaiac test　二色グアヤック試験
+BCH　basal cell hyperplasia　基底細胞過形成
+BCIE　bullous congenital ichthyosiform erythroderma　水疱型先天性魚鱗癬様紅皮症
+BCKA　branched chain keto acid　側鎖ケト酸
+B-Cl☆　blood chlorine　血清クロール定量
+B-CLL　B cell-type chronic lymphocytic leukemia　慢性Bリンパ球性白血病
+BCLS　basic cardiac life support　基本的心臓生命維持法，一次循環救命処置
+BCM　biochemical modulation　生化学的修飾
+BCME　bis(chloromethyl)ether　ビス(クロロメチル)エーテル
+BC muscle　bulbocavernosus muscle　球海綿体筋，陰茎海綿体筋
+BCN　basal cell nevus　基底細胞母斑
+BCNU　1,3-bis(2-chloroethyl)-1-nitrosourea　クロロエチルニトロソウレア，カルムスチン
+BCO　bilateral carotid occlusion　両側頸動脈閉鎖
+BCO　blood carbon monoxide　血液一酸化炭素
+BCO2　blood carbon dioxide　血液炭酸ガス
+BCOP　blood colloid osmotic pressure　血液膠質浸透圧
+BCP　basic calcium phosphates　塩基性リン酸カルシウム
+BCP　birth control pill　経口避妊薬
+BCP　bromcresol purple　ブロムクレゾールパープル。酸塩基指示薬の一つで，pH試験紙等で用いられる。
+BCR　biological clean room，bioclean room　無菌室，バイオクリーンルーム
+BCR　bulbocavernosus reflex（response）　球海綿体反射
+BCS　battered child syndrome　被虐待児症候群
+BCSFB　blood-cerebrospinal fluid barrier　血液・脳脊髄液関門
+BCT　blood coagulation time　血液凝固時間，全血凝固時間
+BCT　breast-conserving treatment　乳房温存療法
+BCTV　Beet curly top virus　ビートカーリートップウイルス
+BCU　burn care unit　熱傷集中監視室
+BD　base deficit　塩基不足，塩基欠乏
+BD　base of prism down　下方プリズム基底
+BD　beclomethasone dipropionate　ベクロメタゾン（抗アレルギー薬）
+BD　behavior disorder　行動異常，行動障害
+BD　bile duct　胆管，胆管系
+b.d.　bis in die［ラ］　１日２回（処）
+BD　bladder drainage　膀胱ドレナージ。移植膵に伴い十二指腸を膀胱に吻合し，膵液を尿中に排出する方法
+bd　blind　盲目の
+BD　brain damege　脳障害，脳損傷
+BD　brain death　脳死
+BD　bronchodilator　気管支拡張薬
+BDA　beclomethasone dipropionate aerosol　ジプロピオン酸ベクロメサゾン・エアロゾール
+BDA　bile duct adenoma　胆管腺症，胆管腺腫
+BDAE　Boston Diagnostic Aphasia Examination　ボストン失語症診断検査
+BDB　bisdiazotized benzidine　ビスジアゾ化ベンジジン
+BD，BP　Blutdruck［独］，blood pressure　血圧。診察料に含まれ，別に算定できない。
+BDBR　bisdiazotized benzidine reaction　タンニン酸処理血球凝集反応
+BDC　bio dynamic calorimeter　全身熱量計
+BDE　bile duct exploration　胆管探査
+BDF　B cell differentiating factor　B細胞分化因子
+BDG　bilirubin diglucuronide　ビリルビンジグルクロナイド
+BDGFs　bone-derived growth factors　骨由来成長因子
+BDI　Beck Depression Inventory　ベックうつ病評価尺度
+BDI　beclomethasone dipropionate inhalor　ジプロピオン酸ベクロメタゾン吸入
+BDNF　brain-derived neurotrophic factor　（脳由来）神経栄養因子
+BDP　beclomethasone dipropionate　ジプロピオン酸ベクロメタゾン（アレルギー薬）
+b.d.s.　bis in die sumendus［ラ］　１日２回（処）
+BDT　basophil degranulation test　好塩基球脱顆粒試験
+BDV　blood dilution value　血液希釈値
+BDV　border disease virus　周辺病ウイルス
+BDV　Borna disease virus　ボルナ病ウイルス
+BDZ　benzodiazepin　ベンゾジアゼピン
+BE　bacillary emulsion　細菌乳濁液
+BE　bacterial endocarditis　細菌性心内膜炎
+BE　barium enema (method)　バリウム注腸（造影）
+BE　base excess　過剰塩基，塩基過剰。酸塩基平衡において（＋）：代謝性アルカローシス，（−）：代謝性アシドーシス
+BE　below elbow　前腕
+Be　beryllium　ベリリウム
+BE　bronchiectasia　気管支拡張症
+BE　broncho-esophagology　気管食道科学
+BEAM　brain electrical activity mapping　脳電気活動地図
+BE amp　below elbow amputation　前腕切断
+BEC　bacterial endocarditis　細菌性心内膜炎
+BECCT　benign epilepsy of childhood with centrotemporal foci　中心・側頭部に棘波をもつ良性小児てんかん
+B-Echo☆　blood cholesterol esters　エステル型コレステロール定量
+BECRS　benign epilepsy of childhood with rolandic spikes　ローランド溝に棘波をもつ良性小児てんかん
+BED　biologically effective dose　生物学的効果線量
+BEE　basal energy expenditure　基礎エネルギー消費量。安静臥床，絶食時の基礎代謝で消費される熱量
+Befund　［独］　所見
+BEHAVE-AD　behavioral pathology in Alzheimer disease　アルツハイマー型認知症行動尺度
+BEI　biological exposure index　生物学的曝露指標
+BEI　butanol extractable iodine　ブタノール抽出性ヨウ素，血清甲状腺ホルモン結合ヨード。血漿サイロキシン測定によるヨウ素値\u000021e8PBI
+BEIS　balloon expandable intravascular stent　バルーン拡張式血管内ステント
+bella　belladonna　ベラドンナ。アルカロイドの一種
+BEMP　bleomycin, endoxan, 6-mercaptopurine(6-MP) and predonine　ブレオマイシン＋シクロホスファミド＋6-MP＋プレドニゾロン
+BEN　benign epidemic nephropathy　良性流行性腎症
+benz　benzedrine　ベンゼドリン。アンフェタミン
+benz　benzene　ベンゼン
+benz　benzin, benzine　ベンジン
+BER　basal electrical rhythm　基本電位リズム
+BER　brain stem evoked response　脳幹誘発反応，聴性脳幹反応
+BET　benign epithelial tumor　良性上皮性腫瘍
+BET　betamethasone　ベタメタゾン
+BF　best frequency　最適周波数
+BF　biofeedback　バイオフィードバック
+BF　blastogenesis factor　芽球化因子
+BF　blocking factor　遮断因子
+BF　blood flow　血液流量
+BF　broncho-fiberscope　気管支ファイバースコープ，気管支鏡
+Bf　properdin factor B　プロペルジンB因子
+BFC　benign febrile convulsion　良性熱性痙攣
+BFDI　bronchodilation following deep inspiration　深吸気時気管支拡張
+B-Fe☆　blood ferrum　血清鉄定量
+BFE　blood flow energy　血流エネルギー
+bFGF　basic fibroblast growth factor　塩基性線維芽細胞増殖因子
+BFH　benign fibrous histiocytoma　良性線維性組織球腫
+BFHR　basal fetal heart rate　胎児心拍数基線
+BFI　Brief Fatigue Inventory　簡易倦怠感質問表
+BFLS　B\u000000f6rjeson-Forssman-Lehmann syndrome　ベーイエソン-フォルスマン-レーマン症候群
+BFO　blood forming organs　造血臓器
+BFP　balanced forearm prosthesis　バランス前腕補助具
+BFP　basic fetoprotein　塩基性フェトプロテイン，塩基性胎児蛋白質
+BFP　biological false positive　生物学的擬陽性
+BFR　blood flow rate　血流率，血流速度
+BFR　bone formation rate　骨形成率
+BFS　blood fasting sugar　空腹時血糖
+BFS　burning foot syndrome　灼熱足症候群，灼熱脚症候群，電気足症候群，疼痛足症候群
+BFT　Bentonitumfixationtest［独］　ベントナイトフィクサチオンテスト，ベントナイト凝集反応
+BFU-E　burst-forming unit of erythroid　赤芽球バースト形成単位
+BG　back ground　基礎放射線量
+BG　biguanide　ビグアナイド
+BG　Bordet-Gengou　ボルデー・ジャング。百日咳の病原菌
+BGA　blood gas analysis　血液ガス分析
+BGDF　B cell growth and differentiation factor　B細胞増殖・分化因子
+BGGT　bilirubin glucuronoside glucuronosyl transferase　ビリルビン・グルクロノシド・グルクロノシル転移酵素
+BGLB　brilliant green lactose broth　ブリリアントグリーン乳糖胆汁ブイヨン。大腸菌群等の検出に用いられる培地
+BGMV　Bean golden mosaic virus　ビーンゴールデンモザイクウイルス
+BGP　bone Gla protein　オステオカルシン
+BGSA　blood granulocyte specific activity　血液顆粒細胞特異的活動
+BGT　Bender Gestalt test　ベンダー・ゲシュタルト・テスト
+BGTT　borderline glucose tolerance test　境界グルコース閾値検査
+BH　Bill of Health　健康表
+BH　birth history　出生歴
+BH-AC　enocitabine　エノシタビン（抗悪性腫瘍薬）
+BHC　benzene hexachloride　ベンゼンヘキサクロライド
+BHF　Bolivian hemorrhagic fever　ボリビア出血熱
+B-HGH　biosynthetic human growth factor　生合成ヒト成長因子
+BHI　biosynthetic human insulin　生物合成ヒトインスリン
+BHL　bilateral hilar lymphadenopathy　両側肺門リンパ節腫大
+BHL　biological half life　生物学的半減期
+bHLM　basic helix-loop-helix　インスリン転写因子
+BHN　bridging hepatic necrosis　架橋肝壊死
+BHR　basal heart rate　基礎心拍数
+BH-RSV　Bryan high titer-Rous sarcoma virus　ブライアン高抗体価株-ラウス肉腫ウイルス
+BHS　beta hemolytic streptococcus（＝βHS）　β溶血性連鎖状球菌
+BHT　brain hypothermia therapy　脳低温療法
+BHT　butylated hydroxytoluene　酪酸ヒドロキシトルエン
+bh/vh　body hematocrit/venous hematocrit (ratio)　身体ヘマトクリットと静脈血へマトクリット比
+BI　bacteriological index　細菌学的指数
+BI　base of prism in　内方プリズム基底
+Bi　bicarbonate　重炭酸塩
+BI　biischial diameter　骨盤出口横径
+BI　bilirubin　ビリルビン
+Bi　bismuth　次硝酸ビスマス，次炭酸ビスマス（止瀉薬）
+BI　bodily injury　身体傷害
+BI　bowel impaction　腸埋伏
+BI　Brinkman index　ブリンクマン指数。喫煙が人体に与える影響を調べるための喫煙指数。「１日当たりの平均喫煙量（本数）×喫煙年数」で求める。日本人については，喫煙指数400以上で肺癌に要注意，600以上は肺癌の高度危険群，1200以上で喉頭癌の危険性が極めて高い，とされる。
+BI　burn index　熱傷指数
+B-I（II）　Billroth I（II）　ビルロートI（II）法
+BIA　bacterial inhibition assay　細菌抑制検査，ガスリー法
+Bica　sodium bicarbonate　炭酸水素ナトリウム，重炭酸ナトリウム，重曹
+b.i.d.，bid　bis in die［ラ］　１日２回（処）
+BIH　benign intracranial hypertension　良性頭蓋内圧亢進症
+BIL　bilirubin　ビリルビン，胆汁色素。ヘモグロビンが細網内皮系（異物摂取の力が強い細胞群）の細胞によって分解されて生じる化合物。腸内に排出されたビリルビンはウロビリノーゲン，ウロビリンと変化して，ウロビリノーゲンは一部肝臓に再吸収されて再び胆汁中に排出される。ビリルビンが増加すると黄疸を生じる。
+bilat SXO　bilateral salpingo-oophorectomy　両側卵管卵巣摘出術
+bil，bilat　bilateral　両側の
+bili　bilirubin　ビリルビン
+b.i.n.　bis in nocte［ラ］　夜中２回（処）
+binocs　binoculars　両眼
+BINP　brain injury-derived neurotrophic peptide　脳損傷由来ニューロトロフィックペプチド
+BIP　bacterial intravenous protein　細菌性静脈内蛋白
+BIP　biological index of pollution　生物学的汚濁指標
+BIP　bronchiolitis obliterans-interstitinal pneumonis　閉塞性細気管支炎・間質性肺炎
+BiPAP　bi-level positive airway pressure　二相性陽圧換気
+bisex　bisexual　両性の
+BISP　between ischial spines　坐骨脊柱間
+BIT　between great trochanters　大転子間
+BIV　bovine immunodeficiency virus　ウシ免疫不全ウイルス
+BIW　bi-weekly　隔週に
+BJ　biceps jerk　二頭筋反射
+BJP　Bence-Jones protein　ベンス・ジョーンズ蛋白，免疫グロブリンのL鎖
+Bk　berkelium　バーケリウム
+BK　bradykinin　ブラジキニン
+B-K（B-カリウム）☆　blood potassium (Kalium)　カリウム定量
+BKA，BK amp　below knee amputation　下\_c07728切断
+BKLY　backlying　仰臥位
+BKTT　below knee to toe　下腿
+BKV　BK virus　BKウイルス
+BL　basement lamina　基底層
+B.L.　Bessey-Lowry　ベッシー・ロウリー単位
+BL　beta-lipoprotein（＝β-Lp）　βリポ蛋白
+bl　bleeding　出血
+BL　blood loss　失血
+bl　blood（＝B）　血液
+BL　bronchus lavage　気管支洗浄
+BL　Burkitt lymphoma　バーキットリンパ（腺）腫
+Bl C，bl cult　blood culture　血液培養。感染性心内膜炎や菌血症などの起炎菌を検出するために患者の血液を培養すること
+BL-CFU　B lymphocyte colony-forming units　Bリンパ球コロニー形成細胞
+BLD　bacteremia of long duration　長期持続性菌血症
+bld　blood　血液
+BLE　both lower extremities　両下肢
+BLG　beta-lactoglobulin　βラクトグロブリン。乳清蛋白質の主要成分で，牛乳アレルギーに関連すると考えられている。
+BLI　bombesin-like immunoreactivity　ボンベシン様免疫反応
+BLM　bleomycin hydrochloride　塩酸ブレオマイシン（抗悪性腫瘍薬）
+BLN　bronchial lymph node　気管支リンパ節
+BLOBS　bladder observation　膀胱検査
+BLS　basic life support　一次救命処置。基本的救命処置としての心肺蘇生法。Ａ（airway，気道確保），Ｂ（breathing，人工呼吸），Ｃ（circulation，閉胸的心臓マッサージ）から成り，一般にABCとも呼ばれる。
+BLS　blind loop syndrome　盲管症候群，盲係蹄症候群盲端症候群，ブラインドループ症候群，吻合病。腸内細菌叢の異常増殖による吸収不良症候群
+Bl S　blood serum（＝BS）　血清
+Bl S　blood sugar（＝BS）　血糖
+Bl T　blood type　血液型
+B-Lt　B-lymphotoxin　Bリンホトキシン
+BLV　biologic limit values　生物学的許容値
+BLV　bovine leukemia virus　ウシ白血病ウイルス
+B-lym　B cell leukemia-lymphoma　B細胞白血病・リンパ腫
+BM　barium meal　バリウム粥。消化管造影のために用いる飲用目的の造影剤
+BM　basal metabolism　基礎代謝
+BM　basement membrane　基底膜
+BM　betamethasone　ベタメサゾン。副腎皮質ホルモン
+BM　birth mark　母斑，あざ
+BM　bleomycin, mitomycin C　ブレオマイシン＋マイトマイシンC。癌化学療法の組み合わせの一つ
+BM　body mass　体重
+BM　body motion　体動
+BM　bone marrow　骨髄。骨の内部にある腔（髄腔）と，骨端で網状に交錯する薄い骨板（海綿質）の小腔の中にある造血に関わる組織。新生児では，骨髄のほとんどは赤血球，白血球，血小板などの血球成分の元となる細胞からなり，年をとるにしたがって脂肪に置き換わっていく。椎骨，骨盤，胸骨などの骨の骨髄は，年をとっても比較的血球の元になる細胞が残っている。
+BM　bowel movement　排便
+Bmax　maximum binding　最大結合能
+BMC　bone marrow cell　骨髄細胞
+BMC　bone mineral content　骨ミネラル含量，無機骨基質含量，骨塩含量
+BMCI　bone marrow cell implantation　自己骨髄細胞移植術
+BMD　Becker muscular dystrophy　ベッカー型筋ジストロフィー
+BMD　beclomethasone dipropionate cream　ジプロピオン酸ベクロメサゾン・クリーム。アレルギー性皮膚疾患に用いる皮膚貼布剤
+BMD　bone mineral density　骨塩定量，骨密度。骨に含まれているミネラル（カルシウムやリンなど。骨塩と呼ばれる）の密度を測定する検査。骨粗鬆症の診断に用いられることが多い。検査方法にはDEXA法，MD法，SEXA法，超音波法などがある。骨塩の密度は年齢とともに減少していくが，特に骨粗鬆症では，骨の密度が低くなることにより骨がもろくなり骨折しやすくなる。
+BME　biomedical engineering　医用生体工学
+BMF　B cell maturation factor　B細胞成熟因子
+BMG　benign monoclonal gammopathy　良性単クローン性γグロブリン異常症
+BMG　bilirubin monoglucuronide　ビリルビンモノグルクロナイド
+BMG　β2-microglobulin　β2ミクログロブリン
+BMHP　1-bromo mercury 2-hydroxy propane　臭化水銀水酸化プロパン。放射性医薬品
+BMI　body mass index　ボディマス指数（肥満度を表す），体格指数。（体重kg）／（身長m）2。カウプ指数とも呼ばれる。
+B-ML　B-malignant lymphoma　B細胞性悪性リンパ腫
+BMP　bone marrow puncture　骨髄穿刺
+BMP　bone morphogenetic protein　骨形成蛋白
+BMPP　benign mucous membrane pemphigus　良性粘膜天疱瘡
+BMR☆　basal metabolic rate　基礎代謝率，基礎代謝測定。食事後12〜18時間経ち，消化も吸収も完了した時点で，安静仰臥した状態の熱量消費を測定すること。生命維持に最低限生体が必要とするエネルギーを基礎代謝量という。基礎代謝率の増減は各疾患の目安になっている。
+BMS　bare metal stent　ベアメタルステント
+BMs　bowel movements　便通
+BMT　benign mesodermal tumor　良性中胚葉性腫瘍
+BMT　bone marrow transplantation　骨髄移植。健康な人の骨髄血液を点滴静注するもので，白血病や再生不良性貧血といった血液の疾患に対して行う。血液と同じように型（ヒト白血球抗原：HLA）が一致している骨髄しか使用することができない。移植する骨髄は提供者の腸骨に穿刺を行い採取する。
+BMU　basic multicellular unit　骨代謝回転の基本単位
+BMV　Brome mosaic virus　ブロムモザイクウイルス
+BN　bulimia nervosa　神経性過食症
+BN　nucleus basalis［ラ］　基底核
+B-Na（B-ナトリウム）☆　blood (sodium) Natrium　ナトリウム定量（血液）
+BNB　blood-nerve barrier　血液神経関門
+BNC　bladder neck contracture　膀胱頸部拘縮症
+BNCT　boron-neutron capture therapy　ホウ素中性子捕捉療法，中性子捕獲療法
+BNP　brain natriuretic peptide　脳ナトリウム利尿ペプチド
+BNP　B-type natriuretic peptide　B型ナトリウム利尿ペプチド
+BNPA　binasal pharyngeal airway　両側鼻腔咽頭気道
+BNP精密　ヒト脳性ナトリウム利尿ペプチド精密測定
+BNS　Blitz-Nick und Salaam Krampf［独］　瞬目，点頭，遥拝痙攣。幼児の痙攣発作
+BO　bohemium　ボヘミウム
+bo　bowel　腸
+BO　bowel obstruction　腸閉塞，イレウス，腸閉鎖症。種々の原因により腸内容の通過が障害されたもので，これにより局所・全身に重い症状を呈する病態のこと。
+BO　bronchiolitis obliterans　閉塞性細気管支炎
+BO2　blood oxygen　血液酸素
+BOA　behavioral observation audiometry　聴性行動反応聴力検査
+BOAP　bleomycin, oncovin (vincristine), adriamycin, prednisolone　ブレオマイシン，オンコビン〔ビンクリスチン〕，アドリアマイシン，プレドニゾロン。癌化学療法の組み合わせの一つ
+BOD　biochemical oxygen demand　生物化学的酸素要求量
+Bod Unit　Bodansky unit（＝BU）　ボダンスキー単位。アルカリホスファターゼの含量を示す単位
+BOL 148　2-bromo-d-lysergic acid diethylamide　2臭化リゼルグ酸ジエチルアミド
+BOLD　blood oxygen level dependent　血液酸素レベル依存
+bolus　ボーラス投与。急速静注，急速点滴
+BOMA　bilateral otitis media acuta［ラ］　急性両耳性中耳炎
+BONP　bleomycin, oncovin, natulan and predonine　ブレオマイシン＋ビンクリスチン＋ナツラン＋プレドニゾロン
+BOOP　bronchiolitis obliterans organizing pneumonia　閉塞性細気管支炎性器質化肺炎
+BOPP　bleomycin, oncovin (vincristine) procarbazine, prednisolone　ブレオマイシン，オンコビン（ビンクリスチン）プロカルバジン，プレドニゾロン。癌化学療法の組み合わせの一つ
+Bor　boras［ラ］　ホウ(\_c07845)素。ホウ(\_c07845)酸塩
+Borr I〜IV　Borrmann classification　ボールマンの分類
+BOT　basal supported oral therapy　経口血糖降下剤と基礎インスリン注射併用
+BP　before present　現症以前
+BP　Bell palsy　ベル麻痺。顔面神経麻痺
+BP　betamipron　ベタミプロン（抗菌薬）
+BP　biopterin　ビオプテリン
+BP　bipolar lead　双極誘導。心電図における，２点間の心臓活動電位の差
+BP　birth place　出生地
+BP　bisphosphonate　ビスホスホネート製剤
+b.p.　boiling point　沸点
+BP　brachial pressure　上腕収縮期血圧
+BP　bronchopleural　気管支胸膜の
+BP　bullous pemphigoid　水疱性類天疱瘡
+B-P1トマツ☆　血小板数計算・塗末標本
+BPA　brust-promoting activity　赤芽球コロニー群刺激細胞
+BPAA　4-biphenylylacetic acid　4-ビフェニリル酢酸
+BPB　bromphenol blue　ブロムフェノールブルー
+BPB　P-bromophenacyl bromide　臭化パラブロモフェナシル
+BP，Bp　blood pressure　血圧。心臓の収縮によって押し出された血液が血管壁に及ぼす圧力のこと。通常，この圧力を腕の動脈で測定する。動脈血圧は心拍動によって変動し，心収縮期に最も高く，心拡張期に最も低い。前者を最大血圧または収縮期血圧，後者を最小血圧または拡張期血圧という。
+BPD　biparietal diameter　胎児児頭大横径
+BPD　borderline personality disorder　境界性人格障害，境界性パーソナリティ障害
+BPD　bromperidol　ブロムペリドール。精神病薬
+BPD　bronchopulmonary dysplasia　気管支肺異形成
+BPF　bradykinin potentiating factor　ブラジキニン相乗作用因子
+BPH　benign prostatic hypertrophy　前立腺肥大症，良性前立腺肥大症
+BPI　bactericidal/permeability-increasing protein　殺菌・透過性増強蛋白
+bPIV-3　Bovine parainfluenza virus-3　ウシパラインフルエンザウイルス３
+BPL　beta-propiolacton　βプロピオラクトン
+B-PL☆　blood platelets　血小板数計算・直接法，血球計算の一つ
+BPM　beats per minute　分時拍動数
+BPM　breaths per minute　分時呼吸数
+BPMC　2-sec-butylphenyl-N-methyl carbamate　カルバミド酸２-s-ブチルフェニル-N-メチル
+BPMS　blood pressure measuring system　血圧測定システム
+BPN　bandpass of noise　帯域雑音
+BPN　brachial plexus neuropathy　腕神経叢ニューロパチー
+BPO　basal pepsin output　基礎ペプシン分泌量
+BPO　benzyl penicilloyl　ベンジルペニシロイル
+BPPN　benign paroxysmal positional nystagmus　良性発作性頭位眼振
+BPPV　benign paroxysmal positional vertigo　良性発作性頭位めまい症
+BPRS　brief psychiatric rating test scale　簡便精神医学的評価尺度。精神疾患全般を評価対象とする。
+BPS　biophysical profile score　胎児機能評価
+BPSD　behavioral and psychological symptoms of dementia　認知症に伴う行動障害と精神症状
+BPT　bronchial provocation test　気管支誘発試験
+BPTI　basic pancreatic trypsin inhibitor　塩基性膵臓性トリプシン抑制因子
+BPV　Bordetella pertussis vaccine　ボルデテラ百日咳ワクチン
+BPV　Bovine papillomavirus　ウシパピローマウイルス，ウシ乳頭腫ウイルス
+Bq　Becquerel　ベクレル
+BR　bed rest　安静
+br　branch　枝
+br　breath　呼吸
+BR　breathing reserve　換気予備量
+Br　bromine　臭素
+br　bronchus　気管支。気管分岐部より左右に分かれた部分で，左・右気管支がある。さらに，右気管支から肺の上・中・下葉に，左気管支から上・下葉に至る葉気管支があり，さらに左右計20の肺区域に至る区気管支がある。
+Br　Brucella　ブルセラ属。小杆菌類
+BRA　brain　脳
+BrA　bronchial artery　気管支動脈
+BRBN syndrome　blue rubber bleb nevus syndrome　青色ゴムまり様母斑症候群
+BRCAⅠ，Ⅱ　breast cancer geneⅠ，Ⅱ　乳癌遺伝子Ⅰ，Ⅱ
+BrdU，BUdR　bromodeoxyuridine　ブロモデオキシウリジン（抗悪性腫瘍薬）
+Breech　breech delivery　骨盤位分娩
+BRF　balbar reticular formation　延髄網様体
+BRI　broncho reversibility index　気管支可逆性指数
+BRM　biological response modifiers　宿主免疫能変換法（変換物質），生体応答修飾物質
+BRO　bronchoscopy　気管支鏡検査法。気管および気管支の内部を観察する気管支鏡による検査。気管支鏡は管腔状の管で，先端に光源があり，経口的に気管に挿入して管内を覗きながら観察する。最近はファイバースコープを応用した気管支鏡が広く用いられている。
+bronch　bronchial　気管支の
+broncho　bronchography　気管支造影法，気管支撮影
+brph　bronchophony　気管支声，気管支音
+BRS　basic Rorschach score　基礎ロールシャッハ・スコア
+BRSF　bone resorption stimulating factor　骨吸収刺激因子
+BRSV　Bovine RS virus　ウシRSウイルス
+BRTO　balloon occluded retrograde transvenous obliteration　バルーン閉鎖下逆行性静脈瘤塞\_c07717術
+BRV　benign recurrent vertigo　良性再発性眩暈症
+BRVO　branch retinal vein occlusion　網膜静脈分枝閉塞症
+BS　bismuth sulfite　亜硫酸ビスマス培地
+BS　bispecific antibody　バイスペシフィック抗体，ハイブリッド抗体
+BS☆　blood serum　血清。血漿から凝固蛋白フィブリノーゲンと凝固因子を取り除いたもの。血清には免疫抗体を含むγ-グロブリン分画が残っているので，治療に用いられる。
+BS　blood sugar　血糖。血液中の糖を意味するが，通常ブドウ糖（グルコース）を指す。10時間以上絶食後の血糖を空腹時血糖としている。血糖はインスリンによって低下し，グルカゴン，ステロイドなどによって上昇する。血糖を上昇させる病態には，糖尿病，慢性膵炎，肝硬変，内分泌疾患（クッシング症候群，甲状腺機能亢進症など），薬剤性（ステロイド製剤，サイアザイド）などがあり，血糖を低下させる病態には，インスリン産生腫瘍，下垂体機能低下症，甲状腺機能低下症などがある。
+BS　bowel sound　腸音
+BS　breath sound　呼吸音
+BS　intraoperative blood salvage　術中出血回収
+BSA　benzene-sulfonic acid　ベンゼンスルホン酸
+BSA　body surface area　体表面積
+BSB　body surface burned　体表火傷
+BSC　best supportive care　対症療法
+BSE　bovine spongiform encephalopathy　ウシ海綿状脳症
+BSE　breast self-examination　乳房自己検査
+BSEP　brainstem evoked potentials　脳幹誘発電位
+BSER　brainstem evoked response　脳幹誘発反応
+BSF　B cell stimulating factor　B細胞刺激因子
+BSF　busulfan　ブスルファン（アルキル化剤）。慢性白血病の化学療法剤
+BSG　Blutk\u000000f6rperchensenkungs-Geschwindigkeit［独］　赤沈，血沈，赤血球沈降速度
+BSI　blood stream infection　血流感染
+BSＪ　ball and socket joint　ボール・ソケット関節，球関節，球窩関節
+BSMA　bulbospinal muscular atrophy　球脊髄性筋萎縮症，Kennedy病
+BSMV　Barley stripe mosaic virus　オオムギストライプモザイクウイルス
+BSN　bowel sound normal　正常腸音
+BSP　bromsulphalein　ブロムスルファレイン
+BSP☆　bromsulphalein test　ブロムスルファレイン試験（肝機能検査）
+BSPM　body surface potential mapping　体表面電位分布図，体表面心臓電位分布図，体表面マップ
+BSR　blood sedimentation rate　赤血球沈降速度，赤沈，血沈。抗凝固剤を加えた全血を試験管に入れて，赤血球が沈殿する量と時間を測定するスクリーニング検査のこと。感染症，貧血，悪性腫瘍などの有無を調べるために行われる。貧血，炎症性疾患などがあると沈降速度が亢進する。悪性腫瘍，肝炎，感染症などでは高値を示し，赤血球増多症，DIC（播種性血管内凝固症候群），実質性黄疸などでは低値を示す。
+BSR　Blutsenkungsreaktion［D］　赤血球沈降反応
+BSR　brainstem response　聴性脳幹反応
+BSRF　brainstem reticular formation　脳幹網様体
+BS-RSV　Bryan standard-Rous sarcoma virus　ブライアン標準株・ラウス肉腫ウイルス
+BSS　Bernard-Soulier syndrome　ベルナール・スーリエ症候群。血小板粘着が低下，出血傾向を特徴とする常染色体劣性遺伝疾患
+BST　bedside teaching　臨床実習
+BST　brief stimulus therapy　短時間刺激治療
+BSV　basal secretion volume　基礎分泌量
+BSV　binocular single vision　両眼単一視
+BSVR　basal secretion volume rate　基礎胃液分泌量
+BT　bacterial translocation　腸内細菌の腸管外への移行
+BT　balance test　平衡検査
+BT　bathythermogram　深部温度図
+BT　behavior test　行動検査
+BT　bitemporal　両側頭部
+BT　bladder tumor　膀胱腫瘍
+BT　bleeding time　出血時間
+Bt　blood type　血液型。血液成分の示す遺伝的多形の総称。現在日常検査に用いられる血液型検査は，主にABO式とRh式の２つ。
+BT　body temperature　体温
+BT　brain tumor　脳腫瘍。頭蓋内にできる腫瘍の総称。腫瘍の性質も，好発年齢も，部位も様々である。腫瘍が発生する部位によって症状は異なるが，頭痛，吐き気，痙攣，視力低下などがよくみられる。診断は主に頭部のCTやMRIにより行う。良性，悪性を問わず進行すれば生命の危険が伴うので，手術を行うのが前提である。悪性の場合にはさらに放射線，化学療法を併用する。ガンマ線を集中的に病巣に照射するガンマナイフも行われている。
+BTA　bladder tumor antigen　膀胱腫瘍抗原
+BTB　break through bleeding　不正出血
+BTB　bromthymol blue　ブロムチモールブルー。pH指示薬
+B-Tcho☆　blood total cholesterol　総コレステロール定量
+BTD　benzothiadiazine　ベンゾサイアダイアジン
+BTDS　benzoylthiamine disulfide　ベンゾイルサイアミンジスルフィド
+BTE　behind-the-ear hearing instrument　耳かけ式補聴器
+BTH　brain tumor headache　脳腫瘍頭痛
+Btk　Brutons tyrosine kinase　ブルトン・チロシンキナーゼ
+BTL　bilateral tubal ligation　両卵管結紮
+BTLS　basic trauma life support　一次外傷救命処置
+BTM　Betaubungsmittel［D］　麻酔薬
+BTME　Babcock test of mental efficiency　バブコック知能検査
+BTMP　benzoylthiamine-o-monophosphate　ベンゾイルサイアミン-o-1-リン酸塩
+B-TP☆　blood total protein　総蛋白定量
+BTP　body temperature and pressure　体温と血圧
+BT-PABA　N-benzoyl-L-tyrosyl-p-aminobenzoic ac- id　ベンゾイルチロル・パラアミノ安息香酸
+BTR　biceps tendon reflex　二頭筋反射
+BTR　branched chain amino acids/ tyrosine　血中総分岐鎖アミノ酸，チロシンモル比
+BTRC　bacitracin　バシトラシン
+BTS　bradycardia-tachycardia syndrome　徐脈・頻脈症候群。洞不全症候群の発作時心電図の特徴から３分類された型の一つ
+B-T shunt　Blalock-Taussig shunt　ブラロック・タウシッヒ手術。ファロー四徴症に対する姑息的手術
+BTV　bluetongue virus　ブルータングウイルス
+BTX　Botulinum toxin　ボツリヌス毒素
+BU　base(of prism)up　上方プリズム基底
+bU　benign ulcer　良性腫瘍
+BU　Bethesda Unit　ベセスダ単位
+BU　bilirubin unbinding　非結合ビリルビン
+BU　Bodansky unit（＝Bod Unit）　ボダンスキー単位。アルカリホスファターゼの含量を示す単位
+BU　bromouracil　ブロモウラシル
+Bu　butyl　ブチル基
+Buc，bucc　buccal　頬の，頬部の
+BUdR　5-bromo-2'-deoxyuridine　5-ブロモ-2'-デオキシウリジン
+BUE　both upper extremities　両上肢
+Bul　bulimia　大食症，暴食症，頻食
+bull.　bulliat［ラ］　沸騰，沸騰させよ（処）
+BUN☆　blood urea nitrogen　尿素窒素測定（血液）
+BUS　busulfan　ブスルファン（抗悪性腫瘍薬）
+BUS glands　Bartholin, urethral Skene glands　バルトリン・尿道・スキーン腺
+BUT　tear film breakup time　涙液層破壊時間
+BV　bethamethasone 17-valerate cream　吉草酸べタメタゾン・クリーム（皮膚塗布剤）
+BV　bevacizumab　ベバシズマブ（抗悪性腫瘍薬）
+B-V☆　blood vena　静脈血液採取
+BV　blood vessel　血管
+BV　blood volume　血液量，循環血流量測定。心血管系の状態を調べる呼吸循環機能検査の一つ。循環血液量とは心臓と血管を流れる総血液量。代表的な測定法として色素希釈法があり，血管内に色素を注入し，希釈された色素が一定の部位を流れる際の濃度を測定する。それによって，循環血液量のほか心拍出量，血流循環時間を知ることができる。ショックやうっ血性心不全などの検査で用いられる。
+BV　bronchovesicular　気管支肺胞の
+BV　budding virus　出芽ウイルス
+BV　smooth branching vessels　樹枝状血管
+BVAD　biventricular assist device　両心補助装置，両心補助循環装置，両心バイパス法
+BVBF　blood vessel of bronchial filament　気管支線条血管
+BV，Bx　biopsy　生検，バイオプシー。胃，腎臓，肝臓，リンパ節，子宮膣部などの病変と思われる部位を採取すること。メスで組織の小片を採取することを試験切除，鋭匙で組織を掻爬することを試験掻爬，切除鉗子で組織片を採取することを鋏切生検，腎や肝などの実質臓器に針を刺して組織小片を採取することを針生検という。
+BVH　bilateral ventricular hypertrophy　両室肥大
+BVI　blood vessel invasion　血管侵入
+BVL　bilateral vas ligation　両側血管結紮
+BVRV　both great vessels from right ventricle　両大血管右室起始症
+BW　birth weight　分\_c07791時体重，生下時体重
+BW　blood Wassermann (＝WR)　血液ワッセルマン反応。梅毒補体結合反応検査（緒方法）
+BW　body weight　体重
+BW　Bordet-Wassermann (Reaktion)［独］　ボルデー・ワッセルマン反応
+BWD　bacillary white diarrhea　細菌性白色下痢
+BWG syndrome　Bland-White-Garland syndrome　左冠動脈肺動脈起始症，BWG症候群
+BX-C　bithorax complex　バイソラックス遺伝子群
+by　brilliant yellow　ブリリアント・イエロー。リトマス試験紙
+BYDV　Barley yellow dwarf virus　オオムギ黄化萎縮ウイルス
+BYMV　Barley yellow mosaic virus　オオムギイエローモザイクウイルス
+BYV　Beet yellow virus　ビートイエローウイルス
+BZ　benzene　ベンゼン
+BZ　Blutzucker［独］　血糖\u000021e8BS
+BZL　brotizolam　ブロチゾラム，（鎮静睡眠薬）
+BZS　Borzinksalbe［独］　ボールチンクザルベ，ホウ(\_c07845)酸亜鉛華軟膏，外用消炎防腐剤
+B-ギョウコ☆　血液凝固時間測定。採血した血液が試験管内で凝固するのに要した時間を測定することにより，血液凝固因子（血液凝固に関与する血中および組織中の因子。代表的な成分としてフィブリノーゲンがある）に異常があるか否かを知る検査。血友病ではその時間が延長し，無フィブリノーゲン血症では凝固が起こらない。
+B-クレアチニン☆　blood creatinine　クレアチニン定量
+B-クロール☆　blood chlorine　クロール定量
+B-ケッショウバン☆　血小板数計算・直接法（計算板使用）
+B-ケッショウバン/トマツ☆　血小板数計算・塗抹標本
+B-コツズイゾウ☆　骨髄血液像検査
+B-コレステ☆　総コレステロール定量
+B-コレステエステル☆　エステル型コレステロール定量
+B-シュッケツ☆　出血時間測定。皮膚に小切創をつくって出血させ，止血するまでの時間を測定する検査。血小板の異常をチェックするためのスクリーニング検査である。主に血小板の数と機能が関与するが，末梢血管の要因も一部反映される。
+B-セル　bone marrow derived cell　B細胞。骨髄由来のリンパ球
+B-タン分画（B-タンパクブンカク）☆　蛋白分画測定。血清，血漿，尿中の蛋白の異常を把握するため，各蛋白を分子量，電気泳動度，抗原性などによって分離測定する検査。
+B-テツ☆　血清鉄定量検査
+B-トウ☆　糖定量（血液）
+B-モウサイカンテイコウ☆　毛細管抵抗測定（ルンペルレデー現象）検査
+B-リン☆　リン定量（血液）
+B-レチクロ☆　網状赤血球数計算
+B価　卸価格
+B-像（B-ケツエキゾウ）☆　末\_c07705血液像。白血球，赤血球，血小板などの形態や分布状態を調べる検査。血液疾患をはじめ各種疾患の診断や治療効果，予後判定などに用いる。

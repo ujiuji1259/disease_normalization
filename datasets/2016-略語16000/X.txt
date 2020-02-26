@@ -1,0 +1,64 @@
+Ｘ
+X　cross，transverse　X軸，横軸
+X　exophoria　外斜位
+Xa　activated factor X　活性因子X
+XAFS　X-ray absorption fine structure　X線吸収微細構造法
+XAL　xenon arc lamp　キセノンアーク燈
+Xan　xanthine　キサンチン
+XANES　X-ray absorption near edge structure　X線吸収端近傍構造法
+Xanth　xanthomatosis　黄色腫症
+Xao　xanthosin　キサントシン
+XAT　X-ray analysis trial　X線解析試験
+X-Bell　extractum belladonnae［ラ］　ベラドンナエキス（鎮痛・鎮痙剤）
+X. Bell.，X. Scopol.　ロートエキス
+X-C　X-chromosome　X染色体。性染色体の一つ。性染色体にはX染色体とＹ染色体がある。女性は性染色体が相同でX染色体とX染色体を有し，男性は性染色体が非相同でX染色体とＹ染色体を有する。
+X-copool　extractum scopliae［ラ］　ロートエキス（鎮痛・鎮痛剤）
+XCT　X-ray computered tomography　X線コンピュータ断層撮影
+X-D　X-Strahlendurchleuchtung［独］　レントゲン透視。「X透」とも書く
+XDH　xanthine dehydrogenase　キサンチン脱水素酵素
+133Xe　xenon-133　キセノン133。脳・肺スキャン剤。キセノン133使用動態シンチグラフィー
+XEG　X-ray emission gage　X線放射計器
+XEMS　x-ray fluorescence element mapping spectrometer　蛍光X線マッピング装置
+xeno　xenodiagnosis　キセノン診断
+XES　X-ray emission spectra　X線放出スペクトル
+XGC　xanthogranulomatous cholecystitis　黄色肉芽腫性胆嚢炎
+XGP　xanthogranulomatous pyelonephritis　黄色肉芽腫性腎盂腎炎
+XHIM　X-linked hyper IgM syndrome　X連鎖性高IgM症候群
+XIM　X-ray intensity meter　X線照度計
+xiph　xiphoid　剣状の
+XL　excess lactate　過剰乳酸
+XLA　X-linked agammaglobulinemia　X連鎖無γグロブリン血症
+XLH　X-linked hypophosphatemic rickets　X連鎖低リン血症性くる病
+XLHM　hyper IgM syndrome　過剰IgM症候群
+XLP　X-linked lymphoproliferative syndrome　X連鎖リンパ増殖症候群
+XLp，X Lp　X-lipoprotein　X-リポ蛋白
+X-mas　Christmas (-factor)　クリスマス（因子），第Ⅸ因子。抗血友病因子Ｂ。
+X-MFT　X-ray maxillo-mucosal function test　上顎洞粘膜機能検査
+XMP　xanthine monophosphate　キサンチン一リン酸
+XO，XOD　xanthine oxidase　キサンチンオキシダーゼ
+XP　exophoria　外斜位
+XP　xeroderma pigmentosum　色素性乾皮症
+X-protein　antigammaprotein　抗ガンマプロテイン
+XPS　X-ray photoelectron spectroscopy　X線光電子分光法
+XPT　exophoria tropia［ラ］　外斜位斜視
+X-P，Xp.　X-ray photography　レントゲン写真診断。エックス線単純撮影。特別な技術，装置，器具，造影剤などを用いないで行う一般的なエックス線撮影法。胸部，腹部，頭部，四肢など，人体各部のエックス線撮影に用いられる。空気・脂肪・軟部組織・骨組織などのエックス線透過度の違いによって体内構造が描かれるが，血管や消化管などは周囲とエックス線透過度の差がなく単純撮影では構造がわからないので，造影撮影などが行われる。
+XR　xeroradiographic equipment　ゼロラジオグラフ装置
+XR　X-linked recessive inheritance　X染色体劣性遺伝
+X-ray　エックス線，レントゲン線
+X-rays　roentgen rays　レントゲン線
+XRF　X-ray fluorescence　X線蛍光
+XRM　X-ray microanalyzer　X線微小解析器
+XRO　xenoradiography　キセノン放射線写真
+XRPM　X-ray projection microscope　X線放射顕微鏡
+XT　exotropia［ラ］　外斜視
+X-TV　X-ray television　エックス線テレビジョン
+XU　excretory urogram　排出性尿路造影像
+xul　xylulose　キシルロース
+XX　女性（女性は性染色体が相同で，X染色体とX染色体を有する）
+X，Xe　xenon　キセノン。希ガス元素の一つ。大気中にも微量に存在する無色無臭の気体
+XXY syndrome　Klinefelter syndrome　クラインフェルター症候群。性染色体構成がXXYの男性。女性型体型で，無精子症となる。
+XY　男性（男性は性染色体が非相同で，X染色体とY染色体を有する）
+Xyl　xylose　キシロース
+xyloc　xylocaine　キシロカイン（リドカイン）。局所麻酔薬
+XYY syndrome（＝YY syndrome）　YY男性（超雄）。性染色体構成がXYYの男性
+X-レイ　X-ray　エックス線，レントゲン線

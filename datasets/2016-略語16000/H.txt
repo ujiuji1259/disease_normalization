@@ -1,0 +1,732 @@
+Ｈ
+2H　deuterium　重水素（＝D）。質量２の水素の同位元素
+H　ethionamide　エチオナミド(ツベルミン\u000000ae)，二次性抗結核薬
+H　Harn［独］　尿
+H　height　身長
+H　hemagglutinin　血球凝集素，赤血球凝集素，ヘマグルチニン
+H　Hemophilus　ヘモフィルス属。インフルエンザ菌や軟性下疳菌が属する
+H　hepar［ラ］　肝臓。腹腔の右上部，横隔膜に接して存在する人体中最大の腺（分泌機能を営む細胞集団）。消化を助ける胆汁の生産，吸収した栄養分の同化・解毒・貯蔵など，生命維持に不可欠な多種多様な機能を含む。
+H　hippocampus［ラ］　海馬（脳の）
+H　histamine　ヒスタミン
+H　histidine（＝His）　ヒスチジン
+H　Holzknecht\u000002bcs space　ホルツクネヒト腔
+H　hour　時，時間
+H☆　human body　生体検査。生理機能検査。電子機器などを用いて直接身体に対して行う臨床検査。本来診断は医師の高度な知識・経験に基づく判断で行われていたが，その分野に医師の五感に代わる革新的な機械工学，電子工学などの技術が導入されて，生体変化を数量的に捉えようとして編み出された方法である。診療報酬上では，呼吸循環機能検査，超音波検査，監視装置による諸検査，脳波検査，神経・筋検査，耳鼻咽喉科学的検査，眼科学的検査，臨床心理・神経心理検査，負荷試験，ラジオアイソトープを用いた諸検査，内視鏡検査に区分されている。
+H　hydrogen　水素
+H　hyperemia　充血
+5H　hypertension・hypermetabolism・hyperglycemia・headache・hyperhidrosis　高血圧・代謝亢進・高血糖・頭痛・多汗
+H　hypodermic　皮下の
+1H　protium　プロチウム，軽水素。質量１の普通の水素
+3H　tritium　トリチウム（＝T）。質量３の水素の同位元素
+H&H　hematocrit and hemoglobin　ヘマトクリットとヘモグロビン
+H&N　head and neck　頭頸部
+H＋　hydrogen ion　水素イオン
+H＋Hm　compound hypermetropic astigmatism　複性遠視性乱視
+H2thy　5,6-dihydrothymine（＝DHT）　5,6ジヒドロチミン
+H3PO4定量　phosphoric acid　リン酸(オルトリン酸)定量測定
+H4FA　tetrahydrofolic acid　テトラヒドロ葉酸
+HA　headache　頭痛
+HA　hemagglutination test　赤血球凝集試験。トキソプラズマ症に対するHA検査
+HA　hemagglutinin　赤血球凝集素
+HA　hemolytic anemia　溶血性貧血
+HA　hepatic artery　肝動脈
+HA　hepatitis A antibody　A型肝炎抗体，hepatitis A　A型肝炎。流行性肝炎と呼ばれ，経口感染で生じる。重症化，慢性化することはほとんどない。
+HA　hepatocellular adenoma　肝細胞腺腫
+HA　hippuric acid　馬尿酸
+HA　homogentisic acid　ホモゲンチジン酸
+HA　hyaluronic acid　ヒアルロン酸。関節液，硝子体，皮膚，軟骨などに存在する酸性ムコ多糖体で，線維化のマーカーとされる。特に，慢性肝炎で線維化が進むにつれ血清中濃度が増加するので，慢性肝炎の経過観察に適応となる。また，関節リウマチの痛みを和らげるため，ヒアルロン酸の摂取が有効とされている。
+HA　hyperalimentation　高栄養輸液
+HA　hypersensitivity angitis　過敏性血管炎
+HA４号　HA４号(キナーゼテスト)による抗ストレプトキナーゼ価(値)測定
+HA-Ag　hepatitis A antigen　A型肝炎抗原\u000021e8HAV
+HAAP　HTLV-Ⅰ associated arthropathy　HTLV-Ⅰ関連関節症
+HAART　highly active antiretroviral therapy　抗レトロウイルス薬による強力な化学療法
+HAB　human T-lymphotropic virus type Ⅰ associated bronchopneumonopathy　ヒトTリンパ球ウイルス1型関連気管支肺病変
+HABA　human T-lymphotropic virus associated bronchovesicular abnormality　ヒトTリンパ球ウイルス関連気管支・肺胞異常症
+HAc　acetic acid　酢酸
+HACE　high altitude cerebral edema　高地性脳浮腫
+HADS　hospital anxiety and depression scale　不安・抑うつ測定尺度
+HAE　hereditary angioedema　遺伝性血管浮腫
+haem　haemolysis　溶血
+HAI，HAIT　hemaggulutination inhibition test　赤血球凝集抑制反応試験
+HAIR　hemagglutination inhibition reaction　赤血球凝集抑制反応
+hallu　hallucinant　幻覚剤
+HALS　hand-assisted laparoscopic surgery　ハンドアシスト腹腔鏡下手術
+HAM　HTLV-Ⅰ associated myelopathy　ヒトTリンパ球向性ウイルス脊髄症
+HAM　human T-cell lymphoma associated virus myelopathy　ヒトT細胞性白血病ウイルス脊髄症
+HAM-A　Hamilton Anxiety Scale　ハミルトン不安評価尺度
+HAMA　human antimouse antibody　ヒト抗マウス抗体
+HAM-D　Hamilton Rating Scale for Depression　ハミルトンうつ病評価尺度
+HAMS　hypoparathyroidism-Addison-Monilia syndrome　低上皮小体機能・アジソン・モニリア症候群
+HAN　heroin-associated nephropathy　ヘロイン性腎症
+HAN　hyperplastic alveolar nodule　過形成胞状結節
+HANA　hemagglutinin-neuraminidase　血球凝集素・ノイラミニダーゼ
+HANE　hereditary angioneurotic edema　遺伝性血管運動神経性浮腫
+HANP　human atrial natriuretic peptide　ヒト心房性ナトリウム利尿ペプチド。主に心房で合成され血中に分泌されるホルモン。腎臓に働き利尿を促進すると同時に，末梢血管を拡張し血圧降下作用物質としても働く。浮腫を伴う疾患の診断，重症度判定，心房細動，急性心筋梗塞，腎不全，副腎機能低下症，尿崩症，食塩欠乏，脱水などに有用である。
+HANP精密　ヒト心房性ナトリウム利尿ペプチド精密測定
+HAP　hereditary ataxic polyneuritis　遺伝性失調性多発性神経炎
+HAP1　huntingtin-associated protein 1　ハンチンチン関連遺伝子１
+HAPE　high altitude pulmonary edema　高地肺水腫
+HAQ　Health Assessment Questionnaire　健康評価質問表
+HAR　hemagglutination reaction　血球凝集反応
+Harn　ハルン［独］，urina［ラ］　尿
+HAS　Hirnarteriosklerose［独］　脳動脈硬化症
+HAS　hypertensive arteriosclerosis　高血圧性動脈硬化症
+HAT　high antigenic tumor　高抗原腫瘍
+HATS　hand-assisted thoracoscopic surgery　ハンドアシスト胸腔鏡下手術
+HAV　hepatitis A virus　A型肝炎ウイルス。エンテロウイルス属に含まれるRNAウイルスで，大便，汚染食品，水等から経口感染により急性肝炎を起こす。
+HAVD　hypertensive cardiovascular disease　高血圧性心血管疾患
+HA virus　hemadsorption virus　赤血球吸着性ウイルス
+HAVS　hand arm vibration syndrome　手腕振動症候群
+haz　hazard　危険
+HB　Handbewegung［独］　手動弁。視覚検査の一種
+HB　heart block　心ブロック，房室分離
+HB　hepatitis B　B型肝炎。血清肝炎と呼ばれ，慢性化することが多い。血液や分泌物を介して非経口的に感染する。活動性慢性肝炎はインターフェロンの適応となる。
+HB　hydrocortisone butyrate cream　ブチル酸ヒドロコルチゾン・クリーム
+Hb-A　adult hemoglobin　正常ヘモグロビン，成人血色素
+Hb A　hemoglobin A　ヘモグロビンA
+HbA1　hemoglobin A1　ヘモグロビンA1
+HbA1C　hemoglobin A1C　ヘモグロビンA1C
+Hb A2　hemoglobin A2　ヘモグロビンA2
+HBABA　2-(4′-hydroxybenzene)-azobenzoic acid　2-4′-ヒドロキシベンゼン・アゾ安息香酸
+HB-Ag　hepatitis B antigen　B型肝炎抗原
+Hb-BC　hemoglobin binding capacity　血色素結合能
+Hb C　hemoglobin C　ヘモグロビンC
+HBC　hydrodynamically balanced capsule　水力学的平衡カプセル
+HBcAb　hepatitis B core antibody　B型肝炎コア抗体
+HBcAg　hepatitis B core antigen　B型肝炎コア抗原
+HbCO　carbon monoxide hemoglobin　一酸化炭素ヘモグロビン
+Hb D　hemoglobin D　ヘモグロビンD
+HBD　β-hydroxy butyrate dehydrogenase　β水酸化酪酸脱水素酵素
+HBD　β-hydroxybutyrate acid dehydrogenase　β-ヒドロキシ酪酸脱水素酵素
+Hb E　hemoglobin E　ヘモグロビンE
+HBE　His bundle electrocardiogram　ヒス束心電図。心電図は電極の接する場所で以下のように区分される。①通常の12誘導の体表面心電図：電極が体表面に接する，②食道内心電図：食道内に接する，③心表面心電図：心臓表面に接する，④心内心電図（ヒス束心電図）：心腔内に接する。洞結節から発した電気的刺激が，房室結節・ヒス束を経て，心室を興奮させるプルキンエ線維から右脚・左脚へと伝わるのを刺激伝導系という。ヒス束心電図とは，房室結節からヒス束に伝導障害が超きた状況について，ヒス束心電図用ペーシングカテーテルを使用して測定するもの。
+HbE　mittlerer Hb-Gehalt des Einzelerythrocyten［独］　平均赤血球色素量
+HBeAb　hepatitis B envelope antibody　B型肝炎e抗体
+HBeAg　hepatitis B envelope antigen　B型肝炎e抗原
+Hb F　hemoglobin fetal　胎児ヘモグロビン。ヘモグロビンF
+HBF　hepatic blood flow　肝血流量
+HBGF　heparin-binding growth factor　ヘパリン結合性増殖因子
+Hb H　hemoglobin H　ヘモグロビンH
+Hb，HB☆　hemoglobin　ヘモグロビン量(血色素量)，血色素検査
+HBI　half body irradiation　半身照射
+HBIG　hepatitis B immune globulin　抗B型肝炎免疫グロブリン
+HBISG　hepatitis B immunoserum globulin　B型肝炎血清免疫グロブリン
+HBK　habekacin　ハベカシン（アミノ配糖体系抗生物質）
+HBLA　human B lymphocyte antigen　ヒトBリンパ球抗原
+Hb Lepore　hemoglobin Lepore　ヘモグロビンレポール
+HBLV　human B-lymphotropic virus　ヒト向Bリンパ球性ウイルス
+Hb M　hemoglobin M　ヘモグロビンM
+HbO2　oxyhemoglobin　オキシヘモグロビン
+HBO，HBOT　hyperbaric oxygen therapy　高圧酸素療法
+HBP　high blood pressure　高血圧。動脈血圧が常に正常より高い状態。世界保健機関（WHO）の基準では，収縮期血圧が140以上，拡張期血圧90以上（一方あるいは両条件を満たす）とされる。高血圧の原因としては腎性，内分泌性など２次性の高血圧と，原因不明と思われる本態性高血圧（１次性）に分類されるが，ほとんどの高血圧が後者に属する。収縮期血圧が高いと，脳出血や心筋梗塞など循環器疾患を起こしやすい。循環器疾患（脳卒中，虚血性心疾患）の危険因子のうち最も重要な位置を占める。
+HBP　hydrocortisone butylate propionate　酪酸プロピオン酸ヒドロコルチゾン
+Hb-P　primitive hemoglobin　胎児ヘモグロビン
+Hb S　hemoglobin S　ヘモグロビンS
+HBSA　human B cell specific antigen　ヒトB細胞特異抗原
+HBsAb　hepatitis B surface antibody　B型肝炎表面抗体
+HBsAg　hepatitis B surface antigen　B型肝炎表面抗原
+HbSS　hemoglobin SS　ヘモグロビンS・餅状赤血球接合型
+HBV　hepatitis B virus　B型肝炎ウイルス。ヘパドナウイルス属に含まれるDNAウイルスで，輸血，血液，体液，その他非経口的経路で感染しＢ型肝炎を起こす。
+HBV-DNA　hepatitis B virus DNA　B型肝炎ウイルス遺伝子
+HC　head circumference　頭囲
+HC　health center　保健所
+HC　hemorrhagic colitis　出血性大腸炎。O157感染や薬剤の副作用などにより発症する
+HC　hepatitis C　C型肝炎。非経口的に感染し，約７割が慢性化して，その一部は肝硬変，肝癌に至る。活動性慢性肝炎はインターフェロンの適応となる。
+HC　hippocampus［ラ］　海馬
+HC　hyalline cell　硝子細胞
+HC　hydrocortisone　ヒドロコルチゾン。hydrocortisone acetate　酢酸ヒドロコルチゾン
+HC　hyperplastic cell　過形成細胞
+HCⅡ　heparin cofactor Ⅱ　ヘパリンコファクターⅡ
+HC-3　hemicholinium-3　ヘミコリニウム-3
+HCA　hepatocellular adenoma　肝細胞腺腫
+hcap　handicap（＝hcp）　障害
+HCAT　human cell agglutination test　ヒト血球凝集試験
+HCC　25-hydroxycholecalciferol　25-ヒドロキシコレカルシフェロール
+HCC　hepatocellular carcinoma　肝細胞癌。肝癌には肝細胞に由来する肝細胞癌と胆管上皮由来の胆管癌があるが，日本では前者が大部分を占める。また乳幼児にみられる肝芽細胞癌もある。肝細胞癌では肝硬変合併率が約７割にみられ，肝炎後・壊死後性肝硬変から肝癌への移行が示唆される。臨床的には，肝内移転や血行性リンパ行性に肝外転移をきたし予後不良である。
+HCD　heavy chain disease　重鎖病。H鎖病，ヘビーチェイン病，フラグメント病，パラプロテイン血症ともいわれる。
+HCD　hepatocerebral disease　肝脳疾患
+HCD　hypertensive cardiac disease　高血圧性心疾患
+HCDD　heavy chain deposition disease　重鎖沈着症
+HCDM　human cell differentiation molecules　ヒト細胞分化抗原
+HCFI　histopathologic contractility failure index　病理組織学的収縮不全度
+HCFU　1-hexylcarbamoyl-5-fluorouracil　カルモフール（抗腫瘍薬）
+HCG・LH　human chorionic gonadotropin luteinizing hormone　ヒト絨毛性(胎盤性)ゴナドトロピン・黄体形成ホルモン(黄体化ホルモン)
+hCG-CTP　human chorionic gonadotropin C-terminal peptide　ヒト絨毛性ゴナドトロピンC末端ペプチド
+HCGF　hemopoietic cell growth factor　造血性細胞増殖因子
+hCG，HCG　human chorionic gonadotropin　ヒト絨毛性ゴナドトロピン，胎盤性性腺刺激ホルモン。胎盤絨毛細胞から分泌される性腺刺激ホルモン。妊娠によって大量に分泌され，妊娠の診断や絨毛性疾患，胞状奇胎，子宮外妊娠（発症後低下），流産，早産，胎児死亡の治療などに用いられる。絨毛性疾患以外に，異所性HCG産生腫瘍として卵巣癌，胃癌，肺癌などのマーカーにも利用される。
+HCGβコア定量精密　human chorionic gonadotropin β demarcation core quantitative analysis　尿中ヒト絨毛性ゴナドトロピンβ分画コア定量精密測定，
+H chain　heavy chain　重鎖，H鎖
+HCL　hairy cell leukemia　ヘアリー細胞白血病，毛様細胞性白血病，有毛細胞白血病
+HCL　hard contact lens　ハードコンタクトレンズ
+HCM　host-controlled modification　宿主依存性変異
+HCM　hypertrophic cardiomyopathy　肥大型心筋症
+HCNP　hippocampal cholinergic neurotrophic peptide　海馬コリン作動神経栄養因子
+HCO3☆　sodium hydrogencarbonate　(血中)重炭酸(炭酸水素ナトリウム)イオン測定
+hcp　handicap（＝hcap）　障害
+HCP　hepatic coproporphyria　肝性コプロポルフィリン症
+HCP　hereditary coproporphyria　遺伝性コプロポルフィリン症
+HCP　hexachlorophene　ヘキサクロロフェン
+HCR　host cell reactivation　宿主細胞再活性化
+HCR　hyperthermo-chemo-radiotherapy　温熱化学放射線療法
+hCS　human chorionic somatomammotropin　ヒト絨毛性ソマトマンモトロピン，胎盤性ラクトゲン
+Hct　hematocrit　ヘマトクリット
+HCT　human calcitonin　ヒトカルシトニン
+HCT　hydrochlorothiazide　ヒドロクロロチアジド，チアジド系利尿薬
+HCT-CI　hematopoietic cell transplantation-comorbidity index　造血幹細胞移植依存疾患スコア
+hCT，HCT　human chorionic thyrotropin　ヒト絨毛性甲状腺刺激ホルモン
+HCV　hepatitis C virus　C型肝炎ウイルス。直径55〜57nmの球形のRNA型ウイルス。ウイルス粒子は二条構造で，ウイルスの遺伝子とこれを包んでいるヌクレオカプシド（コア粒子），それを被う外殻（エンベロープ）から成り立っている。Ｃ型肝炎は，輸血や非加熱製剤の投与から感染し，大きな社会問題になっている。
+HCV　host-controlled variation　宿主依存性変異
+HCVD　hypertensive cardiovascular disease　高血圧性心血管疾患
+H-Cys　cysteine reductase（＝NADH）　シスチン還元酵素
+6-HD　6-hydroxydopamine　6-ヒドロキシドパミン
+HD　Hansen disease　ハンセン病。らい菌による慢性肉芽種性感染症。
+HD　heart disease　心臓病
+HD　hemodialysis　血液透析。人工腎臓の一つ。腎臓機能を改善させるため，体内の血液を体外に導き出し，人工腎臓の特殊フィルター内を通過させて，毒素や水分を除去し，きれいになった血液を体内に戻す治療方法。透析液と血液との濃度差によって，老廃物等が濃度の低い透析液へ移動する拡散の原理を用いた方法。
+HD　high density　高密度
+HD　high dose　大量
+HD　Hodgkin’s disease　ホジキン病
+h.d.　hora decubitus［ラ］　就寝時に（処）
+HD　house dust　ハウスダスト，室内塵
+HD　Huntington disease　ハンチントン病。主に成人に発症し，舞踏運動と認知症を主症状とする遺伝性変性疾患で，特定疾患治療研究事業の対象疾患の一つ。進行性で10〜20年で死に至る。大脳中心部の神経細胞が変性・脱落し，進行性の不規則運動（舞踏様運動）や認識力低下，情動障害などの症状が現れる。以前はハンチントン舞踏病と呼ばれた。
+HD　hyperactivity disorder　多動性障害
+HD　hypotonic duodenography　低緊張性十二指腸造影
+HD　preoperative isovolemic hemodilution　術前血液稀釈
+HDC　hemodialysis chronica［ラ］　慢性血液透析
+HDC　human diploid cell　ヒト２倍体細胞
+HDC　hydrocortisone　ヒドロコルチゾン
+HDCA　hyodeoxycholic acid　ヒオデオキシコール酸。胆汁酸の一種
+HDF　hemodiafiltration　血液濾過透析
+HDG　hypotonic duodenography　低緊張性十二指腸造影。十二指腸まで挿入したゾンデから硫酸バリウムと空気を注入し，二重造影像を撮影する。
+HDI　hexamethylene-diisocyanate　ヘキサメチレンジイソシアネート
+H disease　Hartnup disease　ハルトナップ病，ハルトナップパターン
+HDIT　home drug infusion therapy　在宅薬剤注入療法
+HDL　high density lipoprotein　高密度リポ蛋白質，高比重(濃度)リポ蛋白
+HDL-C，HDL-ch　high-density lipoprotein cholesterol　高密度リポ蛋白質コレステロール，高比重リポ蛋白コレステロール。血液中の血管壁に沈着した余分なコレステロールを回収し，肝臓に運び，動脈硬化を防ぐ役割をもち，「善玉コレステロール」と呼ばれる。運動不足や喫煙，食生活などで低くなることがある。
+HDN　hemolytic disease of the newborn　新生児溶血性疾患
+HDN　human diabetic neuropathy　ヒト糖尿病性神経障害
+HDP　hexose diphosphate　二リン酸ヘキソース
+HDP　high density polyethylene　高分子ポリエチレン，高密度ポリエチレン
+HDR　high dose rate　高線量率
+HDRA法　histoculture drug response assay　固形癌組織培養薬剤感受性試験（抗悪性腫瘍剤感受性検査）
+HDR-RALS　high dose rate remotely controlled after loading intracavitary radiotherapy　高線量率遠隔操作式腔内照射法
+HDRV　human diploid rabies vaccine　ヒト２倍体狂犬病ワクチン
+HDS　Hasegawa dementia scale　長谷川式簡易知能評価スケール
+HDS　herniated disc syndrome　椎間板ヘルニア症候群
+HDS　hospital discharge survey　退院調査
+HDS-R　Hasegawa dementia scale-revised　改訂長谷川式簡易知能評価スケール
+HDU　hemodialysis unit　血液透析装置
+HDV　hepatitis D virus　D型肝炎ウイルス。表面がHBVのHBs抗原で被われ，内部は環状のRNAから成り立っている。そのため，HDVは単独では感染を起こさず，Ｂ型肝炎ウイルスキャリアに重感染する。または，急性Ｂ型肝炎に同時感染する。重症化しやすく，劇症肝炎になることも多い。
+HDV抗体価精密　hepatitis delta virus antidody analysis　デルタ肝炎ウイルス抗体価精密測定
+HE　haematoxylin and eosin　ヘマトキシリン−エオシン(生体染色)
+He　helium　ヘリウム。希ガス元素の一つ
+HE　hepatic encephalopathy　肝性脳症。肝機能障害によって血液中から除去されない毒性物質が脳に入って引き起こす脳症
+HE　hereditary elliptocytosis　遺伝性楕円赤血球症
+HE　hypophysectomy　下垂体切除術
+HEA　human erythrocyte test　ヒト赤血球試験
+HEB　hematoencephalitic barrier　血液脳関門
+HEC　hydroxyethyl cellulose　ヒドロキシエチルセルロース
+HE classification　Heath-Edward classification　ヘス・エドワード分類
+HED　Hauterythemdose［独］　皮膚紅斑量
+HEEA　home elemental enteral alimentation　在宅成分経腸栄養法（在宅成分栄養経管栄養法）。経口摂取が困難な在宅患者に対して，消化態経腸栄養剤（ツインライン，エレンタール，エレンタールＰ，エンテルード）をチューブを介して投与する栄養法。投与ルートには，①経鼻，胃・十二指腸ルート，②胃瘻ルート，③空腸瘻ルートの３つがある。（→EEH，EH，EN）
+HEEH　home enteral elemental hyperalimentation　在宅経管栄養成分栄養療法
+HEF　human embryo fibroblast　ヒト胎児線維芽細胞
+HEGF　human epidermal growth factor　ヒト表皮性成長因子
+HEH　home enteral hyperalimentation　家庭用経腸高カロリー輸液
+HEIS　high energy ion scattering　高エネルギーイオン散乱分光法
+HEL　human embryo lung　ヒト胎児肺
+HELF　human embryo lung fibroblast　ヒト胎児肺線維芽細胞
+HELLP (syndrome)　hemolysis, elevated liver enzymes, and low platelet count (syndrome)　HELLP症候群。妊娠後期や分娩時に生じる母体の重篤な症候
+hel rec　health record　健康記録
+hem　hemoglobin　ヘモグロビン
+hem　hemolysis　溶血，赤血球溶血，溶血反応。赤血球膜の変性・破壊により，ヘモグロビンが赤血球から遊離すること
+hem　hemorrhage　出血
+hem　hemorrhoid　痔
+HEMA　hydroxyethylmethacrylate　ヒドロキシエチルメタクリレート
+hemat　hematocrit（＝Hct）　ヘマトクリット
+HEMC　hydroxyethyl methylcellulose　ヒドロキシエチルメチルセルロース
+Hemi　hemiplegia　片麻痺，半側麻痺。脳の障害で身体の片側に麻痺が生ずるもの
+hemo　hemorrhoid　痔核
+HEMPAS　hereditary erythrocytic multinuclearity with positive acidified serm test　酸性血清試験陽性の遺伝性赤血球多核
+HEN　home enteral nutrition　在宅経腸栄養法
+HEP　hepatic　肝の
+HEP　high energy phosphate　高エネルギー・リン酸塩
+HEPA　high efficiency particular air filter　高率特殊空気濾過装置
+HEPES　2-［4-(2-hydroxyethyl)-1-piperazinyl］ethanesulfonic acid　2-［4-(2-ヒドロキシエチル)-1-ピペラジニル］エタンスルホン酸
+HER2　human epidermal growth factor receptor type 2　ヒト上皮増殖因子受容体２型
+hered　hereditary　遺伝の
+HES　hypereosinophilic syndrome　好酸球増加症候群
+HET　水平智歯（歯)
+HETE　hydroxyeicosatetraenoic acid　ヒドロキシエイコサテトラエノン酸
+HEV　hemagglutinating encephalomyelitis virus　血液凝集性脳脊髄炎ウイルス
+HEV　hepatitis E virus　E型肝炎ウイルス
+HEV　high endothelial venule　高内皮性細静脈
+HEV　human enteric virus　ヒト腸ウイルス
+HF　Hagemann factor　ハーゲマン因子(第\u0000216b因子)，血液凝固障害症
+HF　hay fever　枯草熱，花粉症。枯草の花粉を抗原とするアレルギー性鼻炎の一種
+HF　hemofiltration　血液濾過。人工腎臓の一つ。腎臓機能を改善させるため，体内の血液を体外に導き出し，人工腎臓内を流れる血液に圧力をかけ，濾過の原理で水と一緒に老廃物等を排除する方法。分子量の小さな物質を排除するには血液透析が優れ，大きな物質を排除するには血液濾過が優れている。
+HF　hemorrhagic fever　出血熱。顔面や胸部に点状の出血が生じ，高熱を伴うウイルス性疾患
+HF　high frequency　高周波
+HF　high-flux dialyzer　高流量血液透析
+HF　hyperfractionation　過分割照射（法），多分割照射（法）
+H-FABP　heart-type fatty acid-binding protein　ヒト心臓由来脂肪酸結合蛋白
+HFCWC　high frequency chest wall compression　高周波胸壁圧迫換気法
+HFD　heavy for date infant　妊娠期に比較して重い胎児
+HFD　hollow fiber dialyzer　中空糸型透析器
+HFI　hereditary fructose intolerance　遺伝性フルクトース耐糖能低下症
+HFI　hyperostosis frontalis interna［ラ］　内前頭骨過形成
+HFIF　human fibroblast interferon　ヒト線維芽細胞インターフェロン。β型インターフェロン
+HFJV　high-frequency jet ventilation　高\u0000fa6a度ジェット換気
+HFMD　hand, foot and mouth disease　手足口病
+HFO　high frequency oscillation　高周波振動
+HFO(V)　high-frequency oscillatory ventilation　高\u0000fa6a度振動換気，高\u0000fa6a度人工換気
+HFPPV　high frequency positive pressure ventilation　高\u0000fa6a度陽圧換気
+Hfr　high frequency recombination　高\u0000fa6a度組換え型
+HFRS　hemorrhagic fever with renal syndrome　腎症候性出血熱
+HFS　hemifacial spasm　片側顔面痙攣
+Hft　high frequency transduction　高\u0000fa6a度導入
+HFUPR　hourly fetal urine production rate　胎児時間尿産生率
+HFV　high-frequency ventilation　高\u0000fa6a度換気
+HFV　human foamy virus　ヒトフォーミーウィルス
+HG　hepatogram　肝機能検査図表
+HG　herpes gestationis［ラ］　妊娠性疱疹
+HG　histaglobin　ヒスタグロビン
+HG　histological grade　組織学的異型度
+HG　hybrid granulocyte　ハイブリッド顆粒球
+Hg　hydrargyrum［ラ］，mercury　水銀
+HGA　homogentisic acid　ホモゲンチジン酸
+HGC　hypoglycemic coma　低血糖性昏睡
+Hg-F　fetal hemoglobin（＝HbF）　胎児ヘモグロビン
+HGF　hepatocyte growth factor　肝細胞増殖因子，成熟肝細胞増殖因子
+HGF　hyperglycemic glycogenolytic factor〔glucagon　グルカゴン〕。ペプチドホルモン(遊離脂肪酸放出促進作用)
+hGG　human gamma-globulin　ヒトガンマグロブリン
+HGH　human growth hormone　ヒト成長ホルモン
+Hg，Hgb　hemoglobin　ヘモグロビン。赤血球に含まれる色素蛋白。肺で取り入れた酸素を身体に運搬する重要な役割を担う。鉄を含む「ヘム」と，蛋白質である「グロビン」から構成される。ヘモグロビンが不足すると，供給される酸素の量が不足してしまうため，動悸や息切れ，めまいなどの酸欠症状が出る。重症の場合には脳に酸素が不足し意識を失う。
+HGMF　hydrophobic grid membrane filter　メンブランフィルター法。細菌測定法の一種
+HGPRT　hypoxanthine guanine phosphoribosyl transferase　ヒポキサンチン・グアニンホスホリボシールトランスフェラーゼ
+HGPS　Hutchinson-Gilford progeria syndrome　ハッチンソン・ギルフォード早老症候群
+HGV　hepatitis G virus　G型肝炎ウイルス
+h/h　hard of hearing　難聴
+HH　hematogonadotropic hypogonadism　低ゴナドトロピン性性腺機能低下症。続発性性腺機能低下症。精巣の上位中枢である視床下部や下垂体系の障害で，ゴナドトロピン分泌不全をきたす。
+HH　hemodialysis-induced hypoxemia　血液透析誘発性低酸素血症
+HH　hereditary hemochromatosis　遺伝性ヘモクロマトーシス
+HH　hereditary-hyperglycemic　遺伝性過血糖症
+HH　hiatal hernia　裂孔ヘルニア，食道裂孔ヘルニア
+HH　Hornhaut［独］　角膜。眼球の前方正面部分の透明な膜で，後方に続く強膜とともに眼球の外壁を構成している。いわゆる黒目に相当するする部分で，血管はない。外側から上皮，ボウマン膜，実質，デスメ膜，内皮の５層からなる。表面は湿潤性を維持するために，常時涙で覆われている。外の光は，この角膜を通って眼球の中に入り眼底の網膜に達して，その信号が脳に送られて初めて物が見える。
+HHA　hereditary hemolytic anemia　遺伝性溶血性貧血
+HHB　reduced hemoglobin　還元型ヘモグロビン
+HHD　hypertensive heart disease　高血圧性心疾患
+HHE syndrome　hemiconvulsion-hemiplegia-epilepsy syndrome　片側痙攣片麻痺てんかん症候群。急性小児片麻痺。片側の痙攣が起こり，その消失後に片麻痺やてんかん症状が残る。
+HHG　human hypophyseal gonadotropin　ヒト下垂体性性腺刺激ホルモン
+hHGF　human hepatocyte growth factor　ヒト肝細胞増殖因子
+HHHO (H3O)　hypotonia-hypomentia-hypogonadism-obesity (syndrome)　筋緊張低下・精神障害・性機能不全・肥満（症候群）
+HHL　Hypophysenhinterlappen［独］　下垂体後葉
+HHM　humoral hypercalcemia of malignancy　腫瘍随伴体液性高カルシウム血症
+HHNC　hyperglycemic hyperosmolar nonketotic coma　高血糖高浸透圧昏睡
+HHO (H2O)　hypotonia-hypomentia-obesity (syndrome)　筋緊張低下・精神障害・肥満（症候群）
+HHT　hereditary hemorrhagic telangiectasia　遺伝性出血性末梢血管拡張症
+HHT　hydroxyheptadecatrienoic acid　ヒドロキシヘプタデカトリエノン酸
+HHV　human herpesvirus　ヒトヘルペスウイルス
+Hi　Haemophilus influenzae　インフルエンザ菌
+HI　head injury　頭部外傷
+HI　hemagglutination inhibition　赤血球凝集抑制反応
+HI　humidity index　湿度指数
+HI　hyperglycemic index　過糖指数
+HI　hypoglycemic index　低血糖指数
+HI (R)　hemagglutination inhibition (reaction)　赤血球凝集抑制（反応）
+HIA　hemagglutination inhibition antibody　赤血球凝集抑制抗体
+5-HIAA　5-hydroxyindole acetic acid　5-ハイドロキシインドール酢酸
+5-HIAA　5-hydroxyindoleacetic acid　5-ヒドロキシインドール酢酸
+HIB　Haemophilus influenza B　インフルエンザ菌B
+HID-AB stain　high iron diamine-alcian blue stain　高鉄ダイアミン・アルシアン青染色
+HID syndrome　headache, insomnia, depression syndrome　頭痛・不眠・抑うつ症候群
+HIE　hypoxic ischemic encephalopathy　低酸素性虚血性脳症
+HIES　hyper-IgE syndrome　高IgE症候群
+HIF　histoplasma tissue inhibitory factor　ヒストプラズマ組織抑制因子
+HIF　human fibroblast interferon　線維芽細胞由来インターフェロン
+HIF-1　hypoxia-inducible factor-1　低酸素によって活性化される転写因子
+HIGM　hyper-IgM syndrome　高IgM症候群
+HIH　hypertensive intracerebral hemorrhage　高血圧性脳内出血
+HII　hemagglutination inhibition immunoassay　赤血球凝集抑制免疫検定法
+HIIP　human insulin inhalation powder　ヒトインスリン粉末吸入剤
+HIM　host induced modification　宿主依存性変異
+HIMAC　Heavy Ion Medical Accelerator in Chiba　重粒子線癌治療装置
+H inf　hypodermolysis infusion　皮下注入
+HIOMT　hydroxyindole-o-methyltransferase　ヒドロキシインドール-o-メチル転移酵素
+HIP　hippocampus［ラ］　海馬
+HIR　histological incorporation ratio　組織学的骨置換率
+His　histidine　ヒスチジン
+HIS　hospital information system　病院情報システム
+hist　history　病歴
+histo　histoplasmosis　ヒストプラズマ症
+histol　histology　組織学
+HIT　health indication test　健康適応検査
+HIT　hemagglutination-inhibition test（＝HAIT）　赤血球凝集抑制試験
+HIT　heparin induced thrombocytopenia　ヘパリン起因性血小板減少症
+HIT　hysteroscopic insemination into tube　子宮鏡下卵管内精子注入法，卵管内受精
+HIV　human immunodeficiency virus　ヒト免疫不全ウイルス。エイズの原因となるウイルスであり，遺伝物質としてリボ核酸（RNA）を有するレトロウイルス。中心核にリボ核酸，リボ核酸蛋白，逆転写酵素をもち，内膜と糖蛋白をもった外皮に包まれている。体内に侵入して免疫系のリンパ球であるT4リンパ球に感染，増殖する。このためT4リンパ球が破壊され，免疫低下，免疫不全を起こす。
+HIVH　home intravenous hyperalimentation　家庭静脈内高カロリー栄養法
+HIテスト　hemagglutination inhibition test（＝HAI）　赤血球凝集抑制反応
+HJK　hard resin jacket crown　硬質レジンジャケット冠，ハードレジンジャケットクラウン（歯）
+HJR　hepatojugular reflux　肝頸静脈逆流。うっ血性心不全において右季肋部を強く圧迫することで頸静脈が怒張する状態
+HK　Hall-Kaster　ホール・カスター。心臓手術に用いる傾斜用板弁
+HK　Hauptklage［独］　主訴
+HK　hexokinase（＝HX）　ヘキソキナーゼ
+HKC　human kidney cell　ヒト腎細胞
+HKH syndrome　hyperkinetic heart syndrome　過運動性心症候群
+HK virus　Hong-Kong type of influenza virus　香港型インフルエンザウイルス
+HKペスタ☆　歯科用ハイドロコートン軟膏（歯)
+HL　half-life　半減期。放射性物質の放射能の強さが半減する時間
+HL　hearing level　聴力レベル
+HL　hearing loss　聴力損失
+HL　heat loss　熱損失
+HL　histocompatibility locus　組織適合遺伝子座
+HL　Hodgkin\u000002bcs lymphoma　ホジキンリンパ腫
+HL　hypoplastic leukemia　低形成性白血病
+HL　latent hypermetropia　潜伏性遠視
+HLA　histocompatibility antigen　組織適合抗原
+HLA　human histocompatibility leukocyte antigen　ヒト組織適合性白血球抗原
+HLA　human leukocyte antigen　ヒト白血球抗原。組織適合性抗原。ヒトの主要組織適合遺伝子複合体で，第６染色体上にある。同種移植時にあたって，このHLA抗原が一致していないと拒絶反応を起こしやすい。
+HLBI　human lymphoblastoid interferon　ヒトリンパ芽球インターフェロン
+HLD　half lethal dose　半数致死量。50％致死量(LD50)
+hlg　halogen　ハロゲン。塩素，フッ素，臭素，ヨードの総称
+HLH　helix-loop-helix　ヘリックス・ループ・ヘリックス
+HLH　hemophagocytic lymphohistiocytosis　血球貪食症候群
+HLHS　hypoplastic left heart syndrome　左心低形成症候群
+HLP　haloperidol　ハロペリドール（向精神薬）
+HLP　hyperlipidemia　過脂血症，高脂質血症，脂質過剰血症，リポイド過多血症
+HLR　heart lung ratio　心肺係数(ポイントテスト)，心胸比\u000021e8C/T ratio
+hLS　human chorionic gonadotropin-like substance　ヒト絨毛性ゴナドトロピン様物質
+HLS　hypertonic lactated Ringer solution　高張乳酸加リンゲル液。リンゲル液に乳酸ナトリウムを配合した製剤で，等張液より高い浸透圧を示す溶液。循環血液量や細胞間液が減少した場合，細胞外液補給のために用いる。
+HLS　hypertonic lactated saline　高張乳酸加食塩水。高張電解質液
+HLT　heat-labile toxin　易熱性毒素
+HLV　herpes-like virus　ヘルペス様ウイルス
+HM　hand motion　手動弁
+HM　hydatidiform mole　胞状奇胎。妊娠時に，受精卵子を包む卵膜の絨毛膜絨毛が小嚢胞を形成する病変
+HM　manifest hypermetropia　顕性遠視
+HMB　homatropine methylbromide　メチル臭酸ホマトロピン
+HMC　5-hydroxymethyl cytosine　5-ヒドロキシメチルシトシン
+HMCE　hereditary multiple cartilaginous exostosis　遺伝性多発性軟骨性外骨症
+5HmCyt　5-hydroxymethyl cytosine（＝HMC）　5-ヒドロキシメチルシトシン
+HMD　2-hydroxymethylene-17α-methyldihydrotestosterone　2-ヒドロキシメチレン-17α-メチルジヒドロテストステロン(オキシメトロン)，アナドロール。蛋白同化ステロイド
+HMD　hyaline membrane disease　肺硝子膜症
+HMDS　hexamethyldisilazane　ヘキサメチルジシラザン
+HMF　hydroxymethylfurfurol　ヒドロキシメチルフルフロール
+HMG　hydroxymethylglutaryl　ヒドロキシメチルグルタリル
+HMG-CoA　hydroxymethylglutaryl-coenzyme A　ヒドロキシメチルグルタリルコエンザイムA
+hMG-hCG　human menopausal gonadotropin-human chorionic gonadotropin　ヒト閉経期ゴナドトロピン・ヒト絨毛性ゴナドトロピン
+hMG，HMG　human menopausal gonadotropin　ヒト閉経期ゴナドトロピン，下垂体性性腺刺激ホルモン
+HMM　hexamethylmelamine　ヘキサメチルメラミン
+HMO　heart minute output　心臓分時拍出量
+HMP　hemolysis maximum point　最大溶血点
+HMR　histiocytic medullary reticulosis　組織球性髄質性細網症
+hMRP　human multidrug resistance associated protein　ヒト多剤耐性蛋白
+HMS　high molecular weight renin substance　高分子レニン抽出物
+HMS　hyaline membrane syndrome　硝子膜症候群
+HMSN　hereditary motor and sensory neuropathy　遺伝性運動感覚性ニューロパチー
+HMT　4-hydroxy-17α-methyltestosterone　4-ヒドロキシ-17α-メチルテストステロン
+HMU　5-hydroxymethyl uracil　ヒドロキシメチルウラシル
+HMV　Herz Minutenvolumen［独］　毎分(心)拍出量
+HMV　home mechanical ventilation　在宅人工呼吸療法
+HMV　human melanoma cell line　ヒト黒色腫細胞系
+HMWK，HMW-kininogen　high molecular weight kininogen　高分子キニノーゲン
+h.n.　hoc nocte［ラ］　今夜（処）
+HN　hypogastric nerve　下腹神経
+HNC　hypothalamic-neurohypophysical complex　視床下部・神経下垂体複合
+HNCM　hypertrophic non-obstructive cardiomyopathy　非閉塞性肥大型心筋症
+HNE　4-hydroxy-2-nonenale　4-ヒドロキシ-2-ノネナール
+HNN　hemorrhagic nephrosonephritis　出血性ネフローゼ腎炎
+HNP　herniated nucleus pulposus　髄核ヘルニア。椎間板ヘルニアと同じ
+HNPCC　hereditary nonpolyposis colo-rectal cancer　遺伝性非ポリポーシス大腸癌
+hnRNA　heterogeneous nuclear RNA　ヘテロ核RNA
+HNS　head and neck surgery　頭頸部外科
+HNS　hypothalamo-neurohypophysial system　視床下部-神経下垂体系
+HNSHA　hereditary nonspherocytic hemolytic anemia　遺伝性非球状性溶血性貧血
+HO　hip orthosis　股装具
+HO　hydrophilic ointment　親水軟膏
+HO　hypertrophic osteoarthropathy　肥大性骨関節症
+HOCM　hypertrophic obstructive cardiomyopathy　閉塞性肥大型心筋症
+Hoff　Hoffmann reflex　ホフマン反射
+HONK　hyperosmolar non-ketoic coma　高浸透圧性非ケトン性昏睡。２型糖尿病患者で高血糖と脱水が進み昏睡に至る。高齢者に多い。
+HOP　high oxygen pressure　高酸素圧
+HOP　hydroxyproline　ヒドロキシプロリン
+HOPA　calcium hopantenate　ホパテン酸カルシウム
+hor.decub.　hora decubitus［ラ］　就床時に（処）
+hor.som.　hora somni［ラ］　就眠時に（処）
+HOS　hyposmotic swelling test　精子膨化試験
+5HOT　5-hydroxytryptamine　5-ヒドロキシトリプタミン
+HOT　home oxygen therapy　在宅酸素療法。慢性呼吸不全患者に対し，家庭で酸素吸入を実施することで患者のQOL（生活の質）を改善し，社会復帰を可能にする療法。主に酸素ボンベと酸素濃縮器，設置型液化酸素装置が使用され，鼻腔カニューレを通して酸素吸入を行う。
+HP　haloperidol（＝HPD）　ハロペリドール（向精神薬）
+Hp　haptoglobin　ハプトグロビン
+HP　helicobacter pylori　ヘリコバクター・ピロリ。ヒトなどの胃に生息するらせん型の細菌。胃炎や消化性潰瘍（胃・十二指腸潰瘍），ひいては胃癌などの原因となりうる。
+HP　hemodynamic profile　血液力学的特性
+H/P　hemoglobin plasma ratio　ヘモグロビン血漿比
+HP　hemoglobinopathy　血色素異常症，異常ヘモグロビン血症
+HP　hemoperfusion　血液灌流法
+HP　heparin　ヘパリン
+HP　heterophagosome　ヘテロファゴゾーム
+HP　high pressure　高圧
+HP　hormone product　ホルモン産生量
+HP　horse power　馬力
+HP　hospital　病院
+HP　hot pack　温罨法，ホットパック
+HP　hyperphoria　上斜位
+HP　hypersensitive pneumonitis　過敏性肺（臓）炎
+HPA　human platelet antigen　ヒト血小板特異抗原
+HPA　hybridization protection assay　HPA法
+HPA　hypersomnia with periodic apnea　睡眠時無呼吸症候群，周期性無呼吸を伴う傾眠症
+HPA　hypothalamus-pituitary-adrenal system　視床下部-下垂体-副腎皮質系
+HPAC　high performance affinity chromatography　高速アフィニティ・クロマトグラフィー
+HPAI　high-pathogenicity avian influenza　高病原性トリインフルエンザ
+HPC　hydroxypropyl cellulose　ヒドロキシプロピルセルロース
+HPC　hydroxypropyl methylcellulose　ヒドロキシプロピルメチルセルロース
+HPC　hypopharyngeal carcinoma　下咽頭癌
+HPCA　human plasma cell antigen　ヒト形質細胞抗原
+HPCE　high-performance capillary electrophoresis　高性能毛細管電気流動
+HPCHA　hereditary high red cell membrane phosphatidyl choline hemolytic anemia　遺伝性高赤血球膜ホスファチジール・コリン溶血性貧血
+HPD　haloperidol（＝HP）　ハロペリドール（向精神薬）
+HPD　hematoporphyrin derivative　ヘマトポルフィリン誘導体
+HPD　hemopoietic dysplasia　造血異形成
+HPD　hepatectomy with (and) pancreatoduodenectomy　膵頭十二指腸切除を伴う肝切除
+HPD　hereditary progressive dystonia with marked diurnal fluctuation　著明な日内変動を呈する遺伝性進行性ジストニア
+HPETE　hydroperoxyeicosatetraenoic acid　ヒドロペルオキシエイコサテトラエノイン酸
+Hp-F　heparinized fresh whole blood　ヘパリン加新鮮血液
+HPF　high power field　強拡大
+HPFA　high-performance frontal analysis　高速先端分析法
+HPFH　hereditary persistence of fetal hemoglobin　遺伝性胎児高ヘモグロビン血症
+HPFSH　human pituitary follicle stimulating hormone　ヒト下垂体卵胞刺激ホルモン
+HPG　human pituitary gonadotropin　ヒト下垂体ゴナドトロピン，性腺刺激ホルモン
+HPG axis　hypothalamic-pituitary-gonadal axis　視床下部-脳下垂体-性腺系
+HPGF　hematopoietic growth factor　造血増殖因子
+HPGF　hybridoma plasma cell growth factor　ハイブリドーマプラズマ細胞腫増殖因子
+hpGRF　human pancreatic growth hormone releasing factor　ヒト膵成長ホルモン放出因子
+HPI　history of present illness　現病歴
+HPL　human parotid lysozyme　ヒト耳下腺リソザイム
+HPLC　high-performance liquid chromatography　高性能液体クロマトグラフィー
+HPL，hPL　human placental lactogen　ヒト胎盤性ラクトゲン，乳汁分泌促進因子。胎盤から分泌される蛋白ホルモンで，胎児→胎盤→母体の種々の代謝系に極めて重要な影響を及ぼす母体の代謝調節因子。絨毛上皮のジンチチウム細胞で産生され分泌される。血中HPLは妊娠初期より次第に増加し，妊娠末期にピークとなり，分娩後に消失する。
+HPM　high performance membrane　高性能膜
+HPMCs　human peritoneal mesothelial cell　培養ヒト腹膜中皮細胞
+HPN　home parenteral nutrition　在宅中心静脈栄養法
+Hpn　hypertension（＝HYPN）　高血圧
+HPNME　human peripheral nerve myelin extract　ヒト末\_c07705神経ミエリン抽出物
+HPNS　high pressure nervous syndrome　高圧神経症候群。高気圧障害に伴って振戦，嘔気，傾眠などが発生する。
+HPO　high pressure oxygen therapy　高圧酸素療法
+HPO　hypertrophic pulmonary osteoarthropathy　肥大性肺性骨関節症。マリー・バンベルガー症候群。関節痛，ばち指，長骨端の拡大等がみられる。
+Hpo-T　hypotension　低血圧
+HPP　human pancreatic polypeptide　ヒト膵ペプチド
+HPPSH　human pituitary follicle stimulating hormone　ヒト下垂体卵胞刺激ホルモン
+HPR　4 hydroxyproline　ヒドロキシプロリン。アミノ酸の一種
+HPRL　human prolactin　ヒトプロラクチン。乳汁分泌促進ホルモン
+HPRT　hypoxanthine phosphoribosyltransferase　ヒポキサンチンホスホリボシルトランスフェラーゼ
+HPS　Hanta-Virus pulmonary syndrome　ハンタウイルス肺症候群
+HPS　hemophagocytic syndrome　血球貪食症候群
+HPS　hereditary pyloric stenosis　遺伝性幽門狭窄
+HPS　Hermansky-Pudlak syndrome　ヘルマンスキー-プドラック症候群
+HPS　hypertrophic pyloric stenosis　肥厚性幽門狭窄症
+HpSA　Helicobacter pylori stool antigen　便中ヘリコバクター・ピロリ抗原
+HPSA　hepato-portal subtraction angiography　肝門脈減算血管造影法
+HPSN　hereditary pressure-sensitive neuropathy　遺伝性圧脆弱性神経疾患
+Hpt　haptoglobin　パプトグロビン
+HPT　hepaplastin test　ヘパプラスチン試験
+HPT　hepatic pulse tracing　肝拍動図
+HPT　hot plate test　熱板試験
+HPT　hyperparathyroidism　副甲状腺機能亢進症，上皮小体機能亢進症。副甲状腺（上皮小体）ホルモン（PTH）が過剰に分泌される病態。原発性と慢性腎不全などに伴う続発性に分類される。
+HPTLC　high performance thin layer chromatography　高性能薄層クロマトグラフイー
+hptn　hypertension　高血圧
+HPV　Haemophilus pertussis vaccine　百日咳（菌）ワクチン
+HPV　hepatic portal vein　肝門脈
+HPV　high pressure ventilation　高圧換気
+HPV　human papillomavirus　ヒト乳頭腫ウイルス，ヒトパピローマウイルス
+HPV　human parrot virus　ヒトオウム病ウイルス
+HPV　hypoxic pulmonary vasoconstriction　低酸素性肺血管収縮
+HPVD　hypertensive pulmonary vascular disease　高血圧性肺血管疾患
+Hpx　hemopexin　ヘモペキシン
+HQC　hydroxyquinoline citrate　クエン酸ヒドロキシキノリン
+HR　heart rate　心拍数(/min)
+HR　histamine receptor　ヒスタミン受容体
+HR　homing receptor　ホーミング受容体
+HRA　health risk appraisal　健康危険度評価。現在の健康状態を生活習慣（飲酒頻度，食生活，運動習慣，疲労感など）から把握し，将来の健康状態を評価する。
+HRA　high right atrium　高右心耳
+HRBC　human red blood cell　ヒト赤血球
+HRCT　high-resolution CT　高分解能CT
+HRCV　human respiratory coronavirus　ヒト呼吸器コロナウイルス
+HRE　high resolution electrocardiography　高分解心電図
+HRE　hormone-responsive element　ホルモン応答配列
+HRE　hypoxia response element　低酸素に応答するDNAエレメント
+HREM　high resolution electron-microscopy　高分解能電子顕微鏡法
+HRF　heart reactive factor　心臓反応因子
+HRF　histamine releasing factor　ヒスタミン放出因子
+HRF，CD59　homologous restriction factor　同種制限因子
+hr.，hrs　hour, hours　時間
+HRI　hemin-regulated inhibitor　ヘミン調整性インヒビター
+HRIG　human rabies immunoglobulin　ヒト狂犬病免疫グロブリン
+HRP　high risk pregnancy　ハイリスク妊娠。出産前後で母親や胎児または新生児が罹病したり死亡する危険が高いと予想される妊娠
+HRP　horseradish peroxidase　西洋ワサビペルオキシダーゼ
+HRR　homologous recombination repair　相同組換え修復
+HRS　hepatorenal syndrome　肝腎症候群。高度の肝硬変や肝不全（劇症肝炎など）に伴って発症する急性腎不全で予後不良。
+HRT　histamine releasing test　ヒスタミン遊離試験
+HRT　hormone replacement therapy　ホルモン補充療法
+HR-TEM　high resolution transmission electron-microscope　高分解能透過電子顕微鏡
+HRV　human rhinovirus　ヒトライノウイルス
+HS☆　ヒポクロリットソリューション10％「日藥」(歯)
+HS　H\u000000f6hensonne［独］　人工太陽燈
+HS　Hartman\u000002bcs solution　ハルトマン溶液
+HS　heart sound　心音
+HS　heparin sulfate　硫酸ヘパリン
+HS　hereditary spherocytosis　遺伝性球状赤血球症
+HS　hopeless scale　悲観的尺度検査
+HSA　human serum albumin　ヒト血清アルブミン
+HSAN　hereditary sensory and autonomic neuropathy　遺伝性感覚自律神経ニューロパチー
+HSAP　heat-stable alkaline phosphatase　耐熱性アルカリホスファターゼ
+HSC　Hand-Sch\u000000fcller-Christian(disease)　ハンド・シューラー・クリスチャン病
+HSC　hematopoietic stem cell　造血幹細胞
+HSCCC　high-speed countercurrent chromatography　高速向流クロマトグラフィー
+HSCT　hematopoietic stem cell transplantation　造血幹細胞移植
+HSD　Hallervorden-Spatz disease　ハラーフォルデン-シュパッツ病
+HSD　heavy snorers\u000002bc disease　重症いびき症候群
+HSD　hydroxysteroid degydrogenase　ヒドロキシステロイド脱水素酵素
+HSE　heat shock element　熱ショックエレメント
+HSE　hemorrhagic shock and encephalopathy　出血性ショック脳症
+HSE　herpes simplex encephalitis　単純ヘルペス脳炎，ヘルペス脳炎，単純疱疹ウイルス脳炎
+HSE　hypertonic sodium epinephrine　エピネフリン加高張食塩水
+HSES　hemorrhagic shock and encephalopathy syndrome　出血性ショック脳症症候群
+HSF　heat shock factor　熱ショック因子
+HSF　histamine-induced suppressor factor　ヒスタミン誘発性抑制因子
+HSF　histamine-sensitizing factor　ヒスタミン増感因子，ヒスタミン感作因子
+HSG　hysterosalpingography　子宮卵管造影法。子宮頸管より造影剤を注入し，子宮内腔，卵管腔をエックス線で造影すること。不妊の原因診断に不可欠な検査であるが，子宮奇形の診断や子宮腫瘍の診断，子宮内膜の異常，習慣性流産・早産の原因究明，子宮経管の異常，卵管妊娠の診断，卵巣腫瘍の診断，骨盤内腫瘤の鑑別診断などにも広く用いられる。
+hs，h.s.　hora somni［ラ］　就眠時，就寝時に（処）
+HSK　herpes simplex keratitis　単純ヘルペス角膜炎，角膜ヘルペス，角膜疱疹，ヘルペス性角膜炎
+HSL　herpes simplex labialis　口唇単純ヘルペス
+HSL　hormone-sensitive lipase　ホルモン感受性リパーゼ
+HSLC　high-speed liquid chromatography　高速液体クロマトグラフィー
+HSM　hepato-splenomegaly　肝・脾腫大
+HSM　holosystolic murmur　完全収縮期雑音
+HSN　hereditary sensory neuropathy　遺伝性感覚性ニューロパチー
+HSP　heat shock protein　熱ショック蛋白質
+HSP　Henoch-Sch\u000000f6nlein purpura（＝SHS）　ヘノッホ・シェーンライン紫斑病
+HSPG　heparan sulfate proteoglycan　ヘパラン硫酸プロテオグリカン
+HSPN　Henoch-Sch\u000000f6nlein purpura nephritis　ヘノッホ-シェーンライン紫斑病性腎炎
+HSS　Hallervorden-Spatz syndrome　ハレルフォルデン-スパッツ症候群
+Hst　hereditary stomatosytosis　遺伝性有口赤血球症，遺伝性口唇状赤血球症
+HSTF　human serum thymus factor　ヒト血清胸腺因子
+HSV　herpes simplex virus　単純ヘルペスウイルス，単純疱疹ウイルス
+HSV　hypersensitivity vasculitis　過敏性血管炎
+HSVE　herpes simplex virus encephalitis　単純ヘルペスウイルス脳炎
+5-HT　5-hydroxytryptamine　5-ヒドロキシトリプタミン。セロトニン
+HT　half time　半減期
+ht　heat　熱，加熱
+HT　heat treated　温熱で治療した，温熱で処理した。heat treatment　温熱療法
+Ht　height　身長，高さ
+HT　hemagglutination titer　赤血球凝集価
+h.t.　hoc tempore［ラ］　この時点で（処）
+HT　hydrotherapy　水治療
+HT　hypertension　高血圧
+HT　hypertropia　上斜視
+HT　hypnotherapy　催眠療法
+HT　hypothalamus　視床下部
+HT　total hypermetropia　全遠視
+5HT，5-HTP　5-hydroxytryptophan　5-ヒドロキシトリプトファン
+HTA　hydroxytryptamine（＝5HT）　ヒドロキシトリプタミン。セロトニン
+HTACS　human thyroid adenylate cyclase stimulator　ヒト甲状腺アデニル酸シクラーゼ刺激物質
+HTB　hot tub bath　温浴
+HTC　homozygous typing cells　同形接合型細胞
+HTCA　human tumor colony assay　ヒト腫瘍コロニー効力検定
+HT cell　helper T cell　ヘルパーT細胞
+3H-TdR　tritiated thymidine　トリチウム化チミジン
+HTF　house tube feeding　家庭経管栄養
+HTF　human tubal fluid　ヒト卵管液
+HTGL　hepatic triacylglycerol lipase　肝性トリアシルグリセロールリパーゼ
+HTH　helix-turn-helix　ヘリックス・ターン・ヘリックス
+Ht，HT☆　hematocrit　ヘマトクリット値。血液中に占める赤血球の容積パーセント。内径が一定のガラス管に凝固阻止血を入れ，一端を封じて遠心したのち，血液柱全長に対する赤血球柱の長さを読み取り，それをパーセントで表す。赤血球容積は遠心法のほか，全血の電気抵抗を測定して求める方法や，自動血球計算器で赤血球一つひとつの容積を測定して総計を出す方法などがある。遠心法以外の原理によって求めた赤血球容積パーセントもヘマトクリット値と呼んでいる。
+HTL　hearing threshold level　聴覚閾値レベル
+HTL　hemodialysis induced transient leukopenia　血液透析誘発性一過性白血球減少症
+HTL　human T-cell leukemia (lymphoma）　ヒトT細胞白血病（リンパ腫）
+HTLA　human T-lymphocyte antigen　ヒトTリンパ球抗原
+HTLU　human T-lymphocyte virus　ヒトTリンパ好性ウイルスⅢ型
+HTLV　human T-lymphotropic virus　ヒトTリンパ好性ウイルス
+HTLV-I　human T-lymphotropic virus type-I　ヒトTリンパ好性ウイルスⅠ型。主に白血球（リンパ球）に感染するウイルス。このウイルス感染によりATL（成人Ｔ細胞白血病）やHAM（HTLV-１関連脳脊髄症）を起こすことがある。
+HTLV-I　human T-cell leukemia virus type I　ヒトT細胞白血病ウイルスⅠ型
+HTM　high-threshold mechanoreceptor　高閾値機械受容器
+HTN　Hantaan virus　ハンタンウイルス
+HT neuron　high threshold neuron　高閾値ニューロン
+HTO　high tibial osteotomy　高位脛骨骨切り術
+h to h　heel to heel　踵から踵へ
+HTPF　heat-treated plasma fraction　熱処理血漿分画
+HTPN　home total parenteral nutrition　家庭における高カロリー輸液
+HTR　hemolytic transfusion reaction　溶血性輸血反応
+HTS　human thyroid stimulator　ヒト甲状腺刺激物質
+HTSA　human T-cell specific antigen　ヒトT細胞特異抗原
+HTSCA　human tumor stem cell assay　ヒト腫瘍幹細胞効力検定
+HTSH　human thyroid stimulating hormone　ヒト甲状腺刺激ホルモン(TSH)
+HTV　herpes type virus　ヘルペス型ウイルス。単純ヘルペス・水痘・帯状ヘルペス・サイトメガロ・EBウイルスなど
+HTVD　hyper tensive vascular disease　高血圧性血管疾患
+HU　hounsfield unit　ハンスフィールド単位
+HU　hydroxyurea　ヒドロキシ尿素，ヒドロキシウレア
+HUCVG　human umbilical cord vein graft　ヒト臍帯静脈移植片
+HuE　human erythrocyte　ヒト赤血球
+HUGO　Human Genome Organization　ヒトゲノム機構
+HUI　headache unit index　頭痛単位係数
+humer　humerus［ラ］　上腕骨
+HuRBC　human red blood cell　ヒト赤血球
+HUS　hemolytic uremic syndrome　溶血性尿毒症性症候群
+HV　hepatic vein　肝静脈。hepatic venography　肝静脈造影(法)。肝静脈は，肝臓内の血液を集めて下大静脈に送る２本ないし３本の太い静脈。下大静脈が肝臓後面の大静脈溝を通る部分に流入している。
+HV　Hijimans van den Bergh reaction　ヒーマン・ファンデンベルヒ反応，ハイマンス・ファンデンベルグ反応(血清ビリルビン定性)
+HV　hydroa vacciniforme［ラ］　種痘様水疱症
+HV　hypersensitive vasculitis　過敏性血管炎
+HV　hyperventilation　過呼吸賦活法。脳波検査における賦活法の一つで，１分間に20〜30回の割合で数分間呼吸させる。
+HVA　hallux valgus angle　外反母趾角
+HVA　homovanillic acid　ホモバニリン酸，ホモバニール酸
+HVD　hypertensive vascular disease　高血圧性血管疾患
+HVEM　high voltage electron microscope　超高圧電子顕微鏡
+HVF　hepatocyte volume fraction　肝細胞容積分画
+HVGR　host-versus-graft reaction　宿主対移植片反応
+HVH　herpes virus hominis　ヒトヘルペスウイルス
+HV-HR-TEM　high voltage high resolution transmission electron-microscope　超高圧高分解能透過型電子顕微鏡
+HV interval　His-ventricular interval　ヒス心室時間
+HVJ　hemagglutinating virus of Japan　日本の赤血球凝集性ウイルス。仙台ウイルスともいう。
+HVL　half-value layer　半価層
+HVL　Hypophysenvorderlappen［独］　下垂体前葉
+HVR　hypervariable region　超可変領域。遺伝子において塩基配列が大きく異なる領域。C型肝炎などの検査に用いられる。
+HVR　Hypophysenvorderlappenreaktion［独］　下垂体前葉反応
+HVS　high voltage slow wave　高振幅徐波
+HVS　hyperventilation syndrome　過換気症候群，過呼吸症候群，過換気テタニー
+HVS　hyperviscosity syndrome　高粘稠症候群，過粘着性症候群
+HV time　His-ventricle time　ヒス心室時間。ヒス束心電図におけるヒス束電気活動から心室電気活動が始まるまでの時間
+HWT　histamine wheal test　ヒスタミン丘斑試験
+Hx　hemopexin　ヘモペキシン
+HX　hepoxilin　ヘポキシリン
+Hx　hexokinase　ヘキソキナーゼ
+HX　hypoxanthine　ヒポキサンチン
+Hx，H　history　〜歴
+HxR　hypoxanthine riboside　ヒポキサンチンリボシド
+Hxs　hexose　六炭糖
+H-Y　histocompatibility Y antigen　組織適合性Y抗原
+Hy　hypermetropia　遠視
+Hy　hypertension　高血圧
+Hy　hypophysis　下垂体
+Hy　Hysterie［独］　ヒステリー
+HYD　hydrosalpinx　卵管留水症。卵管留水腫症，卵管水腫。卵管粘膜の癒着や卵管腔の閉塞によって卵管腔に分泌液が貯留する病態
+hyl　hydroxylysine　ヒドロキシリジン
+Hyp　hydroxyproline　ヒドロキシプロリン
+Hyp　hypertrophy　肥大
+hyp　hypochondria　沈うつ
+hype　hypodermic　皮下の
+hypo　hypochondria　沈うつ
+hypo　hypodermic　皮下の，皮下注射
+HYPOTH　hypothalamus　視床下部
+Hyp-T　hypertension　高血圧
+Hys☆　象牙質知覚過敏症（歯)
+hyst　hysteria　ヒステリー
+hystero　hystero-salpingography（＝HSG）　子宮卵管造影法
+HZ　Harnzucker［独］　尿糖。尿中に含まれている糖（ブドウ糖）を測定する検査。糖尿病の疑いがある場合に，スクリーニング検査として用いられる。定量法と定性（半定量）的な測定法がある。定量法はブドウ糖酸化酵素やヘキソキナーゼなどの酵素反応によるもので，定性（半定量）はブドウ糖酸化酵素を利用した試験紙法が普及し，糖尿病患者自身による自己管理の手段の一つとしても利用されている。
+Hz　Hertz　ヘルツ。周波数の単位(cycles/sec），毎秒１サイクル
+HZV　herpes zoster virus　帯状疱疹ウイルス
+H-インピーダンス/コマク☆　インピーダンスオージオメトリー
+H-ゴオン☆　標準語音聴力検査
+H-ジショウコツキン☆　耳小骨筋反射検査
+H-ジュンオン☆　標準純音聴力検査
+H-ストロボスコピー/コウトウ☆　喉頭ストロボスコピー
+H-チンパノメトリー☆　インピーダンスオージオメトリー
+H-デンキミカク☆　電気味覚検査
+H-プレイオージオ☆　他覚的聴力検査
+H-ヘイコウキノウ☆　平衡機能検査。眼振を含めた眼球運動の検査および身体動揺の機能検査。体平衡に関する機能検査は，主に重心動揺の変化を検索する。

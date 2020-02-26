@@ -1,0 +1,57 @@
+ギリシャ文字
+α1-AG　α1-acid glycoprotein　α1-酸性糖蛋白
+α1-AT　α1-アンチトリプシン
+α1-MG　α1-ミクログロブリン
+α2-HS　α2-heat stable glycoprotein　α2心安定糖蛋白
+α2-MG　α2-マクログロブリン
+α-AAA　α-aminoadipic acid　αアミノアジピン酸
+α-ABA　α-aminobutyric acid　アルファ-アミノ酪酸
+α-BGT　α-bungarotoxin　α-ブンガロトキシン
+α-Feto　α-fetoprotein　AFP，アルファ-フェトプロテイン（グロブリン），α-胎児蛋白
+α-FG　α-fetoglobulin　アルファ-フェトグロブリン検査，α-胎児蛋白
+α-GD　α-glycerophosphate dehydrogenase　αグリセロリン酸脱水素酵素
+αGI　α-glucosidase inhibitor　αグルコシダーゼ阻害剤
+α-HBD 測定　α-hydroxybutyric dehydrogenase　α-ヒドロキシ〔オキシ〕酪酸脱水素酵素検査
+α-HCC　アルファ-カルシドール\u000021e8ALF
+αHCD　α heavy chain disease　α重鎖病
+αIB　α-isobutyric acid（＝AIB）　αイソ酪酸
+α-KG　α-ketoglutaric acid　アルファ-ケトグルタル酸，TCA回路成分\u000021e8ATP
+α-MSH　α-melanocyte stimulating homone　αメラニン細胞刺激ホルモン
+α-NAGA　α-N-acetylgalactosaminidase　α-N-アセチルガラクトサミニダーゼ
+α-O157 LPS　O157LPS-antibody of Escherichia coli　O157リポ多糖体-大腸菌抗体
+α-PI　α2-plasmin inhibitor　α2-プラスミンインヒビター
+αTTP　α-tocopherol transfer protein　α-トコフェロール転移蛋白質
+β2 GPI　β2 glycoproteinⅠ　β2 -グリコプロテインⅠ
+β2m　β2-ミクログロブリン測定
+β2-MG　β2-microglobulin　β2ミクログロブリン
+β-AIBA　β-amino-iso-butyric acid　β-アミノイソ酪酸
+β-Ala　β-alanine　β-アラニン
+β-APP　amyloid β-protein precursor　アミロイドβ蛋白質前駆体
+β-Gl　β-glucuronidase　βグルクロニダーゼ
+βHCG　human chorionic gonadotropin β subunit　ヒト絨毛性ゴナドトロピンβサブユニット
+β-HG　β-hydroxyglutamic acid　β水酸化グルタミン酸
+βHS　β hemolytic streptococcus　β溶血性連鎖状球菌
+β-L，β-LP（β-リポ）☆　β-lipoprotein　べータ-リポ蛋白
+β-MD　methyldigoxin　メチルジゴキシン
+β-TG　β-thromboglobulin　β-トロンボグロブリン
+β-VLDL　β-very low density lipoprotein　β-超低密度リポ蛋白
+γ　gamma　ガンマ(10-6g＝μg)
+γA　gamma A（＝IgA）　ガンマA
+γ-ABA　γ-minobutyric acid　γ-ミノ酪酸
+γ-A β-HBA　γ-amino β-hydroxy butyric acid　γ-アミノβ-ハイドロキシ酪酸
+γD　gamma D（＝IgD）　ガンマD
+γE　gamma E（＝IgE）　ガンマE
+γG　gamma G（＝IgG）　ガンマG
+γ-GT　γ-glutamyl transferase　γ-グルタミルトランスフェラーゼ
+γ-GTP・アイソ　γ-グルタミルトランスペプチターゼ・アイソザイム測定
+γ-GTP（ガンマGTP）☆　γ-glutamyl transpeptidase　γ-グルタミルトランスペプチダーゼ。蛋白質分解酵素の一つで，肝臓の解毒作用に関係する。アルコールや薬剤などで，肝細胞が壊れると血中に現れるので，肝機能の指標となる。その他，胆道系への分泌障害や膵臓の障害でも血中に流出する。
+γHCD　γ heavy chain disease　γ重鎖病
+γM　gamma M（＝IgM）　ガンマM
+γ-SG　γ-sarcoglycan　γサルコグリカン
+γ-Sm　γ-seminoprotein　γ-セミノプロテイン
+δ-ALA　δ-aminolevulinic acid　デルタ-アミノレブリン酸
+δ(Δ)：1　変動　変化分，割合(１)
+μ　micro-　マイクロ(＝10-6)。接頭辞
+μCi　microCurie　マイクロキュリー。mCiの1/1000。放射性物質の量を表示する単位
+μg　microgram　マイクログラム（＝0.001 mg＝10-6g)。
+μHCD　μ heavy chain disease　μ重鎖病
