@@ -64,7 +64,7 @@ def evaluate_BERT():
 
 def evaluate_SBERT():
     normal_set = list(load_normal_disease_set())
-    test_x, test_normal = load_test_data('datasets/test.txt')
+    test_x, test_normal = load_test_data('datasets/test_convert_alphabet.txt')
     model = SentenceTransformer(output_path)
     normal_list = np.array(model.encode(normal_set))
     target = np.array(model.encode(test_x))
@@ -78,7 +78,7 @@ def evaluate_SBERT():
     for origin, normal, test in zip(test_x, normal_set[word], test_normal):
         res.append("\t".join([origin, test, normal]))
 
-    with open('result/SBERT_aug_alphabet_result.txt', 'w') as f:
+    with open('result/SBERT_convert_alphabet_result.txt', 'w') as f:
         f.write('\n'.join(res))
 
 def evaluate_edit_distance():
