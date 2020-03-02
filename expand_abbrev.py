@@ -18,13 +18,16 @@ def convert_alphabet_to_ja(sent, dic):
             output_word += sent[pos]
             pos += 1
 
-        if len(word) == 1:
-            s_word = word
-        elif word in dic:
+        #if len(word) == 1:
+            #s_word = word
+        if word in dic:
             s_word = dic[word]
         elif word.lower() in dic:
             s_word = dic[word.lower()]
         else:
+            s_word = word
+
+        if s_word == '':
             s_word = word
 
         output_word += s_word

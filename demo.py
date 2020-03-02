@@ -21,9 +21,10 @@ def topk_word_edit_distance(target, words):
     topk = np.argsort(sim)[::-1]
     return words[topk[:10]], sim[topk[:10]]
 
-def topk_word_bert(target, words, vecs, med_dic):
+def topk_word_bert(target, words, vecs, med_dic, ca):
     print(target)
-    target = convert_alphabet_to_ja(target, med_dic)
+    if ca:
+        target = convert_alphabet_to_ja(target, med_dic)
     print(target)
     target = model.encode([target])[0][np.newaxis, :]
     word, sim = most_similar_words(target, vecs, metric='cosine', k=10)
@@ -35,10 +36,11 @@ def IR():
     if request.method == "POST":
         target = request.form["text"]
         target = target.strip()
+        ca = request.form.get("convert") == "True"
         if request.form.get("type") == "edit":
             l,s = topk_word_edit_distance(target, normal_vocab)
         else:
-            l,s = topk_word_bert(target, normal_vocab, normal_vecs, med_dic)
+            l,s = topk_word_bert(target, normal_vocab, normal_vecs, med_dic, ca)
     else:
         l = [] 
         s = []
@@ -52,6 +54,7 @@ if __name__ == "__main__":
     with open('/home/ujiie/disease_normalization/resource/med_dic.pkl', 'rb') as f:
         med_dic = pickle.load(f)
 
+    print(med_dic['K'])
     output_path = 'output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44'
     model = SentenceTransformer(output_path)
     normal_vocab = normal['vocab']
