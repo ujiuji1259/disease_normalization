@@ -66,7 +66,7 @@ def convert_alphabet_to_ja_allpath(sent, dic):
         if s_word == ['']:
             s_word = []
 
-        s_word = [word] + s_word
+        s_word = list(set([word] + s_word))
         tmp = [output_word for i in range(len(s_word))]
         for i in range(len(tmp)):
             tmp[i] = [t + s_word[i] for t in tmp[i]]
