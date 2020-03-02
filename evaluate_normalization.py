@@ -19,6 +19,7 @@ import numpy as np
 import csv
 import logging
 from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance
+from expand_abbrev import convert_alphabet_to_ja
 
 
 logging.basicConfig(format='%(asctime)s - %(message)s',
@@ -63,9 +64,15 @@ def evaluate_BERT():
 
 def evaluate_SBERT():
     normal_set = list(load_normal_disease_set())
-    test_x, test_normal = load_test_data('datasets/test.txt')
+    test_x, test_normal = load_test_data('datasets/test_convert_alphabet.txt')
     model = SentenceTransformer(output_path)
-    normal_list = np.array(model.encode(normal_set))
+
+    with open('resource/med_dic.pkl', 'rb') as f:
+        med_dic = pickle.load(f)
+
+    input_set = [convert_alphabet_to_ja(token, med_dic) for token in normal_set]
+    #normal_list = np.array(model.encode(normal_set))
+    normal_list = np.array(model.encode(input_set))
     target = np.array(model.encode(test_x))
 
     word = most_similar_words(target, normal_list, metric='cosine')
@@ -77,8 +84,11 @@ def evaluate_SBERT():
     for origin, normal, test in zip(test_x, normal_set[word], test_normal):
         res.append("\t".join([origin, test, normal]))
 
-    with open('result/SBERT_aug_alphabet_result.txt', 'w') as f:
+    with open('result/SBERT_convert_alphabet_result.txt', 'w') as f:
         f.write('\n'.join(res))
+
+    return normal_set, normal_list
+
 
 def evaluate_edit_distance():
     normal_set = list(load_normal_disease_set())
@@ -92,12 +102,7 @@ def evaluate_edit_distance():
     with open('result/edit_distance_result.txt', 'w') as f:
         f.write('\n'.join(res))
 
-evaluate_SBERT()
+normal_set, normal_list = evaluate_SBERT()
 
-#with open('normal_vocab.pkl', 'wb') as f:
-#    pickle.dump({'vocab':normal_set, 'vec':normal_list}, f)
-
-
-
-
-
+with open('normal_vocab_convert.pkl', 'wb') as f:
+    pickle.dump({'vocab':normal_set, 'vec':normal_list}, f)
