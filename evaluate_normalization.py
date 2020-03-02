@@ -19,6 +19,7 @@ import numpy as np
 import csv
 import logging
 from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance
+from expand_abbrev import convert_alphabet_to_ja
 
 
 logging.basicConfig(format='%(asctime)s - %(message)s',

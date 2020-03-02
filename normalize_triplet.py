@@ -32,7 +32,7 @@ logging.basicConfig(format='%(asctime)s - %(message)s',
 ### Create a torch.DataLoader that passes training batch instances to our model
 train_batch_size = 16
 triplet_reader = TripletReader('datasets', s1_col_idx=0, s2_col_idx=1, s3_col_idx=2, delimiter='\t', quoting=csv.QUOTE_NONE, has_header=False)
-output_path = "output/bert-base-alphabet-augment-mean-tokens-"+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+output_path = "output/bert-base-convert-alphabet-mean-tokens-"+datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 num_epochs = 1
 
 
@@ -50,12 +50,12 @@ model = SentenceTransformer(modules=[word_embedding_model, pooling_model])
 
 
 logging.info("Read Triplet train dataset")
-train_data = SentencesDataset(examples=triplet_reader.get_examples('train_augmented.txt'), model=model)
+train_data = SentencesDataset(examples=triplet_reader.get_examples('train_convert_alphabet.txt'), model=model)
 train_dataloader = DataLoader(train_data, shuffle=True, batch_size=train_batch_size)
 train_loss = losses.TripletLoss(model=model)
 
 logging.info("Read Wikipedia Triplet dev dataset")
-dev_data = SentencesDataset(examples=triplet_reader.get_examples('valid.txt', 1000), model=model)
+dev_data = SentencesDataset(examples=triplet_reader.get_examples('valid_convert_alphabet.txt', 1000), model=model)
 dev_dataloader = DataLoader(dev_data, shuffle=False, batch_size=train_batch_size)
 evaluator = TripletEvaluator(dev_dataloader)
 
@@ -78,7 +78,7 @@ model.fit(train_objectives=[(train_dataloader, train_loss)],
 ##############################################################################
 
 model = SentenceTransformer(output_path)
-test_data = SentencesDataset(examples=triplet_reader.get_examples('test.txt'), model=model)
+test_data = SentencesDataset(examples=triplet_reader.get_examples('test_convert_alphabet.txt'), model=model)
 test_dataloader = DataLoader(test_data, shuffle=False, batch_size=train_batch_size)
 evaluator = TripletEvaluator(test_dataloader)
 
