@@ -21,14 +21,17 @@ def topk_word_edit_distance(target, words):
     topk = np.argsort(sim)[::-1]
     return words[topk[:10]], sim[topk[:10]]
 
-def topk_word_bert(target, words, vecs, med_dic):
+def topk_word_bert(target, words, vecs, dic):
+    print(target)
     target = model.encode([target])[0][np.newaxis, :]
     word, sim = most_similar_words(target, vecs, metric='cosine', k=10)
     words = np.array(words)
     return words[word], sim
 
-def topk_word_bert_all(target, words, vecs, med_dic):
-    target = convert_alphabet_to_ja_allpath(target, med_dic)
+def topk_word_bert_all(target, words, vecs, dic):
+    print(target)
+    target = convert_alphabet_to_ja_allpath(target, dic)
+    print(target)
     target = model.encode(target)
     tmp = np.array([])
     tmp_sim = np.array([])
@@ -39,7 +42,8 @@ def topk_word_bert_all(target, words, vecs, med_dic):
     word_list = set()
     res_word = []
     res_sim = []
-    rank = np.argsort(tmp_sim)[::-1]
+    rank = np.argsort(tmp_sim)[::-1].astype(int)
+    tmp = tmp.astype(int)
 
     for r in rank:
         if words[tmp[r]] not in word_list:
@@ -57,21 +61,17 @@ def IR():
     if request.method == "POST":
         target = request.form["text"]
         target = target.strip()
-        print(target)
-        ca = request.form.get("convert") != "False"
-        if ca:
-            tmp_set = convert_normal_vocab
-            tmp_vecs = convert_normal_vecs
-            target = convert_alphabet_to_ja(target, med_dic)
-            print(target)
-        else:
-            tmp_set = normal_vocab
-            tmp_vecs = normal_vecs
+        ca = request.form.get("convert") == "all"
 
         if request.form.get("type") == "edit":
             l,s = topk_word_edit_distance(target, tmp_set)
         else:
-            l,s = topk_word_bert(target, tmp_set, tmp_vecs, med_dic)
+            if ca:
+                l,s = topk_word_bert_all(target, normal_vocab, normal_vecs, med_dic_all)
+            else:
+                print(target)
+                target = convert_alphabet_to_ja(target, med_dic)
+                l,s = topk_word_bert(target, convert_normal_vocab, convert_normal_vecs, med_dic)
     else:
         l = [] 
         s = []
@@ -88,6 +88,10 @@ if __name__ == "__main__":
     with open('/home/ujiie/disease_normalization/resource/med_dic.pkl', 'rb') as f:
         med_dic = pickle.load(f)
 
+    with open('/home/ujiie/disease_normalization/resource/med_dic_all.pkl', 'rb') as f:
+        med_dic_all = pickle.load(f)
+
+    print(med_dic_all['AML'])
     output_path = 'output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44'
     model = SentenceTransformer(output_path)
     normal_vocab = normal['vocab']

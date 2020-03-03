@@ -84,7 +84,6 @@ def convert_alphabet_to_ja_allpath(sent, dic):
 
 
 if __name__ == "__main__":
-    """
     with open('resource/freq.csv', 'r') as f:
         lines = [line for line in f.read().split('\n') if line != '']
 
@@ -102,6 +101,7 @@ if __name__ == "__main__":
 
     sent = "高Ｃａ血症 AML WAS"
 
+    """
     with open('datasets/test.txt', 'r') as f:
         sents = [sent.split('\t') for sent in f.read().split('\n') if line != '']
 
@@ -124,9 +124,7 @@ if __name__ == "__main__":
         f.write('\n'.join(output))
 
     """
-    #with open('resource/med_dic.pkl', 'wb') as f:
-        #pickle.dump(med_dic, f)
+    with open('resource/med_dic_all.pkl', 'wb') as f:
+        pickle.dump(med_dic, f)
 
-    med_dic = {"Ca":["カルシウム", "いえーい"],
-            "K":["うんこ"]}
     print(convert_alphabet_to_ja_allpath("高Ca血症K", med_dic))
