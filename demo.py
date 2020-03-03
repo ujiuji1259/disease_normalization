@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from evaluation_func import most_similar_words
-from expand_abbrev import convert_alphabet_to_ja
+from expand_abbrev import convert_alphabet_to_ja, convert_alphabet_to_ja_allpath
 
 app = Flask(__name__, template_folder='.')
 #app.config['DEBUG'] = True
@@ -26,6 +26,31 @@ def topk_word_bert(target, words, vecs, med_dic):
     word, sim = most_similar_words(target, vecs, metric='cosine', k=10)
     words = np.array(words)
     return words[word], sim
+
+def topk_word_bert_all(target, words, vecs, med_dic):
+    target = convert_alphabet_to_ja_allpath(target, med_dic)
+    target = model.encode(target)
+    tmp = np.array([])
+    tmp_sim = np.array([])
+    for t in target:
+        word, sim = most_similar_words([t], vecs, metric='cosine', k=10)
+        tmp = np.concatenate([tmp, word], 0)
+        tmp_sim = np.concatenate([tmp_sim, sim], 0)
+    word_list = set()
+    res_word = []
+    res_sim = []
+    rank = np.argsort(tmp_sim)[::-1]
+
+    for r in rank:
+        if words[tmp[r]] not in word_list:
+            res_word.append(words[tmp[r]])
+            res_sim.append(tmp_sim[r])
+            word_list.add(words[tmp[r]])
+
+        if len(res_word) > 10:
+            break
+
+    return res_word, res_sim
 
 @app.route('/', methods=['GET', 'POST'])
 def IR():
