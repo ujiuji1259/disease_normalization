@@ -71,6 +71,7 @@ def evaluate_SBERT():
         med_dic = pickle.load(f)
 
     input_set = [convert_alphabet_to_ja(token, med_dic) for token in normal_set]
+    print(input_set)
     #normal_list = np.array(model.encode(normal_set))
     normal_list = np.array(model.encode(input_set))
     target = np.array(model.encode(test_x))
