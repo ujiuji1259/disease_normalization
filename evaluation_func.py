@@ -48,6 +48,17 @@ def most_similar_words(targets, normal_list, metric='euclid', k=None):
         idx = np.argmin(sim, axis=1)
         return idx, sim[:, idx].reshape(-1)
 
+def find_similar_words(targets, normal_list, k=10):
+    norm_target = np.linalg.norm(targets, ord=2, axis=1)[:, np.newaxis]
+    norm_normal_list = np.linalg.norm(normal_list, ord=2, axis=1)[:, np.newaxis]
+    targets /= norm_target
+    normal_list /= norm_normal_list
+    sim = normal_list @ targets.T
+
+    idx = np.argsort(sim, axis=0)[::-1, :][:k, :]
+    sim = np.take_along_axis(sim, idx, axis=0)
+    return idx.T, sim.T
+
 
 
 def load_test_data(path):
