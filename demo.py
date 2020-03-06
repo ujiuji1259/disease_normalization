@@ -3,7 +3,7 @@ import Levenshtein
 import pickle
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from evaluation_func import most_similar_words
+from evaluation_func import most_similar_words, find_similar_words
 from expand_abbrev import convert_alphabet_to_ja, convert_alphabet_to_ja_allpath
 
 app = Flask(__name__, template_folder='.')
@@ -23,34 +23,30 @@ def topk_word_edit_distance(target, words):
 
 def topk_word_bert(target, words, vecs, dic):
     print(target)
-    target = model.encode([target])[0][np.newaxis, :]
-    word, sim = most_similar_words(target, vecs, metric='cosine', k=10)
+    target = model.encode([target])
+    idx, sim = most_similar_words(target, vecs, k=10)
     words = np.array(words)
-    return words[word], sim
+    idx = idx.reshape(-1)
+    sim = sim.reshape(-1)
+    return words[idx], sim
 
 def topk_word_bert_all(target, words, vecs, dic):
     print(target)
     target = convert_alphabet_to_ja_allpath(target, dic)
     print(target)
     target = model.encode(target)
-    tmp = np.array([])
-    tmp_sim = np.array([])
-    for t in target:
-        word, sim = most_similar_words([t], vecs, metric='cosine', k=10)
-        tmp = np.concatenate([tmp, word], 0)
-        tmp_sim = np.concatenate([tmp_sim, sim], 0)
-    word_list = set()
+    idx, sim = find_similar_words(target, vecs, k=10)
+    idx, sim = idx.reshape(-1), sim.reshape(-1)
+
+    rank = np.argsort(sim)[::-1]
+    words = np.array(words)
+
     res_word = []
     res_sim = []
-    rank = np.argsort(tmp_sim)[::-1].astype(int)
-    tmp = tmp.astype(int)
-
-    for r in rank:
-        if words[tmp[r]] not in word_list:
-            res_word.append(words[tmp[r]])
-            res_sim.append(tmp_sim[r])
-            word_list.add(words[tmp[r]])
-
+    for w, s in zip(words[idx[rank]], sim[rank]):
+        if w not in res_word:
+            res_word.append(w)
+            res_sim.append(s)
         if len(res_word) > 10:
             break
 

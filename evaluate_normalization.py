@@ -19,7 +19,7 @@ from tqdm import tqdm
 import numpy as np
 import csv
 import logging
-from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance
+from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance, find_similar_words
 from expand_abbrev import convert_alphabet_to_ja, convert_alphabet_to_ja_allpath
 
 
@@ -130,26 +130,25 @@ def evaluate_SBERT_convert_allpath():
         med_dic = pickle.load(f)
 
     input_set = [convert_alphabet_to_ja_allpath(token, med_dic) for token in test_x]
+    input_set_length = [len(sent) for sent in input_set]
+    input_set = sum(input_set, [])
+
+    targets = model.encode(input_set)
     normal_list = model.encode(normal_set)
-    word = []
-    for t in tqdm(input_set):
-        tmp = np.array([])
-        tmp_sim = np.array([])
-        target = np.array(model.encode(t))
-        for token in target:
-            w, sim = most_similar_words([token], normal_list, metric='cosine', k=10)
-            tmp = np.concatenate([tmp, w], 0)
-            tmp_sim = np.concatenate([tmp_sim, sim], 0)
 
-        max_idx = np.argmax(tmp_sim)
-        word.append(int(tmp[max_idx]))
+    idx, sim = find_similar_words(targets, normal_list, k=1)
+    res_words = []
 
-    normal_set = np.array(normal_set)
+    cnt = 0
+    for l in input_set_length:
+        tmp_idx = idx[cnt:cnt+l, :].reshape(-1)
+        tmp_sim = sim[cnt:cnt+l, :].reshape(-1)
+        rank = np.argsort(tmp_sim)[::-1][0]
+        res_words.append(normal_set[tmp_idx[rank]])
+        cnt += l
 
-    print(normal_set[:10])
-    print(word)
     res = ["出現形\t正解\t予測"]
-    for origin, normal, test in zip(test_x, normal_set[word], test_normal):
+    for origin, normal, test in zip(test_x, res_words, test_normal):
         res.append("\t".join([origin, test, normal]))
 
     with open('result/SBERT_convert_alphabet_allpath_result.txt', 'w') as f:
