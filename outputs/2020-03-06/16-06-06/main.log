@@ -1,0 +1,57 @@
+[2020-03-06 16:06:06,926][transformers.configuration_utils][INFO] - loading configuration file https://s3.amazonaws.com/models.huggingface.co/bert/cl-tohoku/bert-base-japanese-char-config.json from cache at /home/ujiie/.cache/torch/transformers/0376d65484777a88b0dd07c4b12288f11df4e8ca1bb10f7e3e6c0c5c75d44e89.08961dd4c1825f77ddd1372c7932661e38cb2649243219e1281b756707eb4641
+[2020-03-06 16:06:06,927][transformers.configuration_utils][INFO] - Model config BertConfig {
+  "architectures": [
+    "BertForMaskedLM"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "do_sample": false,
+  "eos_token_ids": 0,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "LABEL_0",
+    "1": "LABEL_1"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1
+  },
+  "layer_norm_eps": 1e-12,
+  "length_penalty": 1.0,
+  "max_length": 20,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_beams": 1,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "num_return_sequences": 1,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "repetition_penalty": 1.0,
+  "temperature": 1.0,
+  "top_k": 50,
+  "top_p": 1.0,
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 4000
+}
+
+[2020-03-06 16:06:07,716][transformers.modeling_utils][INFO] - loading weights file https://s3.amazonaws.com/models.huggingface.co/bert/cl-tohoku/bert-base-japanese-char-pytorch_model.bin from cache at /home/ujiie/.cache/torch/transformers/70cb6ec10ee59a2c04469fb90049d7f4a9adaaab597f8af0669a89ead8b30022.7f66525a2c0f91d6c04f4cf522dfeacb9904710c74dbd7a28a403aad812a5c82
+[2020-03-06 16:06:09,893][transformers.tokenization_utils][INFO] - loading file https://s3.amazonaws.com/models.huggingface.co/bert/cl-tohoku/bert-base-japanese-char-vocab.txt from cache at /home/ujiie/.cache/torch/transformers/a1a5574ac0d854e459c79110abbe1ca4a900fb5421ab867e2cc04d158f324cfb.b4eb206328b3e32243c87443c4f4ce514b090af2cf984cb8110b22cbd2cab419
+[2020-03-06 16:06:09,962][root][INFO] - Use pytorch device: cuda
+[2020-03-06 16:06:14,013][root][INFO] - Read Triplet train dataset
+[2020-03-06 16:06:18,274][root][INFO] - Num sentences: 24332
+[2020-03-06 16:06:18,274][root][INFO] - Sentences 0 longer than max_seqence_length: 0
+[2020-03-06 16:06:18,274][root][INFO] - Sentences 1 longer than max_seqence_length: 0
+[2020-03-06 16:06:18,274][root][INFO] - Sentences 2 longer than max_seqence_length: 0

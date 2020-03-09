@@ -1,0 +1,63 @@
+[2020-03-06 17:31:29,195][root][INFO] - Load pretrained SentenceTransformer: /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44
+[2020-03-06 17:31:29,195][root][INFO] - Load SentenceTransformer from folder: /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44
+[2020-03-06 17:31:29,195][transformers.configuration_utils][INFO] - loading configuration file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/config.json
+[2020-03-06 17:31:29,196][transformers.configuration_utils][INFO] - Model config BertConfig {
+  "architectures": [
+    "BertModel"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 0,
+  "do_sample": false,
+  "eos_token_ids": 0,
+  "finetuning_task": null,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "id2label": {
+    "0": "LABEL_0",
+    "1": "LABEL_1"
+  },
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "is_decoder": false,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1
+  },
+  "layer_norm_eps": 1e-12,
+  "length_penalty": 1.0,
+  "max_length": 20,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 12,
+  "num_beams": 1,
+  "num_hidden_layers": 12,
+  "num_labels": 2,
+  "num_return_sequences": 1,
+  "output_attentions": false,
+  "output_hidden_states": false,
+  "output_past": true,
+  "pad_token_id": 0,
+  "pruned_heads": {},
+  "repetition_penalty": 1.0,
+  "temperature": 1.0,
+  "top_k": 50,
+  "top_p": 1.0,
+  "torchscript": false,
+  "type_vocab_size": 2,
+  "use_bfloat16": false,
+  "vocab_size": 4000
+}
+
+[2020-03-06 17:31:29,197][transformers.modeling_utils][INFO] - loading weights file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/pytorch_model.bin
+[2020-03-06 17:31:30,473][transformers.tokenization_utils][INFO] - Model name '/home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT' not found in model shortcut name list (bert-base-japanese, bert-base-japanese-whole-word-masking, bert-base-japanese-char, bert-base-japanese-char-whole-word-masking). Assuming '/home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT' is a path, a model identifier, or url to a directory containing tokenizer files.
+[2020-03-06 17:31:30,473][transformers.tokenization_utils][INFO] - Didn't find file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/added_tokens.json. We won't load it.
+[2020-03-06 17:31:30,473][transformers.tokenization_utils][INFO] - loading file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/vocab.txt
+[2020-03-06 17:31:30,474][transformers.tokenization_utils][INFO] - loading file None
+[2020-03-06 17:31:30,474][transformers.tokenization_utils][INFO] - loading file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/special_tokens_map.json
+[2020-03-06 17:31:30,474][transformers.tokenization_utils][INFO] - loading file /home/ujiie/disease_normalization/output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44/0_BERT/tokenizer_config.json
+[2020-03-06 17:31:30,520][root][INFO] - Use pytorch device: cuda
+[2020-03-06 17:31:35,533][root][INFO] - Num sentences: 10
+[2020-03-06 17:31:35,533][root][INFO] - Sentences 0 longer than max_seqence_length: 0
+[2020-03-06 17:31:35,534][root][INFO] - Sentences 1 longer than max_seqence_length: 0
+[2020-03-06 17:31:35,534][root][INFO] - Sentences 2 longer than max_seqence_length: 0

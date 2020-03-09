@@ -1,0 +1,16 @@
+data:
+    dir: datasets
+    normal_set_path: datasets/normal_set.txt
+    med_dic_path: resource/med_dic_all.pkl
+    convert_type: all
+model:
+    batch_size: 16
+    output_path: output/normalization.model
+    input_path: output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44
+    dev_path: output/dev.model
+    type: test
+    epoch: 1
+    dev_size: 0.1
+
+eval:
+    output_dir: result

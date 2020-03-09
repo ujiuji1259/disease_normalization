@@ -19,7 +19,7 @@ from tqdm import tqdm
 import numpy as np
 import csv
 import logging
-from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance, find_similar_words
+from evaluation_func import load_normal_disease_set, load_test_data, most_similar_words_edit_distance, find_similar_words
 from expand_abbrev import convert_alphabet_to_ja, convert_alphabet_to_ja_allpath
 
 

@@ -4,8 +4,8 @@ import sys
 import numpy as np
 from pathlib import Path
 sys.path.append(str(Path('__file__').resolve().parent))
-from evaluation_func import most_similar_words, load_normal_disease_set, load_test_data, most_similar_words_edit_distance, find_similar_words
-from expand_abbrev import convert_alphabet_to_ja, convert_alphabet_to_ja_allpath
+from evaluation_func import find_similar_words, load_normal_disease_set
+from expand_abbrev import Converter
 from sentence_transformers import SentenceTransformer, SentencesDataset, LoggingHandler, losses, models
 import logging
 
@@ -25,26 +25,51 @@ with open(os.path.join(cwd, 'resource/MANBYO_v8_SABCDEF_v15.csv'), 'r') as f:
 with open('resource/med_dic_all.pkl', 'rb') as f:
     med_dic = pickle.load(f)
 
-normal_set = list(load_normal_disease_set())
+converter = Converter(med_dic, convert_type='all')
+normal_set = list(load_normal_disease_set('datasets/normal_set.txt'))
 model = SentenceTransformer(output_path)
-input_set = [convert_alphabet_to_ja_allpath(token, med_dic) for token in coms]
+input_set = [converter.convert(token) for token in coms]
 
 input_set_length = [len(sent) for sent in input_set]
 input_set = sum(input_set, [])
-
-targets = model.encode(input_set)
 normal_list = model.encode(normal_set)
 
-idx, sim = find_similar_words(targets, normal_list, k=1)
+targets = model.encode(input_set)
+
+"""
+with open('resource/normal_vecs.pkl', 'wb') as f:
+    pickle.dump(normal_list, f)
+with open('resource/target_list.pkl', 'wb') as f:
+    pickle.dump(targets, f)
+with open('resource/input_set_length.pkl', 'rb') as f:
+    input_set_length = pickle.load(f)
+
+#with open('resource/normal_vecs.pkl', 'rb') as f:
+    #normal_list = pickle.load(f)
+
+with open('resource/target_list.pkl', 'rb') as f:
+    targets_list = pickle.load(f)
+
+"""
+
+batch_size = 100
+all_cnt = 0
 res_words = []
 
-cnt = 0
-for l in input_set_length:
-    tmp_idx = idx[cnt:cnt+l, :].reshape(-1)
-    tmp_sim = sim[cnt:cnt+l, :].reshape(-1)
-    rank = np.argsort(tmp_sim)[::-1][0]
-    res_words.append(normal_set[tmp_idx[rank]])
-    cnt += l
+for length in range(0, len(input_set_length), batch_size):
+    tmp_l = input_set_length[length:min(length+batch_size, len(input_set_length))]
+    tmp_targets = targets[all_cnt:all_cnt+sum(tmp_l)]
+    all_cnt += sum(tmp_l)
+    
+    idx, sim = find_similar_words(tmp_targets, normal_list, k=1)
+
+    cnt = 0
+    for l in tmp_l:
+        tmp_idx = idx[cnt:cnt+l, :].reshape(-1)
+        tmp_sim = sim[cnt:cnt+l, :].reshape(-1)
+        rank = np.argsort(tmp_sim)[::-1][0]
+        res_words.append(normal_set[tmp_idx[rank]])
+        cnt += l
 
 output = [','.join(lines[0] + ['標準病名（SBERT）'])]
 for l, c in zip(lines[1:], res_words):

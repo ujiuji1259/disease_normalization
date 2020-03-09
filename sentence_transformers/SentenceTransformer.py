@@ -235,8 +235,6 @@ class SentenceTransformer(nn.Sequential):
 
         return {'features': features, 'labels': torch.stack(labels)}
 
-
-
     def fit(self,
             train_objectives: Iterable[Tuple[DataLoader, nn.Module]],
             evaluator: SentenceEvaluator,

@@ -1,0 +1,13 @@
+data:
+  dir: datasets
+  normal_set_path: datasets/normal_set.txt
+eval:
+  output_dir: results
+model:
+  batch_size: 16
+  dev_path: output/dev.model
+  dev_size: 0.1
+  epoch: 1
+  input_path: output/bert-base-wikipedia-sections-mean-tokens-2020-02-20_14-38-44
+  output_path: output/normalization.model
+  type: test
